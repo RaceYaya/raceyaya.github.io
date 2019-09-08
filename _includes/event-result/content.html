@@ -1,0 +1,41 @@
+<div class="container">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Ranking</th>
+                <th scope="col">Bib #</th>
+                <th scope="col">Name</th>
+                <th scope="col">Gender</th>
+                <th scope="col">Category</th>
+                <th scope="col">Nationality</th>
+                <th scope="col">City</th>
+                <th scope="col">Race Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Sorting by category -->
+            {% assign sorted-events = site.events | sort: 'ranking' | where: 'categories', page.collectionTag %}
+            {% for result in sorted-events %}
+            <tr>
+                <th scope="row">{{ result.ranking }}</th>
+                <td>{{ result.bib_number }}</td>
+                <td>
+                   {{ result.first_name }} {{ result.family_name }}
+                </td>
+                <td>{{ result.gender | slice: 0,1}}</td>
+                <td>
+                    {% if result.gender == 'Male' %}
+                    Men
+                    {% else %}
+                    Women
+                    {% endif %}
+                </td>
+                <td>{{ result.nationality }}</td>
+                <td>{{ result.city }}</td>
+                <td>{{ result.race-time }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</div>

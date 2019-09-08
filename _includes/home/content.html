@@ -1,0 +1,21 @@
+<div class="container">
+
+    <div class="grid">
+        <div class="row">
+            {% for event-list in site.data.eventCategories %}
+            <div class="grid-item col-4" >
+                <a href="/events/{{ event-list.link }}" class="grid-link">
+                    <div class="grid-content-bg" style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
+                        <div class="grid-caption">
+                            <span class="grid-title">{{ event-list.title }}</span>
+                            <span class="grid-location">{{ event-list.location }}</span>
+                            <!-- <span class="grid-date">{{ event-list.category-date }}</span> -->
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>

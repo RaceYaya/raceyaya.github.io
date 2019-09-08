@@ -1,0 +1,26 @@
+
+
+.grid{
+    height: 100vh;
+    .grid-item{
+        padding: 2px;
+        position: relative;
+
+        .grid-link{
+            position: relative;
+            text-decoration: none;
+            border: 0;
+            outline: none;
+            display: block;
+
+            .grid-content-bg{
+                height: 400px;
+            }
+        }
+        
+    }
+        
+}
+      
+
+    
