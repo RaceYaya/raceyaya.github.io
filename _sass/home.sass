@@ -1,0 +1,58 @@
+.filter-container
+  #search-name1
+    color: #ffffff
+    width: 25%
+    display: inline-block
+    border-radius: 0
+    height: 83px
+    border: none
+    padding: 0 15px
+    background-color: #000000
+    outline: none
+    box-shadow: none
+    -webkit-appearance: none
+
+
+.event-container
+  .grid
+    position: relative
+    height: 100vh
+
+    .event-item
+      padding: 5px
+    
+      .event-item-link
+        position: relative
+        text-decoration: none
+        width: 100%
+        display: block
+        height: 360px
+
+        &.event-height1
+          height: 360px
+
+        &.event-height2
+          height: 600px
+
+        &.event-height3
+          height: 340px
+
+      
+  #no-result
+      display: none
+
+      #result-text
+        text-align: center
+        marign: 0
+
+      &.active
+        display: block
+        opacity: 1
+        position: absolute
+        left: 0
+        right: 0
+        top: 50%
+        transform: translateY(-50%)
+
+
+        

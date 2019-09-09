@@ -4,8 +4,9 @@
   location: Bohol, Philippines
   date: 2016-03-23
   country: Philippines
-  banner-big: https://picsum.photos/200/300
+  banner-big: /images/photo1.jpg
   banner-small: https://picsum.photos/200/300
+  fitRow: 1
 
 - id: 2
   link: cebu-race-club
@@ -13,8 +14,9 @@
   location: Cebu, Philippines
   date: 2019-03-02
   country: Japan
-  banner-big: https://picsum.photos/200/300
+  banner-big: /images/photo2.jpg
   banner-small: https://picsum.photos/200/300
+  fitRow: 2
 
 - id: 3
   link: rizal-race-club
@@ -22,5 +24,80 @@
   location: Rizal, Philippines
   date: 2018-03-23
   country: Philippines
-  banner-big: https://picsum.photos/200/300
+  banner-big: /images/photo3.jpg
   banner-small: https://picsum.photos/200/300
+  fitRow: 3
+
+
+- id: 4
+  link: bohol-race-club
+  title: 'Bohol Race'
+  location: Bohol, Philippines
+  date: 2016-03-23
+  country: Philippines
+  banner-big: /images/photo4.jpg
+  banner-small: https://picsum.photos/200/300
+  fitRow: 1
+
+- id: 5
+  link: cebu-race-club
+  name: 'Cebu Race'
+  location: Cebu, Philippines
+  date: 2019-03-02
+  country: Japan
+  banner-big: /images/photo5.jpg
+  banner-small: https://picsum.photos/200/300
+  fitRow: 2
+
+- id: 6
+  link: rizal-race-club
+  name: 'Rizal Race'
+  location: Rizal, Philippines
+  date: 2018-03-23
+  country: Philippines
+  banner-big: /images/photo3.jpg
+  banner-small: https://picsum.photos/200/300
+  fitRow: 3
+
+- id: 7
+  link: bohol-race-club
+  title: 'Bohol Race'
+  location: Bohol, Philippines
+  date: 2016-03-23
+  country: Philippines
+  banner-big: /images/photo4.jpg
+  banner-small: https://picsum.photos/200/300
+  fitRow: 1
+
+- id: 8
+  link: cebu-race-club
+  name: 'Cebu Race'
+  location: Cebu, Philippines
+  date: 2019-03-02
+  country: Japan
+  banner-big: /images/photo1.jpg
+  banner-small: https://picsum.photos/200/300
+  fitRow: 2
+
+- id: 9
+  link: rizal-race-club
+  name: 'Rizal Race'
+  location: Rizal, Philippines
+  date: 2018-03-23
+  country: Philippines
+  banner-big: /images/photo5.jpg
+  banner-small: https://picsum.photos/200/300
+  fitRow: 3
+
+- id: 10
+  link: rizal-race-club
+  name: 'Rizal Race'
+  location: Rizal, Philippines
+  date: 2018-03-23
+  country: Philippines
+  banner-big: /images/photo2.jpg
+  banner-small: https://picsum.photos/200/300
+  fitRow: 1
+
+
+
