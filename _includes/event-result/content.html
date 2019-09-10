@@ -1,7 +1,11 @@
 <div class="container">
-        <div class="table-filters"> place
-            <input type="text" id="filter-name" data-filter-col="0,1,2,3,4,5">
-        
+        <div class="table-filters">
+            <input placeholder="Search Bib, Name, City" type="text" id="filter-name" data-filter-col="0,1,5">
+            <select id="filter-gender" data-filter-col="2">
+                <option value="">Gender</option>
+                <option value="m">Male</option>
+                <option value="f">Female</option>
+            </select>
         </div>
 
     <table class="table table-bordered event-result-table">
