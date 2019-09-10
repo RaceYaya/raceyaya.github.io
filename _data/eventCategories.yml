@@ -1,103 +1,149 @@
 - id: 1
-  link: bohol-race-club
-  title: 'Bohol Race'
-  location: Bohol, Philippines
-  date: 2016-03-23
+  title: Ultra Trail Chiang Mai 
+  category: Ultramarathon
+  category-filter: ultramarathon
+  city: Cebu
   country: Philippines
+  month: February
+  year: 2019
   banner-big: /images/photo1.jpg
-  banner-small: https://picsum.photos/200/300
+  banner-small:
+  link: /cebu-race/
   fitRow: 1
 
+
 - id: 2
-  link: cebu-race-club
-  name: 'Cebu Race'
-  location: Cebu, Philippines
-  date: 2019-03-02
-  country: Japan
+  title: Mantra Summits Challenge
+  category: Ultramarathon
+  category-filter: ltramarathon
+  city: Rizal
+  country: Philippines
+  month: February
+  year: 2018
   banner-big: /images/photo2.jpg
-  banner-small: https://picsum.photos/200/300
+  banner-small:
+  link: /cebu-race/
   fitRow: 2
 
 - id: 3
-  link: rizal-race-club
-  name: 'Rizal Race'
-  location: Rizal, Philippines
-  date: 2018-03-23
+  title: Fraser Ultra
+  category: Triathlon
+  category-filter: triathlon
+  city: Cebu
   country: Philippines
+  month: January
+  year: 2019
   banner-big: /images/photo3.jpg
-  banner-small: https://picsum.photos/200/300
+  banner-small:
+  link: /bohol-race/
   fitRow: 3
 
-
 - id: 4
-  link: bohol-race-club
-  title: 'Bohol Race'
-  location: Bohol, Philippines
-  date: 2016-03-23
+  title: Pamutan Trailfest
+  category: Ultramarathon
+  category-filter: ultramarathon
+  city: Rizal
   country: Philippines
+  month: February
+  year: 2019
   banner-big: /images/photo4.jpg
-  banner-small: https://picsum.photos/200/300
+  banner-small:
+  link: /bohol-race/
   fitRow: 1
 
+
 - id: 5
-  link: cebu-race-club
-  name: 'Cebu Race'
-  location: Cebu, Philippines
-  date: 2019-03-02
-  country: Japan
+  title: Tawid Mountain Marathon
+  category: Ultramarathon
+  category-filter: ultramarathon
+  city: Benguet
+  country: Philippines
+  month: January
+  year: 2018
   banner-big: /images/photo5.jpg
-  banner-small: https://picsum.photos/200/300
+  banner-small:
+  link: /rizal-race/
   fitRow: 2
 
+
 - id: 6
-  link: rizal-race-club
-  name: 'Rizal Race'
-  location: Rizal, Philippines
-  date: 2018-03-23
-  country: Philippines
-  banner-big: /images/photo3.jpg
-  banner-small: https://picsum.photos/200/300
+  title: Minimal Maewa Trail
+  category: OCR
+  category-filter: ocr
+  city: Zunyi
+  country: China
+  month: March
+  year: 2019
+  banner-big: /images/photo2.jpg
+  banner-small:
+  link: /rizal-race/
   fitRow: 3
 
 - id: 7
-  link: bohol-race-club
-  title: 'Bohol Race'
-  location: Bohol, Philippines
-  date: 2016-03-23
-  country: Philippines
+  title: Coast to Coast Ultra
+  category: Road Run
+  category-filter: roadrun
+  city: Abuja
+  country: Nigeria
+  month: March
+  year: 2019
   banner-big: /images/photo4.jpg
-  banner-small: https://picsum.photos/200/300
+  banner-small:
+  link: /bohol-race/
   fitRow: 1
 
 - id: 8
-  link: cebu-race-club
-  name: 'Cebu Race'
-  location: Cebu, Philippines
-  date: 2019-03-02
-  country: Japan
-  banner-big: /images/photo1.jpg
-  banner-small: https://picsum.photos/200/300
+  title: Tailwind Penang Eco
+  category: CrossFit
+  category-filter: crossfit
+  city: Kolkata
+  country: India
+  month: March
+  year: 2018
+  banner-big: /images/photo5.jpg
+  banner-small:
+  link: /cebu-race/
   fitRow: 2
 
 - id: 9
-  link: rizal-race-club
-  name: 'Rizal Race'
-  location: Rizal, Philippines
-  date: 2018-03-23
-  country: Philippines
-  banner-big: /images/photo5.jpg
-  banner-small: https://picsum.photos/200/300
+  title: Hangaway
+  category: Duathlon
+  category-filter: duathlon
+  city: Fortaleza
+  country: Brazil
+  month: December
+  year: 2019
+  banner-big: /images/photo1.jpg
+  banner-small:
+  link: /cebu-race/
   fitRow: 3
 
+
 - id: 10
-  link: rizal-race-club
-  name: 'Rizal Race'
-  location: Rizal, Philippines
-  date: 2018-03-23
-  country: Philippines
-  banner-big: /images/photo2.jpg
-  banner-small: https://picsum.photos/200/300
+  title: Salomon XTrail
+  category: Duathlon
+  category-filter: duathlon
+  city: Kuala Lumpur
+  country: Malaysia
+  month: December
+  year: 2018
+  banner-big: /images/photo3.jpg
+  banner-small:
+  link: /rizal-race/
   fitRow: 1
 
+
+- id: 11
+  title: Rizal Mountain Run
+  category: Others
+  category-filter: others
+  city: Rome
+  country: Italy
+  month: September
+  year: 2018
+  banner-big: /images/photo2.jpg
+  banner-small:
+  link: /cebu-race/
+  fitRow: 2
 
 

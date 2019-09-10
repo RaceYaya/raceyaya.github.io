@@ -1,35 +1,51 @@
 - id: 1
-  name: Weddings SDE
-  filter: "sde"
-  hasSub: true
-  sub-category:
-    - name: "Renewal of Vows"
-      filter: "renewalofvows"
+  title: Select Category
+  filter-list:
+    - name: Ultramarathon 
+      filter: ultramarathon 
 
-    - name: The Sequel
-      filter: "sequel"
+    - name: Trail run
+      filter: trailrun
+
+    - name: Road run 
+      filter: roadrun
+
+    - name: Triathlon 
+      filter: triathlon 
+
+    - name: OCR 
+      filter: ocr
+
+    - name: Duathlon 
+      filter: duathlon
+
+    - name: Crossfit 
+      filter: crossfit
+
+    - name: Others 
+      filter: others 
 
 - id: 2
-  name: Celebrity
-  filter: "celebrity"
+  title: Select Month
+  filter-list:
+    - filter: January
+    - filter: February
+    - filter: March
+    - filter: April
+    - filter: May
+    - filter: June
+    - filter: July
+    - filter: August
+    - filter: September
+    - filter: October
+    - filter: November
+    - filter: December
 
 - id: 3
-  name: AVP
-  hasSub: true
-  sub-category:
-    - name: "The Pre-Wedding"
-      filter: "pre-wedding"
-    - name: "The Love Story"
-      filter: "love-story"
-    - name: "18th Birthday"
-      filter: "birthday"
-    - name: "Special Projects"
-      filter: "other"
-
-- id: 4
-  name: The International
-  filter: "international"
-
-- id: 5
-  name: The Corporate
-  filter: "corporate"
+  name: Select Year
+  filter-list:
+    - filter: 2019
+    - filter: 2018
+    - filter: 2017
+    
+  

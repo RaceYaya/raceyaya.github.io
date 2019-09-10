@@ -1,6 +1,7 @@
 $(document).ready(function(){
-    var nameRegex;
-    var buttonFilter1 = "*";
+    var qsRegex;
+    var selectedFilters;
+    var filtersCollection = {};
     var $container = $('.grid');
     $container.imagesLoaded( function(){
         $container.isotope({
@@ -10,20 +11,16 @@ $(document).ready(function(){
             masonry: {
                 columnWidth: '.event-item'
             },
-            getSortData: {
-                
-                weight: function( itemElem ) {
-                    var weight = $( itemElem ).find('.celebrity').text();
-                    return parseFloat( weight.replace( /[\(\)]/g, '') );
-                }
-            },
-            filter: function () {
+            
+            filter: function() {
                 var $this = $(this);
-                var searchResult1 = nameRegex ? $this.text().match(nameRegex) : true;
-                return searchResult1;
-            },
+                var searchResult = qsRegex ? $(this).text().match( qsRegex ) : true;
+                var selectResult = selectedFilters ? $this.is(selectedFilters) : true;
+                return searchResult  && selectResult;
+            }
         });
     });
+
     $container.on( 'arrangeComplete', function( event, filteredItems ) {
         if(filteredItems.length == 0 ){
             $("#no-result").addClass("active");
@@ -32,26 +29,46 @@ $(document).ready(function(){
             $("#no-result").removeClass("active");
         }
     });
-    var $quicksearch1 = $('#search-name1').keyup(debounce(function () {
-        nameRegex = new RegExp($quicksearch1.val(), 'gi');
-        $container.isotope();
-    }));
 
-    function debounce(fn, threshold) {
-        var timeout;
-        return function debounced() {
-            if (timeout) {
-                clearTimeout(timeout);
-            }
-            function delayed() {
-                fn();
-                timeout = null;
-            }
-            setTimeout(delayed, threshold || 100);
-        };
+    $('.filters').on( 'change', function( event ) {
+        var $select = $( event.target );
+        // get group key
+        var filterGroup = $select.attr('value-group');
+        // set filter for group
+        filtersCollection[ filterGroup ] = event.target.value;
+        // combine filters
+        selectedFilters = concatValues( filtersCollection );
+        $container.isotope();
+    });
+
+   
+
+    var $quicksearch = $('#search-name').keyup( debounce( function() {
+        qsRegex = new RegExp( $quicksearch.val(), 'gi' );
+        $container.isotope();
+    }, 200 ) );
+      
+    function concatValues( obj ) {
+        var value = '';
+        for ( var prop in obj ) {
+            value += obj[ prop ];
+        }
+        return value;
     }
-    function escapeRegExp(str) {
-        return str.replace(/[\-\[\]\/\{\}\(\)\.fea\+\?\.\\\^\$\|]/g, "\\$&");
+
+        // debounce so filtering doesn't happen every millisecond
+    function debounce( fn, threshold ) {
+        var timeout;
+        threshold = threshold || 100;
+        return function debounced() {
+        clearTimeout( timeout );
+        var args = arguments;
+        var _this = this;
+        function delayed() {
+            fn.apply( _this, args );
+        }
+        timeout = setTimeout( delayed, threshold );
+        };
     }
     $container.show();
 });
