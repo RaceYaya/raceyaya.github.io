@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '2:35:30'
 ranking: 8
-time: 2:35:30
+time: 2-35-30
 family_name: Francisco
 first_name: Carla
 gender: Female

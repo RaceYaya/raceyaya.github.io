@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '2:35:55'
 ranking: 10
-time: 2:35:55
+time: 2-35-55
 family_name: Tabuga
 first_name: Nelson
 gender: Male

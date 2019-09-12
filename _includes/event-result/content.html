@@ -41,7 +41,10 @@
                 </td>
                 <td>{{ result.nationality }}</td>
                 <td>{{ result.city }}</td>
-                <td>{{ result.race-time }}</td>
+                <td>{{ result.time | replace: '-', ':' }}</td>
+                <td>{{ result.birthdate }}</td>
+                
+                <!-- <td>{{ result.time | divided_by: 3600  | slice: 0,2}}: {{ result.time | divided_by: 3600  | slice: 0,1}} </td> -->
             </tr>
             {% endfor %}
         </tbody>

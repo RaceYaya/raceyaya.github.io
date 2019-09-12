@@ -1,7 +1,6 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: ''
 ranking: 15
 time: 
 family_name: Anlap

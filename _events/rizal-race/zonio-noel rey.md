@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '1:07:30'
 ranking: 1
-time: 1:07:30
+time: 1-07-30
 family_name: Zonio
 first_name: Noel Rey
 gender: Male

@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '2:23:33'
 ranking: 6
-time: 2:23:33
+time: 2-23-33
 family_name: Perolino
 first_name: Maricris
 gender: Female

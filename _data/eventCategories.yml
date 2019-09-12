@@ -10,12 +10,15 @@
   banner-small:
   link: /cebu-race/
   fitRow: 1
+  gender-list:
+    - gender: male
+    - gender: female
 
 
 - id: 2
   title: Mantra Summits Challenge
   category: Ultramarathon
-  category-filter: ltramarathon
+  category-filter: ultramarathon
   city: Rizal
   country: Philippines
   month: February
@@ -24,6 +27,9 @@
   banner-small:
   link: /cebu-race/
   fitRow: 2
+  gender-list:
+    - gender: male
+    - gender: female
 
 - id: 3
   title: Fraser Ultra
@@ -37,6 +43,9 @@
   banner-small:
   link: /bohol-race/
   fitRow: 3
+  gender-list:
+    - gender: male
+    - gender: female
 
 - id: 4
   title: Pamutan Trailfest

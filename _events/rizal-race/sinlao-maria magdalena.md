@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '2:35:42'
 ranking: 9
-time: 2:35:42
+time: 2-35-42
 family_name: Sinlao
 first_name: Maria Magdalena
 gender: Female

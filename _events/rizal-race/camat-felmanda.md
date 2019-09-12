@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '2:09:27'
 ranking: 5
-time: 2:09:27
+time: 2-09-27
 family_name: Camat
 first_name: Felmanda
 gender: Female

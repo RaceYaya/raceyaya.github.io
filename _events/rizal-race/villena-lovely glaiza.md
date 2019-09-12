@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '2:34:21'
 ranking: 7
-time: 2:34:21
+time: 2-34-21
 family_name: Villena
 first_name: Lovely Glaiza
 gender: Female

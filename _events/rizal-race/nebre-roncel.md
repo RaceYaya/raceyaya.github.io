@@ -1,7 +1,6 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: ''
 ranking: 14
 time: 
 family_name: Nebre

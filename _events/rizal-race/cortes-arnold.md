@@ -1,9 +1,8 @@
 ---
 layout: event-result 
 categories: rizal-race 
-race-time: '2:04:24'
 ranking: 3
-time: 2:04:24
+time: 2-04-24
 family_name: Cortes
 first_name: Arnold
 gender: Male
