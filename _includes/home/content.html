@@ -39,20 +39,23 @@
             {% assign sorted-event = site.data.eventCategories | sort: 'id' %}
             {% for event-list in sorted-event | reverse %}
             <div data-id="{{ event-list.id }}" class="event-item col-md-4 {{ event-list.category-filter }} {{ event-list.month | downcase }} {{ event-list.year }} {% for genderList in event-list.gender-list %}{{ genderList.gender }} {% endfor %}">
-                <a href="/events{{ event-list.link }}" class="event-item-link event-height{{ event-list.fitRow }}" style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
+                <a href="/events{{ event-list.link }}" class="event-item-link event-height{{ event-list.fitRow }}" style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
                     <div class="event-caption">
                         <span class="event-title d-block">{{ event-list.title }}</span>
-                    
-                        <span class="event-location d-block">{{ event-list.city }}, {{ event-list.country }}</span>
-                        <span class="event-category d-block">{{ event-list.category }}</span>
-                        <span class="event-date d-block">{{ event-list.month }} {{ event-list.year }}</span>
-                        {% for genderList in event-list.gender-cateogry %}
-                        <span class="event-gender d-block">{{ genderList.gender }}</span>
-                        {% endfor %}
+                        <div class="event-location-wrapper">
+                            <span class="event-location">{{ event-list.city }}, {{ event-list.country }} - </span>
+                            <span class="event-date">{{ event-list.month }} {{ event-list.year }}</span>
+                        </div>
+                        <div class="event-category-wrapper">
+                            <span class="event-category d-inline-block">{{ event-list.category }}</span>
+                            {% for genderList in event-list.gender-list %}
+                            <span class="event-gender d-inline-block {{ genderList.gender }}">{{ genderList.gender }}</span>
+                            {% endfor %}
+                        </div>
 
-                        <span class="searchresult" style="visibility: hidden;">{{ event-list.city }} {{ event-list.country }} {{ event-list.category }}</span>
-                        <span class="searchresult" style="visibility: hidden;">{{ event-list.city }} {{ event-list.category }}</span>
-                        <span class="searchresult" style="visibility: hidden;">{{ event-list.country }} {{ event-list.category }}</span>
+                        <span class="hidden-search-filter">{{ event-list.city }} {{ event-list.country }} {{ event-list.category }}</span>
+                        <span class="hidden-search-filter">{{ event-list.city }} {{ event-list.category }}</span>
+                        <span class="hidden-search-filter">{{ event-list.country }} {{ event-list.category }}</span>
                     </div>
                 </a>
             </div>

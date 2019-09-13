@@ -20,6 +20,7 @@
       -webkit-appearance: none
 
     .filters-select
+      outline: none
       border-radius: 0
       height: 50px
       -webkit-appearance: none
@@ -39,7 +40,7 @@
   .event-container
     .grid
       position: relative
-      height: 100vh
+      min-height: calc(100vh - 74px)
 
       .event-item
         padding: 5px
@@ -50,6 +51,7 @@
           width: 100%
           display: block
           height: 360px
+          
 
           &.event-height1
             height: 360px
@@ -59,6 +61,59 @@
 
           &.event-height3
             height: 340px
+
+          .event-caption
+            position: absolute
+            bottom:  10px
+            left: 10px
+            
+            .event-title
+              color: rgba(255,255,255,0.8)
+              font-size: 20px
+              font-weight: 500
+              letter-spacing: 0.15px
+              line-height: normal
+
+            .event-location
+              color: rgba(255,255,255,0.67)
+              font-size: 16px
+              letter-spacing: 0.15px
+              line-height: normal
+
+            .event-date
+              color: rgba(255,255,255,0.67)
+              font-size: 16px
+              letter-spacing: 0.15px
+
+            .event-category-wrapper
+              margin-top: 8px
+
+              .event-category
+                color: rgba(255,255,255,0.80)
+                font-size: 14px
+                font-weight: 500
+                letter-spacing: 0.1px
+                background-color: #0264BE
+                padding: 3px 7px
+                border-radius: 5px
+
+            .event-gender
+              color: rgba(255,255,255,0.80)
+              font-size: 14px
+              font-weight: 500
+              letter-spacing: 0.1px
+              padding: 3px 7px
+              border-radius: 5px
+              text-transform: capitalize
+
+              &.male
+                background-color: #3F51B5
+
+              &.female
+                background-color: #E91E63
+
+          .hidden-search-filter
+            display: none
 
         
     #no-result
