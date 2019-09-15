@@ -1,48 +1,38 @@
 <div class="container">
-        <div class="table-filters">
-            <input placeholder="Search Bib, Name, City" type="text" id="filter-name" data-filter-col="0,1,5">
-            <select id="filter-gender" data-filter-col="2">
-                <option value="">Gender</option>
-                <option value="m">Male</option>
-                <option value="f">Female</option>
-            </select>
-        </div>
-
-    <table class="table table-bordered event-result-table">
+    <div class="table-filters">
+        <input class="search-filter" type="search" placeholder="Search Name">
+    </div>
+    <div class="not-found" style="display: none;">
+        <span>No Result Found</span>
+    </div>
+    <table name="event-result" class="table table-bordered event-result-table">
         <thead>
             <tr>
-                <th scope="col">Ranking</th>
-                <th scope="col">Bib #</th>
-                <th scope="col">Name</th>
-                <th scope="col">Gender</th>
-                <th scope="col">Category</th>
-                <th scope="col">Nationality</th>
-                <th scope="col">City</th>
-                <th scope="col">Race Time</th>
+                <th data-tsort-type="number">Overall Rank</th>
+                <th data-tsort-type="number">Rank</th>
+                <th data-tsort="disabled">Bib</th>
+                <th data-tsort="disabled">Name</th>
+                <th data-tsort="disabled">Distance</th>
+                <th data-tsort-type="number">Category</th>
+                <th data-tsort="disabled">Gender</th>
+                <th data-tsort-type="number">Finish Time</th>
             </tr>
         </thead>
         <tbody>
             <!-- Sorting by category -->
-            {% assign sorted-events = site.events | sort: 'ranking' | where: 'categories', page.collectionTag %}
+            {% assign sorted-events = site.events | where: 'categories', page.collectionTag %}
             {% for result in sorted-events %}
             <tr>
-                <th scope="row">{{ result.ranking }}</th>
-                <td>{{ result.bib_number }}</td>
+                <td>{{ result.overall_rank }}</td>
+                <td>{{ result.rank }}</td>
+                <td> {{ result.bib }}</td>
                 <td>
                    {{ result.first_name }} {{ result.family_name }}
                 </td>
-                <td>{{ result.gender | slice: 0,1}}</td>
-                <td>
-                    {% if result.gender == 'Male' %}
-                    Men
-                    {% else %}
-                    Women
-                    {% endif %}
-                </td>
-                <td>{{ result.nationality }}</td>
-                <td>{{ result.city }}</td>
-                <td>{{ result.time | replace: '-', ':' }}</td>
-                <td>{{ result.birthdate }}</td>
+                <td>{{ result.distance }}</td>
+                <td>{{ result.category }}</td>
+                <td>{{ result.gender}}</td>
+                <td>{{ result.finish_time | replace: '-', ':' }}</td>
                 
                 <!-- <td>{{ result.time | divided_by: 3600  | slice: 0,2}}: {{ result.time | divided_by: 3600  | slice: 0,1}} </td> -->
             </tr>

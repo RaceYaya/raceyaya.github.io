@@ -1,5 +1,5 @@
 - id: 1
-  title: Ultra Trail Chiang Mai 
+  title: Fraser Ultra
   category: Ultramarathon
   category-filter: ultramarathon
   city: Cebu
@@ -8,7 +8,7 @@
   year: 2019
   banner-big: /images/photo1.jpg
   banner-small:
-  link: /cebu-race/
+  link: /fraser-ultra-2019/
   fitRow: 1
   gender-list:
     - gender: male
@@ -22,149 +22,6 @@
   city: Rizal
   country: Philippines
   month: February
-  year: 2018
-  banner-big: /images/photo2.jpg
-  banner-small:
-  link: /cebu-race/
-  fitRow: 2
-  gender-list:
-    - gender: male
-    - gender: female
-
-- id: 3
-  title: Fraser Ultra
-  category: Triathlon
-  category-filter: triathlon
-  city: Cebu
-  country: Philippines
-  month: January
-  year: 2019
-  banner-big: /images/photo3.jpg
-  banner-small:
-  link: /bohol-race/
-  fitRow: 3
-  gender-list:
-    - gender: male
-    - gender: female
-
-- id: 4
-  title: Pamutan Trailfest
-  category: Ultramarathon
-  category-filter: ultramarathon
-  city: Rizal
-  country: Philippines
-  month: February
-  year: 2019
-  banner-big: /images/photo4.jpg
-  banner-small:
-  link: /bohol-race/
-  fitRow: 1
-  gender-list:
-    - gender: male
-
-
-
-- id: 5
-  title: Tawid Mountain Marathon
-  category: Ultramarathon
-  category-filter: ultramarathon
-  city: Benguet
-  country: Philippines
-  month: January
-  year: 2018
-  banner-big: /images/photo5.jpg
-  banner-small:
-  link: /rizal-race/
-  fitRow: 2
-  gender-list:
-    - gender: male
-
-
-- id: 6
-  title: Minimal Maewa Trail
-  category: OCR
-  category-filter: ocr
-  city: Zunyi
-  country: China
-  month: March
-  year: 2019
-  banner-big: /images/photo2.jpg
-  banner-small:
-  link: /rizal-race/
-  fitRow: 3
-  gender-list:
-    - gender: male
-
-- id: 7
-  title: Coast to Coast Ultra
-  category: Road Run
-  category-filter: roadrun
-  city: Abuja
-  country: Nigeria
-  month: March
-  year: 2019
-  banner-big: /images/photo4.jpg
-  banner-small:
-  link: /bohol-race/
-  fitRow: 1
-  gender-list:
-    - gender: female
-
-- id: 8
-  title: Tailwind Penang Eco
-  category: CrossFit
-  category-filter: crossfit
-  city: Kolkata
-  country: India
-  month: March
-  year: 2018
-  banner-big: /images/photo5.jpg
-  banner-small:
-  link: /cebu-race/
-  fitRow: 2
-  gender-list:
-    - gender: male
-
-- id: 9
-  title: Hangaway
-  category: Duathlon
-  category-filter: duathlon
-  city: Fortaleza
-  country: Brazil
-  month: December
-  year: 2019
-  banner-big: /images/photo1.jpg
-  banner-small:
-  link: /cebu-race/
-  fitRow: 3
-  gender-list:
-    - gender: female
-
-
-- id: 10
-  title: Salomon XTrail
-  category: Duathlon
-  category-filter: duathlon
-  city: Kuala Lumpur
-  country: Malaysia
-  month: December
-  year: 2018
-  banner-big: /images/photo3.jpg
-  banner-small:
-  link: /rizal-race/
-  fitRow: 1
-  gender-list:
-    - gender: male
-    - gender: female
-
-
-- id: 11
-  title: Rizal Mountain Run
-  category: Others
-  category-filter: others
-  city: Rome
-  country: Italy
-  month: September
   year: 2018
   banner-big: /images/photo2.jpg
   banner-small:
