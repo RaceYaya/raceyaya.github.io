@@ -2,42 +2,50 @@
     <div class="table-filters">
         <input class="search-filter" type="search" placeholder="Search Name">
     </div>
-    <div class="not-found" style="display: none;">
-        <span>No Result Found</span>
-    </div>
-    <table name="event-result" class="table table-bordered event-result-table">
-        <thead>
-            <tr>
-                <th data-tsort-type="number">Overall Rank</th>
-                <th data-tsort-type="number">Rank</th>
-                <th data-tsort="disabled">Bib</th>
-                <th data-tsort="disabled">Name</th>
-                <th data-tsort="disabled">Distance</th>
-                <th data-tsort-type="number">Category</th>
-                <th data-tsort="disabled">Gender</th>
-                <th data-tsort-type="number">Finish Time</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Sorting by category -->
-            {% assign sorted-events = site.events | where: 'categories', page.collectionTag %}
-            {% for result in sorted-events %}
-            <tr>
-                <td>{{ result.overall_rank }}</td>
-                <td>{{ result.rank }}</td>
-                <td> {{ result.bib }}</td>
-                <td>
-                   {{ result.first_name }} {{ result.family_name }}
-                </td>
-                <td>{{ result.distance }}</td>
-                <td>{{ result.category }}</td>
-                <td>{{ result.gender}}</td>
-                <td>{{ result.finish_time | replace: '-', ':' }}</td>
-                
-                <!-- <td>{{ result.time | divided_by: 3600  | slice: 0,2}}: {{ result.time | divided_by: 3600  | slice: 0,1}} </td> -->
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
 
+    <div class="table-container">
+        <div class="not-found" style="display: none;">
+            <h2 class='not-found-text'>No Result Found</h2>
+        </div>
+        <table name="event-result" class="table table-bordered event-result-table">
+            <thead>
+                <tr>
+                    <th data-tsort-type="number">Overall Rank</th>
+                    <th data-tsort-type="number">Rank</th>
+                    <th data-tsort="disabled">Bib</th>
+                    <th data-tsort="disabled">Name</th>
+                    <th data-tsort-type="number">Category</th>
+                    <th data-tsort="disabled">Gender</th>
+                    <th data-tsort-type="number">Finish Time</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Sorting by category -->
+                {% assign sorted-events = site.events | where: 'categories', page.collectionTag %}
+                {% for result in sorted-events %}
+                <tr>
+                    <td>{{ result.overall_rank }}</td>
+
+                    <td>{{ result.rank }} {{ result.gender_rank }}</td>
+    
+                    <td> {{ result.bib }}</td>
+                   
+                    <td>
+                        <a href="{{ result.url }}">
+                        {{ result.first_name }} {{ result.family_name }} {{ result.last_name }}
+                        </a>
+                    </td> 
+       
+                    <td>{{ result.category }}</td>
+            
+                    <td>{{ result.gender}}</td>
+             
+                    <td> {{ result.finish_time | replace: '-', ':' }} {{ result.race_time | replace: '-', ':' }}</td>
+                    
+                    <!-- <td>{{ result.time | divided_by: 3600  | slice: 0,2}}: {{ result.time | divided_by: 3600  | slice: 0,1}} </td> -->
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
 </div>

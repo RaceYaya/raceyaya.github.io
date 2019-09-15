@@ -9,7 +9,7 @@
   banner-big: /images/photo1.jpg
   banner-small:
   link: /fraser-ultra-2019/
-  fitRow: 1
+  fitRow: 2
   gender-list:
     - gender: male
     - gender: female
@@ -25,8 +25,8 @@
   year: 2018
   banner-big: /images/photo2.jpg
   banner-small:
-  link: /cebu-race/
-  fitRow: 2
+  link: /mantra-summit-challenge-2019/
+  fitRow: 1
   gender-list:
     - gender: male
     - gender: female

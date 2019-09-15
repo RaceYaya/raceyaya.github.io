@@ -1,5 +1,5 @@
 ---
-layout: event-result 
+layout: runner-info 
 categories: fraser-ultra-2019 
 overall_rank: 22
 rank: 4
