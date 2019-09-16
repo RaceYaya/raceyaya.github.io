@@ -2,8 +2,9 @@
   <div class="container">
     <div class="banner-container">
         <h4 class="banner-text text-center">{{ page.event_category  | replace: '-', ' ' |  upcase }}</h4>
-    </div>
+		</div>
 
+		
     <div class="runner-content">
 			<div class="runner-details row no-margin-gutter">
 					<div class="left-section col-6">
@@ -18,8 +19,7 @@
 									<span class="content-value">{{ page.team_name }}</span>
 							</div>
 							{% endif %}
-							
-					
+						
 							<div class="content-container">
 									<span class="content-title">Bib #</span>
 									<span class="content-value">{{ page.bib }}</span>
@@ -59,48 +59,69 @@
 
 							<div class="content-container">
 									<span class="content-title"> Overall Rank </span>
-									<span class='content-value'> {{ page.overall_rank }} </span>
+									<span class='content-value'> {{ page.overall_rank }}</span>
 							</div>
 
 							<div class="content-container">
 									<span class="content-title"> Gender Rank </span>
-									<span class='content-value'> {{ page.gender_rank }} {{ page.rank }} </span>
+									<span class='content-value'> {{ page.gender_rank }} {{ page.rank }}</span>
 							</div>
 					</div>
 			</div>
-    </div>
+		</div>
 
+		<h6 class="banner-text ">RACE RESULT</h6>
     <div class="runner-race-content">
-			<table class="table">
-				<thead>
-					<tr>
-						<th scope="col">#</th>
-						<th scope="col">First</th>
-						<th scope="col">Last</th>
-						<th scope="col">Finish</th>
-					</tr>
-				</thead>
+			<table class="table table-bordered">
 				<tbody>
 					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
+						<th>Start</th>
+						<td>{{ page.start | replace: '-', ':'}}</td>
 					</tr>
+
 					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
+							<th>Changar</th>
+							<td>{{ page.changar | replace: '-', ':'}}</td>
 					</tr>
+
 					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
+							<th>Budug Asu</th>
+							<td>{{ page.budug_asu | replace: '-', ':'}}</td>
 					</tr>
+
+					<tr>
+						<th>UB Forest St</th>
+						<td>{{ page.ub_forest_st | replace: '-', ':'}}</td>
+					</tr>
+
+					<tr>
+						<th>Wonorejo 1</th>
+						<td>{{ page.wonorejo_1 | replace: '-', ':'}}</td>
+					</tr>
+
+					<tr>
+						<th>Mahapena</th>
+						<td>{{ page.mahapena | replace: '-', ':'}}</td>
+					</tr>
+
+					<tr>
+							<th>Wonorejo 2</th>
+							<td>{{ page.wonorejo_2 | replace: '-', ':'}}</td>
+					</tr>
+
+					<tr>
+						<th>Mbah Kamad</th>
+						<td>{{ page.mbah_kamad | replace: '-', ':'}}</td>	
+					</tr>
+
+					<tr>
+						<th>Finish</th>
+						<td>{{ page.finish | replace: '-', ':'}}{{ page.finish_time | replace: '-', ':'}}</td>
+					</tr>
+
 				</tbody>
 			</table>
     </div>
   </div>
 </section>
+						
