@@ -1,0 +1,91 @@
+---
+permalink: /events/mantra-summit-challenge-2019/15KM/
+layout: default
+collectionTag: mantra-summit-challenge-2019
+collectionCategory: 15KM
+css: event-result.css
+title: RaceYaya | Mantra Summits Challenge 2019
+event-title: Mantra Summits Challenge 2019
+event-location: Rizal, Philippines
+event-date: February 19 2019
+
+javascript: > 
+  <script type="text/javascript" src="/js/tablefilter.min.js"></script>
+  <script type="text/javascript" src="/js/filtable.min.js"></script>
+  <script type="text/javascript" src="/js/event-result.js"></script>
+---
+
+<div class="container">
+    <div class="banner-section text-center">
+      
+      <div class="d-flex justify-content-center">
+        <div class="">
+            <img class="banner-logo" src="/images/raceyaya-logo.png"/>
+        </div>
+        <div class="just-content-start">
+          <h4>{{ page.event-title }}</h4>
+          <span class="d-block">{{ page.event-location }}</span>
+          <span class="">{{ page.event-date }} | </span>
+          <span class="">{{ page.collectionCategory }}</span>
+        </div>
+      </div>     
+    </div>
+    
+    <div class="table-filters d-flex">
+      <input class="search-filter col-6" type="text" placeholder="Search Name" data-filter-col="3">
+      <select id="filter-country" class="filters-select col-3" data-filter-col="4">
+          <option value="">Country</option>
+          <option value="ph">Philippines</option>
+          <option value="kz">Kazakhstan</option>
+          <option value="ar">Argentina</option>
+      </select>
+
+      <select id="filter-gender" class="filters-select col-3" data-filter-col="5">
+        <option value="">Gender</option>
+        <option value="m">Male</option>
+        <option value="f">Female</option>
+    </select>
+    </div>
+
+    <div class="table-container table-responsive">
+      <div class="not-found" style="display: none;">
+          <h2 class='not-found-text'>No Result Found</h2>
+      </div>
+      <table name="event-result" class="table table-bordered event-result-table">
+        <thead>
+          <tr>
+            <th data-tsort-type="number">Overall Rank</th>
+            <th data-tsort-type="number">Gender Rank</th>
+            <th data-tsort="disabled">Bib</th>
+            <th data-tsort="disabled">Name</th>
+            <th data-tsort="disabled">Country</th>
+            <th data-tsort="disabled">Gender</th>
+            <th data-tsort-type="number">Finish Time</th>
+          </tr>
+        </thead>
+        <tbody>
+            <!-- Sorting by category -->
+          {% assign sorted-events = site.events | sort: 'overall_rank' | where: 'event_category', page.collectionTag | where: 'category_km', page.collectionCategory %}
+          {% for result in sorted-events %}
+          <tr>
+              <td>{{ result.overall_rank }}</td>
+
+              <td>{{ result.rank }} {{ result.gender_rank }}</td>
+
+              <td> {{ result.bib }}</td>
+              
+              <td>
+                  <a href="{{ result.url }}">{{ result.first_name }} {{ result.last_name }}</a>
+                  <i style="display: none;">{{ result.bib }} {{ result.first_name }} {{ result.last_name }}</i>
+              </td> 
+              <td>{{ result.country }}</td>
+      
+              <td>{{ result.gender | slice: 0, 1 }}</td>
+          
+              <td> {{ result.finish_time | replace: '-', ':' }} {{ result.race_time | replace: '-', ':' }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+</div>
