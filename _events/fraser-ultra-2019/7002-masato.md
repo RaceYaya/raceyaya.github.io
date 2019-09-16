@@ -7,6 +7,7 @@ bib: 7002
 first_name: Masato
 last_name: Hirakawa
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 7-31-29

@@ -7,6 +7,7 @@ bib: 7014
 first_name: Kok Aun
 last_name: Tan
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 11-04-35

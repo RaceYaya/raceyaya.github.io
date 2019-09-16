@@ -7,6 +7,7 @@ bib: 7005
 first_name: Chee Keong
 last_name: Hee
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 9-48-37

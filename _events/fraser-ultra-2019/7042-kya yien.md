@@ -7,6 +7,7 @@ bib: 7042
 first_name: KYA YIEN
 last_name: KOH
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 11-01-47

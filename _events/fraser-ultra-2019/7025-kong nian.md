@@ -7,6 +7,7 @@ bib: 7025
 first_name: Kong Nian
 last_name: Lee
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 8-43-15

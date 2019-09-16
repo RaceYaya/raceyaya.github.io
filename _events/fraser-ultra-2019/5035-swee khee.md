@@ -7,6 +7,7 @@ bib: 5035
 first_name: SWEE KHEE
 last_name: SAM KOAY
 distance: 50KM
+country: PH
 category_km: 50KM
 gender: Male
 finish_time: 7-49-08

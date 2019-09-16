@@ -7,6 +7,7 @@ bib: 5028
 first_name: Kin Sing
 last_name: Wong
 distance: 50KM
+country: PH
 category_km: 50KM
 gender: Male
 finish_time: 7-23-39

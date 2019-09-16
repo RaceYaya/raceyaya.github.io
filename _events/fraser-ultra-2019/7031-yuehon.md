@@ -7,6 +7,7 @@ bib: 7031
 first_name: Yuehon
 last_name: Chin
 distance: 70KM
+country: AR
 category_km: 70KM
 gender: Male
 finish_time: 11-42-08

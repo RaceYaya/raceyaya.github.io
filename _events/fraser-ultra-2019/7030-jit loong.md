@@ -7,6 +7,7 @@ bib: 7030
 first_name: Jit Loong
 last_name: Paul Ho
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 10-02-55

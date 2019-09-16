@@ -7,6 +7,7 @@ bib: 10031
 first_name: Loh Wei Pin
 last_name: Loh
 distance: 100KM
+country: PH
 category_km: 100KM
 gender: Male
 finish_time: 15-08-32

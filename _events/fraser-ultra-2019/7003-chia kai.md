@@ -7,6 +7,7 @@ bib: 7003
 first_name: Chia Kai
 last_name: Chun
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 10-34-46

@@ -7,6 +7,7 @@ bib: 7044
 first_name: THAYAPARAN
 last_name: SITHAMBARAPILLAI
 distance: 70KM
+country: PH
 category_km: 70KM
 gender: Male
 finish_time: 11-45-05

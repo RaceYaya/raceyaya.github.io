@@ -7,6 +7,7 @@ bib: 5011
 first_name: Kok Kun
 last_name: Goh
 distance: 50KM
+country: PH
 category_km: 50KM
 gender: Male
 finish_time: 7-24-06

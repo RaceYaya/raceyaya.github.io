@@ -7,6 +7,7 @@ bib: 5002
 first_name: Mazarul
 last_name: Arif Bin Osman
 distance: 50KM
+country: KZ
 category_km: 50KM
 gender: Male
 finish_time: 4-18-34

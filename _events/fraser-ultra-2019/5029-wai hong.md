@@ -7,6 +7,7 @@ bib: 5029
 first_name: Wai Hong
 last_name: Wong
 distance: 50KM
+country: PH
 category_km: 50KM
 gender: Male
 finish_time: 5-58-52

@@ -7,6 +7,7 @@ bib: 5003
 first_name: Yu Seng
 last_name: Tan
 distance: 50KM
+country: AR
 category_km: 50KM
 gender: Male
 finish_time: 8-41-03
