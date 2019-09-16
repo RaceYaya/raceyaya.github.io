@@ -5,32 +5,32 @@
 				<input type="text" placeholder="Search" class="inputSearch form-control" id="search-name">
 		</div>
 		<div class="filters col-md-7 col-12 no-padding-gutter d-flex">
-				<select class="filters-select category-filter-container col-3" value-group="category">
-						<option value="*">Category</option>
-						{% for categoryFilter in site.data.eventButtonFilter[0].filter-list %}
-						<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.name }}</option>
-						{% endfor %}
-				</select>
+      <select class="filters-select category-filter-container col-3" value-group="category">
+          <option value="*">Category</option>
+          {% for categoryFilter in site.data.eventButtonFilter[0].filter-list %}
+          <option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.name }}</option>
+          {% endfor %}
+      </select>
 
-				<select class="filters-select category-filter-container col-3" value-group="category">
-						<option value="*">Gender</option>
-						<option value=".male">Male</option>
-						<option value=".female">Female</option>
-				</select>
-				
-				<select class="filters-select month-filter-container col-3" value-group="month">
-						<option value="*">Month</option>
-						{% for categoryFilter in site.data.eventButtonFilter[1].filter-list %}
-						<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.filter }}</option>
-						{% endfor %}
-				</select>
-		
-				<select class="filters-select year-filter-container col-3" value-group="year">
-						<option value="*">Year</option>
-						{% for categoryFilter in site.data.eventButtonFilter[2].filter-list %}
-						<option value=".{{ categoryFilter.filter }}">{{ categoryFilter.filter }}</option>
-						{% endfor %}
-				</select>
+      <select class="filters-select category-filter-container col-3" value-group="category">
+          <option value="*">Gender</option>
+          <option value=".male">Male</option>
+          <option value=".female">Female</option>
+      </select>
+      
+      <select class="filters-select month-filter-container col-3" value-group="month">
+          <option value="*">Month</option>
+          {% for categoryFilter in site.data.eventButtonFilter[1].filter-list %}
+          <option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.filter }}</option>
+          {% endfor %}
+      </select>
+  
+      <select class="filters-select year-filter-container col-3" value-group="year">
+          <option value="*">Year</option>
+          {% for categoryFilter in site.data.eventButtonFilter[2].filter-list %}
+          <option value=".{{ categoryFilter.filter }}">{{ categoryFilter.filter }}</option>
+          {% endfor %}
+      </select>
 		</div>
 	</div>
 
