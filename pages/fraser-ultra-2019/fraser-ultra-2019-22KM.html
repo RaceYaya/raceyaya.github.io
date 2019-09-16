@@ -10,8 +10,9 @@ event-title: Fraser Ultra 2019
 event-location: Cebu, Philippines
 event-date: February 2019
 javascript: > 
-    <script type="text/javascript" src="/js/tablefilter.min.js"></script>
-    <script type="text/javascript" src="/js/event-result.js"></script>
+  <script type="text/javascript" src="/js/tablefilter.min.js"></script>
+  <script type="text/javascript" src="/js/filtable.min.js"></script>
+  <script type="text/javascript" src="/js/event-result.js"></script>
 ---
 
 <div class="container">
@@ -31,7 +32,19 @@ javascript: >
     </div>
     
     <div class="table-filters">
-      <input class="search-filter" type="search" placeholder="Search Name">
+      <input class="search-filter" type="text" placeholder="Search Name" data-filter-col="3">
+      <select id="filter-country" class="filters-select" data-filter-col="4">
+          <option value="">Country</option>
+          <option value="ph">Philippines</option>
+          <option value="kz">Kazakhstan</option>
+          <option value="ar">Argentina</option>
+      </select>
+
+      <select id="filter-gender" class="filters-select" data-filter-col="5">
+        <option value="">Gender</option>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+    </select>
     </div>
 
     <div class="table-container table-responsive">
@@ -45,8 +58,8 @@ javascript: >
             <th data-tsort-type="number">Gender Rank</th>
             <th data-tsort="disabled">Bib</th>
             <th data-tsort="disabled">Name</th>
-            <th data-tsort="disabled">Category</th>
-            <th>Gender</th>
+            <th data-tsort="disabled">Country</th>
+            <th data-tsort="disabled">Gender</th>
             <th data-tsort-type="number">Finish Time</th>
           </tr>
         </thead>
@@ -62,11 +75,10 @@ javascript: >
               <td> {{ result.bib }}</td>
               
               <td>
-                  <a href="{{ result.url }}">
-                  {{ result.first_name }} {{ result.family_name }} {{ result.last_name }}
-                  </a>
+                  <a href="{{ result.url }}">{{ result.first_name }} {{ result.last_name }}</a>
+                  <i style="display: none;">{{ result.bib }} {{ result.first_name }} {{ result.last_name }}</i>
               </td> 
-              <td>{{ result.category_km }}</td>
+              <td>{{ result.country }}</td>
       
               <td>{{ result.gender }}</td>
           

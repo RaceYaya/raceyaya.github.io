@@ -7,6 +7,7 @@ bib: 2249
 first_name: ASMAWI
 last_name: BIN ABU AMAN
 distance: 22KM
+country: PH
 category_km: 22KM
 gender: Male
 finish_time: 2-11-07

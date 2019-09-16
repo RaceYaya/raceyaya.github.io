@@ -1,6 +1,9 @@
-$(document).ready(function() {
+$(function(){
+    $('.event-result-table').filtable({ controlPanel: $('.table-filters') });
+});
 
-    $('.event-result-table').tableFilter({
+$(function(){
+	$('.event-result-table').tableFilter({
     
         //input : "input[type=search]", Default element
         
@@ -22,5 +25,6 @@ $(document).ready(function() {
         
         notFoundElement : ".not-found"
     });
-
 });
+
+

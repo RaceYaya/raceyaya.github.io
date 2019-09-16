@@ -6,7 +6,9 @@ rank: 31
 bib: 2202
 first_name: Choon Kee
 last_name: Lee
+country: PH
 distance: 22KM
+country: PH
 category_km: 22KM
 gender: Male
 finish_time: 3-11-18

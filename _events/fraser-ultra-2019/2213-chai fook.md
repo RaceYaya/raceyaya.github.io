@@ -7,6 +7,7 @@ bib: 2213
 first_name: Chai Fook
 last_name: Ong
 distance: 22KM
+country: AR
 category_km: 22KM
 gender: Male
 finish_time: 2-38-16

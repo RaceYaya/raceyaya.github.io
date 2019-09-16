@@ -7,6 +7,7 @@ bib: 2233
 first_name: Kah Hoe
 last_name: Ng
 distance: 22KM
+country: AR
 category_km: 22KM
 gender: Male
 finish_time: 3-39-50
