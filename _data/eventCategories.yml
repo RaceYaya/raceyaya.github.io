@@ -11,13 +11,13 @@
   timing-solution: RaceYaya
   race-categories:
     - title: 22KM
-      link: 
+      link:  /fraser-ultra-2019/22KM/
     - title: 50KM
-      link:
+      link:  /fraser-ultra-2019/50KM
     - title: 70KM
-      link:
+      link: /fraser-ultra-2019/70KM
     - title: 100KM
-      link:
+      link: /fraser-ultra-2019/100KM
 
 - id: 2
   title: Summit 2
@@ -28,15 +28,14 @@
   month: January
   year: 2019
   banner-big: /images/photo2.jpg
-  link: /mantra-summit-challenge-2019/
   timing-solution: RaceYaya
   race-categories:
     - title: 15KM
-      link:
+      link: /mantra-summit-challenge-2019/15KM
     - title: 35KM
-      link:
+      link: /mantra-summit-challenge-2019/35KM
     - title: 116KM
-      link:
+      link: /mantra-summit-challenge-2019/116KM
 
 - id: 3
   title: Summit 3
@@ -47,15 +46,14 @@
   month: March
   year: 2019
   banner-big: /images/photo3.jpg
-  link: /mantra-summit-challenge-2019/
   timing-solution: RaceYaya
   race-categories:
     - title: 15KM
-      link:
+      link: /mantra-summit-challenge-2019/15KM
     - title: 35KM
-      link:
+      link: /mantra-summit-challenge-2019/35KM
     - title: 116KM
-      link:
+      link: /mantra-summit-challenge-2019/116KM
 
 - id: 4
   title: Summit 4
@@ -66,17 +64,16 @@
   month: April
   year: 2019
   banner-big: /images/photo4.jpg
-  link: /fraser-ultra-2019/
   timing-solution: RaceToon
   race-categories:
     - title: 22KM
-      link:
+      link:  /fraser-ultra-2019/22KM/
     - title: 50KM
-      link:
+      link:  /fraser-ultra-2019/50KM
     - title: 70KM
-      link:
+      link: /fraser-ultra-2019/70KM
     - title: 100KM
-      link:
+      link: /fraser-ultra-2019/100KM
 
 - id: 5
   title: Summit 5
@@ -87,15 +84,14 @@
   month: August
   year: 2019
   banner-big: /images/photo5.jpg
-  link: /mantra-summit-challenge-2019/
   timing-solution: RacePH
   race-categories:
     - title: 15KM
-      link:
+      link: /mantra-summit-challenge-2019/15KM
     - title: 35KM
-      link:
+      link: /mantra-summit-challenge-2019/35KM
     - title: 116KM
-      link:
+      link: /mantra-summit-challenge-2019/116KM
 
 - id: 6
   title: Summit 6
@@ -106,15 +102,14 @@
   month: September
   year: 2019
   banner-big: /images/photo2.jpg
-  link: /mantra-summit-challenge-2019/
   timing-solution: RaceYaya
-  race-categories:
+  race-categories: 
     - title: 15KM
-      link:
+      link: /mantra-summit-challenge-2019/15KM
     - title: 35KM
-      link:
+      link: /mantra-summit-challenge-2019/35KM
     - title: 116KM
-      link:
+      link: /mantra-summit-challenge-2019/116KM
 
 
 

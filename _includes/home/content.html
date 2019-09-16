@@ -55,11 +55,9 @@
 
 										<div class="event-race-categories">
 											{% for race-list in event-list.race-categories %}
-											<a href="{{race-list.link}}" class="event-race-link">{{ race-list.title }}</a>
+											<a href="/events{{race-list.link}}" class="event-race-link">{{ race-list.title }}</a>
 											{% endfor %}
 										</div>
-
-									
 
 										<span class="event-timing-solution">Timing Solution Powered by: {{ event-list.timing-solution }}</span>
 

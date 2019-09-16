@@ -1,7 +1,8 @@
 ---
-permalink: /events/fraser-ultra-2019/
+permalink: /events/fraser-ultra-2019/22KM/
 layout: default
 collectionTag: fraser-ultra-2019
+collectionCategory: 22KM
 css: event-result.css
 title: RaceYaya | Fraser Ultra 2019
 
@@ -33,16 +34,16 @@ javascript: >
                 <tr>
                     <th data-tsort-type="number">Overall Rank</th>
                     <th data-tsort-type="number">Rank</th>
-                    <th data-tsort="disabled" data-tfilter="disabled">Bib</th>
+                    <th data-tsort="disabled">Bib</th>
                     <th data-tsort="disabled">Name</th>
-                    <th data-tsort-type="number">Category</th>
-                    <th data-tsort="disabled" data-tfilter="disabled">Gender</th>
+                    <th data-tsort="disabled">Category</th>
+                    <th>Gender</th>
                     <th data-tsort-type="number">Finish Time</th>
                 </tr>
             </thead>
             <tbody>
                 <!-- Sorting by category -->
-                {% assign sorted-events = site.events | sort: 'overall_rank' | where: 'event_category', page.collectionTag %}
+                {% assign sorted-events = site.events | sort: 'overall_rank' | where: 'event_category', page.collectionTag | where: 'category_km', page.collectionCategory %}
                 {% for result in sorted-events %}
                 <tr>
                     <td>{{ result.overall_rank }}</td>
