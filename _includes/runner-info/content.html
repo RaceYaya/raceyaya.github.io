@@ -1,5 +1,107 @@
 <section class="runner-info">
     <div class="container">
+        <div class="banner-container">
+            <h4 class="banner-text text-center">{{ page.event_category  | replace: '-', ' ' |  upcase }}</h4>
+        </div>
+
+        <div class="runner-content">
+            <div class="runner-details row no-margin-gutter">
+                <div class="left-section col-6">
+                    <div class="content-container">
+                        <span class="content-title">Name</span>
+                        <span class="content-value">{{ page.first_name }}  {{ page.last_name }} {{ page.family_name }}</span>
+                    </div>
+
+                    {% if page.team_name != null %}
+                    <div class="content-container">
+                        <span class="content-title">Team / Sponsor: </span>
+                        <span class="content-value">{{ page.team_name }}</span>
+                    </div>
+                    {% endif %}
+                    
+                
+                    <div class="content-container">
+                        <span class="content-title">Bib #</span>
+                        <span class="content-value">{{ page.bib }}</span>
+                    </div>
+
+                    <div class="content-container">
+                        <span class="content-title">Gender / Category</span>
+                        <span class="content-value">
+                            {% if page.gender == 'M' %}
+                            Male
+                            {% elsif page.gender == 'F' %}
+                            Female
+                            {% else %}
+                            {{ page.gender }}
+                            {% endif %}
+                        </span>
+                        <span class="content-value"> / {{ page.category_km }}</span>
+                    </div>
+
+                    {% if page.certificate != null %}
+                    <div class="content-container">
+                        <a class="btn btn-success" href="{{ page.certificate }}" target="_blank">Certificate</a>
+                    </div>
+                    {% endif %}
+                </div>
+
+                <div class="right-section col-6">
+                    {% if page.race_time != null || page.finish_time != null %}
+                    <div class="content-container">
+                        <i class="material-icons">flag</i>
+                        {% if page.status != null %}
+                        <span class="content-value"> {{ page.status }} </span>
+                        {% endif %}
+                        <span class="content-value"> {{ page.race_time | replace: '-', ':' }} {{ page.finish_time | replace: '-', ':' }} </span>
+                    </div>
+                    {% endif %}
+
+                    <div class="content-container">
+                        <span class="content-title"> Overall Rank </span>
+                        <span class='content-value'> {{ page.overall_rank }} </span>
+                    </div>
+
+                    <div class="content-container">
+                        <span class="content-title"> Gender Rank </span>
+                        <span class='content-value'> {{ page.gender_rank }} {{ page.rank }} </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="runner-race-content">
+            <table class="table">
+                <thead>
+                    <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">First</th>
+                    <th scope="col">Last</th>
+                    <th scope="col">Finish</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
     </div>
 </section>

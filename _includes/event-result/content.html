@@ -27,7 +27,7 @@
             </thead>
             <tbody>
                 <!-- Sorting by category -->
-                {% assign sorted-events = site.events | sort: 'overall_rank' | where: 'categories', page.collectionTag %}
+                {% assign sorted-events = site.events | sort: 'overall_rank' | where: 'event_category', page.collectionTag %}
                 {% for result in sorted-events %}
                 <tr>
                     <td>{{ result.overall_rank }}</td>
@@ -41,7 +41,7 @@
                         {{ result.first_name }} {{ result.family_name }} {{ result.last_name }}
                         </a>
                     </td> 
-                    <td>{{ result.category }} {{ result.category-km }}</td>
+                    <td>{{ result.category-km }}</td>
             
                     <td>{{ result.gender }}</td>
                 
