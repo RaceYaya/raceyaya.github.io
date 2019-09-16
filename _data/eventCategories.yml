@@ -1,34 +1,120 @@
 - id: 1
-  title: Fraser Ultra
-  category: Ultramarathon
-  category-filter: ultramarathon
-  city: Cebu
-  country: Philippines
-  month: February
+  title: Summit 1
+  event-type: Ultramarathon
+  event-filter: ultramarathon
+  city: Mendoza
+  country: Argentina
+  month: January
   year: 2019
   banner-big: /images/photo1.jpg
-  banner-small:
   link: /fraser-ultra-2019/
-  fitRow: 2
-  gender-list:
-    - gender: male
-    - gender: female
-
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 22KM
+      link: 
+    - title: 50KM
+      link:
+    - title: 70KM
+      link:
+    - title: 100KM
+      link:
 
 - id: 2
-  title: Mantra Summits Challenge
-  category: Ultramarathon
-  category-filter: ultramarathon
-  city: Rizal
-  country: Philippines
-  month: February
+  title: Summit 2
+  event-type: Ultramarathon
+  event-filter: ultramarathon
+  city: New Delhi
+  country: India
+  month: January
   year: 2019
   banner-big: /images/photo2.jpg
-  banner-small:
   link: /mantra-summit-challenge-2019/
-  fitRow: 1
-  gender-list:
-    - gender: male
-    - gender: female
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link:
+    - title: 35KM
+      link:
+    - title: 116KM
+      link:
+
+- id: 3
+  title: Summit 3
+  event-type: Trail Run
+  event-filter: trailrun
+  city: Paris
+  country: France
+  month: March
+  year: 2019
+  banner-big: /images/photo3.jpg
+  link: /mantra-summit-challenge-2019/
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link:
+    - title: 35KM
+      link:
+    - title: 116KM
+      link:
+
+- id: 4
+  title: Summit 4
+  event-type: Ultramarathon
+  event-filter: ultramarathon
+  city: Mendoza
+  country: Argentina
+  month: April
+  year: 2019
+  banner-big: /images/photo4.jpg
+  link: /fraser-ultra-2019/
+  timing-solution: RaceToon
+  race-categories:
+    - title: 22KM
+      link:
+    - title: 50KM
+      link:
+    - title: 70KM
+      link:
+    - title: 100KM
+      link:
+
+- id: 5
+  title: Summit 5
+  event-type: Ultramarathon
+  event-filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  month: August
+  year: 2019
+  banner-big: /images/photo5.jpg
+  link: /mantra-summit-challenge-2019/
+  timing-solution: RacePH
+  race-categories:
+    - title: 15KM
+      link:
+    - title: 35KM
+      link:
+    - title: 116KM
+      link:
+
+- id: 6
+  title: Summit 6
+  event-type: Trail Run
+  event-filter: trailrun
+  city: Paris
+  country: France
+  month: September
+  year: 2019
+  banner-big: /images/photo2.jpg
+  link: /mantra-summit-challenge-2019/
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link:
+    - title: 35KM
+      link:
+    - title: 116KM
+      link:
+
 
 

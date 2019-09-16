@@ -6,12 +6,9 @@ $(document).ready(function(){
     $container.imagesLoaded( function(){
         $container.isotope({
             itemSelector: '.event-item',
-            layoutMode: 'masonry',
+            layoutMode: 'fitRows',
             sortAscending: true,
-            masonry: {
-                columnWidth: '.event-item'
-            },
-            
+    
             filter: function() {
                 var $this = $(this);
                 var searchResult = qsRegex ? $(this).text().match( qsRegex ) : true;

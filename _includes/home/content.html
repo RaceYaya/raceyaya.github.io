@@ -1,4 +1,8 @@
 
+<div class="top-text-container">
+	<h4 class="top-text text-center">Find the race results for events hosted by RaceYaya Timing Solutions here.</h4>
+</div>
+
 <div class="container event-wrapper">
 	<div class="filter-container row no-margin-gutter">
 		<div class="filter-search-container col-md-5 col-12 no-margin-gutter no-padding-gutter">
@@ -6,16 +10,18 @@
 		</div>
 		<div class="filters col-md-7 col-12 no-padding-gutter d-flex">
       <select class="filters-select category-filter-container col-3" value-group="category">
-          <option value="*">Category</option>
-          {% for categoryFilter in site.data.eventButtonFilter[0].filter-list %}
-          <option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.name }}</option>
-          {% endfor %}
+				<option value="*">Event Type</option>
+				{% for categoryFilter in site.data.eventButtonFilter[0].filter-list %}
+				<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.name }}</option>
+				{% endfor %}
       </select>
 
       <select class="filters-select category-filter-container col-3" value-group="category">
-          <option value="*">Gender</option>
-          <option value=".male">Male</option>
-          <option value=".female">Female</option>
+				<option value="*">Country</option>	
+				{% for country in site.data.countryList %}
+				<option value=".{{ country.country-name | downcase }}">{{ country.country-name }}</option>
+				{% endfor %}
+
       </select>
       
       <select class="filters-select month-filter-container col-3" value-group="month">
@@ -38,26 +44,30 @@
 		<div class="grid">
 				{% assign sorted-event = site.data.eventCategories | sort: 'id' %}
 				{% for event-list in sorted-event reversed %}
-				<div data-id="{{ event-list.id }}" class="event-item col-md-4 {{ event-list.category-filter }} {{ event-list.month | downcase }} {{ event-list.year }} {% for genderList in event-list.gender-list %}{{ genderList.gender }} {% endfor %}">
-						<a href="/events{{ event-list.link }}" class="event-item-link event-height{{ event-list.fitRow }}" style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
+				<div data-id="{{ event-list.id }}" class="event-item col-md-4 {{ event-list.event-filter }} {{ event-list.month | downcase }} {{ event-list.year }} {{ event-list.country | downcase }}">
+						<div class="event-item-link" style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
 								<div class="event-caption">
 										<span class="event-title d-block">{{ event-list.title }}</span>
 										<div class="event-location-wrapper">
 												<span class="event-location">{{ event-list.city }}, {{ event-list.country }} - </span>
 												<span class="event-date">{{ event-list.month }} {{ event-list.year }}</span>
 										</div>
-										<div class="event-category-wrapper">
-												<span class="event-category d-inline-block">{{ event-list.category }}</span>
-												{% for genderList in event-list.gender-list %}
-												<span class="event-gender d-inline-block {{ genderList.gender }}">{{ genderList.gender }}</span>
-												{% endfor %}
+
+										<div class="event-race-categories">
+											{% for race-list in event-list.race-categories %}
+											<a href="{{race-list.link}}" class="event-race-link">{{ race-list.title }}</a>
+											{% endfor %}
 										</div>
+
+									
+
+										<span class="event-timing-solution">Timing Solution Powered by: {{ event-list.timing-solution }}</span>
 
 										<span class="hidden-search-filter">{{ event-list.city }} {{ event-list.country }} {{ event-list.category }}</span>
 										<span class="hidden-search-filter">{{ event-list.city }} {{ event-list.category }}</span>
 										<span class="hidden-search-filter">{{ event-list.country }} {{ event-list.category }}</span>
 								</div>
-						</a>
+						</div>
 				</div>
 				{% endfor %}
 		</div>

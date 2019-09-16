@@ -1,3 +1,8 @@
+.top-text-container
+  .top-text
+    padding-top: 15px
+    padding-bottom: 15px
+  
 .event-wrapper
   max-width: 1400px
   width: 100%
@@ -49,17 +54,7 @@
           text-decoration: none
           width: 100%
           display: block
-          height: 360px
-          
-
-          &.event-height1
-            height: 360px
-
-          &.event-height2
-            height: 600px
-
-          &.event-height3
-            height: 340px
+          height: 340px
 
           .event-caption
             position: absolute
@@ -87,7 +82,9 @@
             .event-category-wrapper
               margin-top: 8px
 
-              .event-category
+            .event-race-categories
+              margin-bottom: 10px
+              .event-race-link
                 color: rgba(255,255,255,0.80)
                 font-size: 14px
                 font-weight: 500
@@ -96,20 +93,11 @@
                 padding: 3px 7px
                 border-radius: 5px
 
-            .event-gender
-              color: rgba(255,255,255,0.80)
-              font-size: 14px
-              font-weight: 500
-              letter-spacing: 0.1px
-              padding: 3px 7px
-              border-radius: 5px
-              text-transform: capitalize
-
-              &.male
-                background-color: #3F51B5
-
-              &.female
-                background-color: #E91E63
+            .event-timing-solution
+              color: rgba(255,255,255,0.67)
+              font-size: 16px
+           
+          
 
           .hidden-search-filter
             display: none
