@@ -1,13 +1,13 @@
 ---
 layout: runner-info 
-categories: fraser-ultra-2019 
+event_category: fraser-ultra-2019 
 overall_rank: 1
 rank: 1
 bib: 10016
 first_name: Chong Chi
 last_name: Lee
 distance: 100KM
-category: 100KM
+category_km: 100KM
 gender: Male
 finish_time: 10-36-23
 ---
