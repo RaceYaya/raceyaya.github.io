@@ -18,7 +18,7 @@ javascript: >
 <div class="container">
     <div class="banner-section text-center">
       
-      <div class="d-flex justify-content-center" >
+      <div class="d-flex justify-content-center">
         <div class="">
             <img class="banner-logo" src="/images/raceyaya-logo.png"/>
         </div>
@@ -31,19 +31,19 @@ javascript: >
       </div>     
     </div>
     
-    <div class="table-filters">
-      <input class="search-filter" type="text" placeholder="Search Name" data-filter-col="3">
-      <select id="filter-country" class="filters-select" data-filter-col="4">
+    <div class="table-filters d-flex">
+      <input class="search-filter col-6" type="text" placeholder="Search Name" data-filter-col="3">
+      <select id="filter-country" class="filters-select col-3" data-filter-col="4">
           <option value="">Country</option>
           <option value="ph">Philippines</option>
           <option value="kz">Kazakhstan</option>
           <option value="ar">Argentina</option>
       </select>
 
-      <select id="filter-gender" class="filters-select" data-filter-col="5">
+      <select id="filter-gender" class="filters-select col-3" data-filter-col="5">
         <option value="">Gender</option>
-        <option value="male">Male</option>
-        <option value="female">Female</option>
+        <option value="m">Male</option>
+        <option value="f">Female</option>
     </select>
     </div>
 
@@ -80,7 +80,7 @@ javascript: >
               </td> 
               <td>{{ result.country }}</td>
       
-              <td>{{ result.gender }}</td>
+              <td>{{ result.gender | slice: 0, 1 }}</td>
           
               <td> {{ result.finish_time | replace: '-', ':' }} {{ result.race_time | replace: '-', ':' }}</td>
           </tr>
