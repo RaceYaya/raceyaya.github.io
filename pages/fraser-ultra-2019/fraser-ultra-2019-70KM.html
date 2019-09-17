@@ -1,14 +1,26 @@
 ---
-permalink: /events/fraser-ultra-2019/50KM/
+permalink: /events/fraser-ultra-2019/70KM/
 layout: default
 collectionTag: fraser-ultra-2019
-collectionCategory: 50KM
+collectionCategory: 70KM
 css: event-result.css
 title: RaceYaya | Fraser Ultra 2019
 
 event-title: Fraser Ultra 2019
 event-location: Cebu, Philippines
 event-date: February 2019
+
+category-title1: 22KM
+category-url1:  /events/fraser-ultra-2019/22KM/
+
+category-title2: 50KM
+category-url2: /events/fraser-ultra-2019/50KM/
+
+category-title3: 70KM
+category-url3: /events/fraser-ultra-2019/70KM/
+
+category-title4: 100KM
+category-url4: /events/fraser-ultra-2019/100KM/
 javascript: > 
   <script type="text/javascript" src="/js/tablefilter.min.js"></script>
   <script type="text/javascript" src="/js/filtable.min.js"></script>
@@ -24,20 +36,34 @@ javascript: >
         </div>
         <div class="just-content-start">
           <h4>{{ page.event-title }}</h4>
-          <span class="d-block">{{ page.event-location }}</span>
-          <span class="">{{ page.event-date }} | </span>
-          <span class="">{{ page.collectionCategory }}</span>
+          <span class="">{{ page.event-location }}, </span>
+          <span class="">{{ page.event-date }} </span> 
+
+          <div class="category-list">
+            <a href="{{ page.category-url1 }}">{{ page.category-title1 }}</a>
+            <a href="{{ page.category-url2 }}">{{ page.category-title2 }}</a>
+            <a href="{{ page.category-url3 }}">{{ page.category-title3 }}</a>
+            <a href="{{ page.category-url4 }}">{{ page.category-title4 }}</a>
+          </div>
         </div>
+        
       </div>     
     </div>
     
     <div class="table-filters d-flex">
+      {% assign eventCountry = site.events | map: 'country' | join: ',' | join: ',' | split: ',' | uniq | sort %}
       <input class="search-filter col-6" type="text" placeholder="Search Name" data-filter-col="3">
+      
       <select id="filter-country" class="filters-select col-3" data-filter-col="4">
-          <option value="">Country</option>
-          <option value="ph">Philippines</option>
-          <option value="kz">Kazakhstan</option>
-          <option value="ar">Argentina</option>
+        <option value="">Country</option>
+        {% for countryList in site.data.countryList %}
+        {% for collectedCountry in eventCountry %}
+        {% if countryList.country-code == collectedCountry %}
+        <option value="{{ countryList.country-code | downcase}}">{{ countryList.country-name }}</option>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+        <!-- <option value="ar">Argentina</option> -->
       </select>
 
       <select id="filter-gender" class="filters-select col-3" data-filter-col="5">
