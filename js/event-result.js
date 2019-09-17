@@ -27,4 +27,11 @@ $(function(){
     });
 });
 
+$('.reset-filters').on('click',function(){
+    $('.search-filter').val('');
+    $('.filters-select').prop('selectedIndex',0);
+
+    $('.event-result-table').filtable({ controlPanel: $('.table-filters') });
+});
+
 
