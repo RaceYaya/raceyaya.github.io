@@ -48,7 +48,7 @@
 				{% for event-list in sorted-event reversed %}
 
 				{% assign countryPresent = event-list.country %}
-				<div data-id="{{ event-list.id }}" class="event-item col-md-4 {{ event-list.event-filter }} {{ event-list.month | downcase }} {{ event-list.year }} {{ event-list.country | downcase }}">
+				<div data-id="{{ event-list.id }}" class="event-item col-lg-4 col-md-6 {{ event-list.event-filter }} {{ event-list.month | downcase }} {{ event-list.year }} {{ event-list.country | downcase }}">
 						<div class="event-item-link" style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
 								<div class="event-caption">
 										<span class="event-title d-block">{{ event-list.title }}</span>

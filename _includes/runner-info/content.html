@@ -5,8 +5,8 @@
 		</div>
 		
     <div class="runner-content">
-			<div class="runner-details d-flex">
-				<div class="left-section col-6 no-padding-gutter">
+			<div class="runner-details row">
+				<div class="left-section col-6">
 					<div class="content-container">
 							<span class="content-title">Name</span>
 							<span class="content-value">{{ page.first_name }}  {{ page.last_name }}</span>
@@ -45,7 +45,7 @@
 					{% endif %}
 				</div>
 
-				<div class="right-section col-6 no-padding-gutter">
+				<div class="right-section col-6 ">
 					{% if page.finish_time != null or page.race_time != null %}
 					<div class="content-container">
 							<i class="material-icons">flag</i>
