@@ -4,10 +4,10 @@
 
 <div class="container event-wrapper">
 	<div class="filter-container row no-margin-gutter">
-		<div class="filter-search-container col-md-5 col-12 no-margin-gutter no-padding-gutter">
+		<div class="filter-search-container col-md-3 col-12 no-margin-gutter no-padding-gutter">
 				<input type="text" placeholder="Search" class="inputSearch form-control" id="search-name">
 		</div>
-		<div class="filters col-md-7 col-12 no-padding-gutter d-flex">
+		<div class="filters col-md-9 col-12 no-padding-gutter d-flex">
       <select class="filters-select category-filter-container col-3" value-group="category">
 				<option value="*">Event Type</option>
 				{% for categoryFilter in site.data.eventButtonFilter[0].filter-list %}
@@ -23,19 +23,21 @@
 				{% endfor %}
       </select>
       
-      <select class="filters-select month-filter-container col-3" value-group="month">
+      <select class="filters-select month-filter-container col-2" value-group="month">
 				<option value="*">Month</option>
 				{% for categoryFilter in site.data.eventButtonFilter[1].filter-list %}
 				<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.filter }}</option>
 				{% endfor %}
       </select>
   
-      <select class="filters-select year-filter-container col-3" value-group="year">
+      <select class="filters-select year-filter-container col-2" value-group="year">
           <option value="*">Year</option>
           {% for categoryFilter in site.data.eventButtonFilter[2].filter-list %}
           <option value=".{{ categoryFilter.filter }}">{{ categoryFilter.filter }}</option>
           {% endfor %}
-      </select>
+			</select>
+			
+			<button class="reset-isotope btn col-2" type="button">Reset Filter</button>
 		</div>
 	</div>
 
@@ -69,9 +71,9 @@
 						</div>
 				</div>
 				{% endfor %}
-		</div>
-		<div id="no-result">
-				<h2 id="result-text">Sorry, no event result found.</h2>
+				<div id="no-result">
+					<h2 id="result-text">Sorry, no event result found.</h2>
+			</div>
 		</div>
 	</div>
 </div>
