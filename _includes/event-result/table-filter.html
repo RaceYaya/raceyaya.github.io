@@ -1,0 +1,22 @@
+<div class="table-filters d-flex">
+  {% assign eventCountry = site.events | map: 'country' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+  <input class="search-filter col-6" type="text" placeholder="Search Name" data-filter-col="3">
+  
+  <select id="filter-country" class="filters-select col-3" data-filter-col="4">
+    <option value="">Country</option>
+    {% for countryList in site.data.countryList %}
+    {% for collectedCountry in eventCountry %}
+    {% if countryList.country-code == collectedCountry %}
+    <option value="{{ countryList.country-code | downcase}}">{{ countryList.country-name }}</option>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+    <!-- <option value="ar">Argentina</option> -->
+  </select>
+
+  <select id="filter-gender" class="filters-select col-3" data-filter-col="5">
+    <option value="">Gender</option>
+    <option value="m">Male</option>
+    <option value="f">Female</option>
+  </select>
+</div>
