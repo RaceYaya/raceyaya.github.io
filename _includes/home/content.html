@@ -1,4 +1,3 @@
-
 <div class="top-text-container">
 	<h4 class="top-text text-center">Find the race results for events hosted by RaceYaya Timing Solutions here.</h4>
 </div>
@@ -15,20 +14,20 @@
 				<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.name }}</option>
 				{% endfor %}
       </select>
-
+		
+			{% assign eventCountry = site.data.eventCategories | map: 'country' | join: ',' | join: ',' | split: ',' | uniq | sort %}
       <select class="filters-select category-filter-container col-3" value-group="category">
-				<option value="*">Country</option>	
-				{% for country in site.data.countryList %}
-				<option value=".{{ country.country-name | downcase }}">{{ country.country-name }}</option>
+				<option value="*">Country</option>
+				{% for countryLoop in eventCountry %}
+				<option value=".{{ countryLoop | downcase }}">{{ countryLoop }}</option>
 				{% endfor %}
-
       </select>
       
       <select class="filters-select month-filter-container col-3" value-group="month">
-          <option value="*">Month</option>
-          {% for categoryFilter in site.data.eventButtonFilter[1].filter-list %}
-          <option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.filter }}</option>
-          {% endfor %}
+				<option value="*">Month</option>
+				{% for categoryFilter in site.data.eventButtonFilter[1].filter-list %}
+				<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.filter }}</option>
+				{% endfor %}
       </select>
   
       <select class="filters-select year-filter-container col-3" value-group="year">
@@ -44,6 +43,8 @@
 		<div class="grid">
 				{% assign sorted-event = site.data.eventCategories | sort: 'id' %}
 				{% for event-list in sorted-event reversed %}
+
+				{% assign countryPresent = event-list.country %}
 				<div data-id="{{ event-list.id }}" class="event-item col-md-4 {{ event-list.event-filter }} {{ event-list.month | downcase }} {{ event-list.year }} {{ event-list.country | downcase }}">
 						<div class="event-item-link" style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
 								<div class="event-caption">
