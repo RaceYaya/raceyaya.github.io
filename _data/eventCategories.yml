@@ -1,9 +1,11 @@
 - id: 1
   title: Summit 1
   event-type: Ultramarathon
-  event-filter: ultramarathon
+  event-filter:
+    - filter: ultramarathon
   city: Mendoza
   country: Argentina
+  address: Mendoza, Argentina
   month: January
   year: 2019
   banner-big: /images/photo1.jpg
@@ -22,9 +24,11 @@
 - id: 2
   title: Summit 2
   event-type: Ultramarathon
-  event-filter: ultramarathon
+  event-filter: 
+    - filter: ultramarathon
   city: New Delhi
   country: India
+  address: New Delhi, India
   month: January
   year: 2019
   banner-big: /images/photo2.jpg
@@ -40,9 +44,11 @@
 - id: 3
   title: Summit 3
   event-type: Trail Run
-  event-filter: trailrun
+  event-filter: 
+    - filter: trailrun
   city: Paris
   country: France
+  address: Paris, France
   month: March
   year: 2019
   banner-big: /images/photo3.jpg
@@ -57,10 +63,12 @@
 
 - id: 4
   title: Summit 4
-  event-type: Ultramarathon
-  event-filter: ultramarathon
+  event-type: OCR
+  event-filter: 
+    - filter: ocr
   city: Mendoza
   country: Argentina
+  address: Mendoza, Argentina
   month: April
   year: 2019
   banner-big: /images/photo4.jpg
@@ -78,9 +86,11 @@
 - id: 5
   title: Summit 5
   event-type: Ultramarathon
-  event-filter: ultramarathon
+  event-filter: 
+    - filter: ultramarathon
   city: Rizal
   country: Philippines
+  address: Rizal, Philippines
   month: August
   year: 2019
   banner-big: /images/photo5.jpg
@@ -96,7 +106,8 @@
 - id: 6
   title: Summit 6
   event-type: Trail Run
-  event-filter: trailrun
+  event-filter: 
+    - filter: trailrun
   city: Paris
   country: France
   month: September
@@ -113,11 +124,14 @@
 
 
 - id: 7
-  title: JBU 
+  title: Janda Baik Ultra 2019 
   event-type: Ultramarathon
-  event-filter: ultramarathon
-  city: Paris
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Bentong
   country: Malaysia
+  address: Sekolah Kebangsaan, Kampung Janda Baik, Bentong, Pahang, Malaysia
   month: September
   year: 2019
   banner-big: /images/photo4.jpg
