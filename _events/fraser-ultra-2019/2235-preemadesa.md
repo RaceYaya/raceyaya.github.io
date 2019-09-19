@@ -7,7 +7,7 @@ bib: 2235
 first_name: Preemadesa
 last_name: Peyadesa
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 4-57-46

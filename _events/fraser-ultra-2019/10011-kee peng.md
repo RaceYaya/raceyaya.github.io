@@ -7,7 +7,7 @@ bib: 10011
 first_name: Kee Peng
 last_name: Beh
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 16-13-45

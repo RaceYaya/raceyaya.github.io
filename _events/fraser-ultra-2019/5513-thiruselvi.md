@@ -7,7 +7,7 @@ bib: 5513
 first_name: THIRUSELVI
 last_name: MILDRED PADMINI
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Female
 finish_time: 5-07-32

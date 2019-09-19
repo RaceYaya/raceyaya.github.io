@@ -7,7 +7,7 @@ bib: 7511
 first_name: LAY ZYE
 last_name: TAN
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Female
 finish_time: 10-39-05

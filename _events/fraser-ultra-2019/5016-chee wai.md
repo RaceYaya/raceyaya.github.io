@@ -7,7 +7,7 @@ bib: 5016
 first_name: Chee Wai
 last_name: Liew
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 7-47-30

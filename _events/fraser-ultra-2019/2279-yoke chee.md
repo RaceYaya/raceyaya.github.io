@@ -7,7 +7,7 @@ bib: 2279
 first_name: YOKE CHEE
 last_name: CHAN
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 3-19-00

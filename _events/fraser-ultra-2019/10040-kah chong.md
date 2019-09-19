@@ -7,7 +7,7 @@ bib: 10040
 first_name: KAH CHONG
 last_name: NG
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 16-34-08

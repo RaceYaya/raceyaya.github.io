@@ -7,7 +7,7 @@ bib: 2262
 first_name: Swee Chng
 last_name: Foong
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 3-02-14

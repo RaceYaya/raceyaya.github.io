@@ -7,7 +7,7 @@ bib: 2208
 first_name: Yen Ken
 last_name: See
 distance: 22KM
-country: AR
+country: Argentina
 category_km: 22KM
 gender: Male
 finish_time: 3-45-51

@@ -7,7 +7,7 @@ bib: 5007
 first_name: Mokhzanni Bin
 last_name: Mustapa
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 8-01-52

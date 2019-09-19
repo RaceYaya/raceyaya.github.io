@@ -7,7 +7,7 @@ bib: 2234
 first_name: Jun Xiang
 last_name: Then
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 3-42-34

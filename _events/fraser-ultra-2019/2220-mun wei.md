@@ -7,7 +7,7 @@ bib: 2220
 first_name: Mun Wei
 last_name: Wong
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 2-51-23

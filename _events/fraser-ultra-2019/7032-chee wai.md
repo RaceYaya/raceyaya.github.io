@@ -7,7 +7,7 @@ bib: 7032
 first_name: Chee Wai
 last_name: Wong
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 8-11-33

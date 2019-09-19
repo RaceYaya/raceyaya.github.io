@@ -7,7 +7,7 @@ bib: 5023
 first_name: Mohd Kamarul Nazar
 last_name: Samsuddin
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 7-46-02

@@ -7,7 +7,7 @@ bib: 5041
 first_name: FOOK QUN
 last_name: LEONG
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 8-01-46

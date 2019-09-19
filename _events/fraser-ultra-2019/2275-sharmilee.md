@@ -7,7 +7,7 @@ bib: 2275
 first_name: Sharmilee
 last_name: Sagadavin
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 4-57-16

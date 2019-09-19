@@ -7,7 +7,7 @@ bib: 7508
 first_name: Tahira Najmunisaa
 last_name: Muhammad Zaid
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Female
 finish_time: 9-09-15

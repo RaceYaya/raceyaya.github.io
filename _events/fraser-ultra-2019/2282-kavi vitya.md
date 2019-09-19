@@ -7,7 +7,7 @@ bib: 2282
 first_name: Kavi Vitya
 last_name: A/p Kathiravelo
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 3-31-39

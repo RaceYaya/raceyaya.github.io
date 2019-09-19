@@ -7,7 +7,7 @@ bib: 2210
 first_name: Foon Teup
 last_name: Tong
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 3-00-17

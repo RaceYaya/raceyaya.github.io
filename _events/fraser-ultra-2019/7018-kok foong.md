@@ -7,7 +7,7 @@ bib: 7018
 first_name: Kok Foong
 last_name: Loong
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 10-12-14

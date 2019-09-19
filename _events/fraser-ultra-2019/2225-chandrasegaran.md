@@ -7,7 +7,7 @@ bib: 2225
 first_name: Chandrasegaran
 last_name: Shanmugham
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 3-05-02

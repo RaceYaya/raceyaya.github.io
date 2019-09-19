@@ -7,7 +7,7 @@ bib: 7038
 first_name: CHEE KUAN
 last_name: YAP
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 10-17-47

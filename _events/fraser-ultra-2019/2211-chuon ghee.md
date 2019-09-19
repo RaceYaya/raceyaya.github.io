@@ -7,7 +7,7 @@ bib: 2211
 first_name: Chuon Ghee
 last_name: Chew
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 2-52-48

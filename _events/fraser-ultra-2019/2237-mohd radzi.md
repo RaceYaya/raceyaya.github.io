@@ -7,7 +7,7 @@ bib: 2237
 first_name: Mohd Radzi
 last_name: Mohd Mokhtar
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 2-53-23

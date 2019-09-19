@@ -7,7 +7,7 @@ bib: 2228
 first_name: ChonChee
 last_name: Wai
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 2-38-12

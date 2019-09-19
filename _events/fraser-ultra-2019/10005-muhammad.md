@@ -7,7 +7,7 @@ bib: 10005
 first_name: Muhammad
 last_name: Ab Rahman
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 17-12-07

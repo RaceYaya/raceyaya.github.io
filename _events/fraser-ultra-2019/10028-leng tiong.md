@@ -7,7 +7,7 @@ bib: 10028
 first_name: Leng Tiong
 last_name: Tiou
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 17-05-09

@@ -7,7 +7,7 @@ bib: 2267
 first_name: Audrey
 last_name: Tan
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 2-51-59

@@ -7,7 +7,7 @@ bib: 2221
 first_name: Kaliswaran
 last_name: S Renganatthan
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 3-53-02

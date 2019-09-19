@@ -7,7 +7,7 @@ bib: 5033
 first_name: Woei Ren
 last_name: Leonard Tai
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 5-11-10

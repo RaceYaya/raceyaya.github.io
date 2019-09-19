@@ -7,7 +7,7 @@ bib: 10049
 first_name: WILLIE
 last_name: DAVID CHRISTOPHER
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 11-31-25

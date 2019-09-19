@@ -7,7 +7,7 @@ bib: 10017
 first_name: Aizar Nor
 last_name: Omar
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 16-26-15

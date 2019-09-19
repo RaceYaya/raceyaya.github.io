@@ -7,7 +7,7 @@ bib: 2248
 first_name: CIT IAN
 last_name: WEE
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 3-04-19

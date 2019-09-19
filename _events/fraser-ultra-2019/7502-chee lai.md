@@ -7,7 +7,7 @@ bib: 7502
 first_name: Chee Lai
 last_name: Lim
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Female
 finish_time: 11-05-13

@@ -7,7 +7,7 @@ bib: 7007
 first_name: Kian Chai
 last_name: Bang
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 11-40-55

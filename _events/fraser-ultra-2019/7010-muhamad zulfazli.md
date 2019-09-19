@@ -7,7 +7,7 @@ bib: 7010
 first_name: Muhamad Zulfazli
 last_name: Zainal
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 9-39-01

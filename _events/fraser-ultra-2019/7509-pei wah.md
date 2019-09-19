@@ -7,7 +7,7 @@ bib: 7509
 first_name: Pei Wah
 last_name: Lim
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Female
 finish_time: 10-25-29

@@ -7,7 +7,7 @@ bib: 2277
 first_name: TENGKU
 last_name: NUR SABARIAH TENGKU ABDUL RAHMAN
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 2-51-49

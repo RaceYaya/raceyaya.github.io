@@ -7,7 +7,7 @@ bib: 7033
 first_name: Dhanaraj
 last_name: Turunawarasu
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 9-16-50

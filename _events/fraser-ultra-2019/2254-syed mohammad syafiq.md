@@ -7,7 +7,7 @@ bib: 2254
 first_name: syed mohammad syafiq
 last_name: syed abd hadi
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 3-05-57

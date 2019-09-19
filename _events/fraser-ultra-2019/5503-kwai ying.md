@@ -7,7 +7,7 @@ bib: 5503
 first_name: Kwai Ying
 last_name: Liew
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Female
 finish_time: 7-47-42

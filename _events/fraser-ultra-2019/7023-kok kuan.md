@@ -7,7 +7,7 @@ bib: 7023
 first_name: Kok Kuan
 last_name: Chu
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 9-07-35

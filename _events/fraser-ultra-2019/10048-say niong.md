@@ -7,7 +7,7 @@ bib: 10048
 first_name: SAY NIONG
 last_name: LAU
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 14-09-58

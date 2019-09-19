@@ -7,7 +7,7 @@ bib: 2231
 first_name: Muhammad Hazim
 last_name: Bin Abd Rahman
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 1-52-32

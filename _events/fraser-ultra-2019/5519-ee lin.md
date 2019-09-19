@@ -7,7 +7,7 @@ bib: 5519
 first_name: EE LIN
 last_name: ELAINE TAN
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Female
 finish_time: 7-43-19

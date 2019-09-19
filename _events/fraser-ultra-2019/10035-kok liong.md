@@ -7,7 +7,7 @@ bib: 10035
 first_name: KOK LIONG
 last_name: LIN
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 16-41-36

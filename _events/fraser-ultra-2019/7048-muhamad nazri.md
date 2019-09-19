@@ -7,7 +7,7 @@ bib: 7048
 first_name: Muhamad Nazri
 last_name: Abdul Razak
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 9-30-54

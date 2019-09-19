@@ -7,7 +7,7 @@ bib: 5502
 first_name: See Ying
 last_name: Ong
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Female
 finish_time: 7-48-12

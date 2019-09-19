@@ -7,7 +7,7 @@ bib: 2217
 first_name: Swee Ping
 last_name: Gong
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 4-23-45

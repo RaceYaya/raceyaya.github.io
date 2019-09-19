@@ -7,7 +7,7 @@ bib: 2227
 first_name: Li Khon
 last_name: Tan
 distance: 22KM
-country: KZ
+country: Kazakhstan
 category_km: 22KM
 gender: Male
 finish_time: 2-38-14

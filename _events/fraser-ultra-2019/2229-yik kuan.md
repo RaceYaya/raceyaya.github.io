@@ -7,7 +7,7 @@ bib: 2229
 first_name: Yik Kuan
 last_name: Tan
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 2-38-13

@@ -7,7 +7,7 @@ bib: 2246
 first_name: KOON POH
 last_name: NG
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 3-18-59

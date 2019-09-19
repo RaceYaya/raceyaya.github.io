@@ -7,7 +7,7 @@ bib: 5004
 first_name: Johairi Bin
 last_name: Hussin
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 7-07-31

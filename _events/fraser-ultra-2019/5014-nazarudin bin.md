@@ -7,7 +7,7 @@ bib: 5014
 first_name: Nazarudin Bin
 last_name: Che Amat
 distance: 50KM
-country: AR
+country: Argentina
 category_km: 50KM
 gender: Male
 finish_time: 6-11-20

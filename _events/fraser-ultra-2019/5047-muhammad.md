@@ -7,7 +7,7 @@ bib: 5047
 first_name: MUHAMMAD
 last_name: GHAZALI ABU MANSOR
 distance: 50KM
-country: AR
+country: Argentina
 category_km: 50KM
 gender: Male
 finish_time: 7-09-46

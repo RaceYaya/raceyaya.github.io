@@ -7,7 +7,7 @@ bib: 7021
 first_name: Bing Ren
 last_name: Jason Tai
 distance: 70KM
-country: AR
+country: Argentina
 category_km: 70KM
 gender: Male
 finish_time: 10-10-38

@@ -7,7 +7,7 @@ bib: 5046
 first_name: FAKHRUL
 last_name: ARIFIN B MUHAMAD
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 8-46-12

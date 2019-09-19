@@ -7,7 +7,7 @@ bib: 10030
 first_name: Ching Soon
 last_name: Wong
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 16-53-38

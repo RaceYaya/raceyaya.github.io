@@ -7,7 +7,7 @@ bib: 2274
 first_name: Nurfariza Binti
 last_name: Hazizan
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 3-19-30

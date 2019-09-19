@@ -7,7 +7,7 @@ bib: 2240
 first_name: LIP KEIN
 last_name: ONG
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Male
 finish_time: 2-38-33

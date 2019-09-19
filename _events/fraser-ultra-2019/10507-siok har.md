@@ -7,7 +7,7 @@ bib: 10507
 first_name: SIOK HAR
 last_name: LIM
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Female
 finish_time: 14-03-02

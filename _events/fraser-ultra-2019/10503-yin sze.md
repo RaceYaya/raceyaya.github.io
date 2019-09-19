@@ -7,7 +7,7 @@ bib: 10503
 first_name: Yin Sze
 last_name: Oo
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Female
 finish_time: 14-02-58

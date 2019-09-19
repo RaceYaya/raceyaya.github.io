@@ -7,7 +7,7 @@ bib: 10004
 first_name: Tho Fatt
 last_name: Liew
 distance: 100KM
-country: KZ
+country: Kazakhstan
 category_km: 100KM
 gender: Male
 finish_time: 13-16-37

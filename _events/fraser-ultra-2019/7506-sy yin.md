@@ -7,7 +7,7 @@ bib: 7506
 first_name: Sy Yin
 last_name: Chan
 distance: 70KM
-country: KZ
+country: Kazakhstan
 category_km: 70KM
 gender: Female
 finish_time: 11-02-36

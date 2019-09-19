@@ -7,7 +7,7 @@ bib: 5017
 first_name: Sahrizam
 last_name: Sani
 distance: 50KM
-country: AR
+country: Argentina
 category_km: 50KM
 gender: Male
 finish_time: 6-09-05

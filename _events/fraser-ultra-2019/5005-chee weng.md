@@ -7,7 +7,7 @@ bib: 5005
 first_name: Chee Weng
 last_name: Lam
 distance: 50KM
-country: PH
+country: Philippines
 category_km: 50KM
 gender: Male
 finish_time: 5-54-46

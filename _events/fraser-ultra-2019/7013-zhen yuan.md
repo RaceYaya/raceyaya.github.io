@@ -7,7 +7,7 @@ bib: 7013
 first_name: Zhen Yuan
 last_name: Wan
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 10-35-54

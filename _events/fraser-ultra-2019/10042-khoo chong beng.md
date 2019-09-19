@@ -7,7 +7,7 @@ bib: 10042
 first_name: KHOO CHONG BENG
 last_name: DAVID
 distance: 100KM
-country: KZ
+country: Kazakhstan
 category_km: 100KM
 gender: Male
 finish_time: 13-12-14

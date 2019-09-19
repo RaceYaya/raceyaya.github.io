@@ -7,7 +7,7 @@ bib: 2270
 first_name: Merlina Bt
 last_name: Arifin
 distance: 22KM
-country: PH
+country: Philippines
 category_km: 22KM
 gender: Female
 finish_time: 3-19-23

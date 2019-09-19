@@ -7,7 +7,7 @@ bib: 7043
 first_name: HONG HAN
 last_name: LIM
 distance: 70KM
-country: PH
+country: Philippines
 category_km: 70KM
 gender: Male
 finish_time: 7-44-26

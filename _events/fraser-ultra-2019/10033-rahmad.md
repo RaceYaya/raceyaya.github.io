@@ -7,7 +7,7 @@ bib: 10033
 first_name: Rahmad
 last_name: Abdul Rahman Tan
 distance: 100KM
-country: PH
+country: Philippines
 category_km: 100KM
 gender: Male
 finish_time: 14-56-55
