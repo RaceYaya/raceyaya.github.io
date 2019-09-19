@@ -9,7 +9,7 @@
 				<div class="left-section col-6">
 					<div class="content-container">
 							<span class="content-title">Name</span>
-							<span class="content-value">{{ page.first_name }}  {{ page.last_name }}</span>
+							<span class="content-value">{{ page.first_name }}  {{ page.last_name }} {{page.name}}</span>
 					</div>
 
 					{% if page.team_name != null %}
@@ -35,7 +35,7 @@
 							{{ page.gender }}
 							{% endif %}
 						</span>
-						<span class="content-value"> / {{ page.category_km }}</span>
+						<span class="content-value"> / {{ page.category_km }}/ {{ page.category }}</span>
 					</div>
 
 					{% if page.certificate != null %}
