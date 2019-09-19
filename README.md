@@ -1,2 +1,2 @@
 # raceyaya.github.io
-Race Solution
+Race Solution powered by RaceYaya Timing Solution
