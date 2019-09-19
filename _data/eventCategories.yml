@@ -112,4 +112,25 @@
       link: /mantra-summit-challenge-2019/116KM
 
 
+- id: 7
+  title: JBU 
+  event-type: Ultramarathon
+  event-filter: ultramarathon
+  city: Paris
+  country: France
+  month: September
+  year: 2019
+  banner-big: /images/photo4.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 16KM
+      link: /jbu-2019/16KM
+    - title: 30KM
+      link: /jbu-2019/30KM
+    - title: 50KM
+      link: /jbu-2019/50KM
+    - title: 100KM
+      link: /jbu-2019/100KM
+
+
 

@@ -7,6 +7,9 @@
       <tr>
         <th data-tsort-type="number">Overall Rank</th>
         <th data-tsort-type="number">Gender Rank</th>
+        {% if page.enableCategoryRank == true %}
+        <th data-tsort-type="number">Category Rank</th>
+        {% endif %}
         <th data-tsort="disabled">Bib</th>
         <th data-tsort="disabled">Name</th>
         <th data-tsort="disabled">Country</th>
@@ -22,12 +25,16 @@
           <td>{{ result.overall_rank }}</td>
 
           <td>{{ result.rank }} {{ result.gender_rank }}</td>
+          
+          {% if page.enableCategoryRank == true %}
+          <td>{{ result.category_rank }}</td>
+          {% endif %}
 
           <td> {{ result.bib }}</td>
           
           <td>
-              <a href="{{ result.url }}">{{ result.first_name }} {{ result.last_name }}</a>
-              <i style="display: none;">{{ result.bib }} {{ result.first_name }} {{ result.last_name }}</i>
+              <a href="{{ result.url }}">{{ result.first_name }} {{ result.last_name }} {{ result.name }}</a>
+              <i style="display: none;">{{ result.bib }} {{ result.first_name }} {{ result.last_name }} {{ result.name }}</i>
           </td> 
           <td>{{ result.country }}</td>
   
