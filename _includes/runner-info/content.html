@@ -3,7 +3,7 @@
     <div class="banner-container">
 			<div class="d-sm-flex justify-content-center text-center text-sm-left">
 				<div class="col-xs-12">
-						<img class="banner-logo" src="{{ page.event-logo }}"/>
+						<img class="banner-logo" {% if page.event-logo == null %} src="/images/raceyaya-logo.png" {% else %} src="{{ page.event-logo }}" {% endif %}/>
 				</div>
 				<div class="just-content-start col-xs-12">
 					<h4>{{ page.event-title }}</h4>
