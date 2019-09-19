@@ -17,7 +17,7 @@
       {% endfor %}
     </select>
 
-    <select id="filter-gender" class="filters-select col-md-3 col-4" data-filter-col="5">
+    <select id="filter-gender" class="filters-select col-md-3 col-4" {% if page.enableCategoryRank == true %} data-filter-col="6" {% else %} data-filter-col="5"{% endif %}>
       <option value="">Gender</option>
       <option value="m">Male</option>
       <option value="f">Female</option>

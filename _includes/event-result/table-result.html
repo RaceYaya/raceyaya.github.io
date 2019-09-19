@@ -40,7 +40,7 @@
   
           <td>{{ result.gender | slice: 0, 1 }}</td>
       
-          <td> {{ result.finish_time | replace: '-', ':' }} {{ result.race_time | replace: '-', ':' }}</td>
+          <td> {{ result.finish_time | replace: '-', ':' }}{{ result.race_time | replace: '-', ':' }}{{ result.finish | replace: '-', ':' }}</td>
       </tr>
       {% endfor %}
     </tbody>

@@ -46,11 +46,11 @@
 				</div>
 
 				<div class="right-section col-6 ">
-					{% if page.finish_time != null or page.race_time != null %}
+					{% if page.finish_time != null or page.race_time != null or page.finish != null %}
 					<div class="content-container">
 							<i class="material-icons">flag</i>
 							<span class="content-title">Finish Time</span>
-							<span class="content-value"> {{ page.race_time | replace: '-', ':' }} {{ page.finish_time | replace: '-', ':' }} </span>
+							<span class="content-value"> {{ page.race_time | replace: '-', ':' }}{{ page.finish_time | replace: '-', ':' }}{{ page.finish | replace: '-', ':' }}</span>
 					</div>
 					{% endif %}
 
