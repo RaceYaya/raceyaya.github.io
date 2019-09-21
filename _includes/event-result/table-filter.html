@@ -13,7 +13,7 @@
       {% endfor %}
     </select>
 
-    <select id="filter-country" class="filters-select {% if page.enableCategoryColumn == true %} col-3 {% else %} col-4 {% endif %}" {% if page.enableCategoryColumn == true %} data-filter-col="6" {% else %} data-filter-col="4" {% endif %}>
+    <select id="filter-country" class="filters-select  col-3" {% if page.enableCategoryRank == true %} data-filter-col="6" {% else %} data-filter-col="5" {% endif %}>
       <option value="">Country</option>
       {% for filterCountry in eventCountry %}
       {% if filterCountry != "" %}
@@ -22,12 +22,12 @@
       {% endfor %}
     </select>
 
-    <select id="filter-gender" class="filters-select {% if page.enableCategoryColumn == true %} col-3 {% else %} col-4 {% endif %}" {% if page.enableCategoryColumn == true %} data-filter-col="7" {% else %} data-filter-col="5"{% endif %}>
+    <select id="filter-gender" class="filters-select  col-3" {% if page.enableCategoryRank == true %} data-filter-col="7" {% else %} data-filter-col="6"{% endif %}>
       <option value="">Gender</option>
       <option value="m">Male</option>
       <option value="f">Female</option>
     </select>
 
-    <button class="reset-filters btn {% if page.enableCategoryColumn == true %} col-3 {% else %} col-4 {% endif %} no-padding-gutter" type="button">Reset Filter</button>
+    <button class="reset-filters btn col-3 no-padding-gutter" type="button">Reset Filter</button>
   </div>
 </div>
