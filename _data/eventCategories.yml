@@ -1,6 +1,5 @@
 - id: 1
   title: Janda Baik Ultra 2019 
-  event-type: Ultramarathon
   event-filter:
     - filter: ultramarathon
     - filter: trailrun
@@ -20,6 +19,27 @@
       link: /jbu-2019/50KM
     - title: 100KM
       link: /jbu-2019/100KM
+
+
+- id: 2
+  title: KLAU Jungle Trail 2019 
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Pahang
+  country: Malaysia
+  address: Pasar Sg Klau, Pahang, Malaysia
+  month: September
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072808/logo/klau-image_qwwxyw.png
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 25KM
+      link: /klau-jungle-trail-2019/25KM
+    - title: 42KM
+      link: /klau-jungle-trail-2019/42KM
+    - title: 60KM
+      link: /klau-jungle-trail-2019/60KM
 
 
 

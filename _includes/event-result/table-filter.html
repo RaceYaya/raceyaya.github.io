@@ -5,14 +5,13 @@
   <input class="search-filter col-md-3 col-12" type="text" placeholder="Search Name" {% if page.enableCategoryRank == true %} data-filter-col="4" {% else %} data-filter-col="3"{% endif %}>
 
   <div class="d-flex col-md-9 col-12 no-padding-gutter">
-    {% if page.enableCategoryColumn == true %}
-    <select id="filter-category" class="filters-select col-3"  data-filter-col="5" >
+    
+    <select id="filter-category" class="filters-select col-3" {% if page.enableCategoryRank == true %} data-filter-col="5" {% else %} data-filter-col="4" {% endif %}>
       <option value="">Category</option>
       {% for filterCategory in categoryFilter %}
       <option value="{{ filterCategory }}" data-filter-col="5">{{ filterCategory }}</option>
       {% endfor %}
     </select>
-    {% endif %}
 
     <select id="filter-country" class="filters-select {% if page.enableCategoryColumn == true %} col-3 {% else %} col-4 {% endif %}" {% if page.enableCategoryColumn == true %} data-filter-col="6" {% else %} data-filter-col="4" {% endif %}>
       <option value="">Country</option>

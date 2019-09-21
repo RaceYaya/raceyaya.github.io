@@ -15,6 +15,7 @@
         {% if page.enableCategoryColumn ==  true %}
         <th data-tsort="disabled">Category</th>
         {% endif %}
+        
         <th data-tsort="disabled">Country</th>
         <th data-tsort="disabled">Gender</th>
         <th data-tsort-type="number">Finish Time</th>
@@ -42,8 +43,8 @@
           {% if page.enableCategoryColumn ==  true %}
           <td>{{ result.category }}</td>
           {% endif %}
+
           <td>{{ result.country }}</td>
-  
           <td>{{ result.gender | slice: 0, 1 }}</td>
       
           <td> {{ result.finish_time | replace: '-', ':' }}{{ result.race_time | replace: '-', ':' }}{{ result.finish | replace: '-', ':' }}</td>
