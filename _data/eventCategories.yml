@@ -41,5 +41,30 @@
     - title: 60KM
       link: /klau-jungle-trail-2019/60KM
 
+- id: 3
+  title: Mantra Summit Challenge 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Pahang
+  country: Indonesia
+  address: Pasuruan, East Java, Indonesia
+  month: July
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072809/logo/mantra-image_segrbx.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 15KM
+      link: /mantra-summit-challenge-2019/15KM
+    - title: 35KM
+      link: /mantra-summit-challenge-2019/35KM
+    - title: 55KM
+      link: /mantra-summit-challenge-2019/55KM
+    - title: 75KM
+      link: /mantra-summit-challenge-2019/75KM
+    - title: 116KM
+      link: /mantra-summit-challenge-2019/116KM
+
+
 
 
