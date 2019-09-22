@@ -65,6 +65,72 @@
     - title: 116KM
       link: /mantra-summit-challenge-2019/116KM
 
+- id: 4
+  title: Minimal Trail Maewa Lampang		
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Lampang
+  country: Thailand
+  address: Lampang, Thailand
+  month: July
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072805/logo/minimal-trail_ktnvsp.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 5KM
+      link: /minimal-meniewa-trail-2019/5KM
+    - title: 14KM
+      link: /minimal-meniewa-trail-2019/14KM
+    - title: 29KM
+      link: /minimal-meniewa-trail-2019/29KM
+    - title: 43KM
+      link: /minimal-meniewa-trail-2019/43KM
+
+- id: 5
+  title: Pamutan Trail 2019		
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Philippines
+  country: Cebu
+  address: Bgy Pamutan, Cebu City, Philippines
+  month: July
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072806/logo/pamutan-trail_d8abrj.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 10KM
+      link: /pamutan-trail-2019/15KM
+    - title: 26KM
+      link: /pamutan-trail-2019/26KM
+    - title: 50KM
+      link: /pamutan-trail-2019/50KM
+      
+
+- id: 6
+  title: UTCM 2019		
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: 
+  country: 
+  address: 
+  month: 
+  year: 
+  banner-big: /images/photo1.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 20KM
+      link: /utcm-2019/20KM
+    - title: 33KM
+      link: /utcm-2019/33KM
+    - title: 65KM
+      link: /utcm-2019/65KM
+    - title: 104KM
+      link: /utcm-2019/104KM
+
+
 
 
 
