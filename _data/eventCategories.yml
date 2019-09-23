@@ -8,7 +8,7 @@
   address: Sekolah Kebangsaan, Kampung Janda Baik, Bentong, Pahang, Malaysia
   month: September
   year: 2019
-  banner-big: /images/photo4.jpg
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569217009/logo/janda-baik_vch1pc.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 16KM
@@ -118,7 +118,7 @@
 #   address: 
 #   month: 
 #   year: 
-#   banner-big: /images/photo1.jpg
+#   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569217001/logo/ultra-trail-chiangmai_ay7efp.jpg
 #   timing-solution: RaceYaya
 #   race-categories: 
 #     - title: 20KM
