@@ -33,6 +33,7 @@
   year: 2019
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072808/logo/klau-image_qwwxyw.png
   timing-solution: RaceYaya
+  event-organizer: RosaLeen Event
   race-categories: 
     - title: 25KM
       link: /klau-jungle-trail-2019/25KM
@@ -53,6 +54,7 @@
   year: 2019
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072809/logo/mantra-image_segrbx.jpg
   timing-solution: RaceYaya
+  event-organizer: Malang Trail Runners	
   race-categories: 
     - title: 15KM
       link: /mantra-summit-challenge-2019/15KM
@@ -77,6 +79,7 @@
   year: 2019
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072805/logo/minimal-trail_ktnvsp.jpg
   timing-solution: RaceYaya
+  event-organizer: Teelakow Ltd
   race-categories: 
     - title: 5KM
       link: /minimal-meniewa-trail-2019/5KM
@@ -99,6 +102,7 @@
   year: 2019
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072806/logo/pamutan-trail_d8abrj.jpg
   timing-solution: RaceYaya
+  event-organizer: Cebu (Chorizo Cowboys)
   race-categories: 
     - title: 10KM
       link: /pamutan-trail-2019/10KM
