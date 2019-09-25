@@ -112,27 +112,27 @@
       link: /pamutan-trail-2019/50KM
       
 
-# - id: 6
-#   title: UTCM 2019		
-#   event-filter:
-#     - filter: ultramarathon
-#     - filter: trailrun
-#   city: 
-#   country: 
-#   address: 
-#   month: 
-#   year: 
-#   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569217001/logo/ultra-trail-chiangmai_ay7efp.jpg
-#   timing-solution: RaceYaya
-#   race-categories: 
-#     - title: 20KM
-#       link: /utcm-2019/20KM
-#     - title: 33KM
-#       link: /utcm-2019/33KM
-#     - title: 65KM
-#       link: /utcm-2019/65KM
-#     - title: 104KM
-#       link: /utcm-2019/104KM
+- id: 6
+  title: Ultra Trail Chiang Mai		
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Chiang Mai
+  country: Thailand
+  address:  Mae Jam School, Chiang Mai, Thailand
+  month: August
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569217001/logo/ultra-trail-chiangmai_ay7efp.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 20KM
+      link: /utcm-2019/20KM
+    - title: 33KM
+      link: /utcm-2019/33KM
+    - title: 65KM
+      link: /utcm-2019/65KM
+    - title: 104KM
+      link: /utcm-2019/104KM
 
 
 
