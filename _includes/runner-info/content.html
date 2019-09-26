@@ -137,6 +137,13 @@
 					</tr>
 					{% endif %}
 
+					{% if page.checkpoint9 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name9 }}</th>
+						<td>{{ page.checkpoint9 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
 					{% if page.finish != null or page.finish_time != null %}
 					<tr>
 						<th>Finish</th>
