@@ -134,6 +134,28 @@
     - title: 104KM
       link: /utcm-2019/104KM
 
+- id: 7
+  title: Salomon Xtrail Run 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address:  Timberland Heights, San Mateo, Rizal, Philippines
+  month: April 28 2019
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569850006/logo/salomon-trail_zzli3u.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 16KM
+      link: /salomon-xtrail-2019/16KM
+    - title: 24KM
+      link: /salomon-xtrail-2019/24KM
+    - title: 32KM
+      link: /salomon-xtrail-2019/32KM
+    - title: 50KM
+      link: /salomon-xtrail-2019/50KM
+
 
 
 
