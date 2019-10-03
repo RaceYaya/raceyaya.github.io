@@ -8,15 +8,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
-  - jekyll-commonmark
   - jekyll-feed
-  - jekyll-include-cache
+
 
 # Build settings
-markdown: CommonMark
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table"]
+markdown: kramdown
 
 sass:
   style: compressed
