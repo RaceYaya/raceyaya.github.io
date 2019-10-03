@@ -162,6 +162,57 @@
     - title: 50KM
       link: /salomon-xtrail-2019/50KM
 
+- id: 8
+  title: Kuching Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Cat City, Sarawak
+  country: Malaysia
+  address:  Cat City, Sarawak, Malaysia
+  event-date: 03-10-19
+  month: March
+  year: 2019
+  event-organizer: Grit Event
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025915/logo/kuching_ultra_jsvtue.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 30KM
+      link: /kuching-ultra-2019/30KM
+    - title: 50KM
+      link: /kuching-ultra-2019/50KM
+    - title: 70KM
+      link: /kuching-ultra-2019/70KM
+    - title: 100KM
+      link: /kuching-ultra-2019/100KM
+
+
+# - id: 
+#   title:
+#   event-filter:
+#     - filter: 
+#     - filter: 
+#   city: 
+#   country:
+#   address:  
+#   event-date: 
+#   month: 
+#   year: 
+#   event-organizer: 
+#   banner-big: 
+#   timing-solution: 
+#   race-categories: 
+#     - title:
+#       link: 
+#     - title: 
+#       link: 
+#     - title: 
+#       link: 
+#     - title:
+#       link: 
+
+
+
 
 
 
