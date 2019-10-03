@@ -238,6 +238,29 @@
     - title: 250KM
       link: /katsuo-stamina-2019/250KM
 
+- id: 11
+  title: Tailwind Penang Eco 100 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Bukit Mertajam, Penang
+  country: Malaysia
+  address: Bukit Mertajam, Penang, Malaysia 
+  event-date: 06-22-2019
+  month: June
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 100 Miles
+      link: /tailwind-penang-100-2019/100MILES
+    - title: 30KM
+      link: /tailwind-penang-100-2019/30KM
+    - title: 50KM
+      link: /tailwind-penang-100-2019/50KM
+
+
 # - id: 
 #   title:
 #   event-filter:
