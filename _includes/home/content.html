@@ -45,8 +45,8 @@
 
 	<div class="event-container">
 		<div class="grid">
-				{% assign sorted-event = site.data.eventCategories | sort: 'id' %}
-				{% for event-list in sorted-event reversed %}
+				{% assign sorted-event = (site.data.eventCategories | sort: 'event-date') | reverse %}
+				{% for event-list in sorted-event %}
 
 				{% assign countryPresent = event-list.country %}
 				<div data-id="{{ event-list.id }}" class="event-item col-lg-4 col-md-6 {{ event-list.month | downcase }} {{ event-list.year }} {{ event-list.country | downcase }} {% for filterList in event-list.event-filter %} {{ filterList.filter }} {% endfor %}">

@@ -7,7 +7,6 @@ $(document).ready(function(){
     $container.isotope({
       itemSelector: '.event-item',
       layoutMode: 'fitRows',
-      sortAscending: true,
 
       filter: function() {
         var $this = $(this);
@@ -79,7 +78,7 @@ $(document).ready(function(){
       $container.isotope({
         itemSelector: '.event-item',
         layoutMode: 'fitRows',
-        sortAscending: true,
+        // sortAscending: true,
 
         filter: function() {
           var $this = $(this);
