@@ -186,7 +186,7 @@
     - title: 100KM
       link: /kuching-ultra-2019/100KM
 
-- id: 
+- id: 9
   title: 2019 TIN MINES ENDURANCE CHALLENGE 2ND EDITION
   event-filter:
     - filter: ultramarathon
@@ -212,8 +212,31 @@
     - title: 24HRS Women
       link: /tin-mines-2019/24HRSWOMEN
 
-
-
+- id: 10
+  title: Katsuo Stamina Titi Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Hulu Langat, Selangor
+  country: Malaysia
+  address:  Hulu Langat, Selangor, Malaysia 
+  event-date: 03-15-2019
+  month: March
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50KM
+      link: /katsuo-stamina-2019/50KM
+    - title: 100KM
+      link: /katsuo-stamina-2019/100KM
+    - title: 200KM
+      link: /katsuo-stamina-2019/200KM
+    - title: 200KMDG
+      link: /katsuo-stamina-2019/200KMDG
+    - title: 250KM
+      link: /katsuo-stamina-2019/250KM
 
 # - id: 
 #   title:
