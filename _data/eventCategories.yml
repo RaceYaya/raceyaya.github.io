@@ -186,12 +186,40 @@
     - title: 100KM
       link: /kuching-ultra-2019/100KM
 
+- id: 
+  title: 2019 TIN MINES ENDURANCE CHALLENGE 2ND EDITION
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Sungai Lembing
+  country: Malaysia
+  address: Sungai Lembing Malaysia
+  event-date: 07-06-19
+  month: July
+  year: 2019
+  event-organizer: Tin Mines
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025899/logo/tinmines_fkmhj8.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 6HRS
+      link: /tin-mines-2019/6HRS
+    - title: 12HRS
+      link: /tin-mines-2019/12HRS
+    - title:  12HRS Relay
+      link: /tin-mines-2019/12HRSRELAY
+    - title: 24HRS Men
+      link: /tin-mines-2019/24HRSMEN
+    - title: 24HRS Women
+      link: /tin-mines-2019/24HRSWOMEN
+
+
+
 
 # - id: 
 #   title:
 #   event-filter:
-#     - filter: 
-#     - filter: 
+#     - filter: ultramarathon
+#     - filter: trailrun
 #   city: 
 #   country:
 #   address:  
@@ -200,7 +228,7 @@
 #   year: 
 #   event-organizer: 
 #   banner-big: 
-#   timing-solution: 
+#   timing-solution: RaceYaya
 #   race-categories: 
 #     - title:
 #       link: 
