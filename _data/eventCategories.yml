@@ -98,8 +98,8 @@
   event-filter:
     - filter: ultramarathon
     - filter: trailrun
-  city: Philippines
-  country: Cebu
+  city: Cebu
+  country: Philippines
   address: Brgy Pamutan, Cebu City, Philippines
   event-date: 08-01-2019
   month: August
@@ -242,7 +242,7 @@
   title: Tailwind Penang Eco 100 2019
   event-filter:
     - filter: ultramarathon
-    - filter: trailrun
+    - filter: roadrun
   city: Bukit Mertajam, Penang
   country: Malaysia
   address: Bukit Mertajam, Penang, Malaysia 
@@ -260,8 +260,358 @@
     - title: 50KM
       link: /tailwind-penang-100-2019/50KM
 
+- id: 12
+  title: Peoples City Eco Adventure Run 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: La Union
+  country: Philippines 
+  address: San Fernando, La Union Philippines
+  event-date: 06-29-2019 
+  month: June
+  year: 2019
+  event-organizer: San Fernando La Union
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 25K Road Run
+      link: /peoples-city-eco-2019/25KM
+    - title: 50K Road to Trail Ultra
+      link: /peoples-city-eco-2019/50KM
+    - title: 100K Road to Trail Ultra
+      link: /peoples-city-eco-2019/100KM
 
 
+- id: 13
+  title: Sungai Menyala Trail Festival 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Port Dickson
+  country: Malaysia
+  address: Port Dickson Malaysia
+  event-date: 04-07-2019
+  month: April
+  year: 2019
+  event-organizer: Malatra
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025907/logo/smft_rwzxh1.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 14
+  title: Coast to Coast Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: 
+  country: Malaysia
+  address: Malaysia
+  event-date: 07-19-2019
+  month: July
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link:
+      
+- id: 15
+  title: Fraser Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Clock Tower Fraser Hill
+  country: Malaysia
+  address: Clock Tower Fraser Hill Malaysia
+  event-date: 08-17-2019
+  month: August
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 16
+  title: PASUKULAN FALLS ORANI MOUNTAIN RUN 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Bataan
+  country: Philippines
+  address: Bataan Philippines
+  event-date: 04-19-2019
+  month: April
+  year: 2019
+  event-organizer: Orani Runners
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 17
+  title: 2019 CORDILLERA CHALLENGE 9
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Benguet
+  country: Philippines
+  address: Tinongdan, Itogon, Benguet Philippines
+  event-date: 04-19-2019
+  month: April
+  year: 2019
+  event-organizer: Cordillera Conservation and Trust
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 18
+  title: 2019 CORDILLERA MOUNTAIN ULTRA
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Benguet
+  country: Philippines
+  address: Tinongdan, Itogon, Benguet Philippines
+  event-date: 03-06-2019
+  month: March
+  year: 2019
+  event-organizer: Cordillera Conservation and Trust
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 19
+  title: 2019 MUD PROVING GROUNDS RUN
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Cauayan, Isabela
+  country: Philippines
+  address: Cauayan, Isabela Philippines
+  event-date: 04-11-2019
+  month: April
+  year: 2019
+  event-organizer: JC Dy
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 19
+  title: DBB MOUNTAIN ROCKSTAR  FINAL LEG 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: Tanay, Rizal Philippines
+  event-date: 05-05-2019
+  month: May
+  year: 2019
+  event-organizer: Be Trail Ready
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 20
+  title: MT. SEMBRANO MOUNTAIN RUN L2 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: Tanay, Rizal Philippines
+  event-date: 03-03-2019
+  month: March
+  year: 2019
+  event-organizer: Be Trail Ready
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025913/logo/mt_sembrano_osaoze.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 21
+  title: HANGAWAY ULTRA-TRAIL 50 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Antique
+  country: Philippines
+  address: Sibalom, Antique Philippines
+  event-date: 05-05-2019
+  month: May
+  year: 2019
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025919/logo/hangaway_ttcorg.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 21
+  title: A TASTE OF ANTIQUE TRAILS 4 ANINGALAN REPEAT 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Antique
+  country: Philippines
+  address: Aningalan, San Remigio, Antique Philippines
+  event-date: 02-10-2019
+  month: February
+  year: 2019
+  event-organizer: ART Running
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 22
+  title: PILIPINAS AKYATHLON 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Benguet
+  country: Philippines
+  address: Tinongdan, Itogon, Benguet Philippines
+  event-date: 02-09-2019
+  month: February
+  year: 2019
+  event-organizer: Philsky
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025921/logo/akyathlon_jsxiv8.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 23
+  title: TUKLAD 3 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Iloilo
+  country: Philippines
+  address: Miag-ao, Iloilo Philippines
+  event-date: 02-24-2019
+  month: February
+  year: 2019
+  event-organizer: Pretty Farm Boys
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link:
+
+- id: 24
+  title: 2019 Rizal Moutain Run
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: San Mateo, Rizal Philippines
+  event-date: 01-27-2019
+  month: January
+  year: 2019
+  event-organizer: BRG
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
+
+- id: 24
+  title: TAWID MOUNTAIN MARATHON 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: Bontoc, Mountain Province Philippines
+  event-date: 06-08-2019
+  month: June
+  year: 2019
+  event-organizer: Tawid Multisports
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025905/logo/tawid-mountain_shpquo.png
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 
+      link: 
+    - title:
+      link: 
+    - title: 
+      link: 
 
 
 
