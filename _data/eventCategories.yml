@@ -446,7 +446,7 @@
    
 
 - id: 22
-  title: DBB MOUNTAIN ROCKSTAR  FINAL LEG 2019
+  title: DBB MOUNTAIN ROCKSTAR FINAL LEG 2019
   event-filter:
     - filter: ultramarathon
     - filter: trailrun
@@ -461,13 +461,13 @@
   timing-solution: RaceYaya
   race-categories: 
     - title: 10KM
-      link: /mountain-rockstar-final-leg-2019/
+      link: /mountain-rockstar-final-leg-2019/10KM
     - title: 24KM
-      link: /mountain-rockstar-final-leg-2019/
+      link: /mountain-rockstar-final-leg-2019/24KM
     - title: 50KM
-      link: /mountain-rockstar-final-leg-2019/
+      link: /mountain-rockstar-final-leg-2019/50KM
     - title: 100KM
-      link: /mountain-rockstar-final-leg-2019/
+      link: /mountain-rockstar-final-leg-2019/100KM
 
 - id: 20
   title: MT. SEMBRANO MOUNTAIN RUN L2 2019
