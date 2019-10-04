@@ -320,12 +320,9 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link:
+    - title: 444KM
+      link: /coast-to-coast-ultra-2019/444KM
+  
       
 - id: 15
   title: Fraser Ultra 2019
@@ -342,17 +339,18 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: 22KM
+      link: /fraser-ultra-2019/22KM
+    - title: 50KM
+      link: /fraser-ultra-2019/50KM
+    - title: 70KM
+      link: /fraser-ultra-2019/70KM
+    - title: 100KM
+      link: /fraser-ultra-2019/100KM
 
 - id: 16
   title: PASUKULAN FALLS ORANI MOUNTAIN RUN 2019
   event-filter:
-    - filter: ultramarathon
     - filter: trailrun
   city: Bataan
   country: Philippines
@@ -364,12 +362,12 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: 10KM
+      link: /pasukulan-orani-mountain-2019/10KM
+    - title: 24KM
+      link: /pasukulan-orani-mountain-2019/24KM
+    - title: 34KM
+      link: /pasukulan-orani-mountain-2019/34KM
 
 - id: 17
   title: 2019 CORDILLERA CHALLENGE 9
@@ -386,17 +384,14 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: Mini Epic
+      link: /cordillera-challenge-9-2019/MINIEPIC
+    - title: Epic
+      link: /cordillera-challenge-9-2019/EPIC
 
 - id: 18
   title: 2019 CORDILLERA MOUNTAIN ULTRA
   event-filter:
-    - filter: ultramarathon
     - filter: trailrun
   city: Benguet
   country: Philippines
@@ -408,12 +403,16 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: Kiddie Trail Run
+      link: /cordillera-mountain-ultra-2019/kiddie
+    - title: Vertical KM
+      link: /cordillera-mountain-ultra-2019/vertical
+    - title: CMU
+      link: /cordillera-mountain-ultra-2019/cmu
+    - title: CMR
+      link: /cordillera-mountain-ultra-2019/cmr
+    - title: 10K Cordillera Trail Run
+      link: /cordillera-mountain-ultra-2019/10KM
 
 - id: 19
   title: 2019 MUD PROVING GROUNDS RUN
@@ -430,12 +429,21 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: PNP Wave 1
+      link: /mud-proving-grounds-run-2019/wave1
+    - title: PNP wave 2
+      link: /mud-proving-grounds-run-2019/wave2
+    - title: PNP Wave 3
+      link: /mud-proving-grounds-run-2019/wave3
+    - title: Wave 4
+      link: /mud-proving-grounds-run-2019/wave4
+    - title: Wave 5
+      link: /mud-proving-grounds-run-2019/wave5
+    - title: JFIT Wave 6 
+      link: /mud-proving-grounds-run-2019/wave6
+    - title: Wave 7
+      link: /mud-proving-grounds-run-2019/wave7
+   
 
 - id: 19
   title: DBB MOUNTAIN ROCKSTAR  FINAL LEG 2019
@@ -452,12 +460,14 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: 10KM
+      link: /mountain-rockstar-final-leg-2019/
+    - title: 24KM
+      link: /mountain-rockstar-final-leg-2019/
+    - title: 50KM
+      link: /mountain-rockstar-final-leg-2019/
+    - title: 100KM
+      link: /mountain-rockstar-final-leg-2019/
 
 - id: 20
   title: MT. SEMBRANO MOUNTAIN RUN L2 2019
@@ -474,12 +484,12 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025913/logo/mt_sembrano_osaoze.jpg
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: 15KM
+      link: /mt-sembrano-mountain-2019/15KM
+    - title: 35KM
+      link: /mt-sembrano-mountain-2019/35KM
+    - title: 50KM
+      link: /mt-sembrano-mountain-2019/50KM
 
 - id: 21
   title: HANGAWAY ULTRA-TRAIL 50 2019
@@ -496,12 +506,12 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025919/logo/hangaway_ttcorg.jpg
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: 12KM
+      link: /hangaway-ultra-trail-2019/12KM
+    - title: 24KM
+      link: /hangaway-ultra-trail-2019/24KM
+    - title: 34KM
+      link: /hangaway-ultra-trail-2019/34KM
 
 - id: 21
   title: A TASTE OF ANTIQUE TRAILS 4 ANINGALAN REPEAT 2019
@@ -518,12 +528,12 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: 8KM
+      link: /taste-of-antique-repeat-2019/8KM
+    - title: 16KM
+      link: /taste-of-antique-repeat-2019/16KM
+    - title: 25KM
+      link: /taste-of-antique-repeat-2019/25KM
 
 - id: 22
   title: PILIPINAS AKYATHLON 2019
@@ -540,12 +550,16 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025921/logo/akyathlon_jsxiv8.jpg
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: Kiddie Akyathlon
+      link: /pilipinas-akyathlon-2019/kiddie
+    - title: Vertical Kilometer
+      link: /pilipinas-akyathlon-2019/vertical
+    - title: 10KM Trail Run
+      link: /pilipinas-akyathlon-2019/10KM
+    - title: 25KM Mountain Run
+      link: /pilipinas-akyathlon-2019/25KM
+    - title:  49KM Skymarathon
+      link: /pilipinas-akyathlon-2019/49KM
 
 - id: 23
   title: TUKLAD 3 2019
@@ -562,17 +576,12 @@
   banner-big: 
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link:
+    - title: 40KM Mountain Run
+      link: /rizal-mountain-run-2019/40KM
 
 - id: 24
   title: 2019 Rizal Moutain Run
   event-filter:
-    - filter: ultramarathon
     - filter: trailrun
   city: Rizal
   country: Philippines
@@ -581,15 +590,17 @@
   month: January
   year: 2019
   event-organizer: BRG
-  banner-big: 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025909/logo/rizal-mountain_gkfete.jpg
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: Kiddie Trail Run
+      link: /rizal-mountain-run-2019/kiddie
+    - title: 15KM
+      link: /rizal-mountain-run-2019/15KM
+    - title: 30KM
+      link: /rizal-mountain-run-2019/30KM
+    - title: 50KM
+      link: /rizal-mountain-run-2019/50KM
 
 - id: 24
   title: TAWID MOUNTAIN MARATHON 2019
@@ -606,12 +617,16 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025905/logo/tawid-mountain_shpquo.png
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: Kiddie Run
+      link: /tawid-mountain-marathon-2019/kiddie
+    - title: 6KM Trail Run
+      link: /tawid-mountain-marathon-2019/6KM
+    - title: 12KM Mountain Run
+      link: /tawid-mountain-marathon-2019/12KM
+    - title: 24KM Mountain Run
+      link: /tawid-mountain-marathon-2019/24KM
+    - title: 42KM
+      link: /tawid-mountain-marathon-2019/42KM
 
 
 
