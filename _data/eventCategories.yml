@@ -445,7 +445,7 @@
       link: /mud-proving-grounds-run-2019/wave7
    
 
-- id: 19
+- id: 22
   title: DBB MOUNTAIN ROCKSTAR  FINAL LEG 2019
   event-filter:
     - filter: ultramarathon
@@ -513,7 +513,7 @@
     - title: 34KM
       link: /hangaway-ultra-trail-2019/34KM
 
-- id: 21
+- id: 23
   title: A TASTE OF ANTIQUE TRAILS 4 ANINGALAN REPEAT 2019
   event-filter:
     - filter: ultramarathon
@@ -535,7 +535,7 @@
     - title: 25KM
       link: /taste-of-antique-repeat-2019/25KM
 
-- id: 22
+- id: 24
   title: PILIPINAS AKYATHLON 2019
   event-filter:
     - filter: ultramarathon
@@ -561,7 +561,7 @@
     - title:  49KM Skymarathon
       link: /pilipinas-akyathlon-2019/49KM
 
-- id: 23
+- id: 25
   title: TUKLAD 3 2019
   event-filter:
     - filter: ultramarathon
@@ -579,7 +579,7 @@
     - title: 40KM Mountain Run
       link: /rizal-mountain-run-2019/40KM
 
-- id: 24
+- id: 26
   title: 2019 Rizal Moutain Run
   event-filter:
     - filter: trailrun
@@ -602,7 +602,7 @@
     - title: 50KM
       link: /rizal-mountain-run-2019/50KM
 
-- id: 24
+- id: 27
   title: TAWID MOUNTAIN MARATHON 2019
   event-filter:
     - filter: ultramarathon
