@@ -561,23 +561,23 @@
     - title:  49KM Skymarathon
       link: /pilipinas-akyathlon-2019/49KM
 
-- id: 25
-  title: TUKLAD 3 2019
-  event-filter:
-    - filter: ultramarathon
-    - filter: trailrun
-  city: Iloilo
-  country: Philippines
-  address: Miag-ao, Iloilo Philippines
-  event-date: 02-24-2019
-  month: February
-  year: 2019
-  event-organizer: Pretty Farm Boys
-  banner-big: 
-  timing-solution: RaceYaya
-  race-categories: 
-    - title: 40KM Mountain Run
-      link: /tuklad-2019/40KM
+# - id: 25
+#   title: TUKLAD 3 2019
+#   event-filter:
+#     - filter: ultramarathon
+#     - filter: trailrun
+#   city: Iloilo
+#   country: Philippines
+#   address: Miag-ao, Iloilo Philippines
+#   event-date: 02-24-2019
+#   month: February
+#   year: 2019
+#   event-organizer: Pretty Farm Boys
+#   banner-big: 
+#   timing-solution: RaceYaya
+#   race-categories: 
+#     - title: 40KM Mountain Run
+#       link: /tuklad-2019/40KM
 
 - id: 26
   title: 2019 Rizal Moutain Run
