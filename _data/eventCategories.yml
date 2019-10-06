@@ -298,12 +298,12 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025907/logo/smft_rwzxh1.jpg
   timing-solution: RaceYaya
   race-categories: 
-    - title: 
-      link: 
-    - title:
-      link: 
-    - title: 
-      link: 
+    - title: 10KM
+      link: /sungai-menyala-2019/10KM
+    - title: 25KM
+      link: /sungai-menyala-2019/25KM
+    - title: 50KM
+      link: /sungai-menyala-2019/50KM
 
 - id: 14
   title: Coast to Coast Ultra 2019
