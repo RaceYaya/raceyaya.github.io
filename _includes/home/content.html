@@ -49,7 +49,7 @@
 
 				{% assign countryPresent = event-list.country %}
 				<div data-id="{{ event-list.id }}" class="event-item col-lg-4 col-md-6 {{ event-list.month | downcase }} {{ event-list.year }} {{ event-list.country | downcase }} {% for filterList in event-list.event-filter %} {{ filterList.filter }} {% endfor %}">
-						<div class="event-item-link" style="background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8) ),url('{{ event-list.banner-big }}');background-size: cover; background-position: center center;">
+						<div class="event-item-link" style="background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8) ),url('{{ event-list.banner-big }}'); background-position: center center; background-color: #0264BE; background-size: contain; background-repeat: no-repeat !important;">
 								<div class="event-caption">
 										<span class="event-title d-block">{{ event-list.title }}</span>
 										<div class="event-location-wrapper">
