@@ -674,6 +674,32 @@
     - title: 100KM
       link: /annapurna-100-2017/100KM
 
+- id: 29
+  title: Mesatila 100 2019
+  event-filter: 
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Magelang Central  Java
+  country: Indonesia
+  address: Magelang, Central Java, Indonesia
+  event-date: 2019-10-04
+  month: October
+  year: 2019
+  event-organizer:
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570451507/logo/mesastila100_jin7bl.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 21KM
+      link: /mesatila-100-2019/21KM
+    - title: 42KM
+      link: /mesatila-100-2019/42KM
+    - title: 65KM
+      link: /mesatila-100-2019/65KM
+    - title: 100KM
+      link: /mesatila-100-2019/100KM
+    - title: 170KM
+      link: /mesatila-100-2019/170KM
+
 
 
 
