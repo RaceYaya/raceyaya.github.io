@@ -8,11 +8,18 @@
 
   <meta name="author" content="">
   <meta name="keywords" content="raceyaya raceyaya results, race results">
-
-  <meta property="og:image" content="/raceyaya-logo-icon.png">
+  {% if page.url == '/' %}
+  <meta property="og:image" content="http://results.raceyaya.com/raceyaya-logo-icon.png">
   <meta property="og:description" content="Raceyaya is your online partner for race registration, live tracking and timing.">
   <meta property="og:url" content="http://results.raceyaya.com/">
   <meta property="og:title" content="RaceYaya Results">
+  {% else %}
+
+  <meta property="og:image" content="http://results.raceyaya.com/raceyaya-logo-icon.png">
+  <meta property="og:description" content="{{ page.event-location }}">
+  <meta property="og:url" content="http://results.raceyaya.com/">
+  <meta property="og:title" content="{{ page.event-title }}">
+	{% endif %}
 	
   <title>RaceYaya | {{ page.event-title }} </title>
   <link rel="shortcut icon" href="/raceyaya-logo-icon.png">
