@@ -700,6 +700,53 @@
     - title: 170KM
       link: /mesatila-100-2019/170KM
 
+- id: 30
+  title: Clark Miyamit Falls Ultra (CM50) 2018
+  event-filter: 
+    - filter: trailrun
+  city: Pampanga
+  country: Philippines
+  address: Manuel L Quezon corner Mimosa Drive, Clark Freeport Zone, Clark, Pampanga, Philippines
+  event-date: 2018-11-25
+  month: November
+  year: 2018
+  event-organizer: 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570607412/logo/cm50_p8ydpq.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 10Miles Mini Bad Ass
+      link:  /cm50-2018/10MILES
+    - title: 32Miles Semi Bad Ass
+      link: /cm50-2018/32MILES
+    - title: 50Miles Bad Ass
+      link: /cm50-2018/50MILES
+
+- id: 31
+  title: Clark Miyamit Falls Ultra (CM50) 2016
+  event-filter: 
+    - filter: trailrun
+  city: Pampanga
+  country: Philippines
+  address: Clark Freeport Zone, 2010 Mabalacat, Pampanga, Philippines
+  event-date: 2018-11-26
+  month: November
+  year: 2018
+  event-organizer: 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570607412/logo/cm50_p8ydpq.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50 Miles
+      link: /cm50-2016/50MILES
+    - title: 60 Miles
+      link: /cm50-2016/60MILES
+    - title: 
+      link: 
+
+
+
+
+
+
 
 
 
