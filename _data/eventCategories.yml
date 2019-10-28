@@ -750,9 +750,9 @@
   event-date: 2019-10-05
   month: October
   year: 2019
-  event-organizer: 
+  event-organizer: Rhodel Sarande
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570664614/logo/mt-talinis-2019_x4wk7w.jpg
-  timing-solution: RaceYaya
+  timing-solution: RaceYaya (with RD Adjustments)
   race-categories: 
     - title: 17KM
       link: /talinis-ultramarathon-2019/17KM
@@ -762,6 +762,95 @@
       link: /talinis-ultramarathon-2019/50KM
     - title: 70KM
       link: /talinis-ultramarathon-2019/70KM
+
+- id: 33
+  title: TRAIL FIFTY MAPAWA 2019
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan de Oro
+  country: Philippines
+  address: Mapawa Nature Park, Cagayan de Oro
+  event-date: 2019-10-26
+  month: October
+  year: 2019
+  event-organizer: Mapawa/RaceYaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1572254355/logo/trail-fifty-mapawa_fizjmb.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50Miles
+      link: /trail-fifty-mapawa-2019/50MILES
+    - title: 5KM
+      link: /trail-fifty-mapawa-2019/5KM
+    - title: 15KM
+      link: /trail-fifty-mapawa-2019/15KM
+    - title: 25KM
+      link: /trail-fifty-mapawa-2019/25KM
+    - title: 50KM
+      link: /trail-fifty-mapawa-2019/50KM
+
+- id: 34
+  title: TAILWIND ULTIMATE TRAILS of PENANG 2019
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Penang
+  country: Malaysia
+  address: Youth Park, Penang
+  event-date: 2019-10-12
+  month: October
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1572252513/logo/utop-2019_h9tzys.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 20KM
+      link: /tailwind-ultimate-2019/20KM
+    - title: 40KM
+      link: /tailwind-ultimate-2019/40KM
+    - title: 60KM
+      link: /tailwind-ultimate-2019/60KM
+    - title: 100KM
+      link: /tailwind-ultimate-2019/100KM
+
+- id: 35
+  title: Golden Trail Series Grand Final 2019
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pockhara
+  country: Nepal
+  address: Pockhara Nepal Himalaya
+  event-date: 2019-10-25
+  month: October
+  year: 2019
+  event-organizer: Golden Trail Series/Trail Running Nepal
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1572252502/logo/goldentrail-2019_k6n0ge.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 42K
+      link: /golden-trail-2019/42K
+
+- id: 36
+  title: Annapurna 100
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pockhara
+  country: Nepal
+  address: Pockhara Nepal Himalaya
+  event-date: 2019-10-26
+  month: October
+  year: 2019
+  event-organizer: Trail Running Nepal
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570403752/logo/annapurna-100_kbwug4.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 55K
+      link: /annapurna-100-2019/55K
+    - title: 100K
+      link: /annapurna-100-2019/100K
+
 
 
 
