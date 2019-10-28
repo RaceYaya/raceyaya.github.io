@@ -796,7 +796,7 @@
     - filter: ultramarathon
   city: Penang
   country: Malaysia
-  address: Youth Park, Penang
+  address: Youth Park, Penang, Malaysia
   event-date: 2019-10-12
   month: October
   year: 2019
@@ -805,13 +805,13 @@
   timing-solution: RaceYaya
   race-categories: 
     - title: 20KM
-      link: /tailwind-ultimate-2019/20KM
+      link: /tailwind-ultimate-penang-2019/20KM
     - title: 40KM
-      link: /tailwind-ultimate-2019/40KM
+      link: /tailwind-ultimate-penang-2019/40KM
     - title: 60KM
-      link: /tailwind-ultimate-2019/60KM
+      link: /tailwind-ultimate-penang-2019/60KM
     - title: 100KM
-      link: /tailwind-ultimate-2019/100KM
+      link: /tailwind-ultimate-penang-2019/100KM
 
 - id: 35
   title: Golden Trail Series Grand Final 2019
