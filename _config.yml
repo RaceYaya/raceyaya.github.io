@@ -36,11 +36,6 @@ prose:
           element: 'hidden'
           value: true
 
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-
 exclude:
   - .sass-cache/
   - .jekyll-cache/
