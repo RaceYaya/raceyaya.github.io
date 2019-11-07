@@ -25,6 +25,16 @@ collections:
   events:
     output: true
     permalink: /events/:path/
+    
+prose:
+  rooturl: "_events"
+  siteurl: "https://results.raceyaya.com/"
+  metadata:
+    _events:
+      - name: "published"
+        field:
+          element: 'hidden'
+          value: true
 
 exclude:
   - .sass-cache/
