@@ -852,6 +852,29 @@
       link: /annapurna-100-2019/100K
 
 
+- id: 37
+  title: THE 6TH ANTIQUE MARATHON 2019
+  event-filter: 
+    - filter: ultramarathon
+  city: Sibalom Antique
+  country: Philippines
+  address: Sibalom Antique Philippines
+  event-date: 2019-11-03
+  month: November
+  year: 2019
+  event-organizer: Manuel Magbanua Jr
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1573451689/logo/antique-marathon-2019_xvgf0s.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5KM
+      link: /the-6th-antique-marathon-2019/5KM
+    - title: 10KM
+      link: /the-6th-antique-marathon-2019/10KM
+    - title: 21KM
+      link: /the-6th-antique-marathon-2019/21KM
+    - title: 42KM
+      link: /the-6th-antique-marathon-2019/42KM
+
 
 
 
