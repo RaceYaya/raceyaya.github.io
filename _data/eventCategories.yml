@@ -853,7 +853,7 @@
 
 
 - id: 37
-  title: THE 6TH ANTIQUE MARATHON 2019
+  title: THE 6TH ANTIQUE MARATHON 2019 
   event-filter: 
     - filter: ultramarathon
   city: Sibalom Antique
@@ -874,31 +874,6 @@
       link: /the-6th-antique-marathon-2019/21KM
     - title: 42KM
       link: /the-6th-antique-marathon-2019/42KM
-
-- id: 38
-  title: KUCHING ULTRA 2018
-  event-filter:
-    - filter: trailrun
-  city: Cat City
-  country: Malaysia
-  address: Cat City capital of Sarawak
-  event-date: 2018-03-3
-  month: March
-  year: 2018
-  event-organizer: Grit Event
-  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573619473/Logo/kuching-ultra-2018-logo_tlpvm5.png
-  timing-solution: RaceYaya
-  race-categories:
-    - title: 30KM
-      link: /kuching-ultra-2018/30KM
-    - title: 50KM
-      link: /kuching-ultra-2018/50KM
-    - title: 70KM
-      link: /kuching-ultra-2018/70KM
-    - title: 100KM
-      link: /kuching-ultra-2018/100KM
-
-
 
 
 
