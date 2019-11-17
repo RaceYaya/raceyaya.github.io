@@ -1039,7 +1039,7 @@
       link: /deadmans-300-2018/50KM
 
 - id: 45
-  title: 
+  title: MANTRA SUMMITS CHALLENGE 2018
   event-filter: 
     - filter: trailrun
     - filter: ultramarathon
@@ -1061,6 +1061,127 @@
       link: /malang-trail-mantra-2018/50KM
     - title: 75KM
       link: /malang-trail-mantra-2018/75KM
+
+- id: 46
+  title: TIN MINE ENDURANCE CHALLENGE 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Sungai Lembing Pahang
+  country: Malaysia
+  address: Sungai Lembing, Pahang MPK Padang Malaysia
+  event-date: 2018-07-14
+  month: July
+  year: 2018
+  event-organizer: Elpis Event Management
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624035/Logo/Logo_svfuu8.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 6HRS Women Open
+      link: /tin-mine-endurance-challenge-2018/6HRSWOMEN
+    - title: 6HRS Men Open
+      link: /tin-mine-endurance-challenge-2018/6HRSMEN
+    - title: 12HRS Women Open
+      link: /tin-mine-endurance-challenge-2018/12HRSWOMEN
+    - title:  12HRS Men Open
+      link: /tin-mine-endurance-challenge-2018/12HRSMEN
+
+- id: 47
+  title: HIGHWAY TO HEAVEN - GLOBELINK FRASER ULTRA 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Fraser Hill Pahang
+  country: Malaysia
+  address: Fraser Hill Pahang Malaysia
+  event-date: 2018-09-01
+  month: September
+  year: 2018
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624145/Logo/download_nnzjlh.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 22KM
+      link: /highway-to-heaven-globelink-2018/22KM
+    - title: 42KM
+      link: /highway-to-heaven-globelink-2018/42KM
+    - title: 70KM
+      link: /highway-to-heaven-globelink-2018/70KM
+    - title: 100KM
+      link: /highway-to-heaven-globelink-2018/100KM
+
+- id: 48
+  title: 2018 CORDILLERA MOUNTAIN ULTRA
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Benguet
+  country: Philippines
+  address: Dalupirip Itogon Benguet Philippines
+  event-date: 2018-03-03
+  month: March
+  year: 2018
+  event-organizer: Cordillera Conservation and Trust
+  banner-big:
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Vertical KM
+      link: /cordillera-mountain-ultra-2018/VERTICALKM
+    - title: 26K Mountain Run
+      link: /cordillera-mountain-ultra-2018/26K
+    - title: 50K Mountain Run
+      link: /cordillera-mountain-ultra-2018/50K
+
+- id: 49
+  title: THE 5TH ANTIQUE MARATHON 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Antique
+  country: Philippines
+  address: Sibalom Antique Philippines
+  event-date: 2018-11-04
+  month: November
+  year: 2018
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624328/Logo/5th-Antique-Marathon-2018-Teaser_yficzt.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5K Silver
+      link: /5th-antique-marathon-2018/5KM
+    - title: 10KM
+      link: /5th-antique-marathon-2018/10KM
+    - title: 21KM
+      link: /5th-antique-marathon-2018/21KM
+    - title: 42KM
+      link: /5th-antique-marathon-2018/42KM
+
+- id: 50
+  title: HANGAWAY 50 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Antique
+  country: Philippines
+  address: Egana Sibalom Antique Philippines
+  event-date: 2018-05-12
+  month: May
+  year: 2018
+  event-organizer: ART Running
+  banner-big:
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12KM
+      link: /hangaway-50-2019/12KM
+    - title: 22KM
+      link: /hangaway-50-2019/22KM
+    - title: 34KM
+      link: /hangaway-50-2019/34KM
+    - title: 50KM
+      link: /hangaway-50-2019/50KM
+
+
+      
 
 
 
