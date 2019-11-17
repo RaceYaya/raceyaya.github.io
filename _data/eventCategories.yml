@@ -731,7 +731,7 @@
   event-date: 2016-11-26
   month: November
   year: 2016
-  event-organizer: 
+  event-organizer: Atty Jon Lacanlale
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570607412/logo/cm50_p8ydpq.jpg
   timing-solution: RaceYaya
   race-categories: 
@@ -1759,7 +1759,7 @@
     - title: 5K Support HS Female
       link: /stc-qc-funrun-2016/5KSHSFEMALE
     - title: 5k Support HS Male
-      link: /stc-qc-funrun-2016/5KSHSM
+      link: /stc-qc-funrun-2016/5KSHSMALE
     - title: 5K Support GS Female
       link: /stc-qc-funrun-2016/5KGSFEMALE
 
@@ -1822,31 +1822,11 @@
   timing-solution: RaceYaya
   race-categories:
     - title: 26K
-      link: /2016-miyamit-falls-2016/26K
+      link: /2016-miyamit-falls/26K
     - title: 42K
-      link: /2016-miyamit-falls-2016/42K
+      link: /2016-miyamit-falls/42K
 
 - id: 79
-  title: 2016 CM50 CLARK MIYAMIT FALLS ULTRA
-  event-filter: 
-    - filter: trailrun
-    - filter: ultramarathon
-  city: Clark Parade Grounds
-  country: Philippines
-  address: Clark Parade Grounds Philippines
-  event-date: 2016-11-01
-  month: November
-  year: 2016
-  event-organizer: Atty Jon Lacanlale
-  banner-big: 
-  timing-solution: RaceYaya
-  race-categories:
-    - title: 50M
-      link: /2016-cm50-clark-myamit/50M
-    - title: 60K
-      link: /2016-cm50-clark-myamit/60K
-
-- id: 80
   title: 2017 COAST 2 COAST 444KM
   event-filter: 
     - filter: trailrun
@@ -1864,7 +1844,7 @@
     - title: 444KM 
       link: /2017-coast-2-coast/444KM
 
-- id: 81
+- id: 80
   title: ULTRA TRAIL MAPAWA 50 2016
   event-filter: 
     - filter: trailrun
@@ -1886,7 +1866,7 @@
     - title: 50KM
       link: /ultra-trail-mapawa-50-2016/50KM
 
-- id: 82
+- id: 81
   title: ULTRA TRAIL MAPAWA 2017
   event-filter: 
     - filter: trailrun
@@ -1906,7 +1886,7 @@
     - title: 50K
       link: /ultra-trail-mapawa-2017/50K
 
-- id: 83
+- id: 82
   title: SOLEUS CROSS COUNTRY CHALLENGE 2 2017
   event-filter: 
     - filter: trailrun
@@ -1926,7 +1906,7 @@
     - title: 21KM
       link: /soleus-cross-country-2017/21KM
 
-- id: 84
+- id: 83
   title: MOUNT PINATUBO RUN 2017
   event-filter: 
     - filter: trailrun
@@ -1947,7 +1927,7 @@
     - title: 25KM
       link: /mount-pinatubo-run-2017/25KM
 
-- id: 85
+- id: 84
   title: DEADMANS 300 2017
   event-filter: 
     - filter: trailrun
@@ -1967,7 +1947,7 @@
     - title: 50KM
       link: /deadmans-300-2017/50KM
 
-- id: 86
+- id: 85
   title: FRASER ULTRA 2017
   event-filter: 
     - filter: trailrun
