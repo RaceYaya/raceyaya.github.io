@@ -1180,6 +1180,128 @@
     - title: 50KM
       link: /hangaway-50-2019/50KM
 
+- id: 51
+  title: A TASTE OF ANTIQUE TRAILS 3 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Antique
+  country: Philippines
+  address: Aningalan San Remegio Antique Philippines
+  event-date: 2018-02-11
+  month: February
+  year: 2018
+  event-organizer: ART Running
+  banner-big:
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 8KM
+      link: /taste-of-antique-3-2018/8KM
+    - title: 16KM
+      link: /taste-of-antique-3-2018/16KM
+    - title: 25KM
+      link: /taste-of-antique-3-2018/25KM
+
+- id: 52
+  title: FITTEST TEAM  EVENT 1 THE SPARTAN WAY 2018
+  event-filter: 
+    - filter: crossfit
+  city: Makati
+  country: Philippines
+  address: Makati Philippines
+  event-date: 2018-03-01
+  month: March
+  year: 2018
+  event-organizer: Fittest Crossfit
+  banner-big:
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Heat 1 Men Duo RX
+      link: /fittest-team-spartanway-2018/heat1
+    - title: Heat 2 Men Duo Scaled
+      link: /fittest-team-spartanway-2018/heat2
+    - title: Heat 3 Trio RX
+      link: /fittest-team-spartanway-2018/heat3
+    - title: Heat 4
+      link: /fittest-team-spartanway-2018/heat4
+    - title: Heat 5 Women Duo Rx
+      link: /fittest-team-spartanway-2018/heat5
+    - title: Heat 6 Trio Scaled
+      link: /fittest-team-spartanway-2018/heat6
+    - title: Heat 7 Women Duo Scaled
+      link: /fittest-team-spartanway-2018/heat7
+    - title: Heat 8 Non Qualifiers
+      link: /fittest-team-spartanway-2018/heat8
+
+- id: 53
+  title: 2018 AMIHAN OUTRUN YOUR DREAMS
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  address: Wawa Covered Court, San Rafael, Rodriguez Rizal Philippines
+  event-date: 2018-05-27
+  month: May
+  year: 2018
+  event-organizer: Amihan
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624843/Logo/poster-22_v0xvr9.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 2K Kids
+      link: /amihan-outrun-2018/KIDS
+    - title: 6K
+      link: /amihan-outrun-2018/6K
+    - title: 10K
+      link: /amihan-outrun-2018/10K
+    - title: 22K
+      link: /amihan-outrun-2018/22K
+
+- id: 54
+  title: ADIDAS RUNNERS MNL A GAMES FINALS 2018 
+  event-filter: 
+    - filter: fitness
+  city: Makati
+  country: Philippines
+  address: Makati City Philippines
+  event-date: 2018-05-01
+  month: May
+  year: 2018
+  event-organizer: Adidas Philippines
+  banner-big:
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Wave 1
+      link: /adidas-runner-final-2018/wave1
+    - title: Wave 2
+      link: /adidas-runner-final-2018/wave2
+    - title: Wave 3
+      link: /adidas-runner-final-2018/wave3
+    - title: Wave 4
+      link: /adidas-runner-final-2018/wave4
+    - title: Wave 5
+      link: /adidas-runner-final-2018/wave5
+
+- id: 55
+  title: TRAIL FIFTY MAPAWA 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan de Oro
+  country: Philippines
+  address: Mapawa Nature Adventure Park, Mapawa, Malasag Cugman, Cagayan de Oro
+  event-date: 2018-10-28
+  month: October
+  year: 2018
+  event-organizer: Mapawa Nature Park
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625080/Logo/mapawa_ws6qg3.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5K
+      link: /trail-fifty-mapawa-2018/5K
+    - title: 21K
+      link: /trail-fifty-mapawa-2018/21K
+
 
       
 

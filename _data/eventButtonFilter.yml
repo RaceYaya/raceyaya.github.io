@@ -23,7 +23,10 @@
       filter: crossfit
 
     - name: Others 
-      filter: others 
+      filter: others
+
+    - name: Fitness 
+      filter: fitness 
 
 - id: 2
   title: Select Month
