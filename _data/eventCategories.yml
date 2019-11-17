@@ -710,7 +710,7 @@
   event-date: 2018-11-25
   month: November
   year: 2018
-  event-organizer: 
+  event-organizer: Atty Jon Lacanlale
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570607412/logo/cm50_p8ydpq.jpg
   timing-solution: RaceYaya
   race-categories: 
@@ -1301,6 +1301,139 @@
       link: /trail-fifty-mapawa-2018/5K
     - title: 21K
       link: /trail-fifty-mapawa-2018/21K
+
+- id: 56
+  title: 2018 TRAIL MARATHON MAPAWA
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan De Oro
+  country: Philippines
+  address: Mapawa Nature Adventure Park, Mapawa, Malasag Cugman, Cagayan de Oro
+  event-date: 2018-07-29
+  month: July
+  year: 2018
+  event-organizer: Mapawa Nature Park
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625214/Logo/Trail-Marathon-Mapawa_xzjdcg.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10K
+      link: /2018-trail-marathon-mapawa/10K
+    - title: 42K
+      link: /2018-trail-marathon-mapawa/42K
+
+- id: 57
+  title: TRAIL RUN MAPAWA 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan De Oro
+  country: Philippines
+  address: Mapawa Nature Adventure Park, Mapawa, Malasag Cugman, Cagayan de Oro Philippines
+  event-date: 2018-04-29
+  month: April
+  year: 2018
+  event-organizer: Mapawa Nature Park
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5K
+      link: /trailrun-mapawa-2018/5K
+    - title: 21K
+      link: /trailrun-mapawa-2018/21K
+
+- id: 58
+  title: BEACH BUNCH TRAIL CHALLENGE 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Bandar Seri Begawan
+  country: Brunei
+  address: Bandar Seri Begawan Brunei
+  event-date: 2018-03-25
+  month: March
+  year: 2018
+  event-organizer: Beach Bunch
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625354/Logo/Logo_qug4sc.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10K trail
+      link: /beach-bunch-trail-challenge-2018/10K
+    - title: 30K Trail
+      link: /beach-bunch-trail-challenge-2018/30K
+    - title: 50K Ultra Trail
+      link: /beach-bunch-trail-challenge-2018/50K
+    - title: 100K Ultra Trail
+      link: /beach-bunch-trail-challenge-2018/100K
+
+- id: 59
+  title: FAT ASS CLARK 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Clark Pampanga
+  country: Philippines
+  address: CDC Clark Parade Grounds Philippines
+  event-date: 2018-01-01
+  month: January
+  year: 2018
+  event-organizer: Atty Jon Lacanlale
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625290/Logo/Logo_wa5xi5.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 6HRS AM
+      link: /fatass-clark-2018/6HRSAM
+    - title: 6HRS PM
+      link: /fatass-clark-2018/6HRSPM
+    - title: 12HRS Morning Run
+      link: /fatass-clark-2018/12HRSAM
+    - title: 12HRS Night Run
+      link: /fatass-clark-2018/12HRSPM
+    - title: 24HRS
+      link: /fatass-clark-2018/24HRS
+
+- id: 60
+  title: 2ND MOUNT MARAMI-SILYANG BATO 21KM FKT TRAIL CHALLENGE 2018
+  event-filter: 
+    - filter: trailrun
+  city: Cavite
+  country: Philippines
+  address: Brgy Talipusngo Hall Basketball Court Maragondon Cavite Philippines
+  event-date: 2018-02-11
+  month: February
+  year: 2018
+  event-organizer: Mt Marami JC Igos
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625864/Logo/mt-marami-trail-run-2018-fb_kb1zwp.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 7KM
+      link: /2nd-marami-silyang-bato-2018/7KM
+    - title: 14KM
+      link: /2nd-marami-silyang-bato-2018/14KM
+    - title: 21KM
+      link: /2nd-marami-silyang-bato-2018/21KM
+  
+- id: 61
+  title: RIZAL MOUNTAIN RUN 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  address: BASEKAMP, Brgy Pintong Bukawe, San Mateo, Rizal Philippines
+  event-date: 2018-01-28
+  month: January
+  year: 2018
+  event-organizer: BRG
+  banner-big: RMR Logo
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link: /rizal-mountain-run-2018/15KM
+    - title: 30KM
+      link: /rizal-mountain-run-2018/30KM
+    - title: 50KM
+      link: /rizal-mountain-run-2018/50KM
 
 
       
