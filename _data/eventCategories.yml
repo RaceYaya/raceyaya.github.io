@@ -1038,6 +1038,30 @@
     - title: 50KM
       link: /deadmans-300-2018/50KM
 
+- id: 45
+  title: 
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pasuruan Jawa Timur
+  country: Indonesia
+  address: Kaliandra Resort, Prigen, Pasuruan Jawa Timur, Indonesia
+  event-date: 2018-07-14
+  month: July
+  year: 2018
+  event-organizer: Malang Trail Runners Mantra Runners
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573623800/Logo/mantra-hiam_fujkqd.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link: /malang-trail-mantra-2018/15KM
+    - title: 30KM
+      link: /malang-trail-mantra-2018/30KM
+    - title: 50KM
+      link: /malang-trail-mantra-2018/50KM
+    - title: 75KM
+      link: /malang-trail-mantra-2018/75KM
+
 
 
 
