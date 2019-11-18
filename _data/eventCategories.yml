@@ -881,7 +881,7 @@
     - filter: ultramarathon
   city: Sarawak
   country: Malaysia
-  address: Cat City capital of Sarawak
+  address: Cat City capital of Sarawak Malaysia
   event-date: 2018-03-03
   month: March
   year: 2018
@@ -894,7 +894,7 @@
     - title: 50KM
       link: /kuching-ultra-2018/50KM
     - title: 70KM
-      link: /kuching-ultra-2018/70KM
+      link: /kuching-ultra-2018/100KM
     - title: 100KM
       link: /kuching-ultra-2018/100KM
 
@@ -1425,7 +1425,7 @@
   month: January
   year: 2018
   event-organizer: BRG
-  banner-big: RMR Logo
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573615202/Logo/Logo_k6yc4p.jpg
   timing-solution: RaceYaya
   race-categories:
     - title: 15KM
