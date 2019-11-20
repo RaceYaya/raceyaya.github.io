@@ -1968,3 +1968,24 @@
       link: /fraser-ultra-2017/70KM
     - title: 100KM
       link: /fraser-ultra-2017/100KM
+
+- id: 86
+  title: Salomon Xtrail Iloilo 2019
+  event-filter: 
+    - filter: trailrun
+  city: Iloilo
+  country: Philippines
+  address: UPV Miago Iloilo Philippines
+  event-date: 2019-11-17
+  month: August
+  year: 2019
+  event-organizer: Salomon Philippines/Pretty Farm Boys
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574225691/Logo/FB_IMG_1574225620888_l04gqf.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 8K
+      link: /salomon-xtrail-iloilo-2019/8K
+    - title: 17K
+      link: /salomon-xtrail-iloilo-2019/17K
+    - title: 32K
+      link: /salomon-xtrail-iloilo-2019/32K
