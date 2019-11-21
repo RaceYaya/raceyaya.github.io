@@ -1249,7 +1249,7 @@
   timing-solution: RaceYaya
   race-categories:
     - title: 2K Kids
-      link: /amihan-outrun-2018/2K
+      link: /amihan-outrun-2018/KIDS
     - title: 6K
       link: /amihan-outrun-2018/6K
     - title: 10K
@@ -1297,10 +1297,13 @@
   banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625080/Logo/mapawa_ws6qg3.jpg
   timing-solution: RaceYaya
   race-categories:
-    - title: 5K
-      link: /trail-fifty-mapawa-2018/5K
-    - title: 21K
-      link: /trail-fifty-mapawa-2018/21K
+    - title: 50 Miles
+      link: /trail-fifty-mapawa-2018/50MILES
+    - title: 15K
+      link: /trail-fifty-mapawa-2018/15K
+    - title: 50K
+      link: /trail-fifty-mapawa-2018/50K
+  
 
 - id: 56
   title: 2018 TRAIL MARATHON MAPAWA
