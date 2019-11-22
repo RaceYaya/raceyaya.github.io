@@ -1268,7 +1268,7 @@
   month: May
   year: 2018
   event-organizer: Adidas Philippines
-  banner-big:
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574393651/Logo/AR_zeusho.jpg
   timing-solution: RaceYaya
   race-categories:
     - title: Wave 1
