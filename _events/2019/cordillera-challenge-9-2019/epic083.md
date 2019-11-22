@@ -4,7 +4,7 @@ event_category: cordillera-challenge-9-2019
 category_km: EPIC 
 event-title: 2019 CORDILLERA CHALLENGE 9 
 event-location: Tinongdan, Itogon, Benguet Philippines 
-event-logo: 
+event-logo: https://res.cloudinary.com/dykbosktl/image/upload/v1573614609/Logo/cordillera-challenge_gtvgwu.jpg
 event-date: 04-19-2019 
 checkpoint-name2: Sombrero Station (1st Loop) (T-2) 
 checkpoint-name3: Sombrero Station (2nd Loop) (T-3) 

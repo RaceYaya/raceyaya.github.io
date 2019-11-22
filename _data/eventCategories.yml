@@ -234,7 +234,7 @@
   month: March
   year: 2019
   event-organizer: Endurance Nature
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614825/Logo/Logo_p7ft6n.png
   timing-solution: RaceYaya
   race-categories: 
     - title: 50KM
@@ -261,7 +261,7 @@
   month: June
   year: 2019
   event-organizer: Endurance Nature
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614442/Logo/Logo_gqlzi3.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 100 Miles
@@ -284,7 +284,7 @@
   month: June
   year: 2019
   event-organizer: San Fernando La Union
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614176/Logo/event_logo_01_bvtsnv.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 25K Road Run
@@ -331,7 +331,7 @@
   month: July
   year: 2019
   event-organizer: Endurance Nature
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573613990/C2C%202019%20LOGO.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 444KM
@@ -351,7 +351,7 @@
   month: August
   year: 2019
   event-organizer: Endurance Nature
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573613535/Logo/logo_mfst7w.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 22KM
@@ -375,7 +375,7 @@
   month: April
   year: 2019
   event-organizer: Orani Runners
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614687/Logo/Pasukulan_Logo_ndzbkp.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 10KM
@@ -398,7 +398,7 @@
   month: April
   year: 2019
   event-organizer: Cordillera Conservation and Trust
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614609/Logo/cordillera-challenge_gtvgwu.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: Mini Epic
@@ -418,7 +418,7 @@
   month: March
   year: 2019
   event-organizer: Cordillera Conservation and Trust
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614960/Logo/Cordillera-Mountain-Ultra-2019-1280_wxhrmh.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: Kiddie Trail Run
@@ -445,7 +445,7 @@
   month: April
   year: 2019
   event-organizer: JC Dy
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614753/Logo/logo_ncmyxh.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: PNP Wave 1
@@ -477,7 +477,7 @@
   month: May
   year: 2019
   event-organizer: Be Trail Ready
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614508/Logo/DBB-Mountain-Rockstar-2019-1280_tk9x3w.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 10KM
@@ -548,7 +548,7 @@
   month: February
   year: 2019
   event-organizer: ART Running
-  banner-big: 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573615080/Logo/2019_A_TASTE_OF_ANTIQUE_TRAILS_4_ANINGALAN_REPEAT_qfwa6u.jpg
   timing-solution: RaceYaya
   race-categories: 
     - title: 8KM
@@ -1192,7 +1192,7 @@
   month: February
   year: 2018
   event-organizer: ART Running
-  banner-big:
+  banner-big: 
   timing-solution: RaceYaya
   race-categories:
     - title: 8KM
