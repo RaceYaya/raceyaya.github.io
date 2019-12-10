@@ -28,6 +28,10 @@
     - name: Fitness 
       filter: fitness 
 
+    - name: Swim 
+      filter: swim 
+
+
 - id: 2
   title: Select Month
   filter-list:

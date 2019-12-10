@@ -1990,3 +1990,24 @@
       link: /salomon-xtrail-iloilo-2019/17K
     - title: 32K
       link: /salomon-xtrail-iloilo-2019/32K
+
+- id: 87
+  title: Coron Island Swim Challenge 2019
+  event-filter: 
+    - filter: swim
+  city: Palawan
+  country: Philippines
+  address: Royal Island Resort and Watersports, Coron Palawan
+  event-date: 2019-12-08
+  month: December
+  year: 2019
+  event-organizer: Ygnite Multisports Events
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1575958949/Logo/Coron.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 1KM
+      link: /coron-island-swim-2019/1KM
+    - title: 4KM
+      link: /coron-island-swim-2019/4KM
+    - title: 6KM
+      link: /coron-island-swim-2019/6KM
