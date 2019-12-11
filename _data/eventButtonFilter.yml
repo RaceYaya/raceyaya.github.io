@@ -31,6 +31,9 @@
     - name: Swim 
       filter: swim 
 
+    - name: Fun Run
+      filter: funrun
+
 
 - id: 2
   title: Select Month

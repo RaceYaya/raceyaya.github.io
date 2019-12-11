@@ -2011,3 +2011,22 @@
       link: /coron-island-swim-2019/4KM
     - title: 6KM
       link: /coron-island-swim-2019/6KM
+
+- id: 88
+  title: Coron Island Fun Run 2019
+  event-filter: 
+    - filter: funrun
+  city: Palawan
+  country: Philippines
+  address: Coron, Palawan
+  event-date: 2019-12-08
+  month: December
+  year: 2019
+  event-organizer: Ygnite Multisports Events
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1576030401/Logo/coron_run_rp9tod.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 3KM
+      link: /coron-island-funrun-2019/3KM
+    - title: 5KM
+      link: /coron-island-funrun-2019/5KM
