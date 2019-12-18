@@ -2030,3 +2030,26 @@
       link: /coron-island-funrun-2019/3KM
     - title: 5KM
       link: /coron-island-funrun-2019/5KM
+
+- id: 89
+  title: Penang Eco 100 2018
+  event-filter: 
+    - filter: ultramarathon
+  city: Penang
+  country: Malaysia
+  address: Bukit Mertajam, Penang
+  event-date: 2018-05-12
+  month: May
+  year: 2018
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1576648106/Logo/Logo_lovxhg.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 100M
+      link: /penang-eco-100-2018/100M
+    - title: 30KM
+      link: /penang-eco-100-2018/30KM
+    - title: 50KM
+      link: /penang-eco-100-2018/50KM
+    - title: 100KM
+      link: /penang-eco-100-2018/100KM
