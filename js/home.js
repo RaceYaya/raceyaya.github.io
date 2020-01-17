@@ -1,6 +1,6 @@
 $(document).ready(function(){
   var qsRegex;
-  var selectedFilters=".2019";
+  var selectedFilters='.2020, .2019';
   var filtersCollection = {};
   var $container = $('.grid');
   $container.imagesLoaded( function(){
