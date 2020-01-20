@@ -2078,8 +2078,6 @@
     - title: 42KM
       link: /impasugong-ridge-marathon-2019/42KM
 
-
-
 - id: 91
   title: Tagaytay 50KM Ultra
   event-filter: 
@@ -2096,3 +2094,24 @@
   race-categories:
     - title: 50KM
       link: /tagaytay-50-2020/50KM
+
+- id: 92
+  title: Evil Trails 2020
+  event-filter: 
+    - filter: trailrun
+  city: Phitsalunok
+  country: Thailand
+  address: Phitsalunok Thailand
+  event-date: 2020-01-19
+  month: January
+  year: 2020
+  event-organizer: Teelakow Ltd
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1579480618/logo/evil-trails_wm80bv.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15K
+      link: /evil-trails-2020/15K
+    - title: 30K
+      link: /evil-trails-2020/30K
+    - title: 50K
+      link: /evil-trails-2020/50K
