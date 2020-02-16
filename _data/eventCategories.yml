@@ -2141,3 +2141,48 @@
       link: /pilipinas-akyathlon-2020/25KM
     - title: 49KM
       link: /pilipinas-akyathlon-2020/49KM
+
+
+- id: 94
+  title: Dahilayan Adventure Trail Run
+  event-filter: 
+    - filter: trailrun
+  city: Bukidnon
+  country: Philippines
+  address: Dahilayan Adventure Park, Bukidnon
+  event-date: 2020-02-09
+  month: February
+  year: 2020
+  event-organizer: Infinite Trails
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1581841107/logo/2020/dahilayan-adventure-park-2020_gve1jp.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5KM
+      link: /dahilayan-adventure-trail-run-2020/5KM
+    - title: 10KM
+      link: /dahilayan-adventure-trail-run-2020/10KM
+    - title: 21KM
+      link: /dahilayan-adventure-trail-run-2020/21KM
+
+- id: 95
+  title: Ultimate Trails of the South
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Johor
+  country: Malaysia
+  address: Kota Tinggi Water Falls,  Johor, Malaysia
+  event-date: 2020-02-08
+  month: February
+  year: 2020
+  event-organizer: Endurance Nature Malaysia
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1581841103/logo/2020/ultimate-trails-2020_i93dfj.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link: /ultimate-trails-of-the-south-2020/15KM
+    - title: 35KM
+      link: /ultimate-trails-of-the-south-2020/35KM
+    - title: 50KM
+      link: /ultimate-trails-of-the-south-2020/50KM
+
