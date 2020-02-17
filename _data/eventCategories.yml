@@ -2186,3 +2186,24 @@
     - title: 50KM
       link: /ultimate-trails-of-the-south-2020/50KM
 
+- id: 96
+  title: A Taste of Antique Trails
+  event-filter: 
+    - filter: trailrun
+  city: Antique
+  country: Philippines
+  address: Aningalan, Antique
+  event-date: 2020-02-09
+  month: February
+  year: 2020
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1581923594/logo/2020/atat-2020_zzhtph.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 8KM
+      link: /atat-2020/8KM
+    - title: 16KM
+      link: /atat-2020/16KM
+    - title: 25KM
+      link: /atat-2020/25KM
+
