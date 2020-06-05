@@ -1,0 +1,23 @@
+---
+permalink: /events/liveevent1/
+layout: default
+enableCategoryRank: false
+collectionTag: liveevent1
+collectionCategory: liveevent1
+css: event-result.css
+event-title: Live Event 1
+event-location: 
+event-date: 2020-06-05
+event-logo: 
+
+javascript: > 
+  <script type="text/javascript" src="/js/tablefilter.min.js"></script>
+  <script type="text/javascript" src="/js/filtable.min.js"></script>
+  <script type="text/javascript" src="/js/event-result.js"></script>
+---
+
+<div class="container">
+  {% include event-result/table-banner.html %}
+  {% include event-result/table-filter.html %}
+  {% include event-result/table-result.html %}
+</div>

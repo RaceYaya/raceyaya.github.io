@@ -2206,3 +2206,20 @@
     - title: 25KM
       link: /atat-2020/25KM
 
+- id: 97
+  title: LIVE EVENT 1
+  event-filter: 
+  city: 
+  country: 
+  address: e
+  event-date: 2020-06-05
+  month: June
+  year: 2020
+  event-organizer: 
+  banner-big: 
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Live event 1
+      link: /liveevent1
+
+
