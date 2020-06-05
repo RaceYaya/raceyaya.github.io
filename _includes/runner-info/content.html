@@ -64,6 +64,14 @@
 					</div>
 					{% endif %}
 
+					{% if page.finish-distance != null %}
+					<div class="content-container">
+							<i class="material-icons">flag</i>
+							<span class="content-title">Finish Distance</span>
+							<span class="content-value"> {{ page.finish-distance | replace: '-', ':' }}</span>
+					</div>
+					{% endif %}
+
 					<div class="content-container">
 							<span class="content-title"> Overall Rank</span>
 							<span class='content-value'> {{ page.overall_rank }}</span>

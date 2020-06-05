@@ -16,7 +16,12 @@
         
         <th data-tsort="disabled">Country</th>
         <th data-tsort="disabled">Gender</th>
+        {% if page.enableFinishDistance != true %}
         <th data-tsort-type="number">Finish Time</th>
+        {% endif %}
+        {% if page.enableFinishDistance == true %}
+        <th>Finish Distance</th>
+        {% endif %}
       </tr>
     </thead>
     <tbody>
@@ -43,8 +48,14 @@
 
           <td>{{ result.country }}</td>
           <td>{{ result.gender | slice: 0, 1 }}</td>
-      
+
+          {% if result.finish_time != null or result.race_time != null or result.finish != null %}
           <td> {{ result.finish_time | replace: '-', ':' }}{{ result.race_time | replace: '-', ':' }}{{ result.finish | replace: '-', ':' }}</td>
+          {% endif %}
+
+          {% if result.finish-distance != null %}
+          <td> {{ result.finish-distance | replace: '-', ':' }}</td>
+          {% endif %}
       </tr>
       {% endfor %}
     </tbody>
