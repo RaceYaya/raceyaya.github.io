@@ -1,0 +1,31 @@
+--- 
+layout: runner-info 
+event_category: liveevent1
+category_km: liveevent1 
+event-title: LIVE EVENT 1 
+event-location:
+event-logo: 
+event-date: 2020-06-05
+overall_rank: 0
+gender_rank: 0
+bib: 10006
+name: Jake Doe
+distance:
+gender: Female
+checkpoint-name2: Day 1
+checkpoint-name3: Day 2
+checkpoint-name4: Day 3
+checkpoint-name5: Day 4
+checkpoint-name6: Day 5
+checkpoint-name7: Day 6
+checkpoint-name8: Day 7
+checkpoint2: 1KM
+checkpoint3: 2KM
+checkpoint4: 3KM
+checkpoint5: 4KM
+checkpoint6: 5KM
+checkpoint7: 6KM
+checkpoint8: 7KM
+finish-distance: 28KM
+certificate:
+---
