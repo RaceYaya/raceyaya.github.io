@@ -2207,19 +2207,20 @@
       link: /atat-2020/25KM
 
 - id: 97
-  title: LIVE EVENT 1
+  title: YM Challenge
   event-filter: 
-  city: 
-  country: 
-  address: e
+    - filter: trailrun
+  city: Manila
+  country: Philippines
+  address: Manila, Philippines
   event-date: 2020-06-05
   month: June
   year: 2020
-  event-organizer: 
-  banner-big: 
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1592404609/logo/2020/Screen_Shot_2020-06-17_at_10.29.16_PM_dirx1v.png
   timing-solution: RaceYaya
   race-categories:
-    - title: Live event 1
+    - title: YM Challenge
       link: /liveevent1
 
 
