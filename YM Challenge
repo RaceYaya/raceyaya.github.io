@@ -1,0 +1,34 @@
+---
+published: true
+---
+--- 
+layout: runner-info 
+event_category: Individual
+category_km: Individual
+event-title: YM Challenge
+event-location:
+event-logo: ![103976075_1202554496758412_4664135603662719591_o.jpg]({{site.baseurl}}/103976075_1202554496758412_4664135603662719591_o.jpg)
+event-date: 2020-07-16
+overall_rank: 1
+gender_rank: 1
+bib: 00004
+name: John Doe
+distance: 
+gender: Male
+checkpoint-name2: Day 1
+checkpoint-name3: Day 2
+checkpoint-name4: 
+checkpoint-name5: 
+checkpoint-name6: 
+checkpoint-name7: 
+checkpoint-name8: 
+checkpoint2: 10KM
+checkpoint3: 20KM
+checkpoint4: 
+checkpoint5: 
+checkpoint6: 
+checkpoint7: 
+checkpoint8: 
+finish-distance: 
+certificate:
+---
