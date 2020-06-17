@@ -3,11 +3,11 @@ published: true
 ---
 --- 
 layout: runner-info 
-event_category: Individual
-category_km: Individual
-event-title: YM Challenge
+event_category: 
+category_km: 
+event-title: 
 event-location:
-event-logo: ![103976075_1202554496758412_4664135603662719591_o.jpg]({{site.baseurl}}/103976075_1202554496758412_4664135603662719591_o.jpg)
+event-logo:
 event-date: 2020-07-16
 overall_rank: 1
 gender_rank: 1
