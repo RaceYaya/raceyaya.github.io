@@ -2207,20 +2207,20 @@
       link: /atat-2020/25KM
 
 - id: 97
-  title: YM Challenge
+  title: RUN THE PHILIPPINE MOUNTAINS
   event-filter: 
     - filter: trailrun
-  city: Manila
+  city: 
   country: Philippines
-  address: Manila, Philippines
-  event-date: 2020-06-05
+  address: Philippines
+  event-date: 2020-07-25
   month: June
   year: 2020
   event-organizer: Raceyaya
-  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1592404609/logo/2020/Screen_Shot_2020-06-17_at_10.29.16_PM_dirx1v.png
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
   timing-solution: RaceYaya
   race-categories:
-    - title: YM Challenge
-      link: /liveevent1
+    - title: RUN THE PHILIPPINE MOUNTAINS
+      link: /runph-2020
 
 
