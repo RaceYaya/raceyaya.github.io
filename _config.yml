@@ -29,12 +29,6 @@ collections:
 prose:
   rooturl: "_events"
   siteurl: "https://results.raceyaya.com/"
-  metadata:
-    _events:
-      - name: "published"
-        field:
-          element: 'hidden'
-          value: true
 
 exclude:
   - .sass-cache/
@@ -47,4 +41,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+
 
