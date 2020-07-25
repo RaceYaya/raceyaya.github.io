@@ -2207,7 +2207,109 @@
       link: /atat-2020/25KM
 
 - id: 97
-  title: RUN THE PHILIPPINE MOUNTAINS
+  title: RUN THE PHILIPPINE MOUNTAINS DAY 6
+  event-filter: 
+    - filter: trailrun
+  city: 
+  country: Philippines
+  address: Philippines
+  event-date: 2020-07-25
+  month: July
+  year: 2020
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Day 6
+      link: /runph-2020/day6
+
+- id: 98
+  title: RUN THE PHILIPPINE MOUNTAINS DAY 5
+  event-filter: 
+    - filter: trailrun
+  city: 
+  country: Philippines
+  address: Philippines
+  event-date: 2020-07-25
+  month: July
+  year: 2020
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Day 5
+      link: /runph-2020/day5
+
+- id: 99
+  title: RUN THE PHILIPPINE MOUNTAINS DAY 4
+  event-filter: 
+    - filter: trailrun
+  city: 
+  country: Philippines
+  address: Philippines
+  event-date: 2020-07-25
+  month: July
+  year: 2020
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Day 4
+      link: /runph-2020/day4
+
+- id: 100
+  title: RUN THE PHILIPPINE MOUNTAINS DAY 3
+  event-filter: 
+    - filter: trailrun
+  city: 
+  country: Philippines
+  address: Philippines
+  event-date: 2020-07-25
+  month: July
+  year: 2020
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Day 3
+      link: /runph-2020/day3
+
+- id: 101
+  title: RUN THE PHILIPPINE MOUNTAINS DAY 2
+  event-filter: 
+    - filter: trailrun
+  city: 
+  country: Philippines
+  address: Philippines
+  event-date: 2020-07-25
+  month: July
+  year: 2020
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Day 2
+      link: /runph-2020/day2
+
+- id: 102
+  title: RUN THE PHILIPPINE MOUNTAINS DAY 1
+  event-filter: 
+    - filter: trailrun
+  city: 
+  country: Philippines
+  address: Philippines
+  event-date: 2020-07-25
+  month: July
+  year: 2020
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Day 1
+      link: /runph-2020/day1
+
+- id: 103
+  title: RUN THE PHILIPPINE MOUNTAINS DAY 7
   event-filter: 
     - filter: trailrun
   city: 
@@ -2222,18 +2324,10 @@
   race-categories:
     - title: Day 7
       link: /runph-2020/day7
-    - title: Day 1
-      link: /runph-2020/day1
-    - title: Day 2
-      link: /runph-2020/day2
-    - title: Day 3
-      link: /runph-2020/day3
-    - title: Day 4
-      link: /runph-2020/day4
-    - title: Day 5
-      link: /runph-2020/day5
-    - title: Day 6
-      link: /runph-2020/day6
-      
+
+
+
+
+
 
 
