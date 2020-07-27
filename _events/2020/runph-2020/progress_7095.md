@@ -21,13 +21,13 @@ first_name: ahlecks
 last_name: Lacsama
 gender: Male
 country: Philippines
-checkpoint1: 102
-checkpoint2: 489
-checkpoint3: 
+checkpoint2: 102
+checkpoint3: 489
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 591
+checkpoint8: 
+checkpoint9: 591
 finish_time: 2-46-41
 --- 

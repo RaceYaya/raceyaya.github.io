@@ -21,13 +21,13 @@ first_name: Alvin Kenneth
 last_name: Agsaway
 gender: Male
 country: Philippines
-checkpoint1: 585
-checkpoint2: 
+checkpoint2: 585
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 585
+checkpoint8: 
+checkpoint9: 585
 finish_time: 0-54-42
 --- 

@@ -21,13 +21,13 @@ first_name: jayson
 last_name: academia
 gender: Male
 country: Philippines
-checkpoint1: 544
-checkpoint2: 545
-checkpoint3: 
+checkpoint2: 544
+checkpoint3: 545
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1089
+checkpoint8: 
+checkpoint9: 1089
 finish_time: 3-54-58
 --- 

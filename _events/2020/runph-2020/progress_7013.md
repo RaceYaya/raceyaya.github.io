@@ -21,13 +21,13 @@ first_name: Maria Luisa
 last_name: Prado
 gender: Female
 country: Philippines
-checkpoint1: 2
-checkpoint2: 11
-checkpoint3: 
+checkpoint2: 2
+checkpoint3: 11
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 13
+checkpoint8: 
+checkpoint9: 13
 finish_time: 4-27-31
 --- 

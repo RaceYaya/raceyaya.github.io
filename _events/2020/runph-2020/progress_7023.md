@@ -21,13 +21,13 @@ first_name: Richard Ryan
 last_name: Rentillo
 gender: Male
 country: Philippines
-checkpoint1: 847
-checkpoint2: 720
-checkpoint3: 
+checkpoint2: 847
+checkpoint3: 720
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1567
+checkpoint8: 
+checkpoint9: 1567
 finish_time: 13-03-42
 --- 

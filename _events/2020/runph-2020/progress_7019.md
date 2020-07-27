@@ -21,13 +21,13 @@ first_name: Jocel
 last_name: Lanas Pangan
 gender: Female
 country: Philippines
-checkpoint1: 797
-checkpoint2: 997
-checkpoint3: 
+checkpoint2: 797
+checkpoint3: 997
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1794
+checkpoint8: 
+checkpoint9: 1794
 finish_time: 7-34-54
 --- 

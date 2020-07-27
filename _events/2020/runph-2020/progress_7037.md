@@ -21,13 +21,13 @@ first_name: Ahmad
 last_name: CHOFIFIN
 gender: Male
 country: Indonesia
-checkpoint1: 802
-checkpoint2: 
+checkpoint2: 802
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 802
+checkpoint8: 
+checkpoint9: 802
 finish_time: 3-41-10
 --- 

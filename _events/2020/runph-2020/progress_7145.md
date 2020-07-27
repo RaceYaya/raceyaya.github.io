@@ -21,13 +21,13 @@ first_name: Philippe
 last_name: Danielle
 gender: Male
 country: Singapore
-checkpoint1: 
-checkpoint2: 1000
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1000
+checkpoint8: 
+checkpoint9: 1000
 finish_time: 2-50-00
 --- 

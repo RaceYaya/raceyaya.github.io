@@ -21,13 +21,13 @@ first_name: Alam
 last_name: Raga
 gender: Male
 country: Indonesia
-checkpoint1: 973
-checkpoint2: 
+checkpoint2: 973
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 973
+checkpoint8: 
+checkpoint9: 973
 finish_time: 4-48-00
 --- 

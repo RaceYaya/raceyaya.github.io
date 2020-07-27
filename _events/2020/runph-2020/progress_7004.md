@@ -21,13 +21,13 @@ first_name: Edmund
 last_name: Deles
 gender: Male
 country: Philippines
-checkpoint1: 
-checkpoint2: 242
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 242
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 242
+checkpoint8: 
+checkpoint9: 242
 finish_time: 4-06-37
 --- 

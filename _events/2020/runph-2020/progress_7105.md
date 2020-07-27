@@ -21,13 +21,13 @@ first_name: John
 last_name: Ellis
 gender: Male
 country: Australia
-checkpoint1: 
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 0
+checkpoint8: 
+checkpoint9: 0
 finish_time: 0-00-00
 --- 

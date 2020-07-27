@@ -21,13 +21,13 @@ first_name: Ariel
 last_name: Burao
 gender: Male
 country: Philippines
-checkpoint1: 249
-checkpoint2: 400
-checkpoint3: 
+checkpoint2: 249
+checkpoint3: 400
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 649
+checkpoint8: 
+checkpoint9: 649
 finish_time: 2-57-25
 --- 

@@ -21,13 +21,13 @@ first_name: Chris Anthony
 last_name: Garcia
 gender: Male
 country: Philippines
-checkpoint1: 442
-checkpoint2: 647
-checkpoint3: 
+checkpoint2: 442
+checkpoint3: 647
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1089
+checkpoint8: 
+checkpoint9: 1089
 finish_time: 5-09-01
 --- 

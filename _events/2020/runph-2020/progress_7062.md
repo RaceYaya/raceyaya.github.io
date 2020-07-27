@@ -21,13 +21,13 @@ first_name: Hilman
 last_name: Maulana
 gender: Male
 country: Indonesia
-checkpoint1: 1000
 checkpoint2: 1000
-checkpoint3: 
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 2000
+checkpoint8: 
+checkpoint9: 2000
 finish_time: 2-18-35
 --- 

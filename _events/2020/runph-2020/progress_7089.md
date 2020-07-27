@@ -21,13 +21,13 @@ first_name: SUWARDI
 last_name: 
 gender: Male
 country: Indonesia
-checkpoint1: 
-checkpoint2: 1000
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1000
+checkpoint8: 
+checkpoint9: 1000
 finish_time: 4-30-00
 --- 

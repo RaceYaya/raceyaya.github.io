@@ -21,13 +21,13 @@ first_name: Pramudya
 last_name: Darmawan
 gender: Male
 country: Indonesia
-checkpoint1: 784
-checkpoint2: 1000
-checkpoint3: 
+checkpoint2: 784
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1784
+checkpoint8: 
+checkpoint9: 1784
 finish_time: 6-50-12
 --- 

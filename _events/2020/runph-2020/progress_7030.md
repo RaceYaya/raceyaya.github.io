@@ -21,13 +21,13 @@ first_name: Ade Linda
 last_name: Megasari
 gender: Female
 country: Indonesia
-checkpoint1: 1000
-checkpoint2: 633
-checkpoint3: 
+checkpoint2: 1000
+checkpoint3: 633
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1633
+checkpoint8: 
+checkpoint9: 1633
 finish_time: 3-24-08
 --- 

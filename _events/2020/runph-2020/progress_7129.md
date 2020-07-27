@@ -21,13 +21,13 @@ first_name: Carlo
 last_name: De Los Reyes
 gender: Male
 country: Philippines
-checkpoint1: 718
-checkpoint2: 
+checkpoint2: 718
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 718
+checkpoint8: 
+checkpoint9: 718
 finish_time: 3-02-36
 --- 

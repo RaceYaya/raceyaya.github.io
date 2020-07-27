@@ -21,13 +21,13 @@ first_name: Em Em
 last_name: Aban
 gender: Female
 country: Philippines
-checkpoint1: 
-checkpoint2: 742
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 742
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 742
+checkpoint8: 
+checkpoint9: 742
 finish_time: 2-37-10
 --- 

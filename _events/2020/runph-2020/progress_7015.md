@@ -21,13 +21,13 @@ first_name: John Brian
 last_name: Estares
 gender: Male
 country: Philippine
-checkpoint1: 704
-checkpoint2: 878
-checkpoint3: 
+checkpoint2: 704
+checkpoint3: 878
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1582
+checkpoint8: 
+checkpoint9: 1582
 finish_time: 1-28-15
 --- 

@@ -21,13 +21,13 @@ first_name: Ichsan
 last_name: Juanda
 gender: Male
 country: Indonesia
-checkpoint1: 
-checkpoint2: 749
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 749
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 749
+checkpoint8: 
+checkpoint9: 749
 finish_time: 3-04-00
 --- 

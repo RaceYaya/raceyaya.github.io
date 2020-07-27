@@ -21,13 +21,13 @@ first_name: Eva Marie
 last_name: Soquena
 gender: Female
 country: Philippines
-checkpoint1: 
-checkpoint2: 20
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 20
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 20
+checkpoint8: 
+checkpoint9: 20
 finish_time: 0-00-00
 --- 

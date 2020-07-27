@@ -21,13 +21,13 @@ first_name: Mahdi
 last_name: Manshuri
 gender: Male
 country: Indonesia
-checkpoint1: 
-checkpoint2: 1016
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 1016
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1016
+checkpoint8: 
+checkpoint9: 1016
 finish_time: 1-30-00
 --- 

@@ -21,13 +21,13 @@ first_name: Elle
 last_name: Alvarez
 gender: Female
 country: Philippines
-checkpoint1: 291
-checkpoint2: 
+checkpoint2: 291
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 291
+checkpoint8: 
+checkpoint9: 291
 finish_time: 1-55-09
 --- 

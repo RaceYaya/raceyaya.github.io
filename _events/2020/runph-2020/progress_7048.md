@@ -21,13 +21,13 @@ first_name: Dendi
 last_name: DWITIANDI
 gender: Male
 country: Indonesia
-checkpoint1: 421
-checkpoint2: 197
-checkpoint3: 
+checkpoint2: 421
+checkpoint3: 197
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 618
+checkpoint8: 
+checkpoint9: 618
 finish_time: 3-28-33
 --- 

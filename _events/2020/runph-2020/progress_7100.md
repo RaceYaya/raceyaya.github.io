@@ -21,13 +21,13 @@ first_name: Amy
 last_name: Khor
 gender: Female
 country: Singapore
-checkpoint1: 1000
-checkpoint2: 
+checkpoint2: 1000
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1000
+checkpoint8: 
+checkpoint9: 1000
 finish_time: 2-47-08
 --- 

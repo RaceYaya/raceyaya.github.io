@@ -21,13 +21,13 @@ first_name: David
 last_name: Longo
 gender: Male
 country: Australia
-checkpoint1: 497
-checkpoint2: 861
-checkpoint3: 
+checkpoint2: 497
+checkpoint3: 861
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1358
+checkpoint8: 
+checkpoint9: 1358
 finish_time: 3-10-40
 --- 

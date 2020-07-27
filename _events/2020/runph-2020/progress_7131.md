@@ -21,13 +21,13 @@ first_name: Sharon Rose
 last_name: Torres
 gender: Female
 country: Philippines
-checkpoint1: 505
-checkpoint2: 0
-checkpoint3: 
+checkpoint2: 505
+checkpoint3: 0
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 505
+checkpoint8: 
+checkpoint9: 505
 finish_time: 4-58-14
 --- 

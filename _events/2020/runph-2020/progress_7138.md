@@ -21,13 +21,13 @@ first_name: Habiba
 last_name: Benahmed
 gender: Female
 country: Hong kong
-checkpoint1: 1000
 checkpoint2: 1000
-checkpoint3: 
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 2000
+checkpoint8: 
+checkpoint9: 2000
 finish_time: 8-39-00
 --- 

@@ -21,13 +21,13 @@ first_name: Jonathan
 last_name: Espinosa
 gender: Male
 country: Philippines
-checkpoint1: 876
-checkpoint2: 1000
-checkpoint3: 
+checkpoint2: 876
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1876
+checkpoint8: 
+checkpoint9: 1876
 finish_time: 9-43-52
 --- 

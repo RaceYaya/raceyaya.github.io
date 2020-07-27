@@ -21,13 +21,13 @@ first_name: Bruce
 last_name: Lambatan
 gender: Male
 country: Philippines
-checkpoint1: 193
-checkpoint2: 243
-checkpoint3: 
+checkpoint2: 193
+checkpoint3: 243
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 436
+checkpoint8: 
+checkpoint9: 436
 finish_time: 2-36-38
 --- 

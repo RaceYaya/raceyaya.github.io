@@ -21,13 +21,13 @@ first_name: Kirk
 last_name: Milan
 gender: Male
 country: Philippines
-checkpoint1: 73
-checkpoint2: 
+checkpoint2: 73
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 73
+checkpoint8: 
+checkpoint9: 73
 finish_time: 0-53-50
 --- 

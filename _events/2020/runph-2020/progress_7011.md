@@ -21,13 +21,13 @@ first_name: Ruth
 last_name: Theresia
 gender: Female
 country: Indonesia
-checkpoint1: 860
-checkpoint2: 1000
-checkpoint3: 
+checkpoint2: 860
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1860
+checkpoint8: 
+checkpoint9: 1860
 finish_time: 4-50-50
 --- 

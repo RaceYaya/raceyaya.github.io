@@ -21,13 +21,13 @@ first_name: Trisha
 last_name: Reyes
 gender: Female
 country: Philippines
-checkpoint1: 659
-checkpoint2: 412
-checkpoint3: 
+checkpoint2: 659
+checkpoint3: 412
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1071
+checkpoint8: 
+checkpoint9: 1071
 finish_time: 6-27-00
 --- 

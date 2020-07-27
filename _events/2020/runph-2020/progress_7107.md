@@ -21,13 +21,13 @@ first_name: Christine
 last_name: Ferrera
 gender: Female
 country: Philippines
-checkpoint1: 
-checkpoint2: 90
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 90
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 90
+checkpoint8: 
+checkpoint9: 90
 finish_time: 0-46-00
 --- 

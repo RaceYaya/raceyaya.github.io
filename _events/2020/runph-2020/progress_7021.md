@@ -21,13 +21,13 @@ first_name: Maria Vicenta
 last_name: Gado
 gender: Female
 country: Philippines
-checkpoint1: 
-checkpoint2: 363
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 363
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 363
+checkpoint8: 
+checkpoint9: 363
 finish_time: 3-43-28
 --- 

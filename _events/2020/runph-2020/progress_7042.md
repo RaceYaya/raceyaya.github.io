@@ -21,13 +21,13 @@ first_name: Arsudi
 last_name: Golden
 gender: Male
 country: Indonesia
-checkpoint1: 492
-checkpoint2: 349
-checkpoint3: 
+checkpoint2: 492
+checkpoint3: 349
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 841
+checkpoint8: 
+checkpoint9: 841
 finish_time: 3-36-50
 --- 

@@ -21,13 +21,13 @@ first_name: Elis
 last_name: NURMALIA
 gender: Female
 country: Indonesia
-checkpoint1: 1000
-checkpoint2: 480
-checkpoint3: 
+checkpoint2: 1000
+checkpoint3: 480
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1480
+checkpoint8: 
+checkpoint9: 1480
 finish_time: 8-42-52
 --- 

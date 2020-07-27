@@ -21,13 +21,13 @@ first_name: Leonardus
 last_name: BAGUS
 gender: Male
 country: Indonesia
-checkpoint1: 
-checkpoint2: 996
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 996
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 996
+checkpoint8: 
+checkpoint9: 996
 finish_time: 6-00-00
 --- 

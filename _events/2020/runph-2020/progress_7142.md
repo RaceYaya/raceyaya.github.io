@@ -21,13 +21,13 @@ first_name: Anthony
 last_name: Calixterio
 gender: Male
 country: Philippines
-checkpoint1: 34
-checkpoint2: 
+checkpoint2: 34
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 34
+checkpoint8: 
+checkpoint9: 34
 finish_time: 0-46-11
 --- 

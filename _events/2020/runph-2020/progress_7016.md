@@ -21,13 +21,13 @@ first_name: Bobby Victorio
 last_name: Novarro
 gender: Male
 country: Indonesia
-checkpoint1: 1000
-checkpoint2: 
+checkpoint2: 1000
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1000
+checkpoint8: 
+checkpoint9: 1000
 finish_time: 3-09-18
 --- 

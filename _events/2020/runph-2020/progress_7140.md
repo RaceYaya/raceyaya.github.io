@@ -21,13 +21,13 @@ first_name: Steven
 last_name: Carr
 gender: Male
 country: Hong kong
-checkpoint1: 
-checkpoint2: 96
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 96
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 96
+checkpoint8: 
+checkpoint9: 96
 finish_time: 0-37-01
 --- 

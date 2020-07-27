@@ -21,13 +21,13 @@ first_name: Carla
 last_name: Jereza
 gender: Female
 country: Philippines
-checkpoint1: 
-checkpoint2: 155
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 155
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 155
+checkpoint8: 
+checkpoint9: 155
 finish_time: 1-06-16
 --- 

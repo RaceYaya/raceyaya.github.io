@@ -21,13 +21,13 @@ first_name: Dennis
 last_name: Savellano
 gender: Male
 country: Philippines
-checkpoint1: 510
-checkpoint2: 995
-checkpoint3: 
+checkpoint2: 510
+checkpoint3: 995
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1505
+checkpoint8: 
+checkpoint9: 1505
 finish_time: 6-41-03
 --- 

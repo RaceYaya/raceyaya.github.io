@@ -21,13 +21,13 @@ first_name: Syahrul
 last_name: Ramandhani
 gender: Male
 country: Indonesia
-checkpoint1: 
-checkpoint2: 580
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 580
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 580
+checkpoint8: 
+checkpoint9: 580
 finish_time: 1-40-09
 --- 

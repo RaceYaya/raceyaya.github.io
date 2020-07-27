@@ -21,13 +21,13 @@ first_name: Vin
 last_name: Yeo
 gender: Male
 country: Malaysia
-checkpoint1: 576
-checkpoint2: 
+checkpoint2: 576
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 576
+checkpoint8: 
+checkpoint9: 576
 finish_time: 2-03-09
 --- 

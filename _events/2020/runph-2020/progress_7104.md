@@ -21,13 +21,13 @@ first_name: Kristian
 last_name: Joergensen
 gender: Male
 country: Denmark
-checkpoint1: 
-checkpoint2: 205
-checkpoint3: 
+checkpoint2: 
+checkpoint3: 205
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 205
+checkpoint8: 
+checkpoint9: 205
 finish_time: 0-33-12
 --- 

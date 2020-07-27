@@ -21,13 +21,13 @@ first_name: Elena
 last_name: Peralta
 gender: Female
 country: Philippines
-checkpoint1: 650
-checkpoint2: 
+checkpoint2: 650
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 650
+checkpoint8: 
+checkpoint9: 650
 finish_time: 1-21-48
 --- 

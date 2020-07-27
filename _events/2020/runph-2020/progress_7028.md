@@ -21,13 +21,13 @@ first_name: JOHN ERUEL
 last_name: OQUINO
 gender: Male
 country: Philippines
-checkpoint1: 7
-checkpoint2: 484
-checkpoint3: 
+checkpoint2: 7
+checkpoint3: 484
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 491
+checkpoint8: 
+checkpoint9: 491
 finish_time: 2-54-06
 --- 
