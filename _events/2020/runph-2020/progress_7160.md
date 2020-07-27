@@ -26,7 +26,7 @@ checkpoint3:
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
-checkpoint7: 
+checkpoint7:
 checkpoint8: 
 checkpoint9: 0
 finish_time: 0-00-00
