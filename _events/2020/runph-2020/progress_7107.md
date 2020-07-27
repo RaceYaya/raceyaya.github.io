@@ -8,14 +8,14 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/20
 event-date: 2020-07-25 
 checkpoint-name2: Day 1 
 checkpoint-name3: Day 2 
-checkpoint-name4: Day 3
+checkpoint-name4: Day 3 
 checkpoint-name5: Day 4 
-checkpoint-name6: Day 5
+checkpoint-name6: Day 5 
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 76
-gender_rank: 20
+overall_rank: 73
+gender_rank: 19
 bib: 7107
 first_name: Christine
 last_name: Ferrera
