@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: NA
+overall_rank: 999
 gender_rank: 21
 bib: 7097
 first_name: Elena
