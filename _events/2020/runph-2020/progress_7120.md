@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 80
+gender_rank: 59
 bib: 7120
 first_name: Celso
 last_name: Callo
 gender: Male
 country: Philippines
-checkpoint2: 
+checkpoint2: 207
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 207
+finish_time: 1-44-03
 --- 

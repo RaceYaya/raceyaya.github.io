@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 7
-gender_rank: 7
+overall_rank: 27
+gender_rank: 22
 bib: 7052
 first_name: Dresti
 last_name: Salancca

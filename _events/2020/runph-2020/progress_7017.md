@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 40
-gender_rank: 29
+overall_rank: 43
+gender_rank: 34
 bib: 7017
 first_name: Chris Anthony
 last_name: Garcia
@@ -23,11 +23,11 @@ gender: Male
 country: Philippines
 checkpoint2: 442
 checkpoint3: 647
-checkpoint4: 
+checkpoint4: 658
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1089
-finish_time: 5-09-01
+checkpoint9: 1747
+finish_time: 7-00-54
 --- 

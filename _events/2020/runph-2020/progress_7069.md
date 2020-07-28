@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 51
-gender_rank: 38
+overall_rank: 61
+gender_rank: 44
 bib: 7069
 first_name: Leonardus
 last_name: BAGUS

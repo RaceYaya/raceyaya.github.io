@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 38
-gender_rank: 27
+overall_rank: 46
+gender_rank: 36
 bib: 7137
 first_name: David
 last_name: Longo
@@ -23,11 +23,11 @@ gender: Male
 country: Australia
 checkpoint2: 497
 checkpoint3: 861
-checkpoint4: 
+checkpoint4: 247
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1358
-finish_time: 3-10-40
+checkpoint9: 1605
+finish_time: 3-45-46
 --- 

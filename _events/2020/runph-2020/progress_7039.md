@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 52
-gender_rank: 39
+overall_rank: 41
+gender_rank: 33
 bib: 7039
 first_name: Alam
 last_name: Raga
@@ -23,11 +23,11 @@ gender: Male
 country: Indonesia
 checkpoint2: 973
 checkpoint3: 
-checkpoint4: 
+checkpoint4: 1000
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 973
-finish_time: 4-48-00
+checkpoint9: 1973
+finish_time: 9-49-49
 --- 

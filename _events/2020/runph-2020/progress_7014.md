@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 74
-gender_rank: 55
+overall_rank: 83
+gender_rank: 61
 bib: 7014
 first_name: Kirk
 last_name: Milan
@@ -23,11 +23,11 @@ gender: Male
 country: Philippines
 checkpoint2: 73
 checkpoint3: 
-checkpoint4: 
+checkpoint4: 85
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 73
-finish_time: 0-53-50
+checkpoint9: 158
+finish_time: 1-50-17
 --- 

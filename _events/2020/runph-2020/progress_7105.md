@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 77
+gender_rank: 57
 bib: 7105
 first_name: John
 last_name: Ellis
 gender: Male
 country: Australia
 checkpoint2: 
-checkpoint3: 
-checkpoint4: 
+checkpoint3: 65
+checkpoint4: 410
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 475
+finish_time: 1-22-38
 --- 

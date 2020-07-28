@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 1
-gender_rank: 1
+overall_rank: 2
+gender_rank: 2
 bib: 7062
 first_name: Hilman
 last_name: Maulana
@@ -23,11 +23,11 @@ gender: Male
 country: Indonesia
 checkpoint2: 1000
 checkpoint3: 1000
-checkpoint4: 
+checkpoint4: 1000
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 2000
-finish_time: 2-18-35
+checkpoint9: 3000
+finish_time: 3-16-54
 --- 

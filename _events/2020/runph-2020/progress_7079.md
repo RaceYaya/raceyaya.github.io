@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 33
-gender_rank: 24
+overall_rank: 21
+gender_rank: 16
 bib: 7079
 first_name: Pramudya
 last_name: Darmawan
@@ -23,11 +23,11 @@ gender: Male
 country: Indonesia
 checkpoint2: 784
 checkpoint3: 1000
-checkpoint4: 
+checkpoint4: 834
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1784
-finish_time: 6-50-12
+checkpoint9: 2618
+finish_time: 8-32-25
 --- 

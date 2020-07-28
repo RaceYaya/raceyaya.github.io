@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 53
-gender_rank: 40
+overall_rank: 64
+gender_rank: 47
 bib: 7042
 first_name: Arsudi
 last_name: Golden

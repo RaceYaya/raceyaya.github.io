@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 66
-gender_rank: 51
+overall_rank: 75
+gender_rank: 55
 bib: 7026
 first_name: Bruce
 last_name: Lambatan
@@ -23,11 +23,11 @@ gender: Male
 country: Philippines
 checkpoint2: 193
 checkpoint3: 243
-checkpoint4: 
+checkpoint4: 115
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 436
-finish_time: 2-36-38
+checkpoint9: 551
+finish_time: 3-24-35
 --- 

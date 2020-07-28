@@ -23,11 +23,11 @@ gender: Male
 country: Indonesia
 checkpoint2: 1000
 checkpoint3: 1000
-checkpoint4: 
+checkpoint4: 1000
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 2000
-finish_time: 2-33-06
+checkpoint9: 3000
+finish_time: 3-35-37
 --- 

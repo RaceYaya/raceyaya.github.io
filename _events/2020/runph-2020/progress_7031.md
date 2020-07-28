@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 39
-gender_rank: 28
+overall_rank: 50
+gender_rank: 38
 bib: 7031
 first_name: jayson
 last_name: academia
@@ -23,11 +23,11 @@ gender: Male
 country: Philippines
 checkpoint2: 544
 checkpoint3: 545
-checkpoint4: 
+checkpoint4: 183
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1089
-finish_time: 3-54-58
+checkpoint9: 1272
+finish_time: 4-37-49
 --- 

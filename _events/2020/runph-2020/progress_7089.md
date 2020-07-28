@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 48
-gender_rank: 36
+overall_rank: 58
+gender_rank: 42
 bib: 7089
 first_name: SUWARDI
 last_name: 

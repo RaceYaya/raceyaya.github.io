@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 35
-gender_rank: 25
+overall_rank: 22
+gender_rank: 17
 bib: 7023
 first_name: Richard Ryan
 last_name: Rentillo
@@ -23,11 +23,11 @@ gender: Male
 country: Philippines
 checkpoint2: 847
 checkpoint3: 720
-checkpoint4: 
+checkpoint4: 1000
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1567
-finish_time: 13-03-42
+checkpoint9: 2567
+finish_time: 19-19-40
 --- 

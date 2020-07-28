@@ -14,15 +14,15 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 
+gender_rank: 
 bib: 7007
 first_name: Jasmine
 last_name: De Villa
 gender: Female
 country: Philippines
 checkpoint2: 
-checkpoint3: 742
+checkpoint3: 
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 

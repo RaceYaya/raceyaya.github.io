@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: NA
+gender_rank: 21
 bib: 7097
 first_name: Elena
 last_name: Peralta
@@ -29,5 +29,5 @@ checkpoint6:
 checkpoint7: 
 checkpoint8: 
 checkpoint9: 650
-finish_time: 1-21-48
+finish_time: 1-41-48
 --- 

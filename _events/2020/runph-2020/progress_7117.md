@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 43
-gender_rank: 12
+overall_rank: 52
+gender_rank: 13
 bib: 7117
 first_name: Trisha
 last_name: Reyes

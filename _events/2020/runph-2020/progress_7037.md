@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 54
-gender_rank: 41
+overall_rank: 65
+gender_rank: 48
 bib: 7037
 first_name: Ahmad
 last_name: CHOFIFIN

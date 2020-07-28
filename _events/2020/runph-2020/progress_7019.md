@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 32
-gender_rank: 9
+overall_rank: 34
+gender_rank: 6
 bib: 7019
 first_name: Jocel
 last_name: Lanas Pangan
 gender: Female
 country: Philippines
-checkpoint2: 797
-checkpoint3: 997
+checkpoint2: 1000
+checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1794
-finish_time: 7-34-54
+checkpoint9: 2000
+finish_time: 8-34-14
 --- 

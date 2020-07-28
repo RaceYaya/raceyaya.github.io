@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 27
-gender_rank: 22
+overall_rank: 40
+gender_rank: 32
 bib: 7036
 first_name: Aditya
 last_name: MOHAMAD

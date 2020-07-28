@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 66
+gender_rank: 18
 bib: 7022
 first_name: Placida
 last_name: Pongasi
 gender: Female
 country: Philippines
 checkpoint2: 
-checkpoint3: 
+checkpoint3: 758
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 758
+finish_time: 2-36-00
 --- 
