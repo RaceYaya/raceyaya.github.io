@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 38
-gender_rank: 31
+overall_rank: 35
+gender_rank: 27
 bib: 7064
 first_name: Ichan
 last_name: Sutiswan
@@ -24,10 +24,10 @@ country: Indonesia
 checkpoint2: 
 checkpoint3: 1000
 checkpoint4: 1000
-checkpoint5: 
+checkpoint5: 1000
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 2000
-finish_time: 10-46-13
+checkpoint9: 3000
+finish_time: 13-54-39
 --- 

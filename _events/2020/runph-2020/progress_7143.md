@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 70
+overall_rank: 68
 gender_rank: 20
 bib: 7143
 first_name: Elle
@@ -25,9 +25,9 @@ checkpoint2: 291
 checkpoint3: 
 checkpoint4: 407
 checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint6: 108
+checkpoint7: 505
 checkpoint8: 
-checkpoint9: 698
-finish_time: 3-46-35
+checkpoint9: 1311
+finish_time: 6-46-31
 --- 

@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 65
-gender_rank: 48
+overall_rank: 63
+gender_rank: 46
 bib: 7037
 first_name: Ahmad
 last_name: CHOFIFIN
@@ -23,11 +23,11 @@ gender: Male
 country: Indonesia
 checkpoint2: 802
 checkpoint3: 
-checkpoint4: 
-checkpoint5: 
-checkpoint6: 
+checkpoint4: 441
+checkpoint5: 74
+checkpoint6: 452
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 802
-finish_time: 3-41-10
+checkpoint9: 1769
+finish_time: 9-06-11
 --- 

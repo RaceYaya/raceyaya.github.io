@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 79
-gender_rank: 58
+overall_rank: 97
+gender_rank: 68
 bib: 7004
 first_name: Edmund
 last_name: Deles
 gender: Male
 country: Philippines
 checkpoint2: 
-checkpoint3: 242
+checkpoint3: 265
 checkpoint4: 
-checkpoint5: 
+checkpoint5: 55
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 242
-finish_time: 4-06-37
+checkpoint9: 320
+finish_time: 5-11-50
 --- 

@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 87
-gender_rank: 26
+overall_rank: 95
+gender_rank: 29
 bib: 7096
 first_name: Jeshiel
 last_name: Rosales
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 51
-checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint5: 42
+checkpoint6: 73
+checkpoint7: 187
 checkpoint8: 
-checkpoint9: 51
-finish_time: 0-52-49
+checkpoint9: 353
+finish_time: 2-40-16
 --- 

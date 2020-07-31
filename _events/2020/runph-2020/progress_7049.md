@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 56
+overall_rank: 52
 gender_rank: 15
 bib: 7049
 first_name: Dewi
@@ -24,10 +24,10 @@ country: Indonesia
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 1000
-checkpoint5: 
-checkpoint6: 
+checkpoint5: 812
+checkpoint6: 480
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1000
-finish_time: 2-22-08
+checkpoint9: 2292
+finish_time: 4-01-07
 --- 

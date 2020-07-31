@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 68
-gender_rank: 19
+overall_rank: 78
+gender_rank: 22
 bib: 7025
 first_name: Em Em
 last_name: Aban
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 
 checkpoint3: 742
 checkpoint4: 
-checkpoint5: 
+checkpoint5: 280
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 742
-finish_time: 2-37-10
+checkpoint9: 1022
+finish_time: 3-55-16
 --- 

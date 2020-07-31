@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 32
-gender_rank: 27
+overall_rank: 18
+gender_rank: 16
 bib: 7012
 first_name: Freddie
 last_name: Blanco
@@ -25,9 +25,9 @@ checkpoint2: 1000
 checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
-checkpoint6: 
+checkpoint6: 1000
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 2000
-finish_time: 6-53-24
+checkpoint9: 3000
+finish_time: 8-53-24
 --- 

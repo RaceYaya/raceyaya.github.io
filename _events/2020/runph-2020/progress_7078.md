@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 60
-gender_rank: 17
+overall_rank: 38
+gender_rank: 10
 bib: 7078
 first_name: Nuke
 last_name: ARTANTI
@@ -24,10 +24,10 @@ country: Indonesia
 checkpoint2: 1000
 checkpoint3: 
 checkpoint4: 
-checkpoint5: 
+checkpoint5: 1000
 checkpoint6: 
-checkpoint7: 
+checkpoint7: 1000
 checkpoint8: 
-checkpoint9: 1000
-finish_time: 6-18-00
+checkpoint9: 3000
+finish_time: 15-28-02
 --- 

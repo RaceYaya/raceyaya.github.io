@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 62
+gender_rank: 45
 bib: 7071
 first_name: M Yusuf
 last_name: APRIAN
@@ -23,11 +23,11 @@ gender: Male
 country: Indonesia
 checkpoint2: 
 checkpoint3: 
-checkpoint4: 
-checkpoint5: 
+checkpoint4: 779
+checkpoint5: 1000
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 1779
+finish_time: 10-24-51
 --- 

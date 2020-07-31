@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 64
-gender_rank: 47
+overall_rank: 70
+gender_rank: 50
 bib: 7042
 first_name: Arsudi
 last_name: Golden
@@ -24,10 +24,10 @@ country: Indonesia
 checkpoint2: 492
 checkpoint3: 349
 checkpoint4: 
-checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint5: 33
+checkpoint6: 35
+checkpoint7: 366
 checkpoint8: 
-checkpoint9: 841
-finish_time: 3-36-50
+checkpoint9: 1275
+finish_time: 7-17-01
 --- 

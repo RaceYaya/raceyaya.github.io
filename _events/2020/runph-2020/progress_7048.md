@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 45
-gender_rank: 35
+overall_rank: 12
+gender_rank: 11
 bib: 7048
 first_name: Dendi
 last_name: DWITIANDI
 gender: Male
 country: Indonesia
-checkpoint2: 421
-checkpoint3: 197
+checkpoint2: 
+checkpoint3: 
 checkpoint4: 1000
-checkpoint5: 
-checkpoint6: 
+checkpoint5: 1000
+checkpoint6: 1000
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 1618
-finish_time: 5-46-52
+checkpoint9: 3000
+finish_time: 5-37-36
 --- 

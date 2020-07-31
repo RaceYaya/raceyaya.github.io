@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 73
+gender_rank: 53
 bib: 7098
 first_name: Antonio
 last_name: Hernandez
 gender: Male
 country: Philippines
-checkpoint2: 
-checkpoint3: 
+checkpoint2: 532
+checkpoint3: 220
 checkpoint4: 
 checkpoint5: 
-checkpoint6: 
+checkpoint6: 427
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 1179
+finish_time: 8-03-58
 --- 

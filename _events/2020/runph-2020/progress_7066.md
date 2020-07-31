@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 23
-gender_rank: 18
+overall_rank: 42
+gender_rank: 31
 bib: 7066
 first_name: Ismail
 last_name: Ibrahim
@@ -24,10 +24,10 @@ country: Indonesia
 checkpoint2: 1000
 checkpoint3: 1000
 checkpoint4: 214
-checkpoint5: 
+checkpoint5: 608
 checkpoint6: 
-checkpoint7: 
+checkpoint7: 177
 checkpoint8: 
-checkpoint9: 2214
-finish_time: 6-58-40
+checkpoint9: 2999
+finish_time: 10-17-37
 --- 

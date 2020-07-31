@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 31
+gender_rank: 5
 bib: 7080
 first_name: Rilin
 last_name: Purwati
 gender: Female
 country: Indonesia
-checkpoint2: 
+checkpoint2: 1000
 checkpoint3: 
 checkpoint4: 
-checkpoint5: 
+checkpoint5: 1000
 checkpoint6: 
-checkpoint7: 
+checkpoint7: 1000
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 3000
+finish_time: 12-13-33
 --- 

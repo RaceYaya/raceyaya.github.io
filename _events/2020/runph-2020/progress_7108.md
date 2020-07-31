@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 89
-gender_rank: 27
+overall_rank: 98
+gender_rank: 30
 bib: 7108
 first_name: Jennica
 last_name: Secuya
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 23
-checkpoint5: 
-checkpoint6: 
+checkpoint5: 56
+checkpoint6: 73
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 23
-finish_time: 0-04-17
+checkpoint8: 152
+checkpoint9: 304
+finish_time: 1-42-44
 --- 

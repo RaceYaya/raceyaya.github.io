@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 100
+gender_rank: 31
 bib: 7144
 first_name: Tin
 last_name: Salazar
 gender: Female
 country: Philippines
 checkpoint2: 
-checkpoint3: 
+checkpoint3: 125
 checkpoint4: 
 checkpoint5: 
-checkpoint6: 
+checkpoint6: 67
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 192
+finish_time: 1-54-56
 --- 

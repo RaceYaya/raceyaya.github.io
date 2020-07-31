@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 9999
-gender_rank: 9999
+overall_rank: 107
+gender_rank: 71
 bib: 7110
 first_name: Manolito
 last_name: Divina
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-checkpoint5: 
+checkpoint5: 1
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 0
-finish_time: 0-00-00
+checkpoint9: 1
+finish_time: 0-25-27
 --- 

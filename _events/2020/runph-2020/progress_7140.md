@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 86
-gender_rank: 62
+overall_rank: 66
+gender_rank: 48
 bib: 7140
 first_name: Steven
 last_name: Carr
 gender: Male
 country: Hong kong
-checkpoint2: 
+checkpoint2: 460
 checkpoint3: 96
 checkpoint4: 
-checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint5: 515
+checkpoint6: 184
+checkpoint7: 220
 checkpoint8: 
-checkpoint9: 96
-finish_time: 0-37-01
+checkpoint9: 1475
+finish_time: 4-03-45
 --- 

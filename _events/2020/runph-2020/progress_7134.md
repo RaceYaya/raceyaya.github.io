@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 20
-gender_rank: 15
+overall_rank: 41
+gender_rank: 30
 bib: 7134
-first_name: Jonathan
+first_name: Jun Doble Santos
 last_name: Espinosa
 gender: Male
 country: Philippines
 checkpoint2: 876
 checkpoint3: 1000
 checkpoint4: 1000
-checkpoint5: 
+checkpoint5: 124
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 2876
-finish_time: 14-27-33
+checkpoint9: 3000
+finish_time: 23-16-33
 --- 

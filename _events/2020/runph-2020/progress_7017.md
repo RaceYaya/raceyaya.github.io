@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 43
-gender_rank: 34
+overall_rank: 45
+gender_rank: 33
 bib: 7017
 first_name: Chris Anthony
 last_name: Garcia
@@ -25,9 +25,9 @@ checkpoint2: 442
 checkpoint3: 647
 checkpoint4: 658
 checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint6: 444
+checkpoint7: 428
 checkpoint8: 
-checkpoint9: 1747
-finish_time: 7-00-54
+checkpoint9: 2619
+finish_time: 8-26-20
 --- 

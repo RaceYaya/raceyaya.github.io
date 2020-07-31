@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 88
-gender_rank: 63
+overall_rank: 104
+gender_rank: 70
 bib: 7142
 first_name: Anthony
 last_name: Calixterio
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 34
 checkpoint3: 
 checkpoint4: 
-checkpoint5: 
+checkpoint5: 13
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 34
-finish_time: 0-46-11
+checkpoint9: 47
+finish_time: 1-27-01
 --- 

@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 17
-gender_rank: 3
+overall_rank: 29
+gender_rank: 4
 bib: 7018
 first_name: Novita
 last_name: Wulandari

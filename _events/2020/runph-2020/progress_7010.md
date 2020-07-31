@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 74
-gender_rank: 54
+overall_rank: 47
+gender_rank: 34
 bib: 7010
 first_name: Vin
 last_name: Yeo
 gender: Male
 country: Malaysia
 checkpoint2: 576
-checkpoint3: 
-checkpoint4: 
-checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint3: 270
+checkpoint4: 306
+checkpoint5: 488
+checkpoint6: 366
+checkpoint7: 516
 checkpoint8: 
-checkpoint9: 576
-finish_time: 2-03-09
+checkpoint9: 2522
+finish_time: 8-48-40
 --- 

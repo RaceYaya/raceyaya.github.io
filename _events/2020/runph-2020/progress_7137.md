@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 46
+overall_rank: 50
 gender_rank: 36
 bib: 7137
 first_name: David
@@ -25,9 +25,9 @@ checkpoint2: 497
 checkpoint3: 861
 checkpoint4: 247
 checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint6: 483
+checkpoint7: 339
 checkpoint8: 
-checkpoint9: 1605
-finish_time: 3-45-46
+checkpoint9: 2427
+finish_time: 5-41-51
 --- 
