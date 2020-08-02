@@ -519,7 +519,6 @@
   city: Antique
   country: Philippines
   address: Sibalom, Antique Philippines
-  # event-date: 05-05-2019
   event-date: 2019-05-05
   month: May
   year: 2019
@@ -542,7 +541,6 @@
   city: Antique
   country: Philippines
   address: Aningalan, San Remigio, Antique Philippines
-  # event-date: 02-10-2019
   event-date: 2019-02-10
   month: February
   year: 2019
@@ -565,7 +563,6 @@
   city: Benguet
   country: Philippines
   address: Tinongdan, Itogon, Benguet Philippines
-  # event-date: 02-09-2019
   event-date: 2019-02-09
   month: February
   year: 2019
