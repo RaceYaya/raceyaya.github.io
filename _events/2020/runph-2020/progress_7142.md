@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 104
-gender_rank: 70
+overall_rank: 108
+gender_rank: 73
 bib: 7142
 first_name: Anthony
 last_name: Calixterio

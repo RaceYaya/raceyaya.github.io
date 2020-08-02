@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 100
-gender_rank: 31
+overall_rank: 105
+gender_rank: 33
 bib: 7144
 first_name: Tin
 last_name: Salazar

@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 13
-gender_rank: 12
+overall_rank: 16
+gender_rank: 14
 bib: 7145
 first_name: Philippe
 last_name: Daniel

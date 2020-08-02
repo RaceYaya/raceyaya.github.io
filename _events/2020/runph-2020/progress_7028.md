@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 91
-gender_rank: 65
+overall_rank: 98
+gender_rank: 69
 bib: 7028
 first_name: JOHN ERUEL
 last_name: OQUINO

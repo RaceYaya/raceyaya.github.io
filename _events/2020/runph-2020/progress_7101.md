@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 87
-gender_rank: 62
+overall_rank: 83
+gender_rank: 58
 bib: 7101
 first_name: Reynand
 last_name: Salavania
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 
 checkpoint3: 679
 checkpoint4: 
-checkpoint5: 108
+checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 787
-finish_time: 20-21-18
+checkpoint8: 486
+checkpoint9: 1165
+finish_time: 6-23-22
 --- 

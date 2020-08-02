@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 59
-gender_rank: 43
+overall_rank: 50
+gender_rank: 36
 bib: 7059
 first_name: HARRI
 last_name: 
@@ -26,8 +26,8 @@ checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
-checkpoint7: 
-checkpoint8: 
-checkpoint9: 2000
-finish_time: 9-40-40
+checkpoint7: 491
+checkpoint8: 509
+checkpoint9: 3000
+finish_time: 13-35-14
 --- 

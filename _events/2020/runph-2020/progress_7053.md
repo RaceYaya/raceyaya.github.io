@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 39
-gender_rank: 11
+overall_rank: 58
+gender_rank: 17
 bib: 7053
 first_name: Elis
 last_name: NURMALIA

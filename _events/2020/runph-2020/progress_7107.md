@@ -14,10 +14,10 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 103
-gender_rank: 34
+overall_rank: 107
+gender_rank: 35
 bib: 7107
-first_name: Christine
+first_name: Patzxch
 last_name: Ferrera
 gender: Female
 country: Philippines
@@ -27,7 +27,7 @@ checkpoint4: 42
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 132
-finish_time: 0-51-55
+checkpoint8: 13
+checkpoint9: 145
+finish_time: 1-20-55
 --- 

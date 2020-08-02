@@ -14,11 +14,11 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 34
-gender_rank: 8
+overall_rank: 48
+gender_rank: 14
 bib: 7135
 first_name: Rizta
-last_name: Dhina
+last_name: Dhiana
 gender: Female
 country: Indonesia
 checkpoint2: 582

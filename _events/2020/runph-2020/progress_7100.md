@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 80
-gender_rank: 24
+overall_rank: 21
+gender_rank: 4
 bib: 7100
 first_name: Amy
 last_name: Khor
@@ -25,9 +25,9 @@ checkpoint2: 1000
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
-checkpoint6: 
+checkpoint6: 1000
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 1000
-finish_time: 2-47-08
+checkpoint8: 1000
+checkpoint9: 3000
+finish_time: 7-42-50
 --- 

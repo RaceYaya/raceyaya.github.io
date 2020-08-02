@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 94
-gender_rank: 66
+overall_rank: 102
+gender_rank: 71
 bib: 7104
 first_name: Kristian
 last_name: Joergensen
@@ -24,10 +24,10 @@ country: Denmark
 checkpoint2: 
 checkpoint3: 205
 checkpoint4: 
-checkpoint5: 
-checkpoint6: 32
-checkpoint7: 152
+checkpoint5: 32
+checkpoint6: 
+checkpoint7: 112
 checkpoint8: 
-checkpoint9: 389
-finish_time: 2-16-59
+checkpoint9: 349
+finish_time: 2-02-32
 --- 

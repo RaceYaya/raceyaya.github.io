@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 68
-gender_rank: 20
+overall_rank: 80
+gender_rank: 25
 bib: 7143
 first_name: Elle
 last_name: Alvarez

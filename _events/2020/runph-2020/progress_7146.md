@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 81
-gender_rank: 57
+overall_rank: 89
+gender_rank: 62
 bib: 7146
 first_name: Teerawat
 last_name: Kanjanasuttiyakorn

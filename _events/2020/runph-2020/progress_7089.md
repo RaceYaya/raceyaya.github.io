@@ -27,7 +27,7 @@ checkpoint4:
 checkpoint5: 1000
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 2000
-finish_time: 8-45-21
+checkpoint8: 1000
+checkpoint9: 3000
+finish_time: 15-57-40
 --- 

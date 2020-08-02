@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 69
-gender_rank: 49
+overall_rank: 61
+gender_rank: 44
 bib: 7105
 first_name: John
 last_name: Ellis
@@ -26,8 +26,8 @@ checkpoint3: 65
 checkpoint4: 410
 checkpoint5: 690
 checkpoint6: 120
-checkpoint7: 
-checkpoint8: 
-checkpoint9: 1285
-finish_time: 2-41-02
+checkpoint7: 605
+checkpoint8: 1000
+checkpoint9: 2890
+finish_time: 10-39-01
 --- 

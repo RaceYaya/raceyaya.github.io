@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 89
-gender_rank: 63
+overall_rank: 94
+gender_rank: 66
 bib: 7003
 first_name: Ariel
 last_name: Burao
@@ -27,7 +27,7 @@ checkpoint4:
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 649
-finish_time: 2-57-25
+checkpoint8: 190
+checkpoint9: 839
+finish_time: 4-13-04
 --- 

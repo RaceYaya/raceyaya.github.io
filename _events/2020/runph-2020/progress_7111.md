@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 101
+overall_rank: 103
 gender_rank: 32
 bib: 7111
 first_name: Sandi
@@ -26,8 +26,8 @@ checkpoint3:
 checkpoint4: 165
 checkpoint5: 
 checkpoint6: 
-checkpoint7: 
+checkpoint7: 149
 checkpoint8: 
-checkpoint9: 165
-finish_time: 0-06-44
+checkpoint9: 314
+finish_time: 0-43-41
 --- 

@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 95
+overall_rank: 97
 gender_rank: 29
 bib: 7096
 first_name: Jeshiel
@@ -27,7 +27,7 @@ checkpoint4: 51
 checkpoint5: 42
 checkpoint6: 73
 checkpoint7: 187
-checkpoint8: 
-checkpoint9: 353
-finish_time: 2-40-16
+checkpoint8: 144
+checkpoint9: 497
+finish_time: 3-12-12
 --- 

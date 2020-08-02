@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 102
-gender_rank: 33
+overall_rank: 106
+gender_rank: 34
 bib: 7116
 first_name: Carla
 last_name: Jereza

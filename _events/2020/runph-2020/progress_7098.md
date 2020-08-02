@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 73
+overall_rank: 76
 gender_rank: 53
 bib: 7098
 first_name: Antonio
@@ -26,8 +26,8 @@ checkpoint3: 220
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 427
-checkpoint7: 
-checkpoint8: 
-checkpoint9: 1179
-finish_time: 8-03-58
+checkpoint7: 399
+checkpoint8: 75
+checkpoint9: 1653
+finish_time: 12-26-39
 --- 

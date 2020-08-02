@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 72
-gender_rank: 52
+overall_rank: 14
+gender_rank: 12
 bib: 7027
 first_name: Alvin Kenneth
 last_name: Agsaway
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 585
 checkpoint3: 
 checkpoint4: 635
-checkpoint5: 
+checkpoint5: 903
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 1220
-finish_time: 2-31-59
+checkpoint8: 877
+checkpoint9: 3000
+finish_time: 5-47-18
 --- 

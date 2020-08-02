@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 49
-gender_rank: 35
+overall_rank: 38
+gender_rank: 31
 bib: 7093
 first_name: Ichsan
 last_name: Juanda
 gender: Male
-country: Philippines
+country: Indonesia
 checkpoint2: 
 checkpoint3: 749
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 687
-checkpoint7: 1000
-checkpoint8: 
-checkpoint9: 2436
-finish_time: 9-03-04
+checkpoint7: 959
+checkpoint8: 605
+checkpoint9: 3000
+finish_time: 10-43-36
 --- 

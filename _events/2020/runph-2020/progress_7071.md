@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 62
-gender_rank: 45
+overall_rank: 72
+gender_rank: 51
 bib: 7071
 first_name: M Yusuf
 last_name: APRIAN
@@ -29,5 +29,5 @@ checkpoint6:
 checkpoint7: 
 checkpoint8: 
 checkpoint9: 1779
-finish_time: 10-24-51
+finish_time: 2-14-51
 --- 

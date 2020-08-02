@@ -14,20 +14,20 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 56
-gender_rank: 40
+overall_rank: 15
+gender_rank: 13
 bib: 7058
 first_name: Hardi Agung
 last_name: Tanamal
 gender: Male
 country: Indonesia
 checkpoint2: 1000
-checkpoint3: 
+checkpoint3: 1000
 checkpoint4: 1000
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 2000
-finish_time: 4-29-21
+checkpoint9: 3000
+finish_time: 6-44-39
 --- 

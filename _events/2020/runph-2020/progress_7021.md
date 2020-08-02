@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 93
+overall_rank: 91
 gender_rank: 28
 bib: 7021
 first_name: Maria Vicenta
@@ -22,12 +22,12 @@ last_name: Gado
 gender: Female
 country: Philippines
 checkpoint2: 
-checkpoint3: 363
+checkpoint3: 699
 checkpoint4: 
-checkpoint5: 55
+checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 418
-finish_time: 3-50-41
+checkpoint8: 284
+checkpoint9: 983
+finish_time: 6-08-01
 --- 

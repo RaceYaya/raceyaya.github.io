@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 67
+overall_rank: 66
 gender_rank: 19
 bib: 7007
 first_name: Jasmine
@@ -24,10 +24,10 @@ country: Philippines
 checkpoint2: 
 checkpoint3: 395
 checkpoint4: 407
-checkpoint5: 0-00-00
+checkpoint5: 305
 checkpoint6: 334
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 1441
-finish_time: 6-18-45
+checkpoint8: 620
+checkpoint9: 2061
+finish_time: 9-59-39
 --- 

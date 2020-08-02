@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 78
+overall_rank: 74
 gender_rank: 22
 bib: 7025
 first_name: Em Em
@@ -27,7 +27,7 @@ checkpoint4:
 checkpoint5: 280
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 1022
-finish_time: 3-55-16
+checkpoint8: 656
+checkpoint9: 1678
+finish_time: 5-43-34
 --- 

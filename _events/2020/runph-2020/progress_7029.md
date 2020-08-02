@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 58
-gender_rank: 42
+overall_rank: 54
+gender_rank: 39
 bib: 7029
 first_name: Didint
 last_name: Dwi prehantoro
@@ -26,8 +26,8 @@ checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
-checkpoint7: 
-checkpoint8: 
-checkpoint9: 2000
-finish_time: 9-30-54
+checkpoint7: 423
+checkpoint8: 577
+checkpoint9: 3000
+finish_time: 15-24-52
 --- 

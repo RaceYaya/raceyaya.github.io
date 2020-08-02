@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 38
-gender_rank: 10
+overall_rank: 55
+gender_rank: 16
 bib: 7078
 first_name: Nuke
 last_name: ARTANTI

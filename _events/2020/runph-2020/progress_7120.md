@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 99
-gender_rank: 69
+overall_rank: 104
+gender_rank: 72
 bib: 7120
 first_name: Celso
 last_name: Callo
@@ -27,7 +27,7 @@ checkpoint4:
 checkpoint5: 0
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 207
-finish_time: 1-58-45
+checkpoint8: 106
+checkpoint9: 313
+finish_time: 3-22-25
 --- 
