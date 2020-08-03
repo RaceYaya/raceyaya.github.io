@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 32
-gender_rank: 26
+overall_rank: 34
+gender_rank: 27
 bib: 7047
 first_name: David
 last_name: Herrys

@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 42
-gender_rank: 34
+overall_rank: 44
+gender_rank: 35
 bib: 7020
 first_name: Dennis
 last_name: Savellano

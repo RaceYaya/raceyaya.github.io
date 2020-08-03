@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 11
-gender_rank: 1
+overall_rank: 13
+gender_rank: 2
 bib: 7032
 first_name: TEONA
 last_name: MANZANO

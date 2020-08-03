@@ -20,7 +20,7 @@ bib: 7045
 first_name: DANIEL
 last_name: JENSEN
 gender: Male
-country: Indonesia
+country: Denmark
 checkpoint2: 1000
 checkpoint3: 1000
 checkpoint4: 1000

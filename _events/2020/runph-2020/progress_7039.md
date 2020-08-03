@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 49
-gender_rank: 35
+overall_rank: 51
+gender_rank: 36
 bib: 7039
 first_name: Alam
 last_name: Raga

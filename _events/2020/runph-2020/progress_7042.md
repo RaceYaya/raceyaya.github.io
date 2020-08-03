@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 81
+overall_rank: 83
 gender_rank: 56
 bib: 7042
 first_name: Arsudi

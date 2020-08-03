@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 101
-gender_rank: 31
+overall_rank: 102
+gender_rank: 32
 bib: 7099
 first_name: Kate Colyn
 last_name: Arroylo

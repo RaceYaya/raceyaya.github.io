@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 70
-gender_rank: 20
+overall_rank: 53
+gender_rank: 16
 bib: 7055
 first_name: Feby Sofia
 last_name: BUNDA
@@ -25,9 +25,9 @@ checkpoint2: 1000
 checkpoint3: 1000
 checkpoint4: 
 checkpoint5: 
-checkpoint6: 
+checkpoint6: 1000
 checkpoint7: 
 checkpoint8: 
-checkpoint9: 2000
-finish_time: 10-49-42
+checkpoint9: 3000
+finish_time: 13-41-45
 --- 

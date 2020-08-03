@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 27
-gender_rank: 21
+overall_rank: 29
+gender_rank: 22
 bib: 7063
 first_name: Ibnu
 last_name: RIZAL

@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 59
-gender_rank: 42
+overall_rank: 63
+gender_rank: 43
 bib: 7023
 first_name: Richard Ryan
 last_name: Rentillo

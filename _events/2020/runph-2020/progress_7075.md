@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 68
-gender_rank: 49
+overall_rank: 3
+gender_rank: 3
 bib: 7075
 first_name: Mufid
 last_name: MURTADLO
@@ -26,8 +26,8 @@ checkpoint3:
 checkpoint4: 1000
 checkpoint5: 
 checkpoint6: 
-checkpoint7: 
+checkpoint7: 1000
 checkpoint8: 1000
-checkpoint9: 2000
-finish_time: 2-12-13
+checkpoint9: 3000
+finish_time: 3-31-07
 --- 

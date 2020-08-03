@@ -14,7 +14,7 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 77
+overall_rank: 79
 gender_rank: 54
 bib: 7015
 first_name: John Brian

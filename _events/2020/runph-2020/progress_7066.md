@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 36
-gender_rank: 30
+overall_rank: 38
+gender_rank: 31
 bib: 7066
 first_name: Ismail
 last_name: Ibrahim

@@ -14,8 +14,8 @@ checkpoint-name6: Day 5
 checkpoint-name7: Day 6 
 checkpoint-name8: Day 7 
 checkpoint-name9: Total Gain 
-overall_rank: 66
-gender_rank: 19
+overall_rank: 70
+gender_rank: 22
 bib: 7007
 first_name: Jasmine
 last_name: De Villa
