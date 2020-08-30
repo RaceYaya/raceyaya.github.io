@@ -2203,14 +2203,14 @@
 - id: 97
   title: RUN THE PHILIPPINE MOUNTAINS
   event-filter: 
-    - filter: trailrun
+    - filter: virtualrun
   city:
-  country:
-  address: Philippines
+  country: Whenever You Are
+  address:
   event-date: 2020-07-25
   month: July
   year: 2020
-  event-organizer: Raceyaya
+  event-organizer: RaceYaya / T8 Philippines
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
   timing-solution: RaceYaya
   race-categories:
@@ -2234,14 +2234,14 @@
 - id: 97
   title: 2ND RUN THE PHILIPPINE MOUNTAINS
   event-filter: 
-    - filter: trailrun
+    - filter: virtualrun
   city:
-  country:
-  address: Philippines
+  country: Whenever You Are
+  address:
   event-date: 2020-08-31
   month: August
   year: 2020
-  event-organizer: Raceyaya
+  event-organizer: RaceYaya / T8 Philippines
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
   timing-solution: RaceYaya
   race-categories:

@@ -34,6 +34,9 @@
     - name: Fun Run
       filter: funrun
 
+    - name: Virtual Run
+      filter: virtualrun
+
 
 - id: 2
   title: Select Month
