@@ -7,7 +7,7 @@ event-location: Philippines
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg 
 event-date: 2020-08-31 
 first_name: Em-Em
-lastname: Aban
+last_name: Aban
 gender: Female
 category: Level Up 3000
 country: Philippines

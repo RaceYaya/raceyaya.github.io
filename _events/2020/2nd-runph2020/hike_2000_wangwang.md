@@ -7,7 +7,7 @@ event-location: Philippines
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg 
 event-date: 2020-08-31 
 first_name: ROLAND
-lastname: Wangwang
+last_name: Wangwang
 gender: Male
 category: Hike 2000
 country: Philippines

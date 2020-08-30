@@ -7,7 +7,7 @@ event-location: Philippines
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg 
 event-date: 2020-08-31 
 first_name: Lynneth
-lastname: Ermitaño
+last_name: Ermitaño
 gender: Female
 category: Climb 1500
 country: Philippines
