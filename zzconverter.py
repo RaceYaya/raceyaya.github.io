@@ -23,34 +23,31 @@ for row_index, row in enumerate(datareader):
 	# Othrwise, create a YAML file from the data in this row...
 	else:
 		# Open a new file with filename based on index number of our current row.
-		filename = str(row[2].lower().replace(" ", "_")) + '.md'
+		filename = str('day7_'+ row[2].lower().replace(" ", "_")) + '.md'
 		new_yaml = open(filename, 'w')
 
 		yaml_text = ""
 		yaml_text = "--- \n"
 
 		yaml_text += "layout: runner-info \n"	
-		yaml_text += "event_category: katsuo-stamina-2019 \n"
-		yaml_text += "category_km: 100KM \n"
-		yaml_text += "event-title: Katsuo Stamina Titi Ultra 2019 \n"
-		yaml_text += "event-location: Hulu Langat, Selangor \n"
-		yaml_text += "event-logo: https://res.cloudinary.com/dykbosktl/image/upload/v1573614825/Logo/Logo_p7ft6n.png \n"
-		yaml_text += "event-date: 2019-03-15 \n"
+		yaml_text += "event_category: runph-2020 \n"
+		yaml_text += "category_km: day7 \n"
+		yaml_text += "event-title: RUN THE PHILIPPINE MOUNTAINS \n"
+		yaml_text += "event-location: Philippines \n"
+		yaml_text += "event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg \n"
+		yaml_text += "event-date: 2020-07-25 \n"
 
-		yaml_text += "checkpoint-name2: CP 1 (T-2) \n"
-		yaml_text += "checkpoint-name3: CP 2 (T-3) \n"
-		yaml_text += "checkpoint-name4: CP 3 (T-4) \n"
-		yaml_text += "checkpoint-name5: CP 4 (T-5) \n"
-		yaml_text += "checkpoint-name6: CP 5 (T-6) \n"
-		yaml_text += "checkpoint-name7: CP 6 (T-7) \n"
-		yaml_text += "checkpoint-name8: CP 7 (T-8) \n"
-		yaml_text += "checkpoint-name9: CP 8 (T-9) \n"
-		yaml_text += "checkpoint-name10: CP 9 (T-10) \n"
-		yaml_text += "checkpoint-name11: CP 10 (T-11) \n"
-		yaml_text += "checkpoint-name12: Finishing Line (T-12) \n"
-
-
-
+		yaml_text += "checkpoint-name2: Day 1 \n"
+		yaml_text += "checkpoint-name3: Day 2 \n"
+		yaml_text += "checkpoint-name4: Day 3 \n"
+		yaml_text += "checkpoint-name5: Day 4 \n"
+		yaml_text += "checkpoint-name6: Day 5 \n"
+		yaml_text += "checkpoint-name7: Day 6 \n"
+		yaml_text += "checkpoint-name8: Day 7 \n"
+		yaml_text += "checkpoint-name9: Finish Day \n"
+		yaml_text += "checkpoint-name10: Mt Pulag \n"
+		yaml_text += "checkpoint-name11: Mt Apo \n"
+	
 
 	
 		# yaml_text += "layout: runner-info \n"	
@@ -100,7 +97,7 @@ for row_index, row in enumerate(datareader):
 			# Heading text is converted to lowercase. Spaces are converted to underscores and hyphens are removed.
 			# In the cell text, line endings are replaced with commas.
 			cell_heading = data_headings[cell_index].lower().replace(" ", "_").replace("-", "")
-			cell_text = cell_heading + ": " + cell.replace("\n", ", ").replace(":", "-").replace("&", "").replace("_", "").replace("*", "") + "\n"
+			cell_text = cell_heading + ": " + cell.replace("\n", ", ").replace(":", "-").replace("&", "").replace("*", "") + "\n"
 
 			# Add this line of text to the current YAML string.
 			yaml_text += cell_text
