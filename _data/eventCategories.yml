@@ -2230,6 +2230,23 @@
       link: /runph-2020/day6
     - title: Level 7
       link: /runph-2020/day7
+    
+- id: 97
+  title: 2ND RUN THE PHILIPPINE MOUNTAINS
+  event-filter: 
+    - filter: trailrun
+  city:
+  country:
+  address: Philippines
+  event-date: 2020-08-31
+  month: August
+  year: 2020
+  event-organizer: Raceyaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 2ND RUNPH
+      link: /2ndrunph-2020/2ndrunph
 
 
 
