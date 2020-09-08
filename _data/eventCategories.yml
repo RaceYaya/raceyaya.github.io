@@ -2245,14 +2245,16 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg
   timing-solution: RaceYaya
   race-categories:
-    - title: Sprint 500
-      link: /2ndrunph-2020/500
-    - title: Hike 1500
-      link: /2ndrunph-2020/1500
-    - title: Climb 2000
-      link: /2ndrunph-2020/2000
     - title: Level Up 3000
       link: /2ndrunph-2020/3000
+    - title: Climb 2000
+      link: /2ndrunph-2020/2000
+    - title: Hike 1500
+      link: /2ndrunph-2020/1500
+    - title: Sprint 500
+      link: /2ndrunph-2020/500
+    - title: Log
+      link: /2ndrunph-2020/log
 
 
 
