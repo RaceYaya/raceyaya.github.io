@@ -2231,7 +2231,7 @@
     - title: Level 7
       link: /runph-2020/day7
     
-- id: 97
+- id: 98
   title: 2ND RUN THE PHILIPPINE MOUNTAINS
   event-filter: 
     - filter: virtualrun
@@ -2255,6 +2255,23 @@
       link: /2ndrunph-2020/500
     - title: Log
       link: /2ndrunph-2020/log
+
+- id: 99
+  title: Pilipinas Duathlon Series 2020 Quarantined Edition Leg 1
+  event-filter: 
+    - filter: duathlon
+  city:
+  country: Philippines
+  address:
+  event-date: 2020-09-21
+  month: September
+  year: 2020
+  event-organizer: Adrenaline Multisports
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1600494253/PDSLeg1.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Participants
+      link: /pdsl1-2020/participant
 
 
 
