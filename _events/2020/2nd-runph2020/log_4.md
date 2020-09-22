@@ -13,5 +13,5 @@ last_name: Bug-os
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 13-38-36
+finish: 13-38-36
 --- 

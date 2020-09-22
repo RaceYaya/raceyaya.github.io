@@ -13,5 +13,5 @@ last_name: Manongsong
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 22-38-41
+finish: 22-38-41
 --- 

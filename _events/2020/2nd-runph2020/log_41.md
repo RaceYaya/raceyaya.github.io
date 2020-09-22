@@ -13,5 +13,5 @@ last_name: Blanco
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 6-01-49
+finish: 6-01-49
 --- 

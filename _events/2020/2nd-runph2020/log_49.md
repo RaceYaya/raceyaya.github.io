@@ -13,5 +13,5 @@ last_name: Del Rosario
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 9-33-40
+finish: 9-33-40
 --- 

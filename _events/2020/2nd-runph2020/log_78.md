@@ -13,5 +13,5 @@ last_name: Sim
 gender: Male
 category: Level Up 3000
 country: Malaysia
-_finish_: 8-37-08
+finish: 8-37-08
 --- 

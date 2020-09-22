@@ -13,5 +13,5 @@ last_name: Francisco
 gender: Male
 category: Climb 1500
 country: Philippines
-_finish_: 3-09-16
+finish: 3-09-16
 --- 

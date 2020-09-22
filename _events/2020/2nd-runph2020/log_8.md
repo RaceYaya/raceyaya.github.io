@@ -13,5 +13,5 @@ last_name: Manzo
 gender: Female
 category: Hike 2000
 country: Philippines
-_finish_: 7-39-33
+finish: 7-39-33
 --- 

@@ -13,5 +13,5 @@ last_name: Ticag
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 11-27-31
+finish: 11-27-31
 --- 

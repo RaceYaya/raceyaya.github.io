@@ -13,5 +13,5 @@ last_name: Santos
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 5-04-26
+finish: 5-04-26
 --- 

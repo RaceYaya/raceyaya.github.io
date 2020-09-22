@@ -13,5 +13,5 @@ last_name: Iza
 gender: Male
 category: Hike 2000
 country: Spain
-_finish_: 6-12-58
+finish: 6-12-58
 --- 

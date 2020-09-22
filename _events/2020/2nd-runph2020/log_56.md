@@ -13,5 +13,5 @@ last_name: Ellis
 gender: Male
 category: Level Up 3000
 country: Australia
-_finish_: 8-09-18
+finish: 8-09-18
 --- 

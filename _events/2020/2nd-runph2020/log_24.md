@@ -13,5 +13,5 @@ last_name: Ferrera
 gender: Female
 category: Sprint 500
 country: Philippines
-_finish_: 2-39-35
+finish: 2-39-35
 --- 

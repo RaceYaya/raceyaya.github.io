@@ -13,5 +13,5 @@ last_name: Oliquiano
 gender: Female
 category: Hike 2000
 country: Philippines
-_finish_: 1-52-13
+finish: 1-52-13
 --- 

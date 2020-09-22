@@ -13,5 +13,5 @@ last_name: Tudlong
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 5-34-04
+finish: 5-34-04
 --- 

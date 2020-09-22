@@ -13,5 +13,5 @@ last_name: Tria
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 1-49-28
+finish: 1-49-28
 --- 

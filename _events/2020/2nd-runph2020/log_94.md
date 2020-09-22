@@ -13,5 +13,5 @@ last_name: Ol oling
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 28-33-35
+finish: 28-33-35
 --- 

@@ -13,5 +13,5 @@ last_name: Buclay
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 8-04-00
+finish: 8-04-00
 --- 

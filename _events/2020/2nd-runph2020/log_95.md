@@ -13,5 +13,5 @@ last_name: Cavinta
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 0-31-10
+finish: 0-31-10
 --- 

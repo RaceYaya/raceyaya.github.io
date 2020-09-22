@@ -13,5 +13,5 @@ last_name: Parel
 gender: Male
 category: Climb 1500
 country: Philippines
-_finish_: 8-51-33
+finish: 8-51-33
 --- 

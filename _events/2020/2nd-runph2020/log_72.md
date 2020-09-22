@@ -13,5 +13,5 @@ last_name: Milan
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 5-58-02
+finish: 5-58-02
 --- 

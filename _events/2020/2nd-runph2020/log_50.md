@@ -13,5 +13,5 @@ last_name: Mangubat
 gender: Female
 category: Level Up 3000
 country: Philippines
-_finish_: 12-35-51
+finish: 12-35-51
 --- 

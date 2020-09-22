@@ -13,5 +13,5 @@ last_name: Hernandez
 gender: Male
 category: Hike 2000
 country: Philippines
-_finish_: 16-02-24
+finish: 16-02-24
 --- 

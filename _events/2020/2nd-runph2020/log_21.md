@@ -13,5 +13,5 @@ last_name: garcia
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 6-23-22
+finish: 6-23-22
 --- 

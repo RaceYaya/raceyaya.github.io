@@ -13,5 +13,5 @@ last_name: delos Reyes
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 1-58-16
+finish: 1-58-16
 --- 

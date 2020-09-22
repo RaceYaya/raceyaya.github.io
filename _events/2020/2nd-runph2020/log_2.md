@@ -13,5 +13,5 @@ last_name: Tawagen
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 7-50-11
+finish: 7-50-11
 --- 

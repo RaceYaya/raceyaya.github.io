@@ -13,5 +13,5 @@ last_name: Wenceslao
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 3-05-19
+finish: 3-05-19
 --- 

@@ -13,5 +13,5 @@ last_name: Magnaye
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 0-00-00
+finish: 0-00-00
 --- 

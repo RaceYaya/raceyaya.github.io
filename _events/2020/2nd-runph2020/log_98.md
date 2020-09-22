@@ -13,5 +13,5 @@ last_name: Fabia
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 20-35-34
+finish: 20-35-34
 --- 

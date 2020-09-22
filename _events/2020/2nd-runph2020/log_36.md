@@ -13,5 +13,5 @@ last_name: Aban
 gender: Female
 category: Level Up 3000
 country: Philippines
-_finish_: 10-24-33
+finish: 10-24-33
 --- 

@@ -13,5 +13,5 @@ last_name: Buclay
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 0-33-16
+finish: 0-33-16
 --- 

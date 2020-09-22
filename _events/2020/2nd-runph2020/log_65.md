@@ -13,5 +13,5 @@ last_name: Bonus
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 11-44-39
+finish: 11-44-39
 --- 

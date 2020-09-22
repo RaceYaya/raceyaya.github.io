@@ -13,5 +13,5 @@ last_name: Javier
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 8-20-57
+finish: 8-20-57
 --- 

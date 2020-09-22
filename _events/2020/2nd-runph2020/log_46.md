@@ -13,5 +13,5 @@ last_name: Gozum
 gender: Female
 category: Climb 1500
 country: Philippines
-_finish_: 10-15-46
+finish: 10-15-46
 --- 

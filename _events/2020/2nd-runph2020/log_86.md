@@ -13,5 +13,5 @@ last_name: Molina
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 0-46-33
+finish: 0-46-33
 --- 

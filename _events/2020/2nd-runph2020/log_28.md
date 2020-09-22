@@ -13,5 +13,5 @@ last_name: Longo
 gender: Male
 category: Level Up 3000
 country: Australia
-_finish_: 20-50-52
+finish: 20-50-52
 --- 

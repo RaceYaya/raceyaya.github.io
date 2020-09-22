@@ -13,5 +13,5 @@ last_name: Joergensen
 gender: Male
 category: Level Up 3000
 country: Denmark
-_finish_: 9-26-30
+finish: 9-26-30
 --- 

@@ -13,5 +13,5 @@ last_name: Ermitaño
 gender: Female
 category: Climb 1500
 country: Philippines
-_finish_: 0-00-00
+finish: 0-00-00
 --- 

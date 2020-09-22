@@ -13,5 +13,5 @@ last_name: Resurreccion
 gender: Female
 category: Hike 2000
 country: Philippines
-_finish_: 0-00-00
+finish: 0-00-00
 --- 

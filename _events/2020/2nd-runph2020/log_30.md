@@ -13,5 +13,5 @@ last_name: Dwitiandi
 gender: Male
 category: Level Up 3000
 country: Indonesia
-_finish_: 19-25-46
+finish: 19-25-46
 --- 

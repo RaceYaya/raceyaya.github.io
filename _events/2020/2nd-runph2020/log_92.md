@@ -13,5 +13,5 @@ last_name: Daulayan
 gender: Female
 category: Level Up 3000
 country: Philippines
-_finish_: 9-30-22
+finish: 9-30-22
 --- 

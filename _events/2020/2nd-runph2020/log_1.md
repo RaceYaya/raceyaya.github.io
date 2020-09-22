@@ -13,5 +13,5 @@ last_name: Tay
 gender: Male
 category: Level Up 3000
 country: Philippines
-_finish_: 13-20-47
+finish: 13-20-47
 --- 

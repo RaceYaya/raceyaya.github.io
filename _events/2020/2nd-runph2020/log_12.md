@@ -13,5 +13,5 @@ last_name: Baroidan
 gender: Female
 category: Level Up 3000
 country: Hongkong
-_finish_: 9-21-07
+finish: 9-21-07
 --- 

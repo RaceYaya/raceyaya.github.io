@@ -13,5 +13,5 @@ last_name: Peñalosa
 gender: Male
 category: Sprint 500
 country: Philippines
-_finish_: 2-17-15
+finish: 2-17-15
 --- 

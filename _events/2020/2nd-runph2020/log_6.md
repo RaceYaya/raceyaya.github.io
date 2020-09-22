@@ -13,5 +13,5 @@ last_name: Dacanay
 gender: Female
 category: Level Up 3000
 country: Philippines
-_finish_: 23-38-23
+finish: 23-38-23
 --- 

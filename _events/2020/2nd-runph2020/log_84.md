@@ -13,5 +13,5 @@ last_name: Manshuri
 gender: Male
 category: Level Up 3000
 country: Indonesia
-_finish_: 0-00-00
+finish: 0-00-00
 --- 
