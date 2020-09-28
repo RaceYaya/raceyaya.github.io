@@ -6,6 +6,8 @@ event-title: 2ND RUN THE PHILIPPINE MOUNTAINS
 event-location: Whenever You Are 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg 
 event-date: 2020-08-31 
+checkpoint-name2: Distance 
+checkpoint-name3: Gain 
 overall_rank: 2
 bib: 30009
 first_name: Aeron
@@ -13,5 +15,7 @@ last_name: Tawagen
 gender: Male
 category: Level Up 3000
 country: Philippines
-finish: 7-50-11
+checkpoint2: 80
+finish: 13-30-59
+checkpoint3: 1,844
 --- 

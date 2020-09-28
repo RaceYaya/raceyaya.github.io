@@ -6,6 +6,8 @@ event-title: 2ND RUN THE PHILIPPINE MOUNTAINS
 event-location: Whenever You Are 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg 
 event-date: 2020-08-31 
+checkpoint-name2: Distance 
+checkpoint-name3: Gain 
 overall_rank: 46
 bib: 15015
 first_name: Iya
@@ -13,5 +15,7 @@ last_name: Gozum
 gender: Female
 category: Climb 1500
 country: Philippines
+checkpoint2: 65
 finish: 10-15-46
+checkpoint3: 1,612
 --- 

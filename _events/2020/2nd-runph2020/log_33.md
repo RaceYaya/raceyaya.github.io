@@ -6,6 +6,8 @@ event-title: 2ND RUN THE PHILIPPINE MOUNTAINS
 event-location: Whenever You Are 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg 
 event-date: 2020-08-31 
+checkpoint-name2: Distance 
+checkpoint-name3: Gain 
 overall_rank: 33
 bib: 30071
 first_name: Dolly
@@ -13,5 +15,7 @@ last_name: Sales
 gender: Female
 category: Level Up 3000
 country: Hongkong
-finish: 12-32-33
+checkpoint2: 68
+finish: 13-09-08
+checkpoint3: 3,074
 --- 

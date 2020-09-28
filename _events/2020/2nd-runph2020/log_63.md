@@ -6,6 +6,8 @@ event-title: 2ND RUN THE PHILIPPINE MOUNTAINS
 event-location: Whenever You Are 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg 
 event-date: 2020-08-31 
+checkpoint-name2: Distance 
+checkpoint-name3: Gain 
 overall_rank: 63
 bib: 20002
 first_name: Joshua
@@ -13,5 +15,7 @@ last_name: Potes
 gender: Male
 category: Hike 2000
 country: Philippines
-finish: 0-00-00
+checkpoint2: 14
+finish: 4-09-22
+checkpoint3: 814
 --- 

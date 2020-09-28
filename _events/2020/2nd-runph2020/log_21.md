@@ -6,6 +6,8 @@ event-title: 2ND RUN THE PHILIPPINE MOUNTAINS
 event-location: Whenever You Are 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg 
 event-date: 2020-08-31 
+checkpoint-name2: Distance 
+checkpoint-name3: Gain 
 overall_rank: 21
 bib: 5012
 first_name: chris anthony
@@ -13,5 +15,7 @@ last_name: garcia
 gender: Male
 category: Sprint 500
 country: Philippines
-finish: 6-23-22
+checkpoint2: 9
+finish: 1-39-12
+checkpoint3: 659
 --- 

@@ -6,6 +6,8 @@ event-title: 2ND RUN THE PHILIPPINE MOUNTAINS
 event-location: Whenever You Are 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg 
 event-date: 2020-08-31 
+checkpoint-name2: Distance 
+checkpoint-name3: Gain 
 overall_rank: 86
 bib: 5019
 first_name: Marc Conrad
@@ -13,5 +15,7 @@ last_name: Molina
 gender: Male
 category: Sprint 500
 country: Philippines
-finish: 0-46-33
+checkpoint2: 43
+finish: 4-52-45
+checkpoint3: 240
 --- 

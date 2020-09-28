@@ -6,6 +6,8 @@ event-title: 2ND RUN THE PHILIPPINE MOUNTAINS
 event-location: Whenever You Are 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg 
 event-date: 2020-08-31 
+checkpoint-name2: Distance 
+checkpoint-name3: Gain 
 overall_rank: 65
 bib: 30030
 first_name: Joule
@@ -13,5 +15,7 @@ last_name: Bonus
 gender: Male
 category: Level Up 3000
 country: Philippines
-finish: 11-44-39
+checkpoint2: 40
+finish: 35-44-39
+checkpoint3: 3,474
 --- 
