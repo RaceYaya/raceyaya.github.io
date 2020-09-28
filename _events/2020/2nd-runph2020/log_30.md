@@ -17,5 +17,5 @@ category: Level Up 3000
 country: Indonesia
 checkpoint2: 105
 finish: 19-25-46
-checkpoint3: 5,157
+checkpoint3: 5157
 --- 

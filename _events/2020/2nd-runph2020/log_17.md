@@ -17,5 +17,5 @@ category: Hike 2000
 country: Philippines
 checkpoint2: 36
 finish: 6-19-36
-checkpoint3: 2,618
+checkpoint3: 2618
 --- 

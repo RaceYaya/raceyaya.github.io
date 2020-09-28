@@ -17,5 +17,5 @@ category: Level Up 3000
 country: Hongkong
 checkpoint2: 33
 finish: 10-06-39
-checkpoint3: 3,011
+checkpoint3: 3011
 --- 

@@ -17,5 +17,5 @@ category: Level Up 3000
 country: Australia
 checkpoint2: 72
 finish: 8-09-18
-checkpoint3: 1,701
+checkpoint3: 1701
 --- 

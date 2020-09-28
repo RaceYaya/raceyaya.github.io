@@ -17,5 +17,5 @@ category: Level Up 3000
 country: Philippines
 checkpoint2: 31
 finish: 13-20-47
-checkpoint3: 3,011
+checkpoint3: 3011
 --- 

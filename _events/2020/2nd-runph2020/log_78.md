@@ -17,5 +17,5 @@ category: Level Up 3000
 country: Malaysia
 checkpoint2: 29
 finish: 8-37-08
-checkpoint3: 3,016
+checkpoint3: 3016
 --- 

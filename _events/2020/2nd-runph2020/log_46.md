@@ -17,5 +17,5 @@ category: Climb 1500
 country: Philippines
 checkpoint2: 65
 finish: 10-15-46
-checkpoint3: 1,612
+checkpoint3: 1612
 --- 

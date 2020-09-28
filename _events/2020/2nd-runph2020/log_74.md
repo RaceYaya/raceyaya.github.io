@@ -17,5 +17,5 @@ category: Level Up 3000
 country: Denmark
 checkpoint2: 98
 finish: 9-26-30
-checkpoint3: 4,480
+checkpoint3: 4480
 --- 

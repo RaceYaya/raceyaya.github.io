@@ -17,5 +17,5 @@ category: Sprint 500
 country: Philippines
 checkpoint2: 100
 finish: 8-20-57
-checkpoint3: 1,000
+checkpoint3: 1000
 --- 
