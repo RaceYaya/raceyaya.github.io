@@ -15,7 +15,7 @@ last_name: Pornillos
 gender: Male
 category: Sprint 500
 country: Philippines
-checkpoint2: 52
+_checkpoint2_: 52
 finish: 6-20-01
 checkpoint3: 614
 --- 

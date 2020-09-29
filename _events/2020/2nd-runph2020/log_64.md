@@ -15,7 +15,7 @@ last_name: Kiaco
 gender: Male
 category: Level Up 3000
 country: Philippines
-checkpoint2: 42
+_checkpoint2_: 42
 finish: 12-19-29
 checkpoint3: 2378
 --- 

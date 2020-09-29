@@ -15,7 +15,7 @@ last_name: Daulayan
 gender: Female
 category: Level Up 3000
 country: Philippines
-checkpoint2: 46
+_checkpoint2_: 46
 finish: 9-30-22
 checkpoint3: 3373
 --- 

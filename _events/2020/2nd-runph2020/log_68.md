@@ -15,7 +15,7 @@ last_name: CHAVEZ
 gender: Female
 category: Level Up 3000
 country: Philippines
-checkpoint2: 17
+_checkpoint2_: 17
 finish: 2-46-04
 checkpoint3: 556
 --- 

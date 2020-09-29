@@ -11,11 +11,11 @@ checkpoint-name3: Gain
 overall_rank: 4
 bib: 30074
 first_name: Alex
-last_name: Bugos
+last_name: Bug os
 gender: Male
 category: Level Up 3000
 country: Philippines
-checkpoint2: 72
+_checkpoint2_: 72
 finish: 16-01-34
 checkpoint3: 3002
 --- 

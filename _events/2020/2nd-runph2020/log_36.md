@@ -15,7 +15,7 @@ last_name: Aban
 gender: Female
 category: Level Up 3000
 country: Philippines
-checkpoint2: 89
+_checkpoint2_: 89
 finish: 12-24-51
 checkpoint3: 2903
 --- 

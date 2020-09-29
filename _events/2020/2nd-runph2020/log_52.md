@@ -15,7 +15,7 @@ last_name: Secuya
 gender: Female
 category: Climb 1500
 country: Philippines
-checkpoint2: 
+_checkpoint2_: 
 finish: 0-00-00
 checkpoint3: 
 --- 

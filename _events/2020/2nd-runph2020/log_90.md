@@ -15,7 +15,7 @@ last_name: Calicdan
 gender: Female
 category: Sprint 500
 country: Philippines
-checkpoint2: 58
+_checkpoint2_: 58
 finish: 11-36-11
 checkpoint3: 691
 --- 

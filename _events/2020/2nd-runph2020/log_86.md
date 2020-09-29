@@ -15,7 +15,7 @@ last_name: Molina
 gender: Male
 category: Sprint 500
 country: Philippines
-checkpoint2: 43
+_checkpoint2_: 43
 finish: 4-52-45
 checkpoint3: 240
 --- 

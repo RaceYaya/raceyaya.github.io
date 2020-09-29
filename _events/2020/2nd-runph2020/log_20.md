@@ -15,7 +15,7 @@ last_name: Teh
 gender: Male
 category: Hike 2000
 country: Malaysia
-checkpoint2: 
+_checkpoint2_: 
 finish: 0-00-00
 checkpoint3: 
 --- 

@@ -15,7 +15,7 @@ last_name: Sales
 gender: Female
 category: Level Up 3000
 country: Hongkong
-checkpoint2: 68
+_checkpoint2_: 68
 finish: 13-09-08
 checkpoint3: 3074
 --- 

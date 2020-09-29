@@ -15,7 +15,7 @@ last_name: Blanco
 gender: Male
 category: Level Up 3000
 country: Philippines
-checkpoint2: 54
+_checkpoint2_: 54
 finish: 8-10-42
 checkpoint3: 743
 --- 

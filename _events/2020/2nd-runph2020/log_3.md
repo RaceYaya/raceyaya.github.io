@@ -15,7 +15,7 @@ last_name: Lacsama
 gender: Male
 category: Sprint 500
 country: Philippines
-checkpoint2: 
+_checkpoint2_: 
 finish: 0-00-00
 checkpoint3: 
 --- 

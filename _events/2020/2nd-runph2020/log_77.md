@@ -15,7 +15,7 @@ last_name: Ticag
 gender: Male
 category: Level Up 3000
 country: Philippines
-checkpoint2: 81
+_checkpoint2_: 81
 finish: 16-40-08
 checkpoint3: 3075
 --- 

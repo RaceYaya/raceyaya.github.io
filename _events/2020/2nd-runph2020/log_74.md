@@ -15,7 +15,7 @@ last_name: Joergensen
 gender: Male
 category: Level Up 3000
 country: Denmark
-checkpoint2: 98
+_checkpoint2_: 98
 finish: 9-26-30
 checkpoint3: 4480
 --- 

@@ -15,7 +15,7 @@ last_name: Wael
 gender: Female
 category: Level Up 3000
 country: Philippines
-checkpoint2: 43
+_checkpoint2_: 43
 finish: 7-35-52
 checkpoint3: 3153
 --- 

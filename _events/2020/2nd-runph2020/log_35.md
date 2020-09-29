@@ -15,7 +15,7 @@ last_name: Deles
 gender: Male
 category: Climb 1500
 country: Philippines
-checkpoint2: 61
+_checkpoint2_: 61
 finish: 14-32-03
 checkpoint3: 1526
 --- 

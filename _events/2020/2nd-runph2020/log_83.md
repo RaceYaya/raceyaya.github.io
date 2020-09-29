@@ -15,7 +15,7 @@ last_name: Fillaro
 gender: Female
 category: Hike 2000
 country: Philippines
-checkpoint2: 25
+_checkpoint2_: 25
 finish: 4-55-13
 checkpoint3: 2034
 --- 

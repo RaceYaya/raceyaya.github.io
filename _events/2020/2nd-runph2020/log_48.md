@@ -15,7 +15,7 @@ last_name: Tellias
 gender: Male
 category: Level Up 3000
 country: Philippines
-checkpoint2: 
+_checkpoint2_: 
 finish: 0-00-00
 checkpoint3: 
 --- 

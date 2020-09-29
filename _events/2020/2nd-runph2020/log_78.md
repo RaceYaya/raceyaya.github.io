@@ -15,7 +15,7 @@ last_name: Sim
 gender: Male
 category: Level Up 3000
 country: Malaysia
-checkpoint2: 29
+_checkpoint2_: 29
 finish: 8-37-08
 checkpoint3: 3016
 --- 

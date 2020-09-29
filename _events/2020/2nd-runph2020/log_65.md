@@ -15,7 +15,7 @@ last_name: Bonus
 gender: Male
 category: Level Up 3000
 country: Philippines
-checkpoint2: 40
+_checkpoint2_: 40
 finish: 35-44-39
 checkpoint3: 3474
 --- 
