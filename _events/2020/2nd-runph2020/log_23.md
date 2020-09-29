@@ -15,7 +15,7 @@ last_name: Orense
 gender: Male
 category: Sprint 500
 country: Philippines
-_checkpoint2_: 2
+checkpoint2: 2
 finish: 1-36-18
 checkpoint3: 699
 --- 

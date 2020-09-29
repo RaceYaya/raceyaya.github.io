@@ -15,7 +15,7 @@ last_name: Wael
 gender: Female
 category: Hike 2000
 country: Philippines
-_checkpoint2_: 36
+checkpoint2: 36
 finish: 6-19-36
 checkpoint3: 2618
 --- 

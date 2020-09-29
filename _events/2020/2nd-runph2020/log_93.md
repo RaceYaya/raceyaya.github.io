@@ -15,7 +15,7 @@ last_name: Parel
 gender: Male
 category: Climb 1500
 country: Philippines
-_checkpoint2_: 112
+checkpoint2: 112
 finish: 12-31-49
 checkpoint3: 1172
 --- 

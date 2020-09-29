@@ -15,7 +15,7 @@ last_name: Joson
 gender: Female
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 20
+checkpoint2: 20
 finish: 9-05-00
 checkpoint3: 3610
 --- 

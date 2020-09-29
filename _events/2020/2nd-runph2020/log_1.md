@@ -15,7 +15,7 @@ last_name: Tay
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 31
+checkpoint2: 31
 finish: 13-20-47
 checkpoint3: 3011
 --- 

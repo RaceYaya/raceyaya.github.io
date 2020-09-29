@@ -15,7 +15,7 @@ last_name: Tawagen
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 80
+checkpoint2: 80
 finish: 13-30-59
 checkpoint3: 1844
 --- 

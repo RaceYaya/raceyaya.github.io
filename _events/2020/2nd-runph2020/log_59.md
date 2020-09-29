@@ -15,7 +15,7 @@ last_name: Buclay
 gender: Male
 category: Hike 2000
 country: Philippines
-_checkpoint2_: 33
+checkpoint2: 33
 finish: 5-25-50
 checkpoint3: 2010
 --- 

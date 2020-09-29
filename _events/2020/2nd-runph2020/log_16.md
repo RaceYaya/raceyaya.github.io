@@ -15,7 +15,7 @@ last_name: Wael
 gender: Female
 category: Climb 1500
 country: Philippines
-_checkpoint2_: 142
+checkpoint2: 142
 finish: 16-56-56
 checkpoint3: 1901
 --- 

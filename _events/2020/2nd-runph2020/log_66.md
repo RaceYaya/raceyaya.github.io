@@ -15,7 +15,7 @@ last_name: Padua
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 165
+checkpoint2: 165
 finish: 34-02-12
 checkpoint3: 4524
 --- 

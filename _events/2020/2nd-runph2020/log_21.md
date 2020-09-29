@@ -15,7 +15,7 @@ last_name: garcia
 gender: Male
 category: Sprint 500
 country: Philippines
-_checkpoint2_: 9
+checkpoint2: 9
 finish: 1-39-12
 checkpoint3: 659
 --- 

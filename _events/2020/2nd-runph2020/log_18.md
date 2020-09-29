@@ -15,7 +15,7 @@ last_name: Wael
 gender: Female
 category: Sprint 500
 country: Philippines
-_checkpoint2_: 6
+checkpoint2: 6
 finish: 1-04-31
 checkpoint3: 501
 --- 

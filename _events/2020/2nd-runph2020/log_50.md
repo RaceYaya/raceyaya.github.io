@@ -15,7 +15,7 @@ last_name: Mangubat
 gender: Female
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 48
+checkpoint2: 48
 finish: 12-35-51
 checkpoint3: 3823
 --- 

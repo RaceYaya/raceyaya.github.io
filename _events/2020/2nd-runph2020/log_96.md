@@ -15,7 +15,7 @@ last_name: Tictica
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 52
+checkpoint2: 52
 finish: 10-28-48
 checkpoint3: 3906
 --- 

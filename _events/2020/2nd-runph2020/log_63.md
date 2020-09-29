@@ -15,7 +15,7 @@ last_name: Potes
 gender: Male
 category: Hike 2000
 country: Philippines
-_checkpoint2_: 14
+checkpoint2: 14
 finish: 4-09-22
 checkpoint3: 814
 --- 

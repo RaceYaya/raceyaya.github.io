@@ -15,7 +15,7 @@ last_name: Bigwil
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 79
+checkpoint2: 79
 finish: 16-39-09
 checkpoint3: 3953
 --- 

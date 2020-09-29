@@ -15,7 +15,7 @@ last_name: Bermudez
 gender: Male
 category: Climb 1500
 country: USA
-_checkpoint2_: 
+checkpoint2: 
 finish: 0-00-00
 checkpoint3: 
 --- 

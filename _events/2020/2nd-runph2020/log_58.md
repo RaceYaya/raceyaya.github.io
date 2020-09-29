@@ -15,7 +15,7 @@ last_name: Buclay
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 11
+checkpoint2: 11
 finish: 5-27-38
 checkpoint3: 3276
 --- 

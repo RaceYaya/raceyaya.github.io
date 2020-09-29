@@ -15,7 +15,7 @@ last_name: Milan
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 39
+checkpoint2: 39
 finish: 5-58-02
 checkpoint3: 940
 --- 

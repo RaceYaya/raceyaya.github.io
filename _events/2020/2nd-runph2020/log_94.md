@@ -15,7 +15,7 @@ last_name: Ol oling
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 231
+checkpoint2: 231
 finish: 4-33-35
 checkpoint3: 3796
 --- 

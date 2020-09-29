@@ -15,7 +15,7 @@ last_name: Francisco
 gender: Male
 category: Sprint 500
 country: Philippines
-_checkpoint2_: 32
+checkpoint2: 32
 finish: 3-09-16
 checkpoint3: 600
 --- 

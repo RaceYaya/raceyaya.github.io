@@ -15,7 +15,7 @@ last_name: Hernandez
 gender: Male
 category: Hike 2000
 country: Philippines
-_checkpoint2_: 97
+checkpoint2: 97
 finish: 16-02-24
 checkpoint3: 2584
 --- 

@@ -15,7 +15,7 @@ last_name: Dwitiandi
 gender: Male
 category: Level Up 3000
 country: Indonesia
-_checkpoint2_: 105
+checkpoint2: 105
 finish: 19-25-46
 checkpoint3: 5157
 --- 

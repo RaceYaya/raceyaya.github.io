@@ -15,7 +15,7 @@ last_name: Bejuna
 gender: Female
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 19
+checkpoint2: 19
 finish: 5-55-08
 checkpoint3: 3332
 --- 

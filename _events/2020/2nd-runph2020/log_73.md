@@ -15,7 +15,7 @@ last_name: Geslani
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 83
+checkpoint2: 83
 finish: 13-21-41
 checkpoint3: 3020
 --- 

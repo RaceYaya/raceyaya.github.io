@@ -15,7 +15,7 @@ last_name: Bug os
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 72
+checkpoint2: 72
 finish: 16-01-34
 checkpoint3: 3002
 --- 

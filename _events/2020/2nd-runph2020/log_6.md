@@ -15,7 +15,7 @@ last_name: Dacanay
 gender: Female
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 105
+checkpoint2: 105
 finish: 23-38-23
 checkpoint3: 3215
 --- 

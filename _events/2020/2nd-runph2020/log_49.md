@@ -15,7 +15,7 @@ last_name: Del Rosario
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 88
+checkpoint2: 88
 finish: 9-33-40
 checkpoint3: 813
 --- 

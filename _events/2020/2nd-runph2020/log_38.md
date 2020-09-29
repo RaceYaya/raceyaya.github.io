@@ -15,7 +15,7 @@ last_name: Tria
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 99
+checkpoint2: 99
 finish: 25-49-28
 checkpoint3: 3342
 --- 

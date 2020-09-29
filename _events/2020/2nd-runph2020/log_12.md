@@ -15,7 +15,7 @@ last_name: Baroidan
 gender: Female
 category: Level Up 3000
 country: Hongkong
-_checkpoint2_: 33
+checkpoint2: 33
 finish: 10-06-39
 checkpoint3: 3011
 --- 

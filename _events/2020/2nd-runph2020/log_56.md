@@ -15,7 +15,7 @@ last_name: Ellis
 gender: Male
 category: Level Up 3000
 country: Australia
-_checkpoint2_: 72
+checkpoint2: 72
 finish: 8-09-18
 checkpoint3: 1701
 --- 

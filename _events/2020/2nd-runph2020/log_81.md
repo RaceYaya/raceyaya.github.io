@@ -15,7 +15,7 @@ last_name: Hong
 gender: Male
 category: Level Up 3000
 country: Malaysia
-_checkpoint2_: 
+checkpoint2: 
 finish: 0-00-00
 checkpoint3: 
 --- 

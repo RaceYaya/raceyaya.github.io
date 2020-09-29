@@ -15,7 +15,7 @@ last_name: Cadeliña
 gender: Female
 category: Sprint 500
 country: Philippines
-_checkpoint2_: 7
+checkpoint2: 7
 finish: 2-40-15
 checkpoint3: 279
 --- 

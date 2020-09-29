@@ -15,7 +15,7 @@ last_name: Santos
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 145
+checkpoint2: 145
 finish: 5-04-26
 checkpoint3: 3344
 --- 

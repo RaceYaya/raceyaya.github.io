@@ -15,7 +15,7 @@ last_name: Alcantara
 gender: Female
 category: Hike 2000
 country: Philippines
-_checkpoint2_: 43
+checkpoint2: 43
 finish: 7-56-09
 checkpoint3: 2069
 --- 

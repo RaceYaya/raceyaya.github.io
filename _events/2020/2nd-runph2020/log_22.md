@@ -15,7 +15,7 @@ last_name: Semaña
 gender: Female
 category: Climb 1500
 country: Philippines
-_checkpoint2_: 60
+checkpoint2: 60
 finish: 8-19-14
 checkpoint3: 1513
 --- 

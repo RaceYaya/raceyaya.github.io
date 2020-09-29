@@ -15,7 +15,7 @@ last_name: Longo
 gender: Male
 category: Level Up 3000
 country: Australia
-_checkpoint2_: 205
+checkpoint2: 205
 finish: 20-50-52
 checkpoint3: 6880
 --- 

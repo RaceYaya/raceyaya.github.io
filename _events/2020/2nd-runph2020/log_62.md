@@ -15,7 +15,7 @@ last_name: Baysa
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 12
+checkpoint2: 12
 finish: 4-40-09
 checkpoint3: 1744
 --- 

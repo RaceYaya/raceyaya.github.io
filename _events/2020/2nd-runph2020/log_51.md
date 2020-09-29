@@ -15,7 +15,7 @@ last_name: Pedroso
 gender: Male
 category: Sprint 500
 country: Philippines
-_checkpoint2_: 44
+checkpoint2: 44
 finish: 4-35-30
 checkpoint3: 60
 --- 

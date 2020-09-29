@@ -15,7 +15,7 @@ last_name: Fabia
 gender: Male
 category: Level Up 3000
 country: Philippines
-_checkpoint2_: 66
+checkpoint2: 66
 finish: 20-35-34
 checkpoint3: 3243
 --- 
