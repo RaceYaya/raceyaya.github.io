@@ -2273,6 +2273,24 @@
     - title: Participants
       link: /pdsl1-2020/participant
 
+- id: 100
+  title: 9th All Women Ultra Marathon 
+  event-filter: 
+    - filter: ultramarathon
+  city:
+  country: Philippines
+  address:
+  event-date: 2020-10-11
+  month: October
+  year: 2020
+  event-organizer: ThinkTank 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1602227002/10CB9A1D-4FF2-4FEC-BCB9-63DD1E148A9D_hlcl3g.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Participants
+      link: /awum-2020/participant
+
+
 
 
 
