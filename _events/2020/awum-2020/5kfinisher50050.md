@@ -14,7 +14,7 @@ overall_rank: 45
 bib: 50050
 first_name: Charito
 last_name: Montealto
-_checkpoint2_:   51 
+checkpoint2:   51 
 checkpoint3: 12-54-46
 checkpoint4: 0-15-20
 checkpoint5: 1

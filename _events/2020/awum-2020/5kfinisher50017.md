@@ -14,7 +14,7 @@ overall_rank: 28
 bib: 50017
 first_name: Rosemarie
 last_name: Rebese
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 8-58-34
 checkpoint4: 0-10-46
 checkpoint5: 1

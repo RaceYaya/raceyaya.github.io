@@ -14,7 +14,7 @@ overall_rank: 10
 bib: 50106
 first_name: Leah
 last_name: Mclean
-_checkpoint2_:   51 
+checkpoint2:   51 
 checkpoint3: 7-22-25
 checkpoint4: 0-08-42
 checkpoint5: 1

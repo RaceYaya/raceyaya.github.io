@@ -14,7 +14,7 @@ overall_rank: 25
 bib: 50328
 first_name: Elena
 last_name: Piedad
-_checkpoint2_:   52 
+checkpoint2:   52 
 checkpoint3: 8-58-57
 checkpoint4: 0-10-25
 checkpoint5: 3

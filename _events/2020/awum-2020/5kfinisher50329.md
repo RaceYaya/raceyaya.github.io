@@ -14,7 +14,7 @@ overall_rank: 7
 bib: 50329
 first_name: Rose May
 last_name: Maghanoy
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 6-29-58
 checkpoint4: 0-07-48
 checkpoint5: 1

@@ -14,7 +14,7 @@ overall_rank: 43
 bib: 50216
 first_name: Mercy Jade
 last_name: Paper
-_checkpoint2_:   51 
+checkpoint2:   51 
 checkpoint3: 11-23-14
 checkpoint4: 0-13-23
 checkpoint5: 1

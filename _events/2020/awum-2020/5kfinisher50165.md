@@ -14,7 +14,7 @@ overall_rank: 39
 bib: 50165
 first_name: Myra
 last_name: Samson
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 9-56-59
 checkpoint4: 0-11-55
 checkpoint5: 1

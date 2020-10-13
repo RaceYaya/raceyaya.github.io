@@ -14,7 +14,7 @@ overall_rank: 29
 bib: 50150
 first_name: Eva Marie
 last_name: Diego
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 8-58-34
 checkpoint4: 0-10-46
 checkpoint5: 1

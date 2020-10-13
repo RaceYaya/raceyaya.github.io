@@ -14,7 +14,7 @@ overall_rank: 35
 bib: 50004
 first_name: Maryan
 last_name: Tisado
-_checkpoint2_:   52 
+checkpoint2:   52 
 checkpoint3: 10-03-36
 checkpoint4: 0-11-35
 checkpoint5: 1

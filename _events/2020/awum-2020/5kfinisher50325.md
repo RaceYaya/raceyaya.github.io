@@ -14,7 +14,7 @@ overall_rank: 26
 bib: 50325
 first_name: Cecilia
 last_name: Villaranda
-_checkpoint2_:   57 
+checkpoint2:   57 
 checkpoint3: 10-02-48
 checkpoint4: 0-10-37
 checkpoint5: 2

@@ -14,7 +14,7 @@ overall_rank: 30
 bib: 50090
 first_name: Marjorie
 last_name: Jore
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 9-01-33
 checkpoint4: 0-10-49
 checkpoint5: 1

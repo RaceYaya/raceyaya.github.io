@@ -14,7 +14,7 @@ overall_rank: 9
 bib: 50091
 first_name: Annalyn
 last_name: Capao
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 7-03-23
 checkpoint4: 0-08-28
 checkpoint5: 1

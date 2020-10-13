@@ -14,7 +14,7 @@ overall_rank: 38
 bib: 50179
 first_name: Annalyn
 last_name: Baay
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 9-58-31
 checkpoint4: 0-11-55
 checkpoint5: 1

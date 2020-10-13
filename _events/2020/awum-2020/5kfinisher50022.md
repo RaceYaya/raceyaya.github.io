@@ -14,7 +14,7 @@ overall_rank: 20
 bib: 50022
 first_name: Violeta
 last_name: Dampios
-_checkpoint2_:   49 
+checkpoint2:   49 
 checkpoint3: 8-02-02
 checkpoint4: 0-09-49
 checkpoint5: 2

@@ -14,7 +14,7 @@ overall_rank: 14
 bib: 50015
 first_name: Elisea
 last_name: Lamonte
-_checkpoint2_:   51 
+checkpoint2:   51 
 checkpoint3: 7-42-13
 checkpoint4: 0-09-08
 checkpoint5: 2

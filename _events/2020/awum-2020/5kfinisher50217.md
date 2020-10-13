@@ -14,7 +14,7 @@ overall_rank: 17
 bib: 50217
 first_name: Marilou
 last_name: Zabate
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 8-02-51
 checkpoint4: 0-09-39
 checkpoint5: 1

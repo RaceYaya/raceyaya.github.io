@@ -14,7 +14,7 @@ overall_rank: 12
 bib: 50198
 first_name: Khimie
 last_name: Hudson
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 7-33-26
 checkpoint4: 0-09-04
 checkpoint5: 3

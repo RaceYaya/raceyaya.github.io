@@ -14,7 +14,7 @@ overall_rank: 37
 bib: 50148
 first_name: Jennylyn
 last_name: Paragoso
-_checkpoint2_:   50 
+checkpoint2:   50 
 checkpoint3: 9-48-06
 checkpoint4: 0-11-45
 checkpoint5: 2
