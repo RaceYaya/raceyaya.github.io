@@ -2287,8 +2287,10 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1602227002/10CB9A1D-4FF2-4FEC-BCB9-63DD1E148A9D_hlcl3g.jpg
   timing-solution: RaceYaya
   race-categories:
-    - title: Participants
-      link: /awum-2020/participant
+    - title: 50K Finisher
+      link: /awum-2020/5kfinisher
+    - title: Daily Log
+      link: /awum-2020/daily-log
 
 
 
