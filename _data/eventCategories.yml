@@ -2309,6 +2309,23 @@
     - title: Participants
       link: /pdsl22020/participant
 
+- id: 102
+  title: Virtual MesaStila100
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Indonesia
+  address: Magelang Central Java
+  event-date: 2020-11-01
+  month: November
+  year: 2020
+  event-organizer: Sri Agus Budi Santosa 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1604112863/3B3F7463-9336-4572-9F07-069DCA7D2527_ndaoxk.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Participants
+      link: /mesastila100-2020/participant
+
 
 
 
