@@ -2306,6 +2306,8 @@
   banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1603581872/41E92198-22DE-4F19-946A-F3E262850A63_n9inde.png
   timing-solution: RaceYaya
   race-categories:
+    - title: Finisher
+      link: /pdsl22020/finisher
     - title: Participants
       link: /pdsl22020/participant
 
