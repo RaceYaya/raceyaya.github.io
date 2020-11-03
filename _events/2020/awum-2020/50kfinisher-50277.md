@@ -15,7 +15,7 @@ gender_rank: 243
 bib: 50277
 first_name: Grace
 last_name: Ruperto
-_checkpoint2_: 53.37
+checkpoint2: 53.37
 checkpoint3: 10-31-52
 checkpoint4: 0-11-50
 checkpoint5: 7

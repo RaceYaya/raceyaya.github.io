@@ -15,7 +15,7 @@ gender_rank: 163
 bib: 50022
 first_name: Violeta
 last_name: Dampios
-_checkpoint2_: 51.52
+checkpoint2: 51.52
 checkpoint3: 8-39-02
 checkpoint4: 0-10-04
 checkpoint5: 2

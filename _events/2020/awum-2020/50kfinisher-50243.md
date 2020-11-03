@@ -15,7 +15,7 @@ gender_rank: 97
 bib: 50243
 first_name: Josephine
 last_name: Rodriguez
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 7-30-56
 checkpoint4: 0-09-01
 checkpoint5: 1

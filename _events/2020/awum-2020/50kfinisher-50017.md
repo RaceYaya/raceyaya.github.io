@@ -15,7 +15,7 @@ gender_rank: 202
 bib: 50017
 first_name: Rosemarie
 last_name: Rebese
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 8-58-34
 checkpoint4: 0-10-46
 checkpoint5: 1

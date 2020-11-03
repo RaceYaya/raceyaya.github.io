@@ -15,7 +15,7 @@ gender_rank: 199
 bib: 50295
 first_name: Chona
 last_name: Young
-_checkpoint2_: 51.52
+checkpoint2: 51.52
 checkpoint3: 9-08-42
 checkpoint4: 0-10-39
 checkpoint5: 3

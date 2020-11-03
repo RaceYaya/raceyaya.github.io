@@ -15,7 +15,7 @@ gender_rank: 68
 bib: 50337
 first_name: Maribel
 last_name: Pulga
-_checkpoint2_: 51.37
+checkpoint2: 51.37
 checkpoint3: 7-08-39
 checkpoint4: 0-08-21
 checkpoint5: 3

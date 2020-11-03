@@ -15,7 +15,7 @@ gender_rank: 32
 bib: 50019
 first_name: Jerone
 last_name: Caberio
-_checkpoint2_: 50.02
+checkpoint2: 50.02
 checkpoint3: 6-08-05
 checkpoint4: 0-07-22
 checkpoint5: 1

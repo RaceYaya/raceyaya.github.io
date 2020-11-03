@@ -15,7 +15,7 @@ gender_rank: 220
 bib: 50341
 first_name: Hester
 last_name: Milan
-_checkpoint2_: 50.37
+checkpoint2: 50.37
 checkpoint3: 9-20-15
 checkpoint4: 0-11-07
 checkpoint5: 4

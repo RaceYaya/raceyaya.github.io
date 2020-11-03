@@ -15,7 +15,7 @@ gender_rank: 240
 bib: 50192
 first_name: nenita
 last_name: baleta
-_checkpoint2_: 51.88
+checkpoint2: 51.88
 checkpoint3: 10-04-03
 checkpoint4: 0-11-39
 checkpoint5: 4

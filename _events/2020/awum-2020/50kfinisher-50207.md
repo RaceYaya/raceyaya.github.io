@@ -15,7 +15,7 @@ gender_rank: 192
 bib: 50207
 first_name: Teny
 last_name: Villacorta
-_checkpoint2_: 56.39
+checkpoint2: 56.39
 checkpoint3: 9-56-09
 checkpoint4: 0-10-34
 checkpoint5: 5

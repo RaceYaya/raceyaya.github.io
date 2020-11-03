@@ -15,7 +15,7 @@ gender_rank: 282
 bib: 50204
 first_name: Michelle
 last_name: Villaflor
-_checkpoint2_: 52.01
+checkpoint2: 52.01
 checkpoint3: 11-24-30
 checkpoint4: 0-13-10
 checkpoint5: 2

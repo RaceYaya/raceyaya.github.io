@@ -15,7 +15,7 @@ gender_rank: 182
 bib: 50048
 first_name: May Anne
 last_name: Mares
-_checkpoint2_: 50.83
+checkpoint2: 50.83
 checkpoint3: 8-47-44
 checkpoint4: 0-10-23
 checkpoint5: 3

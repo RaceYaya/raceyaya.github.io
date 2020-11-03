@@ -15,7 +15,7 @@ gender_rank: 57
 bib: 50124
 first_name: Elia Maury
 last_name: Jadina
-_checkpoint2_: 50.76
+checkpoint2: 50.76
 checkpoint3: 6-52-27
 checkpoint4: 0-08-08
 checkpoint5: 2

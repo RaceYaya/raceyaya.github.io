@@ -15,7 +15,7 @@ gender_rank: 208
 bib: 50102
 first_name: Amabelle
 last_name: Corvera
-_checkpoint2_: 51.14
+checkpoint2: 51.14
 checkpoint3: 9-15-40
 checkpoint4: 0-10-52
 checkpoint5: 4

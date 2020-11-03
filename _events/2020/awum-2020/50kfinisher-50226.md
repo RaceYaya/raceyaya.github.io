@@ -15,7 +15,7 @@ gender_rank: 26
 bib: 50226
 first_name: Genevieve
 last_name: Senones
-_checkpoint2_: 50.32
+checkpoint2: 50.32
 checkpoint3: 6-01-01
 checkpoint4: 0-07-10
 checkpoint5: 4

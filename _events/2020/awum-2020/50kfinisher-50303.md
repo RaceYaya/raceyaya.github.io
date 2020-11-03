@@ -15,7 +15,7 @@ gender_rank: 217
 bib: 50303
 first_name: Lorna
 last_name: Perez
-_checkpoint2_: 50.6
+checkpoint2: 50.6
 checkpoint3: 9-19-42
 checkpoint4: 0-11-04
 checkpoint5: 2

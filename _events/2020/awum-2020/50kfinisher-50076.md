@@ -15,7 +15,7 @@ gender_rank: 186
 bib: 50076
 first_name: Yenahlyn
 last_name: Catacutan
-_checkpoint2_: 51.17
+checkpoint2: 51.17
 checkpoint3: 8-55-53
 checkpoint4: 0-10-28
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 175
 bib: 50087
 first_name: Fatima
 last_name: Suanque
-_checkpoint2_: 50.06
+checkpoint2: 50.06
 checkpoint3: 8-32-02
 checkpoint4: 0-10-14
 checkpoint5: 4

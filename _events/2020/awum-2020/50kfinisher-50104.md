@@ -15,7 +15,7 @@ gender_rank: 205
 bib: 50104
 first_name: Stella Queenie
 last_name: Dela Torre
-_checkpoint2_: 50.8
+checkpoint2: 50.8
 checkpoint3: 9-08-05
 checkpoint4: 0-10-47
 checkpoint5: 3

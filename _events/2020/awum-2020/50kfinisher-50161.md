@@ -15,7 +15,7 @@ gender_rank: 14
 bib: 50161
 first_name: Marecel
 last_name: Abejo
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 5-30-34
 checkpoint4: 0-06-37
 checkpoint5: 5

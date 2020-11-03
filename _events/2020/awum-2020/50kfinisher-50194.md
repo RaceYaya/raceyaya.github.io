@@ -15,7 +15,7 @@ gender_rank: 172
 bib: 50194
 first_name: Aideen
 last_name: Rodrigo
-_checkpoint2_: 49.41
+checkpoint2: 49.41
 checkpoint3: 8-24-53
 checkpoint4: 0-10-13
 checkpoint5: 3

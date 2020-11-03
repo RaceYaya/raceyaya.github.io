@@ -15,7 +15,7 @@ gender_rank: 171
 bib: 50155
 first_name: Sheila Marie
 last_name: Flores
-_checkpoint2_: 52.33
+checkpoint2: 52.33
 checkpoint3: 8-54-20
 checkpoint4: 0-10-13
 checkpoint5: 5

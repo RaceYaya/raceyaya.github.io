@@ -15,7 +15,7 @@ gender_rank: 102
 bib: 50096
 first_name: Joan
 last_name: Chan
-_checkpoint2_: 50.55
+checkpoint2: 50.55
 checkpoint3: 7-40-18
 checkpoint4: 0-09-06
 checkpoint5: 2

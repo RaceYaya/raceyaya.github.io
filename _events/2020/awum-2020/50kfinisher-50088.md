@@ -15,7 +15,7 @@ gender_rank: 154
 bib: 50088
 first_name: Mary Mae
 last_name: Rosos
-_checkpoint2_: 55.05
+checkpoint2: 55.05
 checkpoint3: 9-05-44
 checkpoint4: 0-09-55
 checkpoint5: 3

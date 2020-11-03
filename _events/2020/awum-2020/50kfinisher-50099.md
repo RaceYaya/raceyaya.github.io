@@ -15,7 +15,7 @@ gender_rank: 150
 bib: 50099
 first_name: Niz
 last_name: Autor
-_checkpoint2_: 50.22
+checkpoint2: 50.22
 checkpoint3: 8-17-00
 checkpoint4: 0-09-54
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 310
 bib: 50326
 first_name: Ruthchelle
 last_name: Panal
-_checkpoint2_: 50.43
+checkpoint2: 50.43
 checkpoint3: 14-11-55
 checkpoint4: 0-16-54
 checkpoint5: 2

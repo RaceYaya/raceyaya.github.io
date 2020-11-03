@@ -15,7 +15,7 @@ gender_rank: 69
 bib: 50339
 first_name: Analisa
 last_name: Dacayana
-_checkpoint2_: 51.52
+checkpoint2: 51.52
 checkpoint3: 7-10-47
 checkpoint4: 0-08-22
 checkpoint5: 4

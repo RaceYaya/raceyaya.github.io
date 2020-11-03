@@ -15,7 +15,7 @@ gender_rank: 4
 bib: 50036
 first_name: Sandra
 last_name: Soliano
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 4-58-06
 checkpoint4: 0-05-58
 checkpoint5: 2

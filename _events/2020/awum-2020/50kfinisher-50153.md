@@ -15,7 +15,7 @@ gender_rank: 156
 bib: 50153
 first_name: Cheryl
 last_name: Potot
-_checkpoint2_: 50.38
+checkpoint2: 50.38
 checkpoint3: 8-19-50
 checkpoint4: 0-09-55
 checkpoint5: 5

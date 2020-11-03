@@ -15,7 +15,7 @@ gender_rank: 134
 bib: 50195
 first_name: Yasmin
 last_name: Fevidal
-_checkpoint2_: 53.19
+checkpoint2: 53.19
 checkpoint3: 8-35-48
 checkpoint4: 0-09-42
 checkpoint5: 5

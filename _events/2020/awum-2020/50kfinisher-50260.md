@@ -15,7 +15,7 @@ gender_rank: 160
 bib: 50260
 first_name: Loi
 last_name: Alicante
-_checkpoint2_: 51.16
+checkpoint2: 51.16
 checkpoint3: 8-33-53
 checkpoint4: 0-10-03
 checkpoint5: 2

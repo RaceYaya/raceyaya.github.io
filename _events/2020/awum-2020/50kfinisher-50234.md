@@ -15,7 +15,7 @@ gender_rank: 267
 bib: 50234
 first_name: Lady Ann
 last_name: Ong
-_checkpoint2_: 51.74
+checkpoint2: 51.74
 checkpoint3: 10-44-37
 checkpoint4: 0-12-28
 checkpoint5: 4

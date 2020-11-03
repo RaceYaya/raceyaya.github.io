@@ -15,7 +15,7 @@ gender_rank: 22
 bib: 50206
 first_name: Angela Priscilla Isidra
 last_name: Calumpang
-_checkpoint2_: 50.43
+checkpoint2: 50.43
 checkpoint3: 5-48-59
 checkpoint4: 0-06-55
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 185
 bib: 50328
 first_name: Elena
 last_name: Piedad
-_checkpoint2_: 51.73
+checkpoint2: 51.73
 checkpoint3: 8-58-57
 checkpoint4: 0-10-25
 checkpoint5: 3

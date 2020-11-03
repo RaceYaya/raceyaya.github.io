@@ -15,7 +15,7 @@ gender_rank: 86
 bib: 50083
 first_name: Mia Kara
 last_name: Trasmonte
-_checkpoint2_: 51.42
+checkpoint2: 51.42
 checkpoint3: 7-31-22
 checkpoint4: 0-08-47
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 153
 bib: 50289
 first_name: Jean
 last_name: Melon
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 8-15-24
 checkpoint4: 0-09-54
 checkpoint5: 1

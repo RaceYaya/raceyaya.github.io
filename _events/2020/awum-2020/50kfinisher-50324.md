@@ -15,7 +15,7 @@ gender_rank: 133
 bib: 50324
 first_name: Marie Charisse
 last_name: Saraña
-_checkpoint2_: 50.11
+checkpoint2: 50.11
 checkpoint3: 8-05-23
 checkpoint4: 0-09-41
 checkpoint5: 4

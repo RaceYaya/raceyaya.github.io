@@ -15,7 +15,7 @@ gender_rank: 88
 bib: 50014
 first_name: Marina
 last_name: Dela Serna
-_checkpoint2_: 53.17
+checkpoint2: 53.17
 checkpoint3: 7-50-41
 checkpoint4: 0-08-51
 checkpoint5: 3

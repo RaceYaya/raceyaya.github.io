@@ -15,7 +15,7 @@ gender_rank: 257
 bib: 50129
 first_name: Evelyn
 last_name: Magoncia
-_checkpoint2_: 53.41
+checkpoint2: 53.41
 checkpoint3: 10-49-12
 checkpoint4: 0-12-09
 checkpoint5: 5

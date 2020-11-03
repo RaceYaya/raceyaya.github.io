@@ -15,7 +15,7 @@ gender_rank: 91
 bib: 50146
 first_name: Sheila mae
 last_name: Bardago
-_checkpoint2_: 50.1
+checkpoint2: 50.1
 checkpoint3: 7-25-32
 checkpoint4: 0-08-54
 checkpoint5: 1

@@ -15,7 +15,7 @@ gender_rank: 93
 bib: 50237
 first_name: Lady Ferlynne
 last_name: Capaning
-_checkpoint2_: 50.76
+checkpoint2: 50.76
 checkpoint3: 7-32-22
 checkpoint4: 0-08-55
 checkpoint5: 3

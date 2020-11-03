@@ -15,7 +15,7 @@ gender_rank: 287
 bib: 50250
 first_name: Neshella
 last_name: Secueles
-_checkpoint2_: 53.14
+checkpoint2: 53.14
 checkpoint3: 11-53-10
 checkpoint4: 0-13-25
 checkpoint5: 3

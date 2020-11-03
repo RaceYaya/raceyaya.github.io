@@ -15,7 +15,7 @@ gender_rank: 307
 bib: 50049
 first_name: Hope
 last_name: Melgar
-_checkpoint2_: 51.21
+checkpoint2: 51.21
 checkpoint3: 13-52-52
 checkpoint4: 0-16-16
 checkpoint5: 2

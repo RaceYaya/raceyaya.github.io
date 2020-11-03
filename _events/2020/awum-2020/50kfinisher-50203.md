@@ -15,7 +15,7 @@ gender_rank: 168
 bib: 50203
 first_name: Eurayna
 last_name: Maravilla
-_checkpoint2_: 53.16
+checkpoint2: 53.16
 checkpoint3: 9-00-46
 checkpoint4: 0-10-10
 checkpoint5: 3

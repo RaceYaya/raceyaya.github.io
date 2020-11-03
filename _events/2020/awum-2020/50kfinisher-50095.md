@@ -15,7 +15,7 @@ gender_rank: 123
 bib: 50095
 first_name: Rica Carmela
 last_name: Cavan
-_checkpoint2_: 57.7
+checkpoint2: 57.7
 checkpoint3: 9-13-04
 checkpoint4: 0-09-35
 checkpoint5: 5

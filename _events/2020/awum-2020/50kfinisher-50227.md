@@ -15,7 +15,7 @@ gender_rank: 173
 bib: 50227
 first_name: Sheila Marie
 last_name: Requierme
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 8-31-04
 checkpoint4: 0-10-13
 checkpoint5: 4

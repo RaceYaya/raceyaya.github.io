@@ -15,7 +15,7 @@ gender_rank: 266
 bib: 50126
 first_name: Gemma
 last_name: Bulao
-_checkpoint2_: 51.94
+checkpoint2: 51.94
 checkpoint3: 10-44-49
 checkpoint4: 0-12-25
 checkpoint5: 4

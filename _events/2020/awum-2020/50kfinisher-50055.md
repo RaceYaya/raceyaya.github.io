@@ -15,7 +15,7 @@ gender_rank: 101
 bib: 50055
 first_name: Ann L
 last_name: Bargamento
-_checkpoint2_: 51.06
+checkpoint2: 51.06
 checkpoint3: 7-44-37
 checkpoint4: 0-09-06
 checkpoint5: 1

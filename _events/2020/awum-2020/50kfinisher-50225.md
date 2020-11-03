@@ -15,7 +15,7 @@ gender_rank: 105
 bib: 50225
 first_name: armogenia
 last_name: Iris
-_checkpoint2_: 54.43
+checkpoint2: 54.43
 checkpoint3: 8-17-11
 checkpoint4: 0-09-08
 checkpoint5: 5

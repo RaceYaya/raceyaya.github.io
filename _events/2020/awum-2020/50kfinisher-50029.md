@@ -15,7 +15,7 @@ gender_rank: 85
 bib: 50029
 first_name: Rosalinda
 last_name: Cosino
-_checkpoint2_: 51.57
+checkpoint2: 51.57
 checkpoint3: 7-31-45
 checkpoint4: 0-08-46
 checkpoint5: 5

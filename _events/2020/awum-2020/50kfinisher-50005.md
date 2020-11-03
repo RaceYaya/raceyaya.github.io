@@ -15,7 +15,7 @@ gender_rank: 238
 bib: 50005
 first_name: Carina
 last_name: Viola
-_checkpoint2_: 52.09
+checkpoint2: 52.09
 checkpoint3: 10-03-36
 checkpoint4: 0-11-35
 checkpoint5: 1

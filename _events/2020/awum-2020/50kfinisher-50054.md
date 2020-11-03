@@ -15,7 +15,7 @@ gender_rank: 19
 bib: 50054
 first_name: Maria Fe
 last_name: Rubi
-_checkpoint2_: 52.56
+checkpoint2: 52.56
 checkpoint3: 5-55-23
 checkpoint4: 0-06-46
 checkpoint5: 3

@@ -15,7 +15,7 @@ gender_rank: 279
 bib: 50098
 first_name: Lyda
 last_name: Ybanez
-_checkpoint2_: 50.32
+checkpoint2: 50.32
 checkpoint3: 10-57-44
 checkpoint4: 0-13-04
 checkpoint5: 1

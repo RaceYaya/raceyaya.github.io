@@ -15,7 +15,7 @@ gender_rank: 39
 bib: 50103
 first_name: Zenny
 last_name: Awing
-_checkpoint2_: 51.19
+checkpoint2: 51.19
 checkpoint3: 6-27-52
 checkpoint4: 0-07-35
 checkpoint5: 6

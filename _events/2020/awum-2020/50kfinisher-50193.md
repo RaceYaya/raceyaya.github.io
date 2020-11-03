@@ -15,7 +15,7 @@ gender_rank: 194
 bib: 50193
 first_name: Jarrid Anne
 last_name: Remulta
-_checkpoint2_: 52.62
+checkpoint2: 52.62
 checkpoint3: 9-16-37
 checkpoint4: 0-10-35
 checkpoint5: 3

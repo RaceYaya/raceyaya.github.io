@@ -15,7 +15,7 @@ gender_rank: 142
 bib: 50068
 first_name: Lucy
 last_name: Colina
-_checkpoint2_: 50.12
+checkpoint2: 50.12
 checkpoint3: 8-09-17
 checkpoint4: 0-09-46
 checkpoint5: 1

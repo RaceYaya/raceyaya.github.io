@@ -15,7 +15,7 @@ gender_rank: 299
 bib: 50156
 first_name: Irish
 last_name: Berdijo
-_checkpoint2_: 54.13
+checkpoint2: 54.13
 checkpoint3: 13-18-50
 checkpoint4: 0-14-45
 checkpoint5: 2

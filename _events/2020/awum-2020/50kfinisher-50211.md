@@ -15,7 +15,7 @@ gender_rank: 265
 bib: 50211
 first_name: Leonor
 last_name: Tayone
-_checkpoint2_: 50.47
+checkpoint2: 50.47
 checkpoint3: 10-26-04
 checkpoint4: 0-12-24
 checkpoint5: 3

@@ -15,7 +15,7 @@ gender_rank: 258
 bib: 50045
 first_name: Humility
 last_name: IGANA
-_checkpoint2_: 50.44
+checkpoint2: 50.44
 checkpoint3: 10-17-20
 checkpoint4: 0-12-14
 checkpoint5: 3

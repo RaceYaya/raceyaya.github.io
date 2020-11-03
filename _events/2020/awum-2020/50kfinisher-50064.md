@@ -15,7 +15,7 @@ gender_rank: 77
 bib: 50064
 first_name: Carolyn
 last_name: Baja
-_checkpoint2_: 50.58
+checkpoint2: 50.58
 checkpoint3: 7-11-01
 checkpoint4: 0-08-31
 checkpoint5: 5

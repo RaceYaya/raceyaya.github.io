@@ -15,7 +15,7 @@ gender_rank: 107
 bib: 50293
 first_name: Julianne
 last_name: Villaflor
-_checkpoint2_: 51.11
+checkpoint2: 51.11
 checkpoint3: 7-50-31
 checkpoint4: 0-09-12
 checkpoint5: 4

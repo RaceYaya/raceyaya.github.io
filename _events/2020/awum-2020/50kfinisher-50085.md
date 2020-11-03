@@ -15,7 +15,7 @@ gender_rank: 166
 bib: 50085
 first_name: Sheila
 last_name: Colmenares
-_checkpoint2_: 49.98
+checkpoint2: 49.98
 checkpoint3: 8-27-09
 checkpoint4: 0-10-09
 checkpoint5: 

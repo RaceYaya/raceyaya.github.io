@@ -15,7 +15,7 @@ gender_rank: 9
 bib: 50035
 first_name: Cheryl
 last_name: Raro
-_checkpoint2_: 50.18
+checkpoint2: 50.18
 checkpoint3: 5-16-24
 checkpoint4: 0-06-18
 checkpoint5: 2

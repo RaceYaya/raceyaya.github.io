@@ -15,7 +15,7 @@ gender_rank: 290
 bib: 50009
 first_name: Dahlia
 last_name: Imperial
-_checkpoint2_: 59.24
+checkpoint2: 59.24
 checkpoint3: 13-17-42
 checkpoint4: 0-13-28
 checkpoint5: 5

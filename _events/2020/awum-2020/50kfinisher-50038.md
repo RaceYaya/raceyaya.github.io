@@ -15,7 +15,7 @@ gender_rank: 1
 bib: 50038
 first_name: Evamie
 last_name: Villarin
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 4-10-12
 checkpoint4: 0-05-00
 checkpoint5: 3

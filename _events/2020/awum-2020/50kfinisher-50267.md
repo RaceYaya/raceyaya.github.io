@@ -15,7 +15,7 @@ gender_rank: 40
 bib: 50267
 first_name: Katherine
 last_name: Eriksson
-_checkpoint2_: 50.59
+checkpoint2: 50.59
 checkpoint3: 6-24-02
 checkpoint4: 0-07-35
 checkpoint5: 5

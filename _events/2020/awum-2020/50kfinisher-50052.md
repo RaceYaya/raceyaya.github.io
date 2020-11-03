@@ -15,7 +15,7 @@ gender_rank: 31
 bib: 50052
 first_name: Preciousa
 last_name: SANCHEZ
-_checkpoint2_: 53.04
+checkpoint2: 53.04
 checkpoint3: 6-27-34
 checkpoint4: 0-07-18
 checkpoint5: 4

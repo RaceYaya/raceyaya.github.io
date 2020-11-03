@@ -15,7 +15,7 @@ gender_rank: 158
 bib: 50075
 first_name: Ivanna
 last_name: Tiu
-_checkpoint2_: 50.13
+checkpoint2: 50.13
 checkpoint3: 8-18-12
 checkpoint4: 0-09-56
 checkpoint5: 4

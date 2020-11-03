@@ -15,7 +15,7 @@ gender_rank: 283
 bib: 50018
 first_name: Jasmine
 last_name: Capangpangan
-_checkpoint2_: 52.79
+checkpoint2: 52.79
 checkpoint3: 11-35-54
 checkpoint4: 0-13-11
 checkpoint5: 1

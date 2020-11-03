@@ -15,7 +15,7 @@ gender_rank: 245
 bib: 50002
 first_name: Rosemarie
 last_name: Paras
-_checkpoint2_: 50.08
+checkpoint2: 50.08
 checkpoint3: 9-55-05
 checkpoint4: 0-11-53
 checkpoint5: 1

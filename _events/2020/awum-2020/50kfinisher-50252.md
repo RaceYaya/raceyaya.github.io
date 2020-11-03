@@ -15,7 +15,7 @@ gender_rank: 293
 bib: 50252
 first_name: Dima
 last_name: Monterola
-_checkpoint2_: 51.42
+checkpoint2: 51.42
 checkpoint3: 12-07-05
 checkpoint4: 0-14-08
 checkpoint5: 5

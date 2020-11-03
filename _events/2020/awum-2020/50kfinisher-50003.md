@@ -15,7 +15,7 @@ gender_rank: 232
 bib: 50003
 first_name: Jennifer
 last_name: Salinas
-_checkpoint2_: 50.63
+checkpoint2: 50.63
 checkpoint3: 9-42-43
 checkpoint4: 0-11-31
 checkpoint5: 4

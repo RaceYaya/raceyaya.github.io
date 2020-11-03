@@ -15,7 +15,7 @@ gender_rank: 231
 bib: 50262
 first_name: Mary Kristine
 last_name: Canindo
-_checkpoint2_: 51.25
+checkpoint2: 51.25
 checkpoint3: 9-47-40
 checkpoint4: 0-11-28
 checkpoint5: 6

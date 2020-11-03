@@ -15,7 +15,7 @@ gender_rank: 83
 bib: 50334
 first_name: Mimi
 last_name: Yanson
-_checkpoint2_: 50.12
+checkpoint2: 50.12
 checkpoint3: 7-17-12
 checkpoint4: 0-08-43
 checkpoint5: 3

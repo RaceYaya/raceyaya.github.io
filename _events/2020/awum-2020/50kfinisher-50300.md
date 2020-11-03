@@ -15,7 +15,7 @@ gender_rank: 254
 bib: 50300
 first_name: Jenalyn
 last_name: Susvilla
-_checkpoint2_: 59.17
+checkpoint2: 59.17
 checkpoint3: 11-51-22
 checkpoint4: 0-12-01
 checkpoint5: 5

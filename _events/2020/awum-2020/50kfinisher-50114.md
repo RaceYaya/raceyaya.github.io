@@ -15,7 +15,7 @@ gender_rank: 52
 bib: 50114
 first_name: Janice
 last_name: Masapequena
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 6-38-10
 checkpoint4: 0-07-58
 checkpoint5: 5

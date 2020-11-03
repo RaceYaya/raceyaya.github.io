@@ -15,7 +15,7 @@ gender_rank: 148
 bib: 50071
 first_name: Liezel
 last_name: Ogdoc
-_checkpoint2_: 50.05
+checkpoint2: 50.05
 checkpoint3: 8-12-22
 checkpoint4: 0-09-50
 checkpoint5: 1

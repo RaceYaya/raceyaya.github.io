@@ -15,7 +15,7 @@ gender_rank: 165
 bib: 50301
 first_name: Janet
 last_name: Mesiona
-_checkpoint2_: 50.65
+checkpoint2: 50.65
 checkpoint3: 8-32-11
 checkpoint4: 0-10-07
 checkpoint5: 4

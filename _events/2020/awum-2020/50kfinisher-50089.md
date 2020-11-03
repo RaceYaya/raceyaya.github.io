@@ -15,7 +15,7 @@ gender_rank: 234
 bib: 50089
 first_name: Charmine Rose
 last_name: Navarro
-_checkpoint2_: 50.51
+checkpoint2: 50.51
 checkpoint3: 9-43-21
 checkpoint4: 0-11-33
 checkpoint5: 1

@@ -15,7 +15,7 @@ gender_rank: 42
 bib: 50118
 first_name: Alma Vicencia
 last_name: Gador
-_checkpoint2_: 52.44
+checkpoint2: 52.44
 checkpoint3: 6-39-35
 checkpoint4: 0-07-37
 checkpoint5: 3

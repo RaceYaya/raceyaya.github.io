@@ -15,7 +15,7 @@ gender_rank: 54
 bib: 50162
 first_name: Katherine Anne
 last_name: Maquiling
-_checkpoint2_: 57
+checkpoint2: 57
 checkpoint3: 7-38-42
 checkpoint4: 0-08-03
 checkpoint5: 6

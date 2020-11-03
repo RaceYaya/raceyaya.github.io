@@ -15,7 +15,7 @@ gender_rank: 180
 bib: 50249
 first_name: Joge
 last_name: Legaspi
-_checkpoint2_: 50.35
+checkpoint2: 50.35
 checkpoint3: 8-37-43
 checkpoint4: 0-10-17
 checkpoint5: 3

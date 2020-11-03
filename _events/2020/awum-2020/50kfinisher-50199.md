@@ -15,7 +15,7 @@ gender_rank: 136
 bib: 50199
 first_name: May Ann
 last_name: Anacion
-_checkpoint2_: 51.04
+checkpoint2: 51.04
 checkpoint3: 8-15-24
 checkpoint4: 0-09-42
 checkpoint5: 3

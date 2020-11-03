@@ -15,7 +15,7 @@ gender_rank: 64
 bib: 50151
 first_name: Jo
 last_name: Bompat
-_checkpoint2_: 51.32
+checkpoint2: 51.32
 checkpoint3: 7-01-21
 checkpoint4: 0-08-13
 checkpoint5: 4

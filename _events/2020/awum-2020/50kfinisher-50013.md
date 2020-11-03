@@ -15,7 +15,7 @@ gender_rank: 309
 bib: 50013
 first_name: Edna
 last_name: Jugarap
-_checkpoint2_: 50.07
+checkpoint2: 50.07
 checkpoint3: 14-05-26
 checkpoint4: 0-16-53
 checkpoint5: 1

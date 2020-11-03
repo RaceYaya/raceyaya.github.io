@@ -15,7 +15,7 @@ gender_rank: 126
 bib: 50066
 first_name: MYRGRID
 last_name: MAMITES
-_checkpoint2_: 52.49
+checkpoint2: 52.49
 checkpoint3: 8-25-33
 checkpoint4: 0-09-38
 checkpoint5: 4

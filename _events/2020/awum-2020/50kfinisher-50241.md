@@ -15,7 +15,7 @@ gender_rank: 274
 bib: 50241
 first_name: Maria Carla Christine
 last_name: Budlong
-_checkpoint2_: 50.49
+checkpoint2: 50.49
 checkpoint3: 10-46-45
 checkpoint4: 0-12-49
 checkpoint5: 3

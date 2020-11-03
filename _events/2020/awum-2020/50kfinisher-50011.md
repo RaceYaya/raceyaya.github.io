@@ -15,7 +15,7 @@ gender_rank: 190
 bib: 50011
 first_name: Rowena
 last_name: Bonilla
-_checkpoint2_: 54.48
+checkpoint2: 54.48
 checkpoint3: 9-35-48
 checkpoint4: 0-10-34
 checkpoint5: 6

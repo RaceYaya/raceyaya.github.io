@@ -15,7 +15,7 @@ gender_rank: 302
 bib: 50044
 first_name: Maria Armie Sheila
 last_name: Garde
-_checkpoint2_: 50.88
+checkpoint2: 50.88
 checkpoint3: 12-43-45
 checkpoint4: 0-15-01
 checkpoint5: 4

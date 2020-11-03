@@ -15,7 +15,7 @@ gender_rank: 106
 bib: 50010
 first_name: Emelita
 last_name: Maurecio
-_checkpoint2_: 50.85
+checkpoint2: 50.85
 checkpoint3: 7-45-55
 checkpoint4: 0-09-10
 checkpoint5: 4

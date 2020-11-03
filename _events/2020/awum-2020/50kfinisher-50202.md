@@ -15,7 +15,7 @@ gender_rank: 278
 bib: 50202
 first_name: June Alva
 last_name: Advincula
-_checkpoint2_: 52.72
+checkpoint2: 52.72
 checkpoint3: 11-28-37
 checkpoint4: 0-13-04
 checkpoint5: 4

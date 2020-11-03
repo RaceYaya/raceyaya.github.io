@@ -15,7 +15,7 @@ gender_rank: 5
 bib: 50314
 first_name: Linajane
 last_name: Aluba
-_checkpoint2_: 50.19
+checkpoint2: 50.19
 checkpoint3: 4-59-43
 checkpoint4: 0-05-58
 checkpoint5: 1

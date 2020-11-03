@@ -15,7 +15,7 @@ gender_rank: 100
 bib: 50094
 first_name: Khimberly
 last_name: Paquibot
-_checkpoint2_: 50.18
+checkpoint2: 50.18
 checkpoint3: 7-36-24
 checkpoint4: 0-09-06
 checkpoint5: 3

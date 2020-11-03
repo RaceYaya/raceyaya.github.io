@@ -15,7 +15,7 @@ gender_rank: 43
 bib: 50116
 first_name: Cecille Anne
 last_name: Serales
-_checkpoint2_: 52.15
+checkpoint2: 52.15
 checkpoint3: 6-38-58
 checkpoint4: 0-07-39
 checkpoint5: 4

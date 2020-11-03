@@ -15,7 +15,7 @@ gender_rank: 229
 bib: 50242
 first_name: Ann Techienen
 last_name: Yguinto
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 9-31-24
 checkpoint4: 0-11-26
 checkpoint5: 3

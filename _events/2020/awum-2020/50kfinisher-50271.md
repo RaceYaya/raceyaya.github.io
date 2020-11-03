@@ -15,7 +15,7 @@ gender_rank: 145
 bib: 50271
 first_name: Sweitenia
 last_name: Aparte
-_checkpoint2_: 50.32
+checkpoint2: 50.32
 checkpoint3: 8-14-35
 checkpoint4: 0-09-50
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 184
 bib: 50134
 first_name: Rhea
 last_name: Langren
-_checkpoint2_: 50.06
+checkpoint2: 50.06
 checkpoint3: 8-41-19
 checkpoint4: 0-10-25
 checkpoint5: 4

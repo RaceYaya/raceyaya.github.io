@@ -15,7 +15,7 @@ gender_rank: 17
 bib: 50142
 first_name: Janelle
 last_name: Palang
-_checkpoint2_: 50.51
+checkpoint2: 50.51
 checkpoint3: 5-38-32
 checkpoint4: 0-06-42
 checkpoint5: 6

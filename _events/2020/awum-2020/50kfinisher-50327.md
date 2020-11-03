@@ -15,7 +15,7 @@ gender_rank: 228
 bib: 50327
 first_name: Magdalena
 last_name: Amistoso
-_checkpoint2_: 62.34
+checkpoint2: 62.34
 checkpoint3: 11-51-43
 checkpoint4: 0-11-25
 checkpoint5: 3

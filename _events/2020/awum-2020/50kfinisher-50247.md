@@ -15,7 +15,7 @@ gender_rank: 313
 bib: 50247
 first_name: Faith
 last_name: Rodrigo
-_checkpoint2_: 50.41
+checkpoint2: 50.41
 checkpoint3: 14-33-47
 checkpoint4: 0-17-20
 checkpoint5: 1

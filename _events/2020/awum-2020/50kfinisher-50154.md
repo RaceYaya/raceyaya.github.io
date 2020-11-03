@@ -15,7 +15,7 @@ gender_rank: 209
 bib: 50154
 first_name: Jocelyn
 last_name: Fletcher
-_checkpoint2_: 52.52
+checkpoint2: 52.52
 checkpoint3: 9-30-44
 checkpoint4: 0-10-52
 checkpoint5: 4

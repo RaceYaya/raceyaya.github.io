@@ -15,7 +15,7 @@ gender_rank: 179
 bib: 50318
 first_name: Glenda
 last_name: Napoles
-_checkpoint2_: 51.5
+checkpoint2: 51.5
 checkpoint3: 8-49-18
 checkpoint4: 0-10-17
 checkpoint5: 5

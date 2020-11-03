@@ -15,7 +15,7 @@ gender_rank: 300
 bib: 50101
 first_name: Christine Patty
 last_name: Villamor
-_checkpoint2_: 55.23
+checkpoint2: 55.23
 checkpoint3: 13-43-55
 checkpoint4: 0-14-55
 checkpoint5: 4

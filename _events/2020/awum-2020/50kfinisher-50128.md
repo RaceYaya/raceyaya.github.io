@@ -15,7 +15,7 @@ gender_rank: 286
 bib: 50128
 first_name: Janette
 last_name: Nadela
-_checkpoint2_: 55.84
+checkpoint2: 55.84
 checkpoint3: 12-27-57
 checkpoint4: 0-13-24
 checkpoint5: 3

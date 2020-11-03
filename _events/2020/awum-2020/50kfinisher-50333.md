@@ -15,7 +15,7 @@ gender_rank: 20
 bib: 50333
 first_name: Marlyn
 last_name: Carpio
-_checkpoint2_: 50.33
+checkpoint2: 50.33
 checkpoint3: 5-42-40
 checkpoint4: 0-06-49
 checkpoint5: 1

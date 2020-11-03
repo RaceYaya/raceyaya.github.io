@@ -15,7 +15,7 @@ gender_rank: 197
 bib: 50059
 first_name: Emelyn
 last_name: Co
-_checkpoint2_: 51.86
+checkpoint2: 51.86
 checkpoint3: 9-11-10
 checkpoint4: 0-10-38
 checkpoint5: 3

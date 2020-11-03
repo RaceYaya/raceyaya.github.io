@@ -15,7 +15,7 @@ gender_rank: 167
 bib: 50298
 first_name: Desiree
 last_name: Holaysan
-_checkpoint2_: 50.69
+checkpoint2: 50.69
 checkpoint3: 8-34-49
 checkpoint4: 0-10-09
 checkpoint5: 4

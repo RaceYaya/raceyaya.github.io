@@ -15,7 +15,7 @@ gender_rank: 122
 bib: 50319
 first_name: Josephine
 last_name: Uy
-_checkpoint2_: 51.53
+checkpoint2: 51.53
 checkpoint3: 8-12-20
 checkpoint4: 0-09-33
 checkpoint5: 5

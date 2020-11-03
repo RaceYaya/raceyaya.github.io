@@ -15,7 +15,7 @@ gender_rank: 16
 bib: 50037
 first_name: Sharon Rose
 last_name: Torres
-_checkpoint2_: 50.11
+checkpoint2: 50.11
 checkpoint3: 5-32-54
 checkpoint4: 0-06-39
 checkpoint5: 3

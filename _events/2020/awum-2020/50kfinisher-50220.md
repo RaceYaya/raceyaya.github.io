@@ -15,7 +15,7 @@ gender_rank: 108
 bib: 50220
 first_name: Rowena Bejic
 last_name: Laparan
-_checkpoint2_: 50.2
+checkpoint2: 50.2
 checkpoint3: 7-43-17
 checkpoint4: 0-09-14
 checkpoint5: 1

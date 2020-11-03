@@ -15,7 +15,7 @@ gender_rank: 113
 bib: 50174
 first_name: Grace
 last_name: ArawAraw
-_checkpoint2_: 50.44
+checkpoint2: 50.44
 checkpoint3: 7-50-15
 checkpoint4: 0-09-19
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 116
 bib: 50163
 first_name: Jhonalyn
 last_name: Macapanas
-_checkpoint2_: 51.24
+checkpoint2: 51.24
 checkpoint3: 8-04-13
 checkpoint4: 0-09-27
 checkpoint5: 3

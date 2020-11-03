@@ -15,7 +15,7 @@ gender_rank: 56
 bib: 50136
 first_name: Ivy
 last_name: Pabillon
-_checkpoint2_: 50.22
+checkpoint2: 50.22
 checkpoint3: 6-47-01
 checkpoint4: 0-08-06
 checkpoint5: 4

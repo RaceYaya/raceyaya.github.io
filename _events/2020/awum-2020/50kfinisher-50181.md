@@ -15,7 +15,7 @@ gender_rank: 188
 bib: 50181
 first_name: Jocelyn
 last_name: Caballero
-_checkpoint2_: 63.98
+checkpoint2: 63.98
 checkpoint3: 11-13-26
 checkpoint4: 0-10-32
 checkpoint5: 3

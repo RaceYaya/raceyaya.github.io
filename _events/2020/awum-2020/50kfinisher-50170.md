@@ -15,7 +15,7 @@ gender_rank: 297
 bib: 50170
 first_name: Silver
 last_name: Sugordiano
-_checkpoint2_: 51.8
+checkpoint2: 51.8
 checkpoint3: 12-33-50
 checkpoint4: 0-14-33
 checkpoint5: 4

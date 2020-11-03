@@ -15,7 +15,7 @@ gender_rank: 216
 bib: 50008
 first_name: Chona
 last_name: Chan
-_checkpoint2_: 58.07
+checkpoint2: 58.07
 checkpoint3: 10-38-18
 checkpoint4: 0-11-00
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 268
 bib: 50173
 first_name: Maribeth
 last_name: Montesa
-_checkpoint2_: 57.51
+checkpoint2: 57.51
 checkpoint3: 12-00-56
 checkpoint4: 0-12-32
 checkpoint5: 3

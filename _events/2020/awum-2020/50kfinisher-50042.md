@@ -15,7 +15,7 @@ gender_rank: 55
 bib: 50042
 first_name: Gemma
 last_name: Custodio
-_checkpoint2_: 50.51
+checkpoint2: 50.51
 checkpoint3: 6-47-24
 checkpoint4: 0-08-04
 checkpoint5: 4

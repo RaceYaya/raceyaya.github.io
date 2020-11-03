@@ -15,7 +15,7 @@ gender_rank: 135
 bib: 50246
 first_name: Dean
 last_name: Yuipco
-_checkpoint2_: 50.4
+checkpoint2: 50.4
 checkpoint3: 8-08-51
 checkpoint4: 0-09-42
 checkpoint5: 5

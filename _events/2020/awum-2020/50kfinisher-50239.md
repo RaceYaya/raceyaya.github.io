@@ -15,7 +15,7 @@ gender_rank: 296
 bib: 50239
 first_name: Kristine
 last_name: Waban
-_checkpoint2_: 50.62
+checkpoint2: 50.62
 checkpoint3: 12-10-54
 checkpoint4: 0-14-26
 checkpoint5: 1

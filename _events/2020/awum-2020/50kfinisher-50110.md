@@ -15,7 +15,7 @@ gender_rank: 215
 bib: 50110
 first_name: Denise Marie
 last_name: Manuales
-_checkpoint2_: 51.7
+checkpoint2: 51.7
 checkpoint3: 9-27-44
 checkpoint4: 0-10-59
 checkpoint5: 5

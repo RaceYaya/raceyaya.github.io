@@ -15,7 +15,7 @@ gender_rank: 94
 bib: 50342
 first_name: Lucille Ann
 last_name: Burgos
-_checkpoint2_: 52.81
+checkpoint2: 52.81
 checkpoint3: 7-51-51
 checkpoint4: 0-08-56
 checkpoint5: 3

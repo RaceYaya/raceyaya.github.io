@@ -15,7 +15,7 @@ gender_rank: 198
 bib: 50108
 first_name: Ruthsel
 last_name: Bering
-_checkpoint2_: 50.26
+checkpoint2: 50.26
 checkpoint3: 8-55-08
 checkpoint4: 0-10-39
 checkpoint5: 4

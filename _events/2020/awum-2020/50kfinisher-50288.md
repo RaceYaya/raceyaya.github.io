@@ -15,7 +15,7 @@ gender_rank: 110
 bib: 50288
 first_name: Dinah
 last_name: Tabada Chu
-_checkpoint2_: 50.41
+checkpoint2: 50.41
 checkpoint3: 7-46-09
 checkpoint4: 0-09-15
 checkpoint5: 5

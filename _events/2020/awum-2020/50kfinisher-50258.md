@@ -15,7 +15,7 @@ gender_rank: 260
 bib: 50258
 first_name: Aristina
 last_name: Repompo
-_checkpoint2_: 50.88
+checkpoint2: 50.88
 checkpoint3: 10-24-32
 checkpoint4: 0-12-16
 checkpoint5: 6

@@ -15,7 +15,7 @@ gender_rank: 50
 bib: 50346
 first_name: Jobylou
 last_name: Gocotano
-_checkpoint2_: 50.18
+checkpoint2: 50.18
 checkpoint3: 6-39-08
 checkpoint4: 0-07-57
 checkpoint5: 5

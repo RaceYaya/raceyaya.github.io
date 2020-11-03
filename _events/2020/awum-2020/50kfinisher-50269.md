@@ -15,7 +15,7 @@ gender_rank: 212
 bib: 50269
 first_name: Carla Zoila
 last_name: Aton
-_checkpoint2_: 54.59
+checkpoint2: 54.59
 checkpoint3: 9-55-07
 checkpoint4: 0-10-54
 checkpoint5: 5

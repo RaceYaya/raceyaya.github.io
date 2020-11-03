@@ -15,7 +15,7 @@ gender_rank: 41
 bib: 50344
 first_name: Lora Mae
 last_name: De Guzman
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 6-20-12
 checkpoint4: 0-07-36
 checkpoint5: 6

@@ -15,7 +15,7 @@ gender_rank: 139
 bib: 50081
 first_name: Grace
 last_name: Salomon
-_checkpoint2_: 50.4
+checkpoint2: 50.4
 checkpoint3: 8-10-33
 checkpoint4: 0-09-44
 checkpoint5: 5

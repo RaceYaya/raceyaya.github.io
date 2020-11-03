@@ -15,7 +15,7 @@ gender_rank: 147
 bib: 50322
 first_name: Eillen
 last_name: Cosep
-_checkpoint2_: 50.53
+checkpoint2: 50.53
 checkpoint3: 8-16-58
 checkpoint4: 0-09-50
 checkpoint5: 3

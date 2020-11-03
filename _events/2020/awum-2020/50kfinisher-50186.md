@@ -15,7 +15,7 @@ gender_rank: 47
 bib: 50186
 first_name: Mary Chrisma Gladys
 last_name: Esperas
-_checkpoint2_: 50.83
+checkpoint2: 50.83
 checkpoint3: 6-39-38
 checkpoint4: 0-07-52
 checkpoint5: 4

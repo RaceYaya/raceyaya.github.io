@@ -15,7 +15,7 @@ gender_rank: 25
 bib: 50025
 first_name: Evangeline
 last_name: Balazuela
-_checkpoint2_: 54.2
+checkpoint2: 54.2
 checkpoint3: 6-28-01
 checkpoint4: 0-07-10
 checkpoint5: 4

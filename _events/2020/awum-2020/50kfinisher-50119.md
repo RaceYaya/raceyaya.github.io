@@ -15,7 +15,7 @@ gender_rank: 269
 bib: 50119
 first_name: Enya
 last_name: Yap
-_checkpoint2_: 50.25
+checkpoint2: 50.25
 checkpoint3: 10-30-35
 checkpoint4: 0-12-33
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 140
 bib: 50021
 first_name: Liyen
 last_name: Valiente
-_checkpoint2_: 50.57
+checkpoint2: 50.57
 checkpoint3: 8-12-27
 checkpoint4: 0-09-44
 checkpoint5: 5

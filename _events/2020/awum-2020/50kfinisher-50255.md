@@ -15,7 +15,7 @@ gender_rank: 177
 bib: 50255
 first_name: Grace
 last_name: Larona
-_checkpoint2_: 50.13
+checkpoint2: 50.13
 checkpoint3: 8-34-36
 checkpoint4: 0-10-16
 checkpoint5: 3

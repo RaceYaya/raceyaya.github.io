@@ -15,7 +15,7 @@ gender_rank: 34
 bib: 50311
 first_name: LUCITA
 last_name: FERNANDEZ
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 6-10-15
 checkpoint4: 0-07-24
 checkpoint5: 1

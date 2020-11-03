@@ -15,7 +15,7 @@ gender_rank: 131
 bib: 50188
 first_name: Renalyn
 last_name: Valenzuela
-_checkpoint2_: 51.84
+checkpoint2: 51.84
 checkpoint3: 8-21-56
 checkpoint4: 0-09-41
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 121
 bib: 50244
 first_name: Maria Rica
 last_name: Cañonero
-_checkpoint2_: 51.16
+checkpoint2: 51.16
 checkpoint3: 8-08-07
 checkpoint4: 0-09-32
 checkpoint5: 5

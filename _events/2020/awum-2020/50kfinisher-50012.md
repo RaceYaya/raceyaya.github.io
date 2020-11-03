@@ -15,7 +15,7 @@ gender_rank: 275
 bib: 50012
 first_name: Kathleen
 last_name: Cullen
-_checkpoint2_: 50.63
+checkpoint2: 50.63
 checkpoint3: 10-49-06
 checkpoint4: 0-12-49
 checkpoint5: 3

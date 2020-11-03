@@ -15,7 +15,7 @@ gender_rank: 89
 bib: 50281
 first_name: Mary Luz
 last_name: Shimizu
-_checkpoint2_: 50.02
+checkpoint2: 50.02
 checkpoint3: 7-23-43
 checkpoint4: 0-08-52
 checkpoint5: 4

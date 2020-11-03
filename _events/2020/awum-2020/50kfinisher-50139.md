@@ -15,7 +15,7 @@ gender_rank: 289
 bib: 50139
 first_name: Irene
 last_name: Oliveros
-_checkpoint2_: 50.48
+checkpoint2: 50.48
 checkpoint3: 11-18-43
 checkpoint4: 0-13-27
 checkpoint5: 4

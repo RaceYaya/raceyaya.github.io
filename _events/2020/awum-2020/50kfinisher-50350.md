@@ -15,7 +15,7 @@ gender_rank: 223
 bib: 50350
 first_name: Lulu
 last_name: Valiente
-_checkpoint2_: 51.39
+checkpoint2: 51.39
 checkpoint3: 9-37-37
 checkpoint4: 0-11-14
 checkpoint5: 4

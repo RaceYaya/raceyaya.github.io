@@ -15,7 +15,7 @@ gender_rank: 38
 bib: 50026
 first_name: Diana
 last_name: Balungcas
-_checkpoint2_: 50.03
+checkpoint2: 50.03
 checkpoint3: 6-17-20
 checkpoint4: 0-07-33
 checkpoint5: 1

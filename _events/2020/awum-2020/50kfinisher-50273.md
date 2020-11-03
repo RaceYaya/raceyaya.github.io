@@ -15,7 +15,7 @@ gender_rank: 211
 bib: 50273
 first_name: Rhoda
 last_name: Oporto
-_checkpoint2_: 50.45
+checkpoint2: 50.45
 checkpoint3: 9-09-36
 checkpoint4: 0-10-54
 checkpoint5: 1

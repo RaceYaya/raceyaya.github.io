@@ -15,7 +15,7 @@ gender_rank: 8
 bib: 50157
 first_name: Wilma Theresa
 last_name: Lugay
-_checkpoint2_: 50.16
+checkpoint2: 50.16
 checkpoint3: 5-13-06
 checkpoint4: 0-06-15
 checkpoint5: 4

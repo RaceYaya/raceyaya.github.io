@@ -15,7 +15,7 @@ gender_rank: 222
 bib: 50047
 first_name: Edna
 last_name: Nenaria
-_checkpoint2_: 50.75
+checkpoint2: 50.75
 checkpoint3: 9-27-51
 checkpoint4: 0-11-11
 checkpoint5: 3

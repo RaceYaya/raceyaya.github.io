@@ -15,7 +15,7 @@ gender_rank: 151
 bib: 50074
 first_name: Christine Joy
 last_name: Collados
-_checkpoint2_: 50.21
+checkpoint2: 50.21
 checkpoint3: 8-17-12
 checkpoint4: 0-09-54
 checkpoint5: 1

@@ -15,7 +15,7 @@ gender_rank: 118
 bib: 50317
 first_name: Jeanette
 last_name: Valida
-_checkpoint2_: 52.99
+checkpoint2: 52.99
 checkpoint3: 8-24-19
 checkpoint4: 0-09-31
 checkpoint5: 5

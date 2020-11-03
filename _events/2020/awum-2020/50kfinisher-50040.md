@@ -15,7 +15,7 @@ gender_rank: 75
 bib: 50040
 first_name: Josephine
 last_name: ANDAYA
-_checkpoint2_: 50.39
+checkpoint2: 50.39
 checkpoint3: 7-08-32
 checkpoint4: 0-08-30
 checkpoint5: 3

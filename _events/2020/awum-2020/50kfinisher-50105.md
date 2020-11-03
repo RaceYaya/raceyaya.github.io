@@ -15,7 +15,7 @@ gender_rank: 176
 bib: 50105
 first_name: Ronabeth
 last_name: Sabourin
-_checkpoint2_: 50.79
+checkpoint2: 50.79
 checkpoint3: 8-39-59
 checkpoint4: 0-10-14
 checkpoint5: 3

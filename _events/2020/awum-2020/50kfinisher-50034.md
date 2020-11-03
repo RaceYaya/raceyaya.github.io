@@ -15,7 +15,7 @@ gender_rank: 15
 bib: 50034
 first_name: Elynn
 last_name: MIRA
-_checkpoint2_: 50.02
+checkpoint2: 50.02
 checkpoint3: 5-30-52
 checkpoint4: 0-06-37
 checkpoint5: 2

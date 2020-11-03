@@ -15,7 +15,7 @@ gender_rank: 61
 bib: 50073
 first_name: Leste
 last_name: Tagalog
-_checkpoint2_: 50.05
+checkpoint2: 50.05
 checkpoint3: 6-49-11
 checkpoint4: 0-08-11
 checkpoint5: 5

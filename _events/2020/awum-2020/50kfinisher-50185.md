@@ -15,7 +15,7 @@ gender_rank: 28
 bib: 50185
 first_name: Emmylou
 last_name: Tapulado
-_checkpoint2_: 50.12
+checkpoint2: 50.12
 checkpoint3: 6-01-15
 checkpoint4: 0-07-12
 checkpoint5: 4

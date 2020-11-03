@@ -15,7 +15,7 @@ gender_rank: 130
 bib: 50145
 first_name: Carmie
 last_name: Cosgafa
-_checkpoint2_: 51.84
+checkpoint2: 51.84
 checkpoint3: 8-21-34
 checkpoint4: 0-09-41
 checkpoint5: 3

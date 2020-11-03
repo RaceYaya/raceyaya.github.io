@@ -15,7 +15,7 @@ gender_rank: 162
 bib: 50233
 first_name: Diwata
 last_name: Baradi
-_checkpoint2_: 51.68
+checkpoint2: 51.68
 checkpoint3: 8-40-35
 checkpoint4: 0-10-04
 checkpoint5: 7

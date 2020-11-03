@@ -15,7 +15,7 @@ gender_rank: 292
 bib: 50251
 first_name: Menchulyn
 last_name: Dagode
-_checkpoint2_: 61.16
+checkpoint2: 61.16
 checkpoint3: 14-23-51
 checkpoint4: 0-14-07
 checkpoint5: 5

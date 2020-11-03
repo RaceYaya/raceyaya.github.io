@@ -15,7 +15,7 @@ gender_rank: 13
 bib: 50352
 first_name: Christine
 last_name: Ferrera
-_checkpoint2_: 50.45
+checkpoint2: 50.45
 checkpoint3: 5-25-11
 checkpoint4: 0-06-27
 checkpoint5: 6

@@ -15,7 +15,7 @@ gender_rank: 152
 bib: 50178
 first_name: Charmaine
 last_name: Patula
-_checkpoint2_: 51.03
+checkpoint2: 51.03
 checkpoint3: 8-25-28
 checkpoint4: 0-09-54
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 21
 bib: 50138
 first_name: Precious Mae
 last_name: Villaver
-_checkpoint2_: 50.66
+checkpoint2: 50.66
 checkpoint3: 5-46-10
 checkpoint4: 0-06-50
 checkpoint5: 3

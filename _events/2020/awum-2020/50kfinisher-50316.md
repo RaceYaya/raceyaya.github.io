@@ -15,7 +15,7 @@ gender_rank: 66
 bib: 50316
 first_name: JELYN
 last_name: TINGCANG
-_checkpoint2_: 50.47
+checkpoint2: 50.47
 checkpoint3: 6-58-28
 checkpoint4: 0-08-17
 checkpoint5: 4

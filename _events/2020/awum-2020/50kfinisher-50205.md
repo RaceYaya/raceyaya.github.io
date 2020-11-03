@@ -15,7 +15,7 @@ gender_rank: 74
 bib: 50205
 first_name: Eve
 last_name: Rama
-_checkpoint2_: 50.49
+checkpoint2: 50.49
 checkpoint3: 7-07-52
 checkpoint4: 0-08-28
 checkpoint5: 3

@@ -15,7 +15,7 @@ gender_rank: 159
 bib: 50240
 first_name: Cindy rose
 last_name: Lumindas
-_checkpoint2_: 50.3
+checkpoint2: 50.3
 checkpoint3: 8-21-14
 checkpoint4: 0-09-58
 checkpoint5: 4

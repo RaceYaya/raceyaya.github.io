@@ -15,7 +15,7 @@ gender_rank: 149
 bib: 50072
 first_name: Marlita
 last_name: Busa
-_checkpoint2_: 50.55
+checkpoint2: 50.55
 checkpoint3: 8-19-47
 checkpoint4: 0-09-53
 checkpoint5: 2

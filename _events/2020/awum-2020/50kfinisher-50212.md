@@ -15,7 +15,7 @@ gender_rank: 259
 bib: 50212
 first_name: Nancy
 last_name: Castillo
-_checkpoint2_: 51.31
+checkpoint2: 51.31
 checkpoint3: 10-28-59
 checkpoint4: 0-12-16
 checkpoint5: 2

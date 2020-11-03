@@ -15,7 +15,7 @@ gender_rank: 18
 bib: 50007
 first_name: Maria Caress
 last_name: Arnejo
-_checkpoint2_: 52.04
+checkpoint2: 52.04
 checkpoint3: 5-50-40
 checkpoint4: 0-06-44
 checkpoint5: 5

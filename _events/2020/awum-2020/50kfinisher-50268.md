@@ -15,7 +15,7 @@ gender_rank: 6
 bib: 50268
 first_name: Eugene Fae
 last_name: Sanchez
-_checkpoint2_: 53.13
+checkpoint2: 53.13
 checkpoint3: 5-24-07
 checkpoint4: 0-06-06
 checkpoint5: 5

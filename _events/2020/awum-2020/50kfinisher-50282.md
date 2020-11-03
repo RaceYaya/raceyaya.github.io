@@ -15,7 +15,7 @@ gender_rank: 204
 bib: 50282
 first_name: Brenda
 last_name: Portugalisa
-_checkpoint2_: 52.2
+checkpoint2: 52.2
 checkpoint3: 9-22-36
 checkpoint4: 0-10-47
 checkpoint5: 4

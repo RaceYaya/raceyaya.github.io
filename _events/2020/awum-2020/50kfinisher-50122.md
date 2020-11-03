@@ -15,7 +15,7 @@ gender_rank: 227
 bib: 50122
 first_name: Princess Jazzmin
 last_name: Abdul
-_checkpoint2_: 61.89
+checkpoint2: 61.89
 checkpoint3: 11-43-41
 checkpoint4: 0-11-22
 checkpoint5: 1

@@ -15,7 +15,7 @@ gender_rank: 63
 bib: 50210
 first_name: Margarita
 last_name: Planca
-_checkpoint2_: 50.8
+checkpoint2: 50.8
 checkpoint3: 6-56-36
 checkpoint4: 0-08-12
 checkpoint5: 3

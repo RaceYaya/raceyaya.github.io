@@ -15,7 +15,7 @@ gender_rank: 246
 bib: 50190
 first_name: Maria eleonor
 last_name: Manlangit
-_checkpoint2_: 50.42
+checkpoint2: 50.42
 checkpoint3: 10-00-26
 checkpoint4: 0-11-55
 checkpoint5: 5

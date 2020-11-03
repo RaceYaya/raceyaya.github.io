@@ -15,7 +15,7 @@ gender_rank: 70
 bib: 50224
 first_name: Daisy
 last_name: Batac
-_checkpoint2_: 51.83
+checkpoint2: 51.83
 checkpoint3: 7-15-52
 checkpoint4: 0-08-25
 checkpoint5: 4

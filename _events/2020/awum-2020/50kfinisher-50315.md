@@ -15,7 +15,7 @@ gender_rank: 132
 bib: 50315
 first_name: Charina
 last_name: Consunji
-_checkpoint2_: 52.37
+checkpoint2: 52.37
 checkpoint3: 8-27-15
 checkpoint4: 0-09-41
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 248
 bib: 50165
 first_name: Myra
 last_name: Samson
-_checkpoint2_: 50.11
+checkpoint2: 50.11
 checkpoint3: 9-56-59
 checkpoint4: 0-11-55
 checkpoint5: 1

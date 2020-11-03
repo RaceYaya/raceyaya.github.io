@@ -15,7 +15,7 @@ gender_rank: 250
 bib: 50230
 first_name: Aurafe
 last_name: Yared
-_checkpoint2_: 50.57
+checkpoint2: 50.57
 checkpoint3: 10-03-24
 checkpoint4: 0-11-56
 checkpoint5: 1

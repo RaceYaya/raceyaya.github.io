@@ -15,7 +15,7 @@ gender_rank: 82
 bib: 50067
 first_name: Elyn
 last_name: Paduganan
-_checkpoint2_: 53.08
+checkpoint2: 53.08
 checkpoint3: 7-42-51
 checkpoint4: 0-08-43
 checkpoint5: 4

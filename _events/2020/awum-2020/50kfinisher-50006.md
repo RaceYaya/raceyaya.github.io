@@ -15,7 +15,7 @@ gender_rank: 35
 bib: 50006
 first_name: Venice
 last_name: Inting
-_checkpoint2_: 50.05
+checkpoint2: 50.05
 checkpoint3: 6-12-46
 checkpoint4: 0-07-27
 checkpoint5: 5

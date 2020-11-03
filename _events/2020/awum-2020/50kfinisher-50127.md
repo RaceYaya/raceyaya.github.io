@@ -15,7 +15,7 @@ gender_rank: 84
 bib: 50127
 first_name: Nathalie
 last_name: Penados
-_checkpoint2_: 50.89
+checkpoint2: 50.89
 checkpoint3: 7-25-42
 checkpoint4: 0-08-45
 checkpoint5: 5

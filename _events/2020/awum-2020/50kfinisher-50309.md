@@ -15,7 +15,7 @@ gender_rank: 288
 bib: 50309
 first_name: Darlen
 last_name: Estologa
-_checkpoint2_: 50.99
+checkpoint2: 50.99
 checkpoint3: 11-24-57
 checkpoint4: 0-13-26
 checkpoint5: 2

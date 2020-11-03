@@ -15,7 +15,7 @@ gender_rank: 264
 bib: 50345
 first_name: Amy
 last_name: Dayao
-_checkpoint2_: 59.42
+checkpoint2: 59.42
 checkpoint3: 12-16-38
 checkpoint4: 0-12-24
 checkpoint5: 3

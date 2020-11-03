@@ -15,7 +15,7 @@ gender_rank: 277
 bib: 50111
 first_name: Igloria
 last_name: Elvira
-_checkpoint2_: 50.84
+checkpoint2: 50.84
 checkpoint3: 10-59-25
 checkpoint4: 0-12-58
 checkpoint5: 1

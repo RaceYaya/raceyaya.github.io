@@ -15,7 +15,7 @@ gender_rank: 124
 bib: 50070
 first_name: Cristina
 last_name: Trinidad
-_checkpoint2_: 64.45
+checkpoint2: 64.45
 checkpoint3: 10-19-06
 checkpoint4: 0-09-36
 checkpoint5: 4

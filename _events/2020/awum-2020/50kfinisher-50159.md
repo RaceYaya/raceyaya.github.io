@@ -15,7 +15,7 @@ gender_rank: 169
 bib: 50159
 first_name: Nikka
 last_name: Khu
-_checkpoint2_: 60.72
+checkpoint2: 60.72
 checkpoint3: 10-18-08
 checkpoint4: 0-10-11
 checkpoint5: 3

@@ -15,7 +15,7 @@ gender_rank: 181
 bib: 50053
 first_name: Juliet
 last_name: Tundag
-_checkpoint2_: 51.46
+checkpoint2: 51.46
 checkpoint3: 8-51-32
 checkpoint4: 0-10-20
 checkpoint5: 2

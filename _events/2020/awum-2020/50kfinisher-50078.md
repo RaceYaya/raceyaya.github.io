@@ -15,7 +15,7 @@ gender_rank: 33
 bib: 50078
 first_name: Mae Cherryl
 last_name: Wuttke
-_checkpoint2_: 51.53
+checkpoint2: 51.53
 checkpoint3: 6-20-34
 checkpoint4: 0-07-23
 checkpoint5: 6

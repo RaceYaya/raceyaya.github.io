@@ -15,7 +15,7 @@ gender_rank: 137
 bib: 50196
 first_name: Noreen
 last_name: Fevidal
-_checkpoint2_: 52.05
+checkpoint2: 52.05
 checkpoint3: 8-25-36
 checkpoint4: 0-09-43
 checkpoint5: 5

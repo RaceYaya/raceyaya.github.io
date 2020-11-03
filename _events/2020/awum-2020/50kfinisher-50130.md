@@ -15,7 +15,7 @@ gender_rank: 235
 bib: 50130
 first_name: Rhealyn
 last_name: Casinillo
-_checkpoint2_: 53.34
+checkpoint2: 53.34
 checkpoint3: 10-16-42
 checkpoint4: 0-11-34
 checkpoint5: 3

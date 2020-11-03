@@ -15,7 +15,7 @@ gender_rank: 90
 bib: 50290
 first_name: LYNNETTE
 last_name: VANZUELA
-_checkpoint2_: 50.34
+checkpoint2: 50.34
 checkpoint3: 7-27-32
 checkpoint4: 0-08-53
 checkpoint5: 6

@@ -15,7 +15,7 @@ gender_rank: 29
 bib: 50149
 first_name: Melanie
 last_name: Gomez
-_checkpoint2_: 50.05
+checkpoint2: 50.05
 checkpoint3: 6-01-44
 checkpoint4: 0-07-14
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 104
 bib: 50015
 first_name: Elisea
 last_name: Lamonte
-_checkpoint2_: 50.65
+checkpoint2: 50.65
 checkpoint3: 7-42-13
 checkpoint4: 0-09-08
 checkpoint5: 2

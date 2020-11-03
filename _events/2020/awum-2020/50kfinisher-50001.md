@@ -15,7 +15,7 @@ gender_rank: 295
 bib: 50001
 first_name: Nerrisa
 last_name: Baya
-_checkpoint2_: 52.27
+checkpoint2: 52.27
 checkpoint3: 12-33-55
 checkpoint4: 0-14-25
 checkpoint5: 3

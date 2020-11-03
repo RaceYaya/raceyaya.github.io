@@ -15,7 +15,7 @@ gender_rank: 99
 bib: 50198
 first_name: Khimie
 last_name: Hudson
-_checkpoint2_: 50.02
+checkpoint2: 50.02
 checkpoint3: 7-33-26
 checkpoint4: 0-09-04
 checkpoint5: 2

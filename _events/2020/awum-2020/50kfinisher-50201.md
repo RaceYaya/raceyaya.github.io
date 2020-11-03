@@ -15,7 +15,7 @@ gender_rank: 95
 bib: 50201
 first_name: Maria Vanessa
 last_name: Cagande
-_checkpoint2_: 55.64
+checkpoint2: 55.64
 checkpoint3: 8-19-52
 checkpoint4: 0-08-59
 checkpoint5: 2

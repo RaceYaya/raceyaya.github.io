@@ -15,7 +15,7 @@ gender_rank: 24
 bib: 50213
 first_name: Diamoza
 last_name: Acosta
-_checkpoint2_: 50.1
+checkpoint2: 50.1
 checkpoint3: 5-52-30
 checkpoint4: 0-07-02
 checkpoint5: 3

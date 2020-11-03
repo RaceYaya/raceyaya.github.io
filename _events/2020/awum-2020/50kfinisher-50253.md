@@ -15,7 +15,7 @@ gender_rank: 214
 bib: 50253
 first_name: Criselda
 last_name: Lequigan
-_checkpoint2_: 50.03
+checkpoint2: 50.03
 checkpoint3: 9-07-55
 checkpoint4: 0-10-57
 checkpoint5: 2

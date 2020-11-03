@@ -15,7 +15,7 @@ gender_rank: 98
 bib: 50218
 first_name: Gwendolyn
 last_name: Undang
-_checkpoint2_: 51.64
+checkpoint2: 51.64
 checkpoint3: 7-46-33
 checkpoint4: 0-09-02
 checkpoint5: 5

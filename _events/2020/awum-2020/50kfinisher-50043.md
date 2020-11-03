@@ -15,7 +15,7 @@ gender_rank: 60
 bib: 50043
 first_name: Jean
 last_name: Gabison
-_checkpoint2_: 51.16
+checkpoint2: 51.16
 checkpoint3: 6-57-19
 checkpoint4: 0-08-09
 checkpoint5: 6

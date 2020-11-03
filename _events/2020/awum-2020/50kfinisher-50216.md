@@ -15,7 +15,7 @@ gender_rank: 284
 bib: 50216
 first_name: Mercy Jade
 last_name: Paper
-_checkpoint2_: 51.05
+checkpoint2: 51.05
 checkpoint3: 11-23-14
 checkpoint4: 0-13-23
 checkpoint5: 1

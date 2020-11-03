@@ -15,7 +15,7 @@ gender_rank: 143
 bib: 50065
 first_name: Evangelina
 last_name: Costa
-_checkpoint2_: 50.32
+checkpoint2: 50.32
 checkpoint3: 8-12-27
 checkpoint4: 0-09-47
 checkpoint5: 4

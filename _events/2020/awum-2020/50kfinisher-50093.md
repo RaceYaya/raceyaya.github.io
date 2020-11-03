@@ -15,7 +15,7 @@ gender_rank: 92
 bib: 50093
 first_name: Ma Ana
 last_name: Buac
-_checkpoint2_: 50.42
+checkpoint2: 50.42
 checkpoint3: 7-28-53
 checkpoint4: 0-08-54
 checkpoint5: 4

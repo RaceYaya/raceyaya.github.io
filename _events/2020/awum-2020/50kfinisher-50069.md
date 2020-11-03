@@ -15,7 +15,7 @@ gender_rank: 59
 bib: 50069
 first_name: Jane
 last_name: Guevarra
-_checkpoint2_: 51.14
+checkpoint2: 51.14
 checkpoint3: 6-56-43
 checkpoint4: 0-08-09
 checkpoint5: 4

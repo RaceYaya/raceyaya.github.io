@@ -15,7 +15,7 @@ gender_rank: 249
 bib: 50140
 first_name: Mary Rose
 last_name: Bedrijo
-_checkpoint2_: 50.36
+checkpoint2: 50.36
 checkpoint3: 10-00-50
 checkpoint4: 0-11-56
 checkpoint5: 3

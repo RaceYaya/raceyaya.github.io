@@ -15,7 +15,7 @@ gender_rank: 314
 bib: 50321
 first_name: Leah Tan
 last_name: Balbon
-_checkpoint2_: 52.05
+checkpoint2: 52.05
 checkpoint3: 15-20-59
 checkpoint4: 0-17-42
 checkpoint5: 2

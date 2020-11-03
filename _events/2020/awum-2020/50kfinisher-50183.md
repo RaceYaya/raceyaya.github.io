@@ -15,7 +15,7 @@ gender_rank: 174
 bib: 50183
 first_name: Genevieve
 last_name: Tolcidas
-_checkpoint2_: 52.78
+checkpoint2: 52.78
 checkpoint3: 8-59-49
 checkpoint4: 0-10-14
 checkpoint5: 5

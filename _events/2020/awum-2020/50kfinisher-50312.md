@@ -15,7 +15,7 @@ gender_rank: 30
 bib: 50312
 first_name: Ruby hazel
 last_name: Carilla
-_checkpoint2_: 50.98
+checkpoint2: 50.98
 checkpoint3: 6-11-14
 checkpoint4: 0-07-17
 checkpoint5: 5

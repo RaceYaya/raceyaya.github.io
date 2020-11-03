@@ -15,7 +15,7 @@ gender_rank: 7
 bib: 50276
 first_name: Gina
 last_name: Factura
-_checkpoint2_: 50.25
+checkpoint2: 50.25
 checkpoint3: 5-09-58
 checkpoint4: 0-06-10
 checkpoint5: 4

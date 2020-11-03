@@ -15,7 +15,7 @@ gender_rank: 120
 bib: 50058
 first_name: Anale
 last_name: Barte
-_checkpoint2_: 50.11
+checkpoint2: 50.11
 checkpoint3: 7-57-25
 checkpoint4: 0-09-32
 checkpoint5: 2

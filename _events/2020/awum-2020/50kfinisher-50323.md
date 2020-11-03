@@ -15,7 +15,7 @@ gender_rank: 271
 bib: 50323
 first_name: Sheryllemie
 last_name: Olanda
-_checkpoint2_: 51.69
+checkpoint2: 51.69
 checkpoint3: 10-53-50
 checkpoint4: 0-12-39
 checkpoint5: 5

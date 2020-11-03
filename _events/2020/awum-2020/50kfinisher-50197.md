@@ -15,7 +15,7 @@ gender_rank: 298
 bib: 50197
 first_name: Arminda
 last_name: Atar
-_checkpoint2_: 50.66
+checkpoint2: 50.66
 checkpoint3: 12-27-27
 checkpoint4: 0-14-45
 checkpoint5: 1

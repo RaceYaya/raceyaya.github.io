@@ -15,7 +15,7 @@ gender_rank: 3
 bib: 50030
 first_name: Kay Razel
 last_name: Cundangan
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 4-54-30
 checkpoint4: 0-05-53
 checkpoint5: 1

@@ -15,7 +15,7 @@ gender_rank: 115
 bib: 50100
 first_name: Leste Millicent
 last_name: Alerta
-_checkpoint2_: 50.57
+checkpoint2: 50.57
 checkpoint3: 7-55-31
 checkpoint4: 0-09-24
 checkpoint5: 5

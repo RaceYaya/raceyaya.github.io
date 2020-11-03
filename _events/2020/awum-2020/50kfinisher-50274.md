@@ -15,7 +15,7 @@ gender_rank: 79
 bib: 50274
 first_name: Reylyn
 last_name: Esoy
-_checkpoint2_: 52.37
+checkpoint2: 52.37
 checkpoint3: 7-32-36
 checkpoint4: 0-08-39
 checkpoint5: 5

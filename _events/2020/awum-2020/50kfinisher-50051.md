@@ -15,7 +15,7 @@ gender_rank: 261
 bib: 50051
 first_name: Josie Deniece
 last_name: Paclipan
-_checkpoint2_: 50.32
+checkpoint2: 50.32
 checkpoint3: 10-19-09
 checkpoint4: 0-12-18
 checkpoint5: 4

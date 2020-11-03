@@ -15,7 +15,7 @@ gender_rank: 183
 bib: 50160
 first_name: Strawberry Angeli
 last_name: Mercado
-_checkpoint2_: 52.05
+checkpoint2: 52.05
 checkpoint3: 9-00-44
 checkpoint4: 0-10-23
 checkpoint5: 4

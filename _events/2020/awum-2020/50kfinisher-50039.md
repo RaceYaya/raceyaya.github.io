@@ -15,7 +15,7 @@ gender_rank: 201
 bib: 50039
 first_name: Odiza
 last_name: Abellana
-_checkpoint2_: 50.21
+checkpoint2: 50.21
 checkpoint3: 8-59-07
 checkpoint4: 0-10-44
 checkpoint5: 1

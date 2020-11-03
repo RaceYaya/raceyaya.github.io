@@ -15,7 +15,7 @@ gender_rank: 281
 bib: 50125
 first_name: May Rose
 last_name: David De Veyra
-_checkpoint2_: 50.09
+checkpoint2: 50.09
 checkpoint3: 10-58-17
 checkpoint4: 0-13-09
 checkpoint5: 5

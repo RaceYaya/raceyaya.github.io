@@ -15,7 +15,7 @@ gender_rank: 58
 bib: 50245
 first_name: Mischelle Mae
 last_name: Jumalon
-_checkpoint2_: 50.31
+checkpoint2: 50.31
 checkpoint3: 6-48-57
 checkpoint4: 0-08-08
 checkpoint5: 4

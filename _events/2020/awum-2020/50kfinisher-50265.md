@@ -15,7 +15,7 @@ gender_rank: 71
 bib: 50265
 first_name: Lilibeth
 last_name: Garcia
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 7-02-23
 checkpoint4: 0-08-27
 checkpoint5: 1

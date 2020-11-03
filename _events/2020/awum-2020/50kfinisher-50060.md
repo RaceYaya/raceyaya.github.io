@@ -15,7 +15,7 @@ gender_rank: 189
 bib: 50060
 first_name: Jade Dawn
 last_name: Amor
-_checkpoint2_: 50.42
+checkpoint2: 50.42
 checkpoint3: 8-52-09
 checkpoint4: 0-10-33
 checkpoint5: 5

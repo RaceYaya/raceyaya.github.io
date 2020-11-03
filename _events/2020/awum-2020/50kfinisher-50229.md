@@ -15,7 +15,7 @@ gender_rank: 230
 bib: 50229
 first_name: Mary joyce
 last_name: Solomon
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 9-31-47
 checkpoint4: 0-11-26
 checkpoint5: 1

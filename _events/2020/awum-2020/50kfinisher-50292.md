@@ -15,7 +15,7 @@ gender_rank: 317
 bib: 50292
 first_name: Avelina
 last_name: Basilgo
-_checkpoint2_: 51.39
+checkpoint2: 51.39
 checkpoint3: 16-13-55
 checkpoint4: 0-18-57
 checkpoint5: 5

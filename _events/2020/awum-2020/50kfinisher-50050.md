@@ -15,7 +15,7 @@ gender_rank: 303
 bib: 50050
 first_name: Charito
 last_name: Montealto
-_checkpoint2_: 50.51
+checkpoint2: 50.51
 checkpoint3: 12-54-46
 checkpoint4: 0-15-20
 checkpoint5: 1

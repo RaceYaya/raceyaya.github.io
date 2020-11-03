@@ -15,7 +15,7 @@ gender_rank: 244
 bib: 50177
 first_name: Irma
 last_name: Pal
-_checkpoint2_: 50.46
+checkpoint2: 50.46
 checkpoint3: 9-58-15
 checkpoint4: 0-11-51
 checkpoint5: 4

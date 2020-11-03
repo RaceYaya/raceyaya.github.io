@@ -15,7 +15,7 @@ gender_rank: 49
 bib: 50297
 first_name: Mary Ann
 last_name: Zamora
-_checkpoint2_: 52.04
+checkpoint2: 52.04
 checkpoint3: 6-51-39
 checkpoint4: 0-07-55
 checkpoint5: 5

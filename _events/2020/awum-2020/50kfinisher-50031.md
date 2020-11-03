@@ -15,7 +15,7 @@ gender_rank: 72
 bib: 50031
 first_name: Jessie
 last_name: EJOC
-_checkpoint2_: 51.71
+checkpoint2: 51.71
 checkpoint3: 7-17-28
 checkpoint4: 0-08-28
 checkpoint5: 2

@@ -15,7 +15,7 @@ gender_rank: 252
 bib: 50079
 first_name: Susana
 last_name: Gentapa
-_checkpoint2_: 51.22
+checkpoint2: 51.22
 checkpoint3: 10-13-44
 checkpoint4: 0-11-59
 checkpoint5: 6

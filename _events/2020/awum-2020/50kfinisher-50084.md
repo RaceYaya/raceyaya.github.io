@@ -15,7 +15,7 @@ gender_rank: 155
 bib: 50084
 first_name: Caryl
 last_name: Garcia
-_checkpoint2_: 50.06
+checkpoint2: 50.06
 checkpoint3: 8-16-18
 checkpoint4: 0-09-55
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 161
 bib: 50306
 first_name: Mariz
 last_name: Calumpang
-_checkpoint2_: 50.51
+checkpoint2: 50.51
 checkpoint3: 8-27-34
 checkpoint4: 0-10-03
 checkpoint5: 4

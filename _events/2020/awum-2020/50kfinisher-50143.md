@@ -15,7 +15,7 @@ gender_rank: 53
 bib: 50143
 first_name: Celeste
 last_name: Guido
-_checkpoint2_: 50.22
+checkpoint2: 50.22
 checkpoint3: 6-43-53
 checkpoint4: 0-08-03
 checkpoint5: 5

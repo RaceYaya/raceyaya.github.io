@@ -15,7 +15,7 @@ gender_rank: 111
 bib: 50061
 first_name: Marchadesh
 last_name: Maico
-_checkpoint2_: 51.79
+checkpoint2: 51.79
 checkpoint3: 8-00-45
 checkpoint4: 0-09-17
 checkpoint5: 4

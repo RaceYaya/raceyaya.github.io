@@ -15,7 +15,7 @@ gender_rank: 87
 bib: 50223
 first_name: Anecita
 last_name: Diano
-_checkpoint2_: 50.21
+checkpoint2: 50.21
 checkpoint3: 7-22-35
 checkpoint4: 0-08-49
 checkpoint5: 4

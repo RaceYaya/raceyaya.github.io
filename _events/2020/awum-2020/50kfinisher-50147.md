@@ -15,7 +15,7 @@ gender_rank: 62
 bib: 50147
 first_name: Aileen
 last_name: Magno
-_checkpoint2_: 50.04
+checkpoint2: 50.04
 checkpoint3: 6-49-47
 checkpoint4: 0-08-11
 checkpoint5: 1

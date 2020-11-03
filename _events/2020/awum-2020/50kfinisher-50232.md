@@ -15,7 +15,7 @@ gender_rank: 280
 bib: 50232
 first_name: Sherrie
 last_name: Tayros
-_checkpoint2_: 51.42
+checkpoint2: 51.42
 checkpoint3: 11-13-13
 checkpoint4: 0-13-06
 checkpoint5: 3

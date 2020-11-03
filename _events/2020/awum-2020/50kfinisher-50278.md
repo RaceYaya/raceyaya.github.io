@@ -15,7 +15,7 @@ gender_rank: 221
 bib: 50278
 first_name: Jannah Rouzel
 last_name: Diores
-_checkpoint2_: 50.33
+checkpoint2: 50.33
 checkpoint3: 9-20-17
 checkpoint4: 0-11-08
 checkpoint5: 4

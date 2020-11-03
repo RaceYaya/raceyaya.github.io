@@ -15,7 +15,7 @@ gender_rank: 224
 bib: 50041
 first_name: Lani
 last_name: Bacalla
-_checkpoint2_: 50.19
+checkpoint2: 50.19
 checkpoint3: 9-26-39
 checkpoint4: 0-11-17
 checkpoint5: 2

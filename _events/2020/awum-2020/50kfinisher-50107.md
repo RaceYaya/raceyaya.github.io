@@ -15,7 +15,7 @@ gender_rank: 253
 bib: 50107
 first_name: Ma Vivian
 last_name: Sy
-_checkpoint2_: 50.38
+checkpoint2: 50.38
 checkpoint3: 10-05-24
 checkpoint4: 0-12-01
 checkpoint5: 1

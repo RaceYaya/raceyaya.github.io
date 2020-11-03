@@ -15,7 +15,7 @@ gender_rank: 311
 bib: 50330
 first_name: Linaflor
 last_name: Chan
-_checkpoint2_: 49.96
+checkpoint2: 49.96
 checkpoint3: 14-15-44
 checkpoint4: 0-17-08
 checkpoint5: 4

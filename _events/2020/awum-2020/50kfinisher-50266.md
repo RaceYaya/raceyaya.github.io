@@ -15,7 +15,7 @@ gender_rank: 164
 bib: 50266
 first_name: Maria Diola
 last_name: Dela Serna
-_checkpoint2_: 50.97
+checkpoint2: 50.97
 checkpoint3: 8-35-16
 checkpoint4: 0-10-07
 checkpoint5: 4

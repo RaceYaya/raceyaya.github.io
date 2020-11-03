@@ -15,7 +15,7 @@ gender_rank: 318
 bib: 50340
 first_name: Cristine
 last_name: Saligan
-_checkpoint2_: 52.56
+checkpoint2: 52.56
 checkpoint3: 21-13-26
 checkpoint4: 0-24-14
 checkpoint5: 3

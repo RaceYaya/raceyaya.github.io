@@ -15,7 +15,7 @@ gender_rank: 76
 bib: 50077
 first_name: Anna Christina
 last_name: Mendoza
-_checkpoint2_: 50.13
+checkpoint2: 50.13
 checkpoint3: 7-06-45
 checkpoint4: 0-08-31
 checkpoint5: 1

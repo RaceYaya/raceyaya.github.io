@@ -15,7 +15,7 @@ gender_rank: 127
 bib: 50214
 first_name: Josafe
 last_name: Balili
-_checkpoint2_: 54.37
+checkpoint2: 54.37
 checkpoint3: 8-44-11
 checkpoint4: 0-09-38
 checkpoint5: 5

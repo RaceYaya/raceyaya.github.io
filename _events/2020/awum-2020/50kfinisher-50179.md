@@ -15,7 +15,7 @@ gender_rank: 247
 bib: 50179
 first_name: Annalyn
 last_name: Ba ay
-_checkpoint2_: 50.24
+checkpoint2: 50.24
 checkpoint3: 9-58-31
 checkpoint4: 0-11-55
 checkpoint5: 1

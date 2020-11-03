@@ -15,7 +15,7 @@ gender_rank: 236
 bib: 50294
 first_name: Meliza
 last_name: Abella
-_checkpoint2_: 51.75
+checkpoint2: 51.75
 checkpoint3: 9-59-12
 checkpoint4: 0-11-35
 checkpoint5: 3

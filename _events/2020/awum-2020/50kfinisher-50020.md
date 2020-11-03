@@ -15,7 +15,7 @@ gender_rank: 80
 bib: 50020
 first_name: Mayciel
 last_name: Caber
-_checkpoint2_: 50.31
+checkpoint2: 50.31
 checkpoint3: 7-16-44
 checkpoint4: 0-08-41
 checkpoint5: 4

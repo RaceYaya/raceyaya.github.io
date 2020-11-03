@@ -15,7 +15,7 @@ gender_rank: 315
 bib: 50215
 first_name: Lovely candy
 last_name: Conejos
-_checkpoint2_: 55.48
+checkpoint2: 55.48
 checkpoint3: 16-48-35
 checkpoint4: 0-18-11
 checkpoint5: 3

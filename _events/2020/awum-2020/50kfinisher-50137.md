@@ -15,7 +15,7 @@ gender_rank: 226
 bib: 50137
 first_name: Maureen Joy
 last_name: Eliot
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 9-25-45
 checkpoint4: 0-11-19
 checkpoint5: 5

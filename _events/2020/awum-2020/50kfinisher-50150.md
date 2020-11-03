@@ -15,7 +15,7 @@ gender_rank: 203
 bib: 50150
 first_name: Eva Marie
 last_name: Diego
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 8-58-34
 checkpoint4: 0-10-46
 checkpoint5: 1

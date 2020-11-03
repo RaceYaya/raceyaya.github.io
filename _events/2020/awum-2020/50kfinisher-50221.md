@@ -15,7 +15,7 @@ gender_rank: 312
 bib: 50221
 first_name: Glocerel
 last_name: Salva
-_checkpoint2_: 51.34
+checkpoint2: 51.34
 checkpoint3: 14-47-39
 checkpoint4: 0-17-17
 checkpoint5: 3

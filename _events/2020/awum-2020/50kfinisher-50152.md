@@ -15,7 +15,7 @@ gender_rank: 23
 bib: 50152
 first_name: Aisha Grace
 last_name: Cuartela
-_checkpoint2_: 50.07
+checkpoint2: 50.07
 checkpoint3: 5-51-54
 checkpoint4: 0-07-02
 checkpoint5: 7

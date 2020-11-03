@@ -15,7 +15,7 @@ gender_rank: 178
 bib: 50351
 first_name: Emelie
 last_name: Fernandez
-_checkpoint2_: 56.8
+checkpoint2: 56.8
 checkpoint3: 9-43-07
 checkpoint4: 0-10-16
 checkpoint5: 4

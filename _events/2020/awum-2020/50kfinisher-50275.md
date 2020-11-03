@@ -15,7 +15,7 @@ gender_rank: 256
 bib: 50275
 first_name: Rebecca
 last_name: Enecito
-_checkpoint2_: 51.11
+checkpoint2: 51.11
 checkpoint3: 10-19-27
 checkpoint4: 0-12-07
 checkpoint5: 5

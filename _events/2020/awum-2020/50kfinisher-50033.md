@@ -15,7 +15,7 @@ gender_rank: 308
 bib: 50033
 first_name: Michelle
 last_name: So
-_checkpoint2_: 58.81
+checkpoint2: 58.81
 checkpoint3: 16-18-35
 checkpoint4: 0-16-38
 checkpoint5: 5

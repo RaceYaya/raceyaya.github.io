@@ -15,7 +15,7 @@ gender_rank: 117
 bib: 50285
 first_name: Sheryl
 last_name: Jabonete
-_checkpoint2_: 50.75
+checkpoint2: 50.75
 checkpoint3: 8-00-17
 checkpoint4: 0-09-28
 checkpoint5: 4

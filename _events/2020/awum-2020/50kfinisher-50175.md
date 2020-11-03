@@ -15,7 +15,7 @@ gender_rank: 301
 bib: 50175
 first_name: Jocelyn
 last_name: Getuaban
-_checkpoint2_: 51.05
+checkpoint2: 51.05
 checkpoint3: 12-42-09
 checkpoint4: 0-14-56
 checkpoint5: 5

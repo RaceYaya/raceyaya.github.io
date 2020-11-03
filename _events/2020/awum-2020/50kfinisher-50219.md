@@ -15,7 +15,7 @@ gender_rank: 48
 bib: 50219
 first_name: Vanessa
 last_name: Manga
-_checkpoint2_: 50.47
+checkpoint2: 50.47
 checkpoint3: 6-37-50
 checkpoint4: 0-07-53
 checkpoint5: 4

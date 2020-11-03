@@ -15,7 +15,7 @@ gender_rank: 241
 bib: 50184
 first_name: Joann
 last_name: Castillo
-_checkpoint2_: 54.92
+checkpoint2: 54.92
 checkpoint3: 10-44-09
 checkpoint4: 0-11-44
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 146
 bib: 50332
 first_name: Geo Bernadette
 last_name: Soriano
-_checkpoint2_: 52.37
+checkpoint2: 52.37
 checkpoint3: 8-34-59
 checkpoint4: 0-09-50
 checkpoint5: 5

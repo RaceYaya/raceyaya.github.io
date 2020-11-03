@@ -15,7 +15,7 @@ gender_rank: 144
 bib: 50238
 first_name: Lilian
 last_name: Racuya
-_checkpoint2_: 53.19
+checkpoint2: 53.19
 checkpoint3: 8-41-02
 checkpoint4: 0-09-48
 checkpoint5: 1

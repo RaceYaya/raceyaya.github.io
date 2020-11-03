@@ -15,7 +15,7 @@ gender_rank: 191
 bib: 50307
 first_name: Shiela
 last_name: Chavez
-_checkpoint2_: 50.39
+checkpoint2: 50.39
 checkpoint3: 8-52-39
 checkpoint4: 0-10-34
 checkpoint5: 1

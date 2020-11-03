@@ -15,7 +15,7 @@ gender_rank: 251
 bib: 50236
 first_name: Maria Marife
 last_name: Cordova
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 9-58-30
 checkpoint4: 0-11-58
 checkpoint5: 1

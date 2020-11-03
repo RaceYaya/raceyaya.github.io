@@ -15,7 +15,7 @@ gender_rank: 10
 bib: 50082
 first_name: Honey
 last_name: Damian
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 5-17-15
 checkpoint4: 0-06-21
 checkpoint5: 5

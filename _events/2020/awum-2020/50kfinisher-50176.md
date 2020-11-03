@@ -15,7 +15,7 @@ gender_rank: 112
 bib: 50176
 first_name: Maripol
 last_name: Tecson
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 7-44-36
 checkpoint4: 0-09-17
 checkpoint5: 1

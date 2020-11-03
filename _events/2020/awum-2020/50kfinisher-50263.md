@@ -15,7 +15,7 @@ gender_rank: 306
 bib: 50263
 first_name: Rosejane
 last_name: Paran
-_checkpoint2_: 52.35
+checkpoint2: 52.35
 checkpoint3: 13-33-24
 checkpoint4: 0-15-32
 checkpoint5: 3

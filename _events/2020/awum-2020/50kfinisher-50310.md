@@ -15,7 +15,7 @@ gender_rank: 291
 bib: 50310
 first_name: Rachel
 last_name: Dingal
-_checkpoint2_: 50.04
+checkpoint2: 50.04
 checkpoint3: 11-19-39
 checkpoint4: 0-13-35
 checkpoint5: 1

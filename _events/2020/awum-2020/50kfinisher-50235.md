@@ -15,7 +15,7 @@ gender_rank: 272
 bib: 50235
 first_name: Christine
 last_name: Dela Cruz
-_checkpoint2_: 60.73
+checkpoint2: 60.73
 checkpoint3: 12-48-48
 checkpoint4: 0-12-40
 checkpoint5: 3

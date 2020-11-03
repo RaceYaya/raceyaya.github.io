@@ -15,7 +15,7 @@ gender_rank: 233
 bib: 50144
 first_name: Snaira
 last_name: Ballesta
-_checkpoint2_: 57.26
+checkpoint2: 57.26
 checkpoint3: 11-00-40
 checkpoint4: 0-11-32
 checkpoint5: 3

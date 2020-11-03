@@ -15,7 +15,7 @@ gender_rank: 2
 bib: 50024
 first_name: Lizane
 last_name: Abella
-_checkpoint2_: 50
+checkpoint2: 50
 checkpoint3: 4-12-33
 checkpoint4: 0-05-03
 checkpoint5: 4

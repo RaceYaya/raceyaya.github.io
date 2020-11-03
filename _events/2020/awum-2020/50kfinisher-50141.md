@@ -15,7 +15,7 @@ gender_rank: 45
 bib: 50141
 first_name: Marisol
 last_name: Encarnacion
-_checkpoint2_: 53.01
+checkpoint2: 53.01
 checkpoint3: 6-52-22
 checkpoint4: 0-07-47
 checkpoint5: 3

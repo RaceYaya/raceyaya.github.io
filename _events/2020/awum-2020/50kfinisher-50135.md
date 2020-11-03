@@ -15,7 +15,7 @@ gender_rank: 263
 bib: 50135
 first_name: Louise Jane
 last_name: Cabangal
-_checkpoint2_: 51.44
+checkpoint2: 51.44
 checkpoint3: 10-36-44
 checkpoint4: 0-12-23
 checkpoint5: 4

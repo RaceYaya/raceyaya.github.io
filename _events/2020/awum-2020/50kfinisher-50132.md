@@ -15,7 +15,7 @@ gender_rank: 207
 bib: 50132
 first_name: Warlyn
 last_name: Deada
-_checkpoint2_: 54.81
+checkpoint2: 54.81
 checkpoint3: 9-53-16
 checkpoint4: 0-10-49
 checkpoint5: 3

@@ -15,7 +15,7 @@ gender_rank: 187
 bib: 50172
 first_name: Baby Dennie
 last_name: Caballero
-_checkpoint2_: 51.05
+checkpoint2: 51.05
 checkpoint3: 8-56-54
 checkpoint4: 0-10-31
 checkpoint5: 4

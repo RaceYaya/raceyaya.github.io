@@ -15,7 +15,7 @@ gender_rank: 78
 bib: 50168
 first_name: Carmel
 last_name: Garcia
-_checkpoint2_: 51.4
+checkpoint2: 51.4
 checkpoint3: 7-23-05
 checkpoint4: 0-08-37
 checkpoint5: 7

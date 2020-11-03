@@ -15,7 +15,7 @@ gender_rank: 119
 bib: 50286
 first_name: Norhaima Lezandree Bang
 last_name: Campong
-_checkpoint2_: 50.37
+checkpoint2: 50.37
 checkpoint3: 7-59-37
 checkpoint4: 0-09-31
 checkpoint5: 3

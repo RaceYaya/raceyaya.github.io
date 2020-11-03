@@ -15,7 +15,7 @@ gender_rank: 270
 bib: 50272
 first_name: Clair
 last_name: Valdez
-_checkpoint2_: 50.03
+checkpoint2: 50.03
 checkpoint3: 10-32-02
 checkpoint4: 0-12-38
 checkpoint5: 4

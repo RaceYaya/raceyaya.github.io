@@ -15,7 +15,7 @@ gender_rank: 193
 bib: 50296
 first_name: Joy Frances
 last_name: Mahinay
-_checkpoint2_: 50.59
+checkpoint2: 50.59
 checkpoint3: 8-55-05
 checkpoint4: 0-10-35
 checkpoint5: 6

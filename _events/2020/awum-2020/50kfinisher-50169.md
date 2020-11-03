@@ -15,7 +15,7 @@ gender_rank: 125
 bib: 50169
 first_name: Sheila
 last_name: Ramos
-_checkpoint2_: 51.06
+checkpoint2: 51.06
 checkpoint3: 8-11-24
 checkpoint4: 0-09-37
 checkpoint5: 5

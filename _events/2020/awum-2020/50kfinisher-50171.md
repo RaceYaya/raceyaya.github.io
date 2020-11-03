@@ -15,7 +15,7 @@ gender_rank: 200
 bib: 50171
 first_name: Yoya Sandra
 last_name: Orate
-_checkpoint2_: 50.08
+checkpoint2: 50.08
 checkpoint3: 8-55-18
 checkpoint4: 0-10-41
 checkpoint5: 5

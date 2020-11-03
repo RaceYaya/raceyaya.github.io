@@ -15,7 +15,7 @@ gender_rank: 96
 bib: 50264
 first_name: Judy
 last_name: Abines
-_checkpoint2_: 50.02
+checkpoint2: 50.02
 checkpoint3: 7-30-34
 checkpoint4: 0-09-00
 checkpoint5: 1

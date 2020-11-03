@@ -15,7 +15,7 @@ gender_rank: 255
 bib: 50331
 first_name: Joy
 last_name: Polloso
-_checkpoint2_: 51.23
+checkpoint2: 51.23
 checkpoint3: 10-18-01
 checkpoint4: 0-12-04
 checkpoint5: 7

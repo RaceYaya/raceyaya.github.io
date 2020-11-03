@@ -15,7 +15,7 @@ gender_rank: 141
 bib: 50086
 first_name: Donnah
 last_name: Ceniza
-_checkpoint2_: 51.94
+checkpoint2: 51.94
 checkpoint3: 8-26-37
 checkpoint4: 0-09-45
 checkpoint5: 3

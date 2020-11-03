@@ -15,7 +15,7 @@ gender_rank: 196
 bib: 50279
 first_name: Raquel
 last_name: Lazaro
-_checkpoint2_: 52
+checkpoint2: 52
 checkpoint3: 9-12-17
 checkpoint4: 0-10-37
 checkpoint5: 3

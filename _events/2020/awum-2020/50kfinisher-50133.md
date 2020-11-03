@@ -15,7 +15,7 @@ gender_rank: 65
 bib: 50133
 first_name: Marie Antoniette
 last_name: Castro
-_checkpoint2_: 50.34
+checkpoint2: 50.34
 checkpoint3: 6-55-03
 checkpoint4: 0-08-15
 checkpoint5: 3

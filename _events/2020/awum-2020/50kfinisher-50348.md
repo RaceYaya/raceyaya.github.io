@@ -15,7 +15,7 @@ gender_rank: 285
 bib: 50348
 first_name: Theresa Mae
 last_name: Conson
-_checkpoint2_: 51.43
+checkpoint2: 51.43
 checkpoint3: 11-28-27
 checkpoint4: 0-13-23
 checkpoint5: 4

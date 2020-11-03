@@ -15,7 +15,7 @@ gender_rank: 81
 bib: 50106
 first_name: Leah
 last_name: Mclean
-_checkpoint2_: 50.9
+checkpoint2: 50.9
 checkpoint3: 7-22-25
 checkpoint4: 0-08-42
 checkpoint5: 1

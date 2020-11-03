@@ -15,7 +15,7 @@ gender_rank: 219
 bib: 50016
 first_name: Yvette
 last_name: Garcia
-_checkpoint2_: 52.85
+checkpoint2: 52.85
 checkpoint3: 9-45-57
 checkpoint4: 0-11-05
 checkpoint5: 3

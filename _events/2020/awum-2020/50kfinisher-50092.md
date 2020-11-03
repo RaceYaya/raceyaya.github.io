@@ -15,7 +15,7 @@ gender_rank: 276
 bib: 50092
 first_name: Veronica
 last_name: Lao
-_checkpoint2_: 51
+checkpoint2: 51
 checkpoint3: 10-58-59
 checkpoint4: 0-12-55
 checkpoint5: 2

@@ -15,7 +15,7 @@ gender_rank: 51
 bib: 50349
 first_name: Jelly Rose
 last_name: Casquejo
-_checkpoint2_: 51.5
+checkpoint2: 51.5
 checkpoint3: 6-49-38
 checkpoint4: 0-07-57
 checkpoint5: 7

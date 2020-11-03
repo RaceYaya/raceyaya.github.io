@@ -15,7 +15,7 @@ gender_rank: 109
 bib: 50228
 first_name: Catherine
 last_name: Jaboli
-_checkpoint2_: 50.62
+checkpoint2: 50.62
 checkpoint3: 7-48-04
 checkpoint4: 0-09-15
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 138
 bib: 50231
 first_name: Catherine
 last_name: Lucero
-_checkpoint2_: 50.77
+checkpoint2: 50.77
 checkpoint3: 8-13-55
 checkpoint4: 0-09-44
 checkpoint5: 6

@@ -15,7 +15,7 @@ gender_rank: 37
 bib: 50336
 first_name: Glice Socorro
 last_name: Conde
-_checkpoint2_: 56.6
+checkpoint2: 56.6
 checkpoint3: 7-06-30
 checkpoint4: 0-07-32
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 316
 bib: 50259
 first_name: Mona Lisa
 last_name: Mariveles
-_checkpoint2_: 51.27
+checkpoint2: 51.27
 checkpoint3: 16-03-38
 checkpoint4: 0-18-48
 checkpoint5: 3

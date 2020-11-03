@@ -15,7 +15,7 @@ gender_rank: 225
 bib: 50287
 first_name: Mercedes
 last_name: Malundo
-_checkpoint2_: 68.14
+checkpoint2: 68.14
 checkpoint3: 12-50-54
 checkpoint4: 0-11-19
 checkpoint5: 3

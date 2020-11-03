@@ -15,7 +15,7 @@ gender_rank: 27
 bib: 50097
 first_name: Ivy Christine
 last_name: Muscosa
-_checkpoint2_: 50.78
+checkpoint2: 50.78
 checkpoint3: 6-04-31
 checkpoint4: 0-07-11
 checkpoint5: 6

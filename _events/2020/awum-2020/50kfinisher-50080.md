@@ -15,7 +15,7 @@ gender_rank: 273
 bib: 50080
 first_name: Exziel
 last_name: Alvarez
-_checkpoint2_: 50.44
+checkpoint2: 50.44
 checkpoint3: 10-42-40
 checkpoint4: 0-12-44
 checkpoint5: 3

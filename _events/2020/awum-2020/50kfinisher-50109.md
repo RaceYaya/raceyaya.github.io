@@ -15,7 +15,7 @@ gender_rank: 170
 bib: 50109
 first_name: Jessica
 last_name: Alcomendras
-_checkpoint2_: 50.76
+checkpoint2: 50.76
 checkpoint3: 8-38-08
 checkpoint4: 0-10-12
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 157
 bib: 50256
 first_name: kaye
 last_name: Catunao
-_checkpoint2_: 49.4
+checkpoint2: 49.4
 checkpoint3: 8-10-08
 checkpoint4: 0-09-55
 checkpoint5: 1

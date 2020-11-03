@@ -15,7 +15,7 @@ gender_rank: 262
 bib: 50270
 first_name: Love Joy
 last_name: Layague
-_checkpoint2_: 52.57
+checkpoint2: 52.57
 checkpoint3: 10-49-16
 checkpoint4: 0-12-21
 checkpoint5: 5

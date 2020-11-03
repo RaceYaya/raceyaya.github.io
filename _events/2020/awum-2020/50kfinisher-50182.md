@@ -15,7 +15,7 @@ gender_rank: 12
 bib: 50182
 first_name: Melchomelda
 last_name: Kitane
-_checkpoint2_: 52.68
+checkpoint2: 52.68
 checkpoint3: 5-39-19
 checkpoint4: 0-06-26
 checkpoint5: 4

@@ -15,7 +15,7 @@ gender_rank: 129
 bib: 50248
 first_name: Jennylou
 last_name: Panim
-_checkpoint2_: 51.93
+checkpoint2: 51.93
 checkpoint3: 8-22-25
 checkpoint4: 0-09-40
 checkpoint5: 5

@@ -15,7 +15,7 @@ gender_rank: 213
 bib: 50131
 first_name: Hannah
 last_name: Huang
-_checkpoint2_: 59.93
+checkpoint2: 59.93
 checkpoint3: 10-56-19
 checkpoint4: 0-10-57
 checkpoint5: 4

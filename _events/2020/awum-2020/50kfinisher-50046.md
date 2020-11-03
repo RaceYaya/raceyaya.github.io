@@ -15,7 +15,7 @@ gender_rank: 11
 bib: 50046
 first_name: Margarette
 last_name: Jaranilla
-_checkpoint2_: 50.01
+checkpoint2: 50.01
 checkpoint3: 5-17-52
 checkpoint4: 0-06-21
 checkpoint5: 3

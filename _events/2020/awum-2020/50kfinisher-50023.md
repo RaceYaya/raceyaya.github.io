@@ -15,7 +15,7 @@ gender_rank: 210
 bib: 50023
 first_name: Dins
 last_name: Dominggo
-_checkpoint2_: 51.86
+checkpoint2: 51.86
 checkpoint3: 10-17-17
 checkpoint4: 0-39-40
 checkpoint5: 5

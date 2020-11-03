@@ -15,7 +15,7 @@ gender_rank: 114
 bib: 50189
 first_name: Nimfa
 last_name: De veyra
-_checkpoint2_: 52.21
+checkpoint2: 52.21
 checkpoint3: 8-10-33
 checkpoint4: 0-09-24
 checkpoint5: 4

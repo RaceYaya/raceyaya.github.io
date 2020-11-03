@@ -15,7 +15,7 @@ gender_rank: 67
 bib: 50222
 first_name: Haneza
 last_name: Ticse
-_checkpoint2_: 50.17
+checkpoint2: 50.17
 checkpoint3: 6-58-37
 checkpoint4: 0-08-21
 checkpoint5: 3

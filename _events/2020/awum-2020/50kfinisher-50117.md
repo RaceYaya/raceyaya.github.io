@@ -15,7 +15,7 @@ gender_rank: 305
 bib: 50117
 first_name: Sweet Cyrl
 last_name: Balbutin
-_checkpoint2_: 50.9
+checkpoint2: 50.9
 checkpoint3: 13-06-12
 checkpoint4: 0-15-27
 checkpoint5: 4
