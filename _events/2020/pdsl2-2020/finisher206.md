@@ -21,5 +21,5 @@ country: Philippines
 checkpoint2: 1-19-30
 checkpoint3: 2-18-29
 checkpoint4: 1-03-05
-total_time: 4-41-04
+finish: 4-41-04
 --- 

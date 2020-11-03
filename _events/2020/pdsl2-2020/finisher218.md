@@ -21,5 +21,5 @@ country: Philippines
 checkpoint2: 0-52-51
 checkpoint3: 1-51-13
 checkpoint4: 0-50-35
-total_time: 3-34-39
+finish: 3-34-39
 --- 
