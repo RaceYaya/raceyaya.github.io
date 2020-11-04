@@ -16,7 +16,7 @@ bib: 217
 first_name: Edmund
 last_name: Deles
 gender: Male
-category: F35-39
+category: M35-39
 country: Philippines
 checkpoint2: 1-13-24
 checkpoint3: 2-00-00
