@@ -8,8 +8,9 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1604112863/3B3F746
 event-date: 2020-11-01 
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
-checkpoint-name4: AVERAGE PACE 
-checkpoint-name5: NUMBER OF RUN 
+checkpoint-name4: TOTAL TIME 
+checkpoint-name5: AVERAGE PACE 
+checkpoint-name6: NUMBER OF RUN 
 overall_rank: 18
 gender_rank: 11
 bib: 131
@@ -19,7 +20,8 @@ gender: Male
 country: Indonesia
 checkpoint2: 1522
 checkpoint3: 25.2
-checkpoint4: 0-13-38
-checkpoint5:   2 
-finish: 5-43-36
+checkpoint4: 5-43-36
+checkpoint5: 0-13-38
+checkpoint6:   2 
+finish: 5-08-50
 --- 
