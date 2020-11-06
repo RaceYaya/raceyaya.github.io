@@ -21,5 +21,5 @@ checkpoint2: 1367
 checkpoint3: 4.19
 checkpoint4: 0-44-39
 checkpoint5:   1 
-finsih: 3-07-06
+finish: 3-07-06
 --- 

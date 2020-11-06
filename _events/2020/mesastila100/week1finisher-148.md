@@ -21,5 +21,5 @@ checkpoint2: 1548
 checkpoint3: 23.21
 checkpoint4: 0-14-01
 checkpoint5:   1 
-finsih: 5-25-27
+finish: 5-25-27
 --- 
