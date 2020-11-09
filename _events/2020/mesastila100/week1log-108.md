@@ -34,19 +34,19 @@ checkpoint2:
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
-checkpoint6: 
-checkpoint7: 
+checkpoint6: 1045
+checkpoint7: 1-58-47
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 
 checkpoint11: 
 checkpoint12: 
 checkpoint13: 
-checkpoint14: 
-checkpoint15: 
+checkpoint14: 346
+checkpoint15: 1-31-32
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 0
-checkpoint19: 0
-finish: 0-00-00
+checkpoint18: 1391
+checkpoint19: 17
+finish: 3-30-19
 --- 

@@ -38,7 +38,7 @@ checkpoint6:
 checkpoint7: 
 checkpoint8: 
 checkpoint9: 
-checkpoint10: 1367
+checkpoint10: 1369
 checkpoint11: 3-07-06
 checkpoint12: 
 checkpoint13: 
@@ -46,7 +46,7 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 1367
-checkpoint19: 4.19
+checkpoint18: 1369
+checkpoint19: 4
 finish: 3-07-06
 --- 

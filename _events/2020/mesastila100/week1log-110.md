@@ -47,6 +47,6 @@ checkpoint15:
 checkpoint16: 
 checkpoint17: 
 checkpoint18: 1713
-checkpoint19: 17.97
+checkpoint19: 18
 finish: 9-48-53
 --- 

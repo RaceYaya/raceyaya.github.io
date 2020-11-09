@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 16
-gender_rank: 10
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 35
+gender_rank: 30
 bib: 130
 first_name: Lukman
 last_name: Sugianto
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1550
 checkpoint3: 25.15
 checkpoint4: 5-29-54
-checkpoint5: 0-13-07
-checkpoint6:   2 
+checkpoint5:   2 
+checkpoint6: 0-13-07
 finish: 4-51-10
 --- 

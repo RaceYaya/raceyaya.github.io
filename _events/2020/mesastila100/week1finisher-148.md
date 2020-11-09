@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 15
-gender_rank: 9
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 33
+gender_rank: 28
 bib: 148
 first_name: Bambang Edy
 last_name: Suparyanto
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1548
 checkpoint3: 23.21
 checkpoint4: 5-25-27
-checkpoint5: 0-14-01
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-14-01
 finish: 4-47-36
 --- 

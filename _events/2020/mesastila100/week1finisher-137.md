@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 20
-gender_rank: 7
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 45
+gender_rank: 40
 bib: 137
 first_name: Vita 
 last_name: Mahaswari
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1399
 checkpoint3: 10.43
 checkpoint4: 6-03-40
-checkpoint5: 0-34-52
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-34-52
 finish: 5-55-36
 --- 

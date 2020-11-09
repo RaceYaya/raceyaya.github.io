@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 2
-gender_rank: 2
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 4
+gender_rank: 4
 bib: 122
 first_name: Kristian
 last_name: Natanael
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1563
 checkpoint3: 10.15
 checkpoint4: 1-37-27
-checkpoint5: 0-09-36
-checkpoint6:   3 
+checkpoint5:   3 
+checkpoint6: 0-09-36
 finish: 1-25-18
 --- 

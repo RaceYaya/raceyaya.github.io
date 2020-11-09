@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 17
-gender_rank: 12
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 36
+gender_rank: 31
 bib: 140
 first_name: Rizki 
 last_name: Yogotama
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1629
 checkpoint3: 21.01
 checkpoint4: 5-59-45
-checkpoint5: 0-17-07
-checkpoint6:   2 
+checkpoint5:   2 
+checkpoint6: 0-17-07
 finish: 5-02-07
 --- 

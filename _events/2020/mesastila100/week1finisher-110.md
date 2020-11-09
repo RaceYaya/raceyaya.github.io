@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 23
-gender_rank: 16
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 50
+gender_rank: 45
 bib: 110
 first_name: sabar
 last_name: bawang
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1713
 checkpoint3: 17.97
 checkpoint4: 9-48-53
-checkpoint5: 0-32-46
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-32-46
 finish: 7-50-17
 --- 

@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 10
-gender_rank: 6
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 23
+gender_rank: 18
 bib: 155
 first_name: Petr
 last_name: Hurtik
@@ -21,7 +21,7 @@ country: czech
 checkpoint2: 1508
 checkpoint3: 18.97
 checkpoint4: 4-09-28
-checkpoint5: 0-13-09
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-13-09
 finish: 3-46-18
 --- 

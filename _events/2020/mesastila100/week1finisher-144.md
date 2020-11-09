@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 19
-gender_rank: 6
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 44
+gender_rank: 39
 bib: 144
 first_name: Tjie
 last_name: Lei
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1410
 checkpoint3: 10.32
 checkpoint4: 5-40-10
-checkpoint5: 0-32-58
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-32-58
 finish: 5-30-02
 --- 

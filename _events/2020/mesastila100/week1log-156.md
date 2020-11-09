@@ -44,9 +44,9 @@ checkpoint12:
 checkpoint13: 
 checkpoint14: 
 checkpoint15: 
-checkpoint16: 
-checkpoint17: 
-checkpoint18: 1114
-checkpoint19: 13.68
-finish: 4-45-30
+checkpoint16: 277
+checkpoint17: 0-42-46
+checkpoint18: 1391
+checkpoint19: 16
+finish: 5-28-16
 --- 

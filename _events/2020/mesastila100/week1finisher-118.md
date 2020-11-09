@@ -9,9 +9,9 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 3
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 6
 gender_rank: 1
 bib: 118
 first_name: Shindy
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1536
 checkpoint3: 8.3
 checkpoint4: 1-55-07
-checkpoint5: 0-13-52
-checkpoint6:   2 
+checkpoint5:   2 
+checkpoint6: 0-13-52
 finish: 1-42-32
 --- 

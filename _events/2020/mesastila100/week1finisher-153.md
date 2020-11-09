@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 7
-gender_rank: 5
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 17
+gender_rank: 12
 bib: 153
 first_name: Yulisto
 last_name: Widodo
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1577
 checkpoint3: 12.4
 checkpoint4: 3-30-30
-checkpoint5: 0-16-59
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-16-59
 finish: 3-02-36
 --- 

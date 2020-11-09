@@ -36,8 +36,8 @@ checkpoint4:
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 
-checkpoint9: 
+checkpoint8: 1496
+checkpoint9: 5-37-48
 checkpoint10: 
 checkpoint11: 
 checkpoint12: 
@@ -46,7 +46,7 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 0
-checkpoint19: 0
-finish: 0-00-00
+checkpoint18: 1496
+checkpoint19: 13
+finish: 5-37-48
 --- 

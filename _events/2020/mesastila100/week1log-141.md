@@ -30,8 +30,8 @@ first_name: Iwin
 last_name: Harahap
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 
+checkpoint2: 533
+checkpoint3: 2-16-34
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
@@ -40,13 +40,13 @@ checkpoint8:
 checkpoint9: 
 checkpoint10: 
 checkpoint11: 
-checkpoint12: 
-checkpoint13: 
+checkpoint12: 368
+checkpoint13: 1-18-38
 checkpoint14: 
 checkpoint15: 
-checkpoint16: 
-checkpoint17: 
-checkpoint18: 0
-checkpoint19: 0
-finish: 0-00-00
+checkpoint16: 714
+checkpoint17: 2-23-27
+checkpoint18: 1615
+checkpoint19: 25
+finish: 5-58-39
 --- 

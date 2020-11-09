@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 14
-gender_rank: 5
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 32
+gender_rank: 27
 bib: 152
 first_name: Nadine
 last_name: Jasim
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1606
 checkpoint3: 25.57
 checkpoint4: 5-33-27
-checkpoint5: 0-13-02
-checkpoint6:   2 
+checkpoint5:   2 
+checkpoint6: 0-13-02
 finish: 4-44-02
 --- 

@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 12
-gender_rank: 14
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 28
+gender_rank: 23
 bib: 128
 first_name: Yohanes 
 last_name: Ngatiman
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 2588
 checkpoint3: 20.24
 checkpoint4: 8-14-33
-checkpoint5: 0-24-26
-checkpoint6:   2 
+checkpoint5:   2 
+checkpoint6: 0-24-26
 finish: 4-21-25
 --- 

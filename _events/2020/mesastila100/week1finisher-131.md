@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 18
-gender_rank: 11
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 41
+gender_rank: 36
 bib: 131
 first_name: Ferry
 last_name: Aprijanto
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1522
 checkpoint3: 25.2
 checkpoint4: 5-43-36
-checkpoint5: 0-13-38
-checkpoint6:   2 
+checkpoint5:   2 
+checkpoint6: 0-13-38
 finish: 5-08-50
 --- 

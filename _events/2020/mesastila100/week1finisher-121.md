@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 9
-gender_rank: 4
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 19
+gender_rank: 14
 bib: 121
 first_name: Dian
 last_name: Pradina
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1738
 checkpoint3: 7.96
 checkpoint4: 3-58-07
-checkpoint5: 0-29-55
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-29-55
 finish: 3-07-25
 --- 

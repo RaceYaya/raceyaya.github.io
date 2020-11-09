@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 5
-gender_rank: 3
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 13
+gender_rank: 8
 bib: 127
 first_name: Hammam
 last_name: Aulia 
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1515
 checkpoint3: 21.23
 checkpoint4: 2-36-12
-checkpoint5: 0-07-21
-checkpoint6:   2 
+checkpoint5:   2 
+checkpoint6: 0-07-21
 finish: 2-21-03
 --- 

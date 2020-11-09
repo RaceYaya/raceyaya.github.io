@@ -9,19 +9,19 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 8
-gender_rank: 3
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 18
+gender_rank: 13
 bib: 115
 first_name: Novita
 last_name: Wulandari
 gender: Female
 country: Indonesia
-checkpoint2: 1367
+checkpoint2: 1369
 checkpoint3: 4.19
 checkpoint4: 3-07-06
-checkpoint5: 0-44-39
-checkpoint6:   1 
-finish: 3-07-14
+checkpoint5:   1 
+checkpoint6: 0-44-39
+finish: 3-06-58
 --- 

@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 4
-gender_rank: 2
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 12
+gender_rank: 7
 bib: 126
 first_name: Yuni Noor
 last_name: Hayati
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1412
 checkpoint3: 6.39
 checkpoint4: 2-13-28
-checkpoint5: 0-20-53
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-20-53
 finish: 2-09-18
 --- 

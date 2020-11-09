@@ -27,10 +27,10 @@ checkpoint-name19: TOTAL DISTANCE
 overall_rank: 38
 bib: 138
 first_name: Ivan 
-last_name: Adinata
+last_name: Anditana 
 gender: Male
 country: Indonesia
-checkpoint2: 465
+checkpoint2: 456
 checkpoint3: 1-31-45
 checkpoint4: 
 checkpoint5: 
@@ -38,15 +38,15 @@ checkpoint6:
 checkpoint7: 
 checkpoint8: 409
 checkpoint9: 1-15-34
-checkpoint10: 
-checkpoint11: 
+checkpoint10: 592
+checkpoint11: 1-43-14
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 874
-checkpoint19: 18.42
-finish: 2-47-19
+checkpoint18: 1457
+checkpoint19: 28
+finish: 4-30-33
 --- 

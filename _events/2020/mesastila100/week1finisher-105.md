@@ -9,10 +9,10 @@ event-date: 2020-11-01
 checkpoint-name2: TOTAL GAIN 
 checkpoint-name3: TOTAL DISTANCE 
 checkpoint-name4: TOTAL TIME 
-checkpoint-name5: AVERAGE PACE 
-checkpoint-name6: NUMBER OF RUN 
-overall_rank: 21
-gender_rank: 13
+checkpoint-name5: NUMBER OF RUN 
+checkpoint-name6: AVERAGE PACE 
+overall_rank: 46
+gender_rank: 41
 bib: 105
 first_name: Septian
 last_name: Yudiansyah
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 1528
 checkpoint3: 21.03
 checkpoint4: 6-46-38
-checkpoint5: 0-19-20
-checkpoint6:   1 
+checkpoint5:   1 
+checkpoint6: 0-19-20
 finish: 6-04-03
 --- 
