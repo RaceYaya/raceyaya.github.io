@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 36
-gender_rank: 31
+overall_rank: 39
+gender_rank: 29
 bib: 140
 first_name: Rizki 
 last_name: Yogotama

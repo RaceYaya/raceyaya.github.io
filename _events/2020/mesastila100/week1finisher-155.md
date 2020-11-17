@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 23
+overall_rank: 26
 gender_rank: 18
 bib: 155
 first_name: Petr

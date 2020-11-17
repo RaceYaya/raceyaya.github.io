@@ -11,17 +11,17 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 11
-gender_rank: 9
-bib: 103
-first_name: Wahyudi
-last_name: .
+overall_rank: 13
+gender_rank: 10
+bib: 143
+first_name: Ajakin
+last_name: Lari
 gender: Male
 country: Indonesia
-checkpoint2: 1451
-checkpoint3: 12.35
-checkpoint4: 2-12-13
-checkpoint5:   2 
-checkpoint6: 0-10-42
-finish: 2-04-39
+checkpoint2: 1390
+checkpoint3: 6.58
+checkpoint4: 2-11-36
+checkpoint5: 3
+checkpoint6: 0-20-00
+finish: 2-09-31
 --- 

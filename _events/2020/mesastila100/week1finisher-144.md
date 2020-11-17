@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 44
-gender_rank: 39
+overall_rank: 47
+gender_rank: 12
 bib: 144
 first_name: Tjie
 last_name: Lei

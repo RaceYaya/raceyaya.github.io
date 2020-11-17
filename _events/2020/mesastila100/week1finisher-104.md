@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 51
-gender_rank: 46
+overall_rank: 54
+gender_rank: 39
 bib: 104
 first_name: Mayo
 last_name: Falmonti

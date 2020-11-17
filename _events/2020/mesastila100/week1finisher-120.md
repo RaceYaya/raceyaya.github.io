@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 49
-gender_rank: 44
+overall_rank: 52
+gender_rank: 15
 bib: 120
 first_name: Asri
 last_name: Kori Khaeranisa

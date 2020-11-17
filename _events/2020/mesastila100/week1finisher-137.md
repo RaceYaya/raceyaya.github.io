@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 45
-gender_rank: 40
+overall_rank: 48
+gender_rank: 13
 bib: 137
 first_name: Vita 
 last_name: Mahaswari

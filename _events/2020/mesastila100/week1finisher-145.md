@@ -12,7 +12,7 @@ checkpoint-name4: TOTAL TIME
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
 overall_rank: 8
-gender_rank: 3
+gender_rank: 2
 bib: 145
 first_name: Lailika
 last_name: Rifda

@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 25
+overall_rank: 28
 gender_rank: 20
 bib: 158
 first_name: Bayu

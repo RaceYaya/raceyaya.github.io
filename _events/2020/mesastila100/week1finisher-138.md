@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 27
+overall_rank: 30
 gender_rank: 22
 bib: 138
 first_name: Ivan 

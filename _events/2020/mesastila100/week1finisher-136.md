@@ -12,7 +12,7 @@ checkpoint-name4: TOTAL TIME
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
 overall_rank: 10
-gender_rank: 5
+gender_rank: 8
 bib: 136
 first_name: Dani
 last_name: Chika

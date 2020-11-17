@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 39
-gender_rank: 34
+overall_rank: 42
+gender_rank: 32
 bib: 160
 first_name: Fandi
 last_name: Ho

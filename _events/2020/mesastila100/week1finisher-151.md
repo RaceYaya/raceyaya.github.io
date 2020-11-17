@@ -12,7 +12,7 @@ checkpoint-name4: TOTAL TIME
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
 overall_rank: 9
-gender_rank: 4
+gender_rank: 7
 bib: 151
 first_name: Muhamad 
 last_name: Muhlisin

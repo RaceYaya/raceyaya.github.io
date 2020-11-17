@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 15
-gender_rank: 10
+overall_rank: 18
+gender_rank: 13
 bib: 159
 first_name: Mo
 last_name: Ikhwan

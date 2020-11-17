@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 38
-gender_rank: 33
+overall_rank: 41
+gender_rank: 31
 bib: 141
 first_name: Iwin 
 last_name: Harahap

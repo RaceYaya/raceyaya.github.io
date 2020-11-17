@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 13
-gender_rank: 8
+overall_rank: 15
+gender_rank: 11
 bib: 127
 first_name: Hammam
 last_name: Aulia 

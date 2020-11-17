@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 48
-gender_rank: 43
+overall_rank: 51
+gender_rank: 37
 bib: 106
 first_name: Hidayat
 last_name: Vertical

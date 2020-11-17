@@ -11,17 +11,17 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 11
-gender_rank: 9
-bib: 103
-first_name: Wahyudi
-last_name: .
-gender: Male
+overall_rank: 14
+gender_rank: 4
+bib: 157
+first_name: Jennifer
+last_name: Pernia
+gender: Female
 country: Indonesia
-checkpoint2: 1451
-checkpoint3: 12.35
-checkpoint4: 2-12-13
-checkpoint5:   2 
-checkpoint6: 0-10-42
-finish: 2-04-39
+checkpoint2: 1411
+checkpoint3: 6.18
+checkpoint4: 2-15-26
+checkpoint5: 3
+checkpoint6: 0-21-55
+finish: 2-11-18
 --- 

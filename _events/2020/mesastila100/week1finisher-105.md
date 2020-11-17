@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 46
-gender_rank: 41
+overall_rank: 49
+gender_rank: 36
 bib: 105
 first_name: Septian
 last_name: Yudiansyah

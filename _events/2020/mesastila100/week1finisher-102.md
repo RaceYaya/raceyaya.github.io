@@ -12,7 +12,7 @@ checkpoint-name4: TOTAL TIME
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
 overall_rank: 7
-gender_rank: 2
+gender_rank: 6
 bib: 102
 first_name: Mario
 last_name: Montung

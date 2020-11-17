@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 16
-gender_rank: 11
+overall_rank: 19
+gender_rank: 14
 bib: 135
 first_name: Nino
 last_name: Agung

@@ -12,7 +12,7 @@ checkpoint-name4: TOTAL TIME
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
 overall_rank: 12
-gender_rank: 7
+gender_rank: 3
 bib: 126
 first_name: Yuni Noor
 last_name: Hayati

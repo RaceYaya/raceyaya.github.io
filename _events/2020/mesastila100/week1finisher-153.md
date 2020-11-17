@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 17
-gender_rank: 12
+overall_rank: 20
+gender_rank: 15
 bib: 153
 first_name: Yulisto
 last_name: Widodo
