@@ -30,8 +30,8 @@ first_name: Ajakin
 last_name: Lari
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 
+checkpoint2: 1390
+checkpoint3: 2-11-36
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
@@ -46,7 +46,7 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 0
-checkpoint19: 0
-finish: 0-00-00
+checkpoint18: 1390
+checkpoint19: 6.58
+finish: 2-11-36
 --- 

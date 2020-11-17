@@ -40,13 +40,13 @@ checkpoint8:
 checkpoint9: 
 checkpoint10: 
 checkpoint11: 
-checkpoint12: 
-checkpoint13: 
-checkpoint14: 
-checkpoint15: 
+checkpoint12: 1160
+checkpoint13: 2-08-09
+checkpoint14: 318
+checkpoint15: 0-29-39
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 0
-checkpoint19: 0
-finish: 0-00-00
+checkpoint18: 1478
+checkpoint19: 7.79
+finish: 2-37-48
 --- 

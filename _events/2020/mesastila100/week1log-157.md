@@ -42,11 +42,11 @@ checkpoint10:
 checkpoint11: 
 checkpoint12: 
 checkpoint13: 
-checkpoint14: 
-checkpoint15: 
-checkpoint16: 
-checkpoint17: 
-checkpoint18: 0
-checkpoint19: 0
-finish: 0-00-00
+checkpoint14: 654
+checkpoint15: 0-58-31
+checkpoint16: 757
+checkpoint17: 1-16-55
+checkpoint18: 1411
+checkpoint19: 6.18
+finish: 2-15-26
 --- 
