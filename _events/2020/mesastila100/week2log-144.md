@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 42
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 44
 bib: 144
 first_name: Tjie
 last_name: Lei
@@ -46,7 +47,8 @@ checkpoint14: 273
 checkpoint15: 0-25-32
 checkpoint16: 2987
 checkpoint17: 21.79
-finish: 10-34-49
-checkpoint18: 0-29-08
-checkpoint19: 3
+checkpoint18: 10-34-49
+checkpoint19: 0-29-08
+checkpoint20: 3
+finish: 10-29-43
 --- 

@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 2
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 22
 bib: 122
 first_name: Kristian
 last_name: Natanael
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3011
 checkpoint17: 16.97
-finish: 2-52-31
-checkpoint18: 0-10-10
-checkpoint19: 5
+checkpoint18: 2-52-31
+checkpoint19: 0-10-10
+checkpoint20: 5
+finish: 2-49-46
 --- 

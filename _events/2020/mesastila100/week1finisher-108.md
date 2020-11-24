@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 24
-gender_rank: 16
+overall_rank: 25
+gender_rank: 17
 bib: 108
 first_name: Eko
 last_name: Marsudiono
 gender: Male
 country: Indonesia
 checkpoint2: 1391
-checkpoint3: 17.07
+checkpoint3:   17 
 checkpoint4: 3-30-19
 checkpoint5:   2 
 checkpoint6: 0-12-19

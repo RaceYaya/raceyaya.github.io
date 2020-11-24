@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 34
-gender_rank: 26
+overall_rank: 35
+gender_rank: 27
 bib: 114
 first_name: christian
 last_name: Tjiptohudijono
 gender: Male
 country: Indonesia
 checkpoint2: 1400
-checkpoint3: 8.02
+checkpoint3:   8 
 checkpoint4: 4-48-46
 checkpoint5:   1 
 checkpoint6: 0-36-00

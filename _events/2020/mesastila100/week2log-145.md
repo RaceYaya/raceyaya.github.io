@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 11
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 45
 bib: 145
 first_name: Lailika
 last_name: Rifda
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2938
 checkpoint17: 15.73
-finish: 3-54-40
-checkpoint18: 0-14-55
-checkpoint19: 6
+checkpoint18: 3-54-40
+checkpoint19: 0-14-55
+checkpoint20: 6
+finish: 3-56-40
 --- 

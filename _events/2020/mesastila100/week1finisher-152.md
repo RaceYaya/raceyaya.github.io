@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 35
+overall_rank: 36
 gender_rank: 9
 bib: 152
 first_name: Nadine
@@ -19,7 +19,7 @@ last_name: Jasim
 gender: Female
 country: Indonesia
 checkpoint2: 1606
-checkpoint3: 25.57
+checkpoint3:   26 
 checkpoint4: 5-33-27
 checkpoint5:   2 
 checkpoint6: 0-13-02

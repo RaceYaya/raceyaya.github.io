@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 26
-gender_rank: 18
+overall_rank: 27
+gender_rank: 19
 bib: 155
 first_name: Petr
 last_name: Hurtik
 gender: Male
 country: czech
 checkpoint2: 1508
-checkpoint3: 18.97
+checkpoint3:   19 
 checkpoint4: 4-09-28
 checkpoint5:   1 
 checkpoint6: 0-13-09

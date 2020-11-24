@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 20
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 53
 bib: 153
 first_name: Yulisto
 last_name: Widodo
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3328
 checkpoint17: 32.58
-finish: 6-15-55
-checkpoint18: 0-11-32
-checkpoint19: 2
+checkpoint18: 6-15-55
+checkpoint19: 0-11-32
+checkpoint20: 2
+finish: 5-34-41
 --- 

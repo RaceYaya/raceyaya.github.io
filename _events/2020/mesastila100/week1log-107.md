@@ -34,8 +34,8 @@ checkpoint2:
 checkpoint3: 
 checkpoint4: 
 checkpoint5: 
-checkpoint6: 623
-checkpoint7: 2-53-13
+checkpoint6: 
+checkpoint7: 
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 
@@ -46,7 +46,7 @@ checkpoint14: 1858
 checkpoint15: 5-29-05
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 2481
-checkpoint19: 57
-finish: 8-22-18
+checkpoint18: 1858
+checkpoint19: 35
+finish: 5-29-05
 --- 

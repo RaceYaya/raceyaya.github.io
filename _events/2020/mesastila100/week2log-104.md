@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 35
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 4
 bib: 104
 first_name: Mayo
 last_name: Falmonti
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3483
 checkpoint17: 13.96
-finish: 10-12-42
-checkpoint18: 0-43-53
-checkpoint19: 2
+checkpoint18: 10-12-42
+checkpoint19: 0-43-53
+checkpoint20: 2
+finish: 8-41-14
 --- 

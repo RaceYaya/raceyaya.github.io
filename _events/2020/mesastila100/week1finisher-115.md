@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 21
+overall_rank: 22
 gender_rank: 6
 bib: 115
 first_name: Novita
@@ -19,7 +19,7 @@ last_name: Wulandari
 gender: Female
 country: Indonesia
 checkpoint2: 1369
-checkpoint3: 4.19
+checkpoint3:   4 
 checkpoint4: 3-07-06
 checkpoint5:   1 
 checkpoint6: 0-44-39

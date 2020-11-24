@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 28
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 30
 bib: 130
 first_name: Lukman
 last_name: Sugianto
@@ -46,7 +47,8 @@ checkpoint14: 500
 checkpoint15: 0.04777777778
 checkpoint16: 2983
 checkpoint17: 21.62
-finish: 7-02-42
-checkpoint18: 0-19-33
-checkpoint19: 4
+checkpoint18: 7-02-42
+checkpoint19: 0-19-33
+checkpoint20: 4
+finish: 6-59-52
 --- 

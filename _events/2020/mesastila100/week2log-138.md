@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 31
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 38
 bib: 138
 first_name: Ivan 
 last_name: Adinata
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2941
 checkpoint17: 34.68
-finish: 7-59-42
-checkpoint18: 0-13-50
-checkpoint19: 3
+checkpoint18: 7-59-42
+checkpoint19: 0-13-50
+checkpoint20: 3
+finish: 8-03-17
 --- 

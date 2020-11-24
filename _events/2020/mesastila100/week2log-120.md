@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 33
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 20
 bib: 120
 first_name: Asri
 last_name: Kori Khaeranisa
@@ -46,7 +47,8 @@ checkpoint14: 561
 checkpoint15: 0.06034722222
 checkpoint16: 2973
 checkpoint17: 39.37
-finish: 8-39-18
-checkpoint18: 0-13-11
-checkpoint19: 3
+checkpoint18: 8-39-18
+checkpoint19: 0-13-11
+checkpoint20: 3
+finish: 8-37-33
 --- 

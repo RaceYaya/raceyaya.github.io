@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 22
+overall_rank: 23
 gender_rank: 7
 bib: 121
 first_name: Dian
@@ -19,7 +19,7 @@ last_name: Pradina
 gender: Female
 country: Indonesia
 checkpoint2: 1738
-checkpoint3: 7.96
+checkpoint3:   8 
 checkpoint4: 3-58-07
 checkpoint5:   1 
 checkpoint6: 0-29-55

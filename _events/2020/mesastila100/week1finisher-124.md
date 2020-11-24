@@ -19,7 +19,7 @@ last_name: Adiwardana
 gender: Male
 country: Indonesia
 checkpoint2: 1414
-checkpoint3: 9.33
+checkpoint3:   9 
 checkpoint4: 1-19-50
 checkpoint5:   3 
 checkpoint6: 0-08-33

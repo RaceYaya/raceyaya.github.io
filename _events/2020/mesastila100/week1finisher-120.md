@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 52
+overall_rank: 53
 gender_rank: 15
 bib: 120
 first_name: Asri
@@ -19,7 +19,7 @@ last_name: Kori Khaeranisa
 gender: Female
 country: Indonesia
 checkpoint2: 1440
-checkpoint3: 16.12
+checkpoint3:   16 
 checkpoint4: 7-20-18
 checkpoint5:   1 
 checkpoint6: 0-27-19

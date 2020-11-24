@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 14
+overall_rank: 15
 gender_rank: 4
 bib: 157
 first_name: Jennifer
@@ -19,7 +19,7 @@ last_name: Pernia
 gender: Female
 country: Indonesia
 checkpoint2: 1411
-checkpoint3: 6.18
+checkpoint3:   6 
 checkpoint4: 2-15-26
 checkpoint5: 3
 checkpoint6: 0-21-55

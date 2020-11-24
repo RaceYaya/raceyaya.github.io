@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 43
+overall_rank: 44
 gender_rank: 11
 bib: 101
 first_name: Anastasia
@@ -19,7 +19,7 @@ last_name: Budiasih
 gender: Female
 country: Indonesia
 checkpoint2: 1373
-checkpoint3: 17.68
+checkpoint3:   18 
 checkpoint4: 5-07-37
 checkpoint5:   2 
 checkpoint6: 0-17-24

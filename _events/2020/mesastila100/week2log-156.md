@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 26
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 56
 bib: 156
 first_name: Taufiq
 last_name: Nurhidayat
@@ -46,7 +47,8 @@ checkpoint14: 1523
 checkpoint15: 0.1455902778
 checkpoint16: 3031
 checkpoint17: 15.12
-finish: 6-59-53
-checkpoint18: 0-27-46
-checkpoint19: 2
+checkpoint18: 6-59-53
+checkpoint19: 0-27-46
+checkpoint20: 2
+finish: 6-50-28
 --- 

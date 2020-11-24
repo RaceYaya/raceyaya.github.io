@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 41
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 14
 bib: 114
 first_name: christian
 last_name: Tjiptohudijono
@@ -46,7 +47,8 @@ checkpoint14: 877
 checkpoint15: 3-17-45
 checkpoint16: 3089
 checkpoint17: 44.93
-finish: 10-52-29
-checkpoint18: 0-14-31
-checkpoint19: 5
+checkpoint18: 10-52-29
+checkpoint19: 0-14-31
+checkpoint20: 5
+finish: 10-25-52
 --- 

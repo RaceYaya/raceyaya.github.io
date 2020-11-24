@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 44
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 9
 bib: 109
 first_name: Nurul
 last_name: Wulandari
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3479
 checkpoint17: 37.25
-finish: 13-48-45
-checkpoint18: 0-22-15
-checkpoint19: 4
+checkpoint18: 13-48-45
+checkpoint19: 0-22-15
+checkpoint20: 4
+finish: 11-45-50
 --- 

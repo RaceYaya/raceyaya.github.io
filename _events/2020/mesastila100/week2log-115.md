@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 16
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 15
 bib: 115
 first_name: Novita
 last_name: Wulandari
@@ -46,7 +47,8 @@ checkpoint14: 1489
 checkpoint15: 2-12-58
 checkpoint16: 3067
 checkpoint17: 10.61
-finish: 4-49-33
-checkpoint18: 0-27-17
-checkpoint19: 2
+checkpoint18: 4-49-33
+checkpoint19: 0-27-17
+checkpoint20: 2
+finish: 4-39-44
 --- 

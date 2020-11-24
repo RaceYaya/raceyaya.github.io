@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 43
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 1
 bib: 101
 first_name: Anastasia
 last_name: Budiasih
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2984
 checkpoint17: 41.7
-finish: 10-59-43
-checkpoint18: 0-15-49
-checkpoint19: 5
+checkpoint18: 10-59-43
+checkpoint19: 0-15-49
+checkpoint20: 5
+finish: 10-55-04
 --- 

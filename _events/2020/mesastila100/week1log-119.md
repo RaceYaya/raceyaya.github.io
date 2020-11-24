@@ -26,7 +26,7 @@ checkpoint-name18: TOTAL GAIN
 checkpoint-name19: TOTAL DISTANCE 
 overall_rank: 19
 bib: 119
-first_name: Sri Agus
+first_name: Shindy
 last_name: Budi Santoso
 gender: Male
 country: Indonesia

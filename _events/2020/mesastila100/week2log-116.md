@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 34
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 16
 bib: 116
 first_name: Irwan
 last_name: dadoh
@@ -46,7 +47,8 @@ checkpoint14: 216
 checkpoint15: 0.04506944444
 checkpoint16: 2991
 checkpoint17: 19
-finish: 8-44-08
-checkpoint18: 0-27-35
-checkpoint19: 3
+checkpoint18: 8-44-08
+checkpoint19: 0-27-35
+checkpoint20: 3
+finish: 8-39-14
 --- 

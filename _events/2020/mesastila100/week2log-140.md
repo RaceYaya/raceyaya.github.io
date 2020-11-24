@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 37
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 40
 bib: 140
 first_name: Rizki 
 last_name: Yogotama
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3035
 checkpoint17: 22.72430556
-finish: 9-22-51
-checkpoint18: 0-24-46
-checkpoint19: 3
+checkpoint18: 9-22-51
+checkpoint19: 0-24-46
+checkpoint20: 3
+finish: 9-09-30
 --- 

@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 51
-gender_rank: 37
+overall_rank: 52
+gender_rank: 38
 bib: 106
 first_name: Hidayat
 last_name: Vertical
 gender: Male
 country: Indonesia
 checkpoint2: 1748
-checkpoint3: 16.45
+checkpoint3:   16 
 checkpoint4: 8-33-53
 checkpoint5:   1 
 checkpoint6: 0-31-14

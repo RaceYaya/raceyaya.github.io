@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 6
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 59
 bib: 159
 first_name: Mo
 last_name: Ikhwan
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3010
 checkpoint17: 11.8
-finish: 3-13-16
-checkpoint18: 0-16-23
-checkpoint19: 5
+checkpoint18: 3-13-16
+checkpoint19: 0-16-23
+checkpoint20: 5
+finish: 3-10-15
 --- 

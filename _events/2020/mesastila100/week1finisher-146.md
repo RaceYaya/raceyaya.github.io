@@ -19,7 +19,7 @@ last_name: Haerudin
 gender: Male
 country: Indonesia
 checkpoint2: 1668
-checkpoint3: 8.34
+checkpoint3:   8 
 checkpoint4: 1-51-23
 checkpoint5:   5 
 checkpoint6: 0-13-21

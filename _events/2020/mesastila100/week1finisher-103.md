@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 11
-gender_rank: 9
+overall_rank: 12
+gender_rank: 10
 bib: 103
 first_name: Wahyudi
 last_name: .
 gender: Male
 country: Indonesia
 checkpoint2: 1451
-checkpoint3: 12.35
+checkpoint3:   12 
 checkpoint4: 2-12-13
 checkpoint5:   2 
 checkpoint6: 0-10-42

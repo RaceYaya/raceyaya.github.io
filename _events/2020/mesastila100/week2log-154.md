@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 19
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 54
 bib: 154
 first_name: Rachmat
 last_name: Ferdie
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3082
 checkpoint17: 14.52
-finish: 5-47-51
-checkpoint18: 0-23-57
-checkpoint19: 2
+checkpoint18: 5-47-51
+checkpoint19: 0-23-57
+checkpoint20: 2
+finish: 5-34-25
 --- 

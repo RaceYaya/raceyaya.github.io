@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 49
-gender_rank: 36
+overall_rank: 50
+gender_rank: 37
 bib: 105
 first_name: Septian
 last_name: Yudiansyah
 gender: Male
 country: Indonesia
 checkpoint2: 1528
-checkpoint3: 21.03
+checkpoint3:   21 
 checkpoint4: 6-46-38
 checkpoint5:   1 
 checkpoint6: 0-19-20

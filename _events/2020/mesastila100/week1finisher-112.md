@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 32
-gender_rank: 24
+overall_rank: 34
+gender_rank: 26
 bib: 112
 first_name: Glennaldy
 last_name: Lucas
 gender: Male
 country: Indonesia
 checkpoint2: 1506
-checkpoint3: 12.14
+checkpoint3:   12 
 checkpoint4: 4-51-35
 checkpoint5:   1 
 checkpoint6: 0-24-01

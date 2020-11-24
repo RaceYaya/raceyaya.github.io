@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 1
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 39
 bib: 139
 first_name: Mykhailo
 last_name: Pavliuk
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3359
 checkpoint17: 21.57
-finish: 3-08-55
-checkpoint18: 0-08-45
-checkpoint19: 4
+checkpoint18: 3-08-55
+checkpoint19: 0-08-45
+checkpoint20: 4
+finish: 2-46-39
 --- 

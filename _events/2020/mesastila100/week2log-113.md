@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 9
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 13
 bib: 113
 first_name: imam
 last_name: murtaqi
@@ -46,7 +47,8 @@ checkpoint14: 2012
 checkpoint15: 0.1109027778
 checkpoint16: 3068
 checkpoint17: 10.79
-finish: 3-50-05
-checkpoint18: 0-21-19
-checkpoint19: 2
+checkpoint18: 3-50-05
+checkpoint19: 0-21-19
+checkpoint20: 2
+finish: 3-42-13
 --- 

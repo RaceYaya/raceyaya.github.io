@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 50
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 10
 bib: 110
 first_name: sabar
 last_name: bawang
@@ -46,7 +47,8 @@ checkpoint14: 1813
 checkpoint15: 14-55-03
 checkpoint16: 4401
 checkpoint17: 121.96
-finish: 17-45-53
-checkpoint18: 0-20-33
-checkpoint19: 4
+checkpoint18: 17-45-53
+checkpoint19: 0-20-33
+checkpoint20: 4
+finish: 16-07-06
 --- 

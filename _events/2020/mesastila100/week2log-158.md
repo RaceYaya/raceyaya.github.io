@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 32
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 58
 bib: 158
 first_name: Bayu
 last_name: Handono
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3026
 checkpoint17: 37.34
-finish: 8-20-45
-checkpoint18: 0-13-25
-checkpoint19: 4
+checkpoint18: 8-20-45
+checkpoint19: 0-13-25
+checkpoint20: 4
+finish: 8-10-19
 --- 

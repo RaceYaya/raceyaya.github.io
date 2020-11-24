@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 36
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 28
 bib: 128
 first_name: Yohanes 
 last_name: Ngatiman
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3065
 checkpoint17: 23.51
-finish: 9-17-31
-checkpoint18: 0-23-43
-checkpoint19: 3
+checkpoint18: 9-17-31
+checkpoint19: 0-23-43
+checkpoint20: 3
+finish: 8-58-58
 --- 

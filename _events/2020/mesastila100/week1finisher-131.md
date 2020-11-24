@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 44
-gender_rank: 33
+overall_rank: 45
+gender_rank: 34
 bib: 131
 first_name: Ferry
 last_name: Aprijanto
 gender: Male
 country: Indonesia
 checkpoint2: 1522
-checkpoint3: 25.2
+checkpoint3:   25 
 checkpoint4: 5-43-36
 checkpoint5:   2 
 checkpoint6: 0-13-38

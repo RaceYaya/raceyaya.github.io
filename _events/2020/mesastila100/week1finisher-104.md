@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 54
-gender_rank: 39
+overall_rank: 55
+gender_rank: 40
 bib: 104
 first_name: Mayo
 last_name: Falmonti
 gender: Male
 country: Indonesia
 checkpoint2: 1352
-checkpoint3: 27.36
+checkpoint3:   27 
 checkpoint4: 7-47-00
 checkpoint5:   2 
 checkpoint6: 0-17-04

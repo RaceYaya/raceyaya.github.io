@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 12
+overall_rank: 13
 gender_rank: 3
 bib: 126
 first_name: Yuni Noor
@@ -19,7 +19,7 @@ last_name: Hayati
 gender: Female
 country: Indonesia
 checkpoint2: 1412
-checkpoint3: 6.39
+checkpoint3:   6 
 checkpoint4: 2-13-28
 checkpoint5:   1 
 checkpoint6: 0-20-53

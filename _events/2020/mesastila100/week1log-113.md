@@ -30,8 +30,8 @@ first_name: imam
 last_name: murtaqi
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 
+checkpoint2: 1395
+checkpoint3: 2-00-31
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
@@ -46,7 +46,7 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 0
-checkpoint19: 0
-finish: 0-00-00
+checkpoint18: 1395
+checkpoint19: 6.62
+finish: 2-00-31
 --- 

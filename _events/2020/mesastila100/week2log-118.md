@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 7
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 18
 bib: 118
 first_name: Shindy
 last_name: Patricia
@@ -46,7 +47,8 @@ checkpoint14: 496
 checkpoint15: 0.02248842593
 checkpoint16: 3330
 checkpoint17: 21.39
-finish: 3-44-49
-checkpoint18: 0-10-31
-checkpoint19: 7
+checkpoint18: 3-44-49
+checkpoint19: 0-10-31
+checkpoint20: 7
+finish: 3-20-02
 --- 

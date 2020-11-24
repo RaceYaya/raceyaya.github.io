@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 10
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 36
 bib: 136
 first_name: Dani
 last_name: Chika
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2953
 checkpoint17: 14.27
-finish: 3-47-48
-checkpoint18: 0-15-58
-checkpoint19: 3
+checkpoint18: 3-47-48
+checkpoint19: 0-15-58
+checkpoint20: 3
+finish: 3-48-34
 --- 

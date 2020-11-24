@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 13
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 21
 bib: 121
 first_name: Dian
 last_name: Pradina
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3072
 checkpoint17: 19.92
-finish: 4-15-42
-checkpoint18: 0-12-50
-checkpoint19: 4
+checkpoint18: 4-15-42
+checkpoint19: 0-12-50
+checkpoint20: 4
+finish: 4-06-38
 --- 

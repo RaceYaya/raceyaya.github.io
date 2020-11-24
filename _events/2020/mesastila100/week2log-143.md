@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 12
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 43
 bib: 143
 first_name: Ajakin
 last_name: Lari
@@ -46,7 +47,8 @@ checkpoint14: 1994
 checkpoint15: 0.1205787037
 checkpoint16: 3015
 checkpoint17: 12.88
-finish: 4-07-40
-checkpoint18: 0-19-14
-checkpoint19: 2
+checkpoint18: 4-07-40
+checkpoint19: 0-19-14
+checkpoint20: 2
+finish: 4-03-24
 --- 

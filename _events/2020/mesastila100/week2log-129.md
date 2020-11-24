@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 40
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 29
 bib: 129
 first_name: Umi
 last_name: Rukofoh
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3062
 checkpoint17: 35.63
-finish: 10-41-16
-checkpoint18: 0-18-00
-checkpoint19: 3
+checkpoint18: 10-41-16
+checkpoint19: 0-18-00
+checkpoint20: 3
+finish: 10-20-32
 --- 

@@ -22,8 +22,9 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
 overall_rank: 27
 bib: 127
 first_name: Hammam
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2970
 checkpoint17: 32.93
-finish: 6-53-17
-checkpoint18: 0-12-33
-checkpoint19: 4
+checkpoint18: 6-53-17
+checkpoint19: 0-12-33
+checkpoint20: 4
+finish: 6-52-19
 --- 

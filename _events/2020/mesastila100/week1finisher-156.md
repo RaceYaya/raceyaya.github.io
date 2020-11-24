@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 46
-gender_rank: 35
+overall_rank: 47
+gender_rank: 36
 bib: 156
 first_name: Taufiq
 last_name: NurHidayat
 gender: Male
 country: Indonesia
 checkpoint2: 1391
-checkpoint3: 15.81
+checkpoint3:   16 
 checkpoint4: 5-28-16
 checkpoint5:   2 
 checkpoint6: 0-20-46

@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 23
+overall_rank: 24
 gender_rank: 8
 bib: 129
 first_name: Umi
@@ -19,7 +19,7 @@ last_name: Rukofoh
 gender: Female
 country: Indonesia
 checkpoint2: 1980
-checkpoint3: 11.45
+checkpoint3:   11 
 checkpoint4: 4-52-34
 checkpoint5:   1 
 checkpoint6: 0-25-33

@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 30
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 7
 bib: 107
 first_name: Dendi
 last_name: Dwitiandi
@@ -46,7 +47,8 @@ checkpoint14: 2868
 checkpoint15: 7-18-45
 checkpoint16: 2933
 checkpoint17: 33.62
-finish: 7-43-59
-checkpoint18: 0-13-48
-checkpoint19: 2
+checkpoint18: 7-43-59
+checkpoint19: 0-13-48
+checkpoint20: 2
+finish: 7-48-44
 --- 

@@ -19,7 +19,7 @@ last_name: Muhlisin
 gender: Male
 country: Indonesia
 checkpoint2: 1622
-checkpoint3: 4.675555556
+checkpoint3:   5 
 checkpoint4: 2-16-03
 checkpoint5:   2 
 checkpoint6: 0-29-06

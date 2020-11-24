@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 10
-gender_rank: 8
+overall_rank: 11
+gender_rank: 9
 bib: 136
 first_name: Dani
 last_name: Chika
 gender: Male
 country: Indonesia
 checkpoint2: 1439
-checkpoint3: 7.16
+checkpoint3:   7 
 checkpoint4: 2-05-53
 checkpoint5:   1 
 checkpoint6: 0-17-35

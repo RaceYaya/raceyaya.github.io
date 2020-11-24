@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 45
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 37
 bib: 137
 first_name: Vita 
 last_name: Mahaswari
@@ -46,7 +47,8 @@ checkpoint14: 870
 checkpoint15: 0.1363888889
 checkpoint16: 2968
 checkpoint17: 18.16
-finish: 12-05-09
-checkpoint18: 0-39-56
-checkpoint19: 2
+checkpoint18: 12-05-09
+checkpoint19: 0-39-56
+checkpoint20: 2
+finish: 12-03-56
 --- 

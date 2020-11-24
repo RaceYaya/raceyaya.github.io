@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 45
-gender_rank: 34
+overall_rank: 46
+gender_rank: 35
 bib: 154
 first_name: Rachmat
 last_name: Ferdie
 gender: Male
 country: Indonesia
 checkpoint2: 1496
-checkpoint3: 13.11
+checkpoint3:   13 
 checkpoint4: 5-37-48
 checkpoint5:   1 
 checkpoint6: 0-25-46

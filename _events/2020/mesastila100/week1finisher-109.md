@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 50
+overall_rank: 51
 gender_rank: 14
 bib: 109
 first_name: Nurul
@@ -19,7 +19,7 @@ last_name: Wulandari
 gender: Female
 country: Indonesia
 checkpoint2: 2014
-checkpoint3: 18.87583333
+checkpoint3:   19 
 checkpoint4: 9-32-04
 checkpoint5:   3 
 checkpoint6: 0-30-18

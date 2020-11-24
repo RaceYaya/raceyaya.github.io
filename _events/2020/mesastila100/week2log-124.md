@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 3
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 24
 bib: 124
 first_name: freda
 last_name: adiwardana
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2909
 checkpoint17: 17.97
-finish: 2-47-16
-checkpoint18: 0-09-18
-checkpoint19: 6
+checkpoint18: 2-47-16
+checkpoint19: 0-09-18
+checkpoint20: 6
+finish: 2-50-22
 --- 

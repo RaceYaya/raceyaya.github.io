@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 39
-gender_rank: 29
+overall_rank: 40
+gender_rank: 30
 bib: 140
 first_name: Rizki 
 last_name: Yogotama
 gender: Male
 country: Indonesia
 checkpoint2: 1629
-checkpoint3: 21.01
+checkpoint3:   21 
 checkpoint4: 5-59-45
 checkpoint5:   2 
 checkpoint6: 0-17-07

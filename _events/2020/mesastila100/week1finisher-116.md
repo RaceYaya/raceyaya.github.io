@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 25
-gender_rank: 17
+overall_rank: 26
+gender_rank: 18
 bib: 116
 first_name: Irwan
 last_name: dadoh
 gender: Male
 country: Indonesia
 checkpoint2: 1387
-checkpoint3: 12.27
+checkpoint3:   12 
 checkpoint4: 3-47-50
 checkpoint5:   1 
 checkpoint6: 0-18-34

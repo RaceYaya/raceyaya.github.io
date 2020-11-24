@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 17
-gender_rank: 12
+overall_rank: 18
+gender_rank: 13
 bib: 117
 first_name: FIKRI
 last_name: AUDI YAZID
 gender: Male
 country: Indonesia
 checkpoint2: 1461
-checkpoint3: 12.8
+checkpoint3:   13 
 checkpoint4: 2-57-03
 checkpoint5:   1 
 checkpoint6: 0-13-50

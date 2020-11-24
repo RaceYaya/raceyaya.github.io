@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 30
-gender_rank: 22
+overall_rank: 32
+gender_rank: 24
 bib: 138
 first_name: Ivan 
 last_name: Anditana 
 gender: Male
 country: Indonesia
 checkpoint2: 1457
-checkpoint3: 28.18
+checkpoint3:   28 
 checkpoint4: 4-30-33
 checkpoint5:   3 
 checkpoint6: 0-09-36

@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 14
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 26
 bib: 126
 first_name: Yuni Noor
 last_name: Hayati
@@ -46,7 +47,8 @@ checkpoint14: 1946
 checkpoint15: 3-00-56
 checkpoint16: 3045
 checkpoint17: 12.58
-finish: 4-21-37
-checkpoint18: 0-20-48
-checkpoint19: 3
+checkpoint18: 4-21-37
+checkpoint19: 0-20-48
+checkpoint20: 3
+finish: 4-14-34
 --- 

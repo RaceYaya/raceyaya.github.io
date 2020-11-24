@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 39
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 49
 bib: 149
 first_name: Fran 
 last_name: Yannu
@@ -46,7 +47,8 @@ checkpoint14: 2940
 checkpoint15: 0.4196990741
 checkpoint16: 2940
 checkpoint17: 31.36
-finish: 10-04-22
-checkpoint18: 0-19-16
-checkpoint19: 1
+checkpoint18: 10-04-22
+checkpoint19: 0-19-16
+checkpoint20: 1
+finish: 10-09-06
 --- 

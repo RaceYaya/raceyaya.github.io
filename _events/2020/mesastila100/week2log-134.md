@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 23
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 34
 bib: 134
 first_name: Sweally 
 last_name: Wacono
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2964
 checkpoint17: 22.58
-finish: 5-55-31
-checkpoint18: 0-15-45
-checkpoint19: 3
+checkpoint18: 5-55-31
+checkpoint19: 0-15-45
+checkpoint20: 3
+finish: 5-55-24
 --- 

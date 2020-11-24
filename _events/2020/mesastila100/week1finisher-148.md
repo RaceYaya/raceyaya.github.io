@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 36
-gender_rank: 27
+overall_rank: 37
+gender_rank: 28
 bib: 148
 first_name: Bambang Edy
 last_name: Suparyanto
 gender: Male
 country: Indonesia
 checkpoint2: 1548
-checkpoint3: 23.21
+checkpoint3:   23 
 checkpoint4: 5-25-27
 checkpoint5:   1 
 checkpoint6: 0-14-01

@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 19
-gender_rank: 14
+overall_rank: 20
+gender_rank: 15
 bib: 135
 first_name: Nino
 last_name: Agung
 gender: Male
 country: Indonesia
 checkpoint2: 2184
-checkpoint3: 27.32
+checkpoint3:   27 
 checkpoint4: 4-33-43
 checkpoint5:   2 
 checkpoint6: 0-10-01

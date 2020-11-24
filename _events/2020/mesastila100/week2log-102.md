@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 8
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 2
 bib: 102
 first_name: Mario
 last_name: Montung
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 3177
 checkpoint17: 22.53
-finish: 3-56-02
-checkpoint18: 0-10-29
-checkpoint19: 3
+checkpoint18: 3-56-02
+checkpoint19: 0-10-29
+checkpoint20: 3
+finish: 3-40-08
 --- 

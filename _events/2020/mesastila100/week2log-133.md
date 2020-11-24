@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 21
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 33
 bib: 133
 first_name: Ririn
 last_name: Herawati
@@ -46,7 +47,8 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 2998
 checkpoint17: 30.87
-finish: 5-47-18
-checkpoint18: 0-11-15
-checkpoint19: 5
+checkpoint18: 5-47-18
+checkpoint19: 0-11-15
+checkpoint20: 5
+finish: 5-43-15
 --- 

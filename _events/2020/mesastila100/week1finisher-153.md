@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 20
-gender_rank: 15
+overall_rank: 21
+gender_rank: 16
 bib: 153
 first_name: Yulisto
 last_name: Widodo
 gender: Male
 country: Indonesia
 checkpoint2: 1577
-checkpoint3: 12.4
+checkpoint3:   12 
 checkpoint4: 3-30-30
 checkpoint5:   1 
 checkpoint6: 0-16-59

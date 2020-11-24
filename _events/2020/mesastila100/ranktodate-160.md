@@ -7,17 +7,19 @@ event-location: Magelang Central Java
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1604112863/3B3F7463-9336-4572-9F07-069DCA7D2527_ndaoxk.jpg 
 event-date: 2020-11-01 
 checkpoint-name2: TOTAL GAIN 
-checkpoint-name3: Week 1 Time 
-checkpoint-name4: Week 2 Time 
-overall_rank: 28
-gender_rank: 20
+checkpoint-name3: WEEK 1 TIME 
+checkpoint-name4: WEEK 2 TIME 
+checkpoint-name5: WEEK 3 TIME 
+overall_rank: 26
+gender_rank: 18
 bib: 160
 first_name: Fandi
 last_name: Ho
 gender: Male
 country: Indonesia
-checkpoint2: 4331
-checkpoint3: 7-02-24
-checkpoint4: 5-05-57
-finish: 12-08-20
+checkpoint2: 
+checkpoint3: 5-05-57
+checkpoint4: 7-02-24
+checkpoint5: 6-03-49
+finish: 18-12-10
 --- 

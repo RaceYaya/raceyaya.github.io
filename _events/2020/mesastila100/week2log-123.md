@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 5
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 23
 bib: 123
 first_name: Bayu
 last_name: Ristanto
@@ -46,7 +47,8 @@ checkpoint14: 595
 checkpoint15: 0.02399305556
 checkpoint16: 3357
 checkpoint17: 16.68
-finish: 3-23-27
-checkpoint18: 0-12-12
-checkpoint19: 6
+checkpoint18: 3-23-27
+checkpoint19: 0-12-12
+checkpoint20: 6
+finish: 2-59-34
 --- 

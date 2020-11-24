@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 13
-gender_rank: 10
+overall_rank: 14
+gender_rank: 11
 bib: 143
 first_name: Ajakin
 last_name: Lari
 gender: Male
 country: Indonesia
 checkpoint2: 1390
-checkpoint3: 6.58
+checkpoint3:   7 
 checkpoint4: 2-11-36
 checkpoint5: 3
 checkpoint6: 0-20-00

@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 46
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 5
 bib: 105
 first_name: Septian
 last_name: Yudiansyah
@@ -46,7 +47,8 @@ checkpoint14: 1769
 checkpoint15: 6-39-25
 checkpoint16: 3691
 checkpoint17: 41.74
-finish: 15-02-11
-checkpoint18: 0-21-37
-checkpoint19: 5
+checkpoint18: 15-02-11
+checkpoint19: 0-21-37
+checkpoint20: 5
+finish: 12-04-14
 --- 

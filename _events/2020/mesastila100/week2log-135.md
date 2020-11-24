@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 18
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 35
 bib: 135
 first_name: Nino
 last_name: Agung
@@ -46,7 +47,8 @@ checkpoint14: 1644
 checkpoint15: 0.1060416667
 checkpoint16: 3023
 checkpoint17: 19.13
-finish: 5-31-24
-checkpoint18: 0-17-19
-checkpoint19: 2
+checkpoint18: 5-31-24
+checkpoint19: 0-17-19
+checkpoint20: 2
+finish: 5-24-49
 --- 

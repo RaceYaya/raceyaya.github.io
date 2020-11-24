@@ -11,15 +11,15 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 18
-gender_rank: 13
+overall_rank: 19
+gender_rank: 14
 bib: 159
 first_name: Mo
 last_name: Ikhwan
 gender: Male
 country: Indonesia
 checkpoint2: 1382
-checkpoint3: 25.45
+checkpoint3:   25 
 checkpoint4: 2-48-44
 checkpoint5:   3 
 checkpoint6: 0-06-38

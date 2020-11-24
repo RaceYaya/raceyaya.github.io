@@ -22,9 +22,10 @@ checkpoint-name14: Gain Day 7
 checkpoint-name15: Time Day 7 
 checkpoint-name16: TOTAL GAIN 
 checkpoint-name17: TOTAL DISTANCE 
-checkpoint-name18: PACE 
-checkpoint-name19: Number of Run 
-overall_rank: 22
+checkpoint-name18: TOTAL TIME 
+checkpoint-name19: PACE 
+checkpoint-name20: NUMBER OF RUN 
+overall_rank: 52
 bib: 152
 first_name: Nadine
 last_name: Jasim
@@ -46,7 +47,8 @@ checkpoint14: 858
 checkpoint15: 0.05825231481
 checkpoint16: 2988
 checkpoint17: 27.18
-finish: 5-46-28
-checkpoint18: 0-12-45
-checkpoint19: 4
+checkpoint18: 5-46-28
+checkpoint19: 0-12-45
+checkpoint20: 4
+finish: 5-43-34
 --- 
