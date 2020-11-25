@@ -2342,6 +2342,23 @@
     - title: Participants
       link: /mesastila100-2020/participant
 
+- id: 103
+  title: Pilipinas Duathlon Series 2020 Quarantined Edition Final Leg
+  event-filter: 
+    - filter: duathlon
+  city:
+  country: Philippines 
+  address: Philippines
+  event-date: 2020-11-23
+  month: November
+  year: 2020
+  event-organizer: Adrenaline Multisports
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1603581872/41E92198-22DE-4F19-946A-F3E262850A63_n9inde.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Participant
+      link: /pdsl32020/participant
+
 
 
 
