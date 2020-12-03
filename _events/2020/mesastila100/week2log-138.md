@@ -27,7 +27,7 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 38
 bib: 138
-first_name: Ivan 
+first_name: Ivan
 last_name: Adinata
 gender: Male
 country: Indonesia
@@ -36,19 +36,19 @@ checkpoint3:
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 243
-checkpoint7: 0.03952546296
+checkpoint7: 0-56-55
 checkpoint8: 1634
 checkpoint9: 4-29-40
 checkpoint10: 890
 checkpoint11: 2-06-25
 checkpoint12: 174
-checkpoint13: 0.01854166667
+checkpoint13: 0-26-42
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 2941
-checkpoint17: 34.68
+checkpoint17: 35
 checkpoint18: 7-59-42
 checkpoint19: 0-13-50
 checkpoint20: 3
-finish: 8-03-17
+finish: 7-57-54
 --- 

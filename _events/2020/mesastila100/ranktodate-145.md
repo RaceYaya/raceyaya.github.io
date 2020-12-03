@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 8
+overall_rank: 7
 gender_rank: 2
 bib: 145
 first_name: Lailika
 last_name: Rifda
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 1-53-11
-checkpoint4: 3-56-40
-checkpoint5: 3-57-00
-finish: 9-46-51
+checkpoint2: 1-53-11
+checkpoint3: 3-54-02
+checkpoint4: 3-57-00
+checkpoint5: 4-27-59
+finish: 14-12-12
 --- 

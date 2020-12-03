@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 14
-gender_rank: 5
+overall_rank: 15
+gender_rank: 6
 bib: 157
 first_name: Jennifer
 last_name: Pernia
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 2-11-18
-checkpoint4: 5-02-33
-checkpoint5: 5-12-19
-finish: 12-26-10
+checkpoint2: 2-11-18
+checkpoint3: 4-59-11
+checkpoint4: 5-12-19
+checkpoint5: 7-11-25
+finish: 19-34-13
 --- 

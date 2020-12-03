@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 22
-gender_rank: 14
+overall_rank: 47
+gender_rank: 32
 bib: 110
 first_name: sabar
 last_name: bawang
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3269
 checkpoint3: 103.08
 checkpoint4: 6-48-38
-checkpoint5: 0.01245414385
-checkpoint6: 6
-finish: 5-38-31
+checkpoint5: 6
+checkpoint6: 0-17-56
+finish: 29-38-31
 --- 

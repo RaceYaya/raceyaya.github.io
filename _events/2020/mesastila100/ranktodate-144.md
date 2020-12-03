@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 32
-gender_rank: 10
+overall_rank: 28
+gender_rank: 9
 bib: 144
 first_name: Tjie
 last_name: Lei
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-30-02
-checkpoint4: 10-29-43
-checkpoint5: 6-25-49
-finish: 22-25-34
+checkpoint2: 5-30-02
+checkpoint3: 10-22-42
+checkpoint4: 6-25-49
+checkpoint5: 6-28-09
+finish: 4-46-42
 --- 

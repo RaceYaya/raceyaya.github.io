@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 24
-gender_rank: 15
+overall_rank: 23
+gender_rank: 14
 bib: 158
 first_name: Bayu
 last_name: Handono
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3166
 checkpoint3: 26.07
 checkpoint4: 5-48-09
-checkpoint5: 0.009273909986
-checkpoint6: 4
+checkpoint5: 4
+checkpoint6: 0-13-21
 finish: 5-45-50
 --- 

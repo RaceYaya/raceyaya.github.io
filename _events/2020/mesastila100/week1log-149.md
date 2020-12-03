@@ -24,9 +24,11 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 49
 bib: 149
-first_name: Fran 
+first_name: Fran
 last_name: Yannu
 gender: Male
 country: Indonesia
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1379
 checkpoint19: 11
-finish: 5-05-55
+checkpoint20: 5-05-55
+checkpoint21:   1 
+finish: 5-03-29
 --- 

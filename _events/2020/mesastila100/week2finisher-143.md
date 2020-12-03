@@ -19,9 +19,9 @@ last_name: Lari
 gender: Male
 country: Indonesia
 checkpoint2: 3015
-checkpoint3: 12.88
+checkpoint3: 13
 checkpoint4: 4-07-40
 checkpoint5: 0-19-14
 checkpoint6: 2
-finish: 4-03-24
+finish: 4-00-41
 --- 

@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 57
 bib: 157
 first_name: Jennifer
@@ -48,5 +50,7 @@ checkpoint16: 757
 checkpoint17: 1-16-55
 checkpoint18: 1411
 checkpoint19: 6.18
-finish: 2-15-26
+checkpoint20: 2-15-26
+checkpoint21: 2
+finish: 2-11-18
 --- 

@@ -27,7 +27,7 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 51
 bib: 151
-first_name: Muhamad 
+first_name: Muhamad
 last_name: Muhlisin
 gender: Male
 country: Indonesia
@@ -46,9 +46,9 @@ checkpoint13: 5-27-40
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 632
-checkpoint17: 8.81
+checkpoint17: 9
 checkpoint18: 5-27-40
 checkpoint19: 
-checkpoint20: 
+checkpoint20: 1
 finish: 
 --- 

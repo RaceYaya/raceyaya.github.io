@@ -23,5 +23,5 @@ checkpoint3: 19
 checkpoint4: 8-44-08
 checkpoint5: 0-27-35
 checkpoint6: 3
-finish: 8-39-14
+finish: 8-33-27
 --- 

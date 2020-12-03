@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 28
-gender_rank: 20
+overall_rank: 23
+gender_rank: 18
 bib: 138
-first_name: Ivan 
-last_name: Anditana 
+first_name: Ivan
+last_name: Anditana
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-14-01
-checkpoint4: 8-03-17
-checkpoint5: 6-16-37
-finish: 18-33-55
+checkpoint2: 4-14-01
+checkpoint3: 7-57-54
+checkpoint4: 6-16-37
+checkpoint5: 8-04-24
+finish: 2-32-56
 --- 

@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 3
 bib: 103
 first_name: Wahyudi
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1451
 checkpoint19: 12
-finish: 2-12-13
+checkpoint20: 2-12-13
+checkpoint21:   2 
+finish: 2-04-39
 --- 

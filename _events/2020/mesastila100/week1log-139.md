@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 39
 bib: 139
 first_name: Mykhailo
@@ -48,5 +50,7 @@ checkpoint16: 494
 checkpoint17: 0-29-37
 checkpoint18: 1396
 checkpoint19: 11
-finish: 1-24-49
+checkpoint20: 1-24-49
+checkpoint21:   2 
+finish: 1-23-07
 --- 

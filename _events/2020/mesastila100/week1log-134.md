@@ -24,9 +24,11 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 34
 bib: 134
-first_name: Sweally 
+first_name: Sweally
 last_name: Wacono
 gender: Male
 country: Indonesia
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1924
 checkpoint19: 29
-finish: 5-23-54
+checkpoint20: 5-23-54
+checkpoint21:   2 
+finish: 3-50-18
 --- 

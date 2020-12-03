@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 50
 bib: 150
 first_name: Indah
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1702
 checkpoint19: 26
-finish: 6-00-09
+checkpoint20: 6-00-09
+checkpoint21:   3 
+finish: 4-49-28
 --- 

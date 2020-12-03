@@ -14,14 +14,14 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 39
 gender_rank: 29
 bib: 149
-first_name: Fran 
+first_name: Fran
 last_name: Yannu
 gender: Male
 country: Indonesia
 checkpoint2: 2940
-checkpoint3: 31.36
+checkpoint3: 31
 checkpoint4: 10-04-22
 checkpoint5: 0-19-16
 checkpoint6: 1
-finish: 10-09-06
+finish: 10-02-19
 --- 

@@ -19,9 +19,9 @@ last_name: Wulandari
 gender: Female
 country: Indonesia
 checkpoint2: 3067
-checkpoint3: 10.61
+checkpoint3: 11
 checkpoint4: 4-49-33
 checkpoint5: 0-27-17
 checkpoint6: 2
-finish: 4-39-44
+finish: 4-36-37
 --- 

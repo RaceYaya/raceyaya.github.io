@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 21
-gender_rank: 13
+overall_rank: 35
+gender_rank: 24
 bib: 135
 first_name: Nino
 last_name: Agung
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 2-51-27
-checkpoint4: 5-24-49
-checkpoint5: 9-23-42
-finish: 17-39-58
+checkpoint2: 2-51-27
+checkpoint3: 5-21-12
+checkpoint4: 9-23-42
+checkpoint5: 19-09-32
+finish: 12-45-53
 --- 

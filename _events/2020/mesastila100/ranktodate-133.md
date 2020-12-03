@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 16
-gender_rank: 7
+overall_rank: 14
+gender_rank: 5
 bib: 133
 first_name: Ririn
 last_name: Herawati
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 2-26-03
-checkpoint4: 5-43-15
-checkpoint5: 4-40-47
-finish: 12-50-05
+checkpoint2: 2-26-03
+checkpoint3: 5-39-25
+checkpoint4: 4-40-47
+checkpoint5: 5-34-29
+finish: 18-20-44
 --- 

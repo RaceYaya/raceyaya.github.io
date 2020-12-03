@@ -44,11 +44,11 @@ checkpoint11:
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 1523
-checkpoint15: 0.1455902778
+checkpoint15: 3-29-39
 checkpoint16: 3031
-checkpoint17: 15.12
+checkpoint17: 15
 checkpoint18: 6-59-53
 checkpoint19: 0-27-46
 checkpoint20: 2
-finish: 6-50-28
+finish: 6-45-54
 --- 

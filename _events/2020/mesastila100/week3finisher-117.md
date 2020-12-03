@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 40
+overall_rank: 41
 gender_rank: 27
 bib: 117
 first_name: FIKRI
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3237
 checkpoint3: 34.7
 checkpoint4: 11-38-52
-checkpoint5: 0.01398628456
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-20-08
 finish: 11-19-00
 --- 

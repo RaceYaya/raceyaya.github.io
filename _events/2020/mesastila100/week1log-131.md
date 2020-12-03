@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 31
 bib: 131
 first_name: Ferry
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1522
 checkpoint19: 25
-finish: 5-43-36
+checkpoint20: 5-43-36
+checkpoint21:   2 
+finish: 5-08-50
 --- 

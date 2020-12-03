@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 58
 bib: 158
 first_name: Bayu
@@ -48,5 +50,7 @@ checkpoint16: 428
 checkpoint17: 1-35-17
 checkpoint18: 1839
 checkpoint19: 17
-finish: 5-19-35
+checkpoint20: 5-19-35
+checkpoint21:   2 
+finish: 3-57-44
 --- 

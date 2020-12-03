@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 14
 bib: 114
 first_name: christian
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1400
 checkpoint19: 8
-finish: 4-48-46
+checkpoint20: 4-48-46
+checkpoint21:   1 
+finish: 4-42-10
 --- 

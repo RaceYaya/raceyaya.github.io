@@ -34,21 +34,21 @@ country: Indonesia
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 907
-checkpoint5: 0.05157407407
+checkpoint5: 1-14-16
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 1520
-checkpoint9: 0.07021990741
+checkpoint9: 1-41-07
 checkpoint10: 750
-checkpoint11: 0.04211805556
+checkpoint11: 1-00-39
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 3177
-checkpoint17: 22.53
+checkpoint17: 23
 checkpoint18: 3-56-02
 checkpoint19: 0-10-29
 checkpoint20: 3
-finish: 3-40-08
+finish: 3-37-41
 --- 

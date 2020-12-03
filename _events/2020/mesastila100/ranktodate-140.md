@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 36
-gender_rank: 24
+overall_rank: 38
+gender_rank: 26
 bib: 140
-first_name: Rizki 
+first_name: Rizki
 last_name: Yogotama
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-02-07
-checkpoint4: 9-09-30
-checkpoint5: 11-41-44
-finish: 25-52-21
+checkpoint2: 5-02-07
+checkpoint3: 9-03-23
+checkpoint4: 11-41-44
+checkpoint5: 12-48-56
+finish: 14-36-10
 --- 

@@ -17,9 +17,9 @@ first_name: Indah
 last_name: Junita
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-49-28
-checkpoint4: 9-35-48
-checkpoint5: 9-58-37
-finish: 0-23-53
+checkpoint2: 4-49-28
+checkpoint3: 9-29-24
+checkpoint4: 9-58-37
+checkpoint5: 11-55-22
+finish: 12-12-51
 --- 

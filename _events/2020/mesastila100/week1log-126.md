@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 26
 bib: 126
 first_name: Yuni Noor
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1412
 checkpoint19: 6
-finish: 2-13-28
+checkpoint20: 2-13-28
+checkpoint21:   1 
+finish: 2-09-18
 --- 

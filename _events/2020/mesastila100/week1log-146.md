@@ -24,10 +24,12 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 46
 bib: 146
 first_name: Sobiri
-last_name: Haerudin 
+last_name: Haerudin
 gender: Male
 country: Indonesia
 checkpoint2: 
@@ -48,5 +50,7 @@ checkpoint16: 355
 checkpoint17: 0-35-12
 checkpoint18: 1668
 checkpoint19: 8
-finish: 1-51-23
+checkpoint20: 1-51-23
+checkpoint21:   5 
+finish: 1-31-21
 --- 

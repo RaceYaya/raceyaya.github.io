@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 43
 bib: 143
 first_name: Ajakin
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1390
 checkpoint19: 6.58
-finish: 2-11-36
+checkpoint20: 2-11-36
+checkpoint21: 1
+finish: 2-09-31
 --- 

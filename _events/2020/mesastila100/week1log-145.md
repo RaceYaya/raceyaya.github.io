@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 45
 bib: 145
 first_name: Lailika
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1415
 checkpoint19: 8
-finish: 1-57-04
+checkpoint20: 1-57-04
+checkpoint21:   3 
+finish: 1-53-11
 --- 

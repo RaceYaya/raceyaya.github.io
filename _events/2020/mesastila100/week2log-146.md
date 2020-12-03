@@ -28,7 +28,7 @@ checkpoint-name20: NUMBER OF RUN
 overall_rank: 46
 bib: 146
 first_name: Sobiri
-last_name: Haerudin 
+last_name: Haerudin
 gender: Male
 country: Indonesia
 checkpoint2: 
@@ -46,9 +46,9 @@ checkpoint13: 1-02-56
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 3062
-checkpoint17: 12.11
+checkpoint17: 12
 checkpoint18: 2-59-02
 checkpoint19: 0-14-47
 checkpoint20: 4
-finish: 2-53-15
+finish: 2-51-19
 --- 

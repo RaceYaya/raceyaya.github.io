@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 19
-gender_rank: 12
+overall_rank: 10
+gender_rank: 9
 bib: 154
 first_name: Rachmat
 last_name: Ferdie
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-08-54
-checkpoint4: 5-34-25
-checkpoint5: 5-15-29
-finish: 15-58-48
+checkpoint2: 2-53-05
+checkpoint3: 5-30-42
+checkpoint4: 5-15-29
+checkpoint5: 4-22-55
+finish: 18-02-11
 --- 

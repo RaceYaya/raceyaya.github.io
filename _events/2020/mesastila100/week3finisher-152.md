@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 23
+overall_rank: 22
 gender_rank: 9
 bib: 152
 first_name: Nadine
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3208
 checkpoint3: 18.89
 checkpoint4: 5-52-19
-checkpoint5: 0.01295205674
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-18-39
 finish: 5-45-24
 --- 

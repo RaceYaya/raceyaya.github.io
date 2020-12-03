@@ -24,9 +24,11 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 28
 bib: 128
-first_name: Yohanes 
+first_name: Yohanes
 last_name: Ngatiman
 gender: Male
 country: Indonesia
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 2588
 checkpoint19: 20
-finish: 8-14-33
+checkpoint20: 8-14-33
+checkpoint21:   2 
+finish: 4-21-25
 --- 

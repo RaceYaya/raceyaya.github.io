@@ -24,10 +24,12 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 42
 bib: 142
-first_name: Theresia 
-last_name: Tri Mardiningsih 
+first_name: Theresia
+last_name: Tri Mardiningsih
 gender: Female
 country: Indonesia
 checkpoint2: 
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 0
 checkpoint19: 0
-finish: 0-00-00
+checkpoint20: 0-00-00
+checkpoint21: 
+finish: 
 --- 

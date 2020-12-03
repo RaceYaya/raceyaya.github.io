@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 17
 bib: 117
 first_name: FIKRI
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1461
 checkpoint19: 13
-finish: 2-57-03
+checkpoint20: 2-57-03
+checkpoint21:   1 
+finish: 2-45-47
 --- 

@@ -14,8 +14,8 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 1
 gender_rank: 1
 bib: 124
-first_name: Freda
-last_name: Adiwardana
+first_name: freda
+last_name: adiwardana
 gender: Male
 country: Indonesia
 checkpoint2: 1414

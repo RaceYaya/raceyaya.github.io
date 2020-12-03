@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 20
-gender_rank: 8
+overall_rank: 18
+gender_rank: 7
 bib: 152
 first_name: Nadine
 last_name: Jasim
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-44-02
-checkpoint4: 5-43-34
-checkpoint5: 5-45-24
-finish: 16-13-00
+checkpoint2: 4-44-02
+checkpoint3: 5-39-44
+checkpoint4: 5-45-24
+checkpoint5: 6-44-25
+finish: 22-53-35
 --- 

@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 30
 bib: 130
 first_name: Lukman
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1550
 checkpoint19: 25
-finish: 5-29-54
+checkpoint20: 5-29-54
+checkpoint21:   2 
+finish: 4-51-10
 --- 

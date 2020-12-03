@@ -24,9 +24,11 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 51
 bib: 151
-first_name: Muhamad 
+first_name: Muhamad
 last_name: Muhlisin
 gender: Male
 country: Indonesia
@@ -48,5 +50,7 @@ checkpoint16: 1203
 checkpoint17: 
 checkpoint18: 1622
 checkpoint19: 5
-finish: 2-16-03
+checkpoint20: 2-16-03
+checkpoint21:   2 
+finish: 1-54-45
 --- 

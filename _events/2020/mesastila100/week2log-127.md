@@ -28,13 +28,13 @@ checkpoint-name20: NUMBER OF RUN
 overall_rank: 27
 bib: 127
 first_name: Hammam
-last_name: Aulia 
+last_name: Aulia
 gender: Male
 country: Indonesia
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 323
-checkpoint5: 0.04861111111
+checkpoint5: 1-10-00
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 1607
@@ -42,13 +42,13 @@ checkpoint9: 2-19-57
 checkpoint10: 307
 checkpoint11: 2-16-55
 checkpoint12: 733
-checkpoint13: 0.04612268519
+checkpoint13: 1-06-25
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 2970
-checkpoint17: 32.93
+checkpoint17: 33
 checkpoint18: 6-53-17
 checkpoint19: 0-12-33
 checkpoint20: 4
-finish: 6-52-19
+finish: 6-47-43
 --- 

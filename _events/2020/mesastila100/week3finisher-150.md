@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 38
+overall_rank: 37
 gender_rank: 13
 bib: 150
 first_name: Indah
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 4286
 checkpoint3: 23.82
 checkpoint4: 13-35-48
-checkpoint5: 0.02378370184
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-34-15
 finish: 9-58-37
 --- 

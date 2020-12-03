@@ -19,9 +19,9 @@ last_name: Pernia
 gender: Female
 country: Indonesia
 checkpoint2: 3772
-checkpoint3: 15.22
+checkpoint3: 15
 checkpoint4: 6-25-09
 checkpoint5: 0-25-18
 checkpoint6: 3
-finish: 5-02-33
+finish: 4-59-11
 --- 

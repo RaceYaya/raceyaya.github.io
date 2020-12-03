@@ -24,10 +24,12 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 27
 bib: 127
 first_name: Hammam
-last_name: Aulia 
+last_name: Aulia
 gender: Male
 country: Indonesia
 checkpoint2: 1024
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1515
 checkpoint19: 21
-finish: 2-36-12
+checkpoint20: 2-36-12
+checkpoint21:   2 
+finish: 2-21-03
 --- 

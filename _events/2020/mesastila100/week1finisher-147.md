@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 30
-gender_rank: 22
+overall_rank: 31
+gender_rank: 23
 bib: 147
 first_name: Niko
 last_name: Kusuma

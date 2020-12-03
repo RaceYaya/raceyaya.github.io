@@ -45,10 +45,10 @@ checkpoint12:
 checkpoint13: 
 checkpoint14: 
 checkpoint15: 
-checkpoint16: 1452
-checkpoint17: 8.76
-checkpoint18: 9-55-56
-checkpoint19: 1-08-02
-checkpoint20: 2
+checkpoint16: 
+checkpoint17: 
+checkpoint18: 
+checkpoint19: 
+checkpoint20: 
 finish: 
 --- 

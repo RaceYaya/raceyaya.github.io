@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 29
 bib: 129
 first_name: Umi
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1980
 checkpoint19: 11
-finish: 4-52-34
+checkpoint20: 4-52-34
+checkpoint21:   1 
+finish: 3-22-08
 --- 

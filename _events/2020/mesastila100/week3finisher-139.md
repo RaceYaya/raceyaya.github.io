@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 3
-gender_rank: 3
+overall_rank: 2
+gender_rank: 2
 bib: 139
 first_name: Mykhailo
 last_name: Pavliuk
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3234
 checkpoint3: 15.26
 checkpoint4: 2-46-38
-checkpoint5: 0.007583066356
-checkpoint6: 5
+checkpoint5: 5
+checkpoint6: 0-10-55
 finish: 2-42-03
 --- 

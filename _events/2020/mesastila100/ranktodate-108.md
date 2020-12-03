@@ -11,15 +11,15 @@ checkpoint-name3: WEEK 1 TIME
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
 overall_rank: 37
-gender_rank: 25
+gender_rank: 27
 bib: 108
 first_name: Eko
 last_name: Marsudiono
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 3-26-50
-checkpoint4: 14-04-46
-checkpoint5: 8-44-54
-finish: 27-16-02
+checkpoint2: 3-26-50
+checkpoint3: 13-55-22
+checkpoint4: 8-44-54
+checkpoint5: 12-48-09
+finish: 14-55-15
 --- 

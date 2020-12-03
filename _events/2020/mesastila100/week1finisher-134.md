@@ -11,10 +11,10 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 28
-gender_rank: 20
+overall_rank: 29
+gender_rank: 21
 bib: 134
-first_name: Sweally 
+first_name: Sweally
 last_name: Wacono
 gender: Male
 country: Indonesia

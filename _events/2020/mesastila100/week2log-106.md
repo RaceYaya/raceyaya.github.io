@@ -46,9 +46,9 @@ checkpoint13: 0-58-51
 checkpoint14: 521
 checkpoint15: 4-32-20
 checkpoint16: 2091
-checkpoint17: 71.65
+checkpoint17: 72
 checkpoint18: 10-33-26
 checkpoint19: 0-08-50
-checkpoint20: 
+checkpoint20: 6
 finish: 
 --- 

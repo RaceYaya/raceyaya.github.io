@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 9
 bib: 109
 first_name: Nurul
@@ -48,5 +50,7 @@ checkpoint16: 911
 checkpoint17: 5-17-54
 checkpoint18: 2014
 checkpoint19: 19
-finish: 9-32-04
+checkpoint20: 9-32-04
+checkpoint21:   3 
+finish: 6-28-34
 --- 

@@ -32,13 +32,13 @@ last_name: Handono
 gender: Male
 country: Indonesia
 checkpoint2: 433
-checkpoint3: 0.09097222222
+checkpoint3: 2-11-00
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 1206
-checkpoint7: 0.1434722222
+checkpoint7: 3-26-36
 checkpoint8: 939
-checkpoint9: 0.07989583333
+checkpoint9: 1-55-03
 checkpoint10: 448
 checkpoint11: 0-48-06
 checkpoint12: 
@@ -46,9 +46,9 @@ checkpoint13:
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 3026
-checkpoint17: 37.34
+checkpoint17: 37
 checkpoint18: 8-20-45
 checkpoint19: 0-13-25
 checkpoint20: 4
-finish: 8-10-19
+finish: 8-04-52
 --- 

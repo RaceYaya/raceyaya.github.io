@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 35
 bib: 135
 first_name: Nino
@@ -48,5 +50,7 @@ checkpoint16: 899
 checkpoint17: 1-31-12
 checkpoint18: 2184
 checkpoint19: 27
-finish: 4-33-43
+checkpoint20: 4-33-43
+checkpoint21:   3 
+finish: 2-51-27
 --- 

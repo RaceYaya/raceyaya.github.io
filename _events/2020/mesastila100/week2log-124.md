@@ -32,11 +32,11 @@ last_name: adiwardana
 gender: Male
 country: Indonesia
 checkpoint2: 275
-checkpoint3: 0.01021990741
+checkpoint3: 0-14-43
 checkpoint4: 334
 checkpoint5: 0-20-37
 checkpoint6: 544
-checkpoint7: 0.02197916667
+checkpoint7: 0-31-39
 checkpoint8: 547
 checkpoint9: 0-30-15
 checkpoint10: 591
@@ -46,9 +46,9 @@ checkpoint13: 0-36-00
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 2909
-checkpoint17: 17.97
+checkpoint17: 18
 checkpoint18: 2-47-16
 checkpoint19: 0-09-18
 checkpoint20: 6
-finish: 2-50-22
+finish: 2-48-28
 --- 

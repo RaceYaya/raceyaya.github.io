@@ -27,18 +27,18 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 40
 bib: 140
-first_name: Rizki 
+first_name: Rizki
 last_name: Yogotama
 gender: Male
 country: Indonesia
 checkpoint2: 544
 checkpoint3: 1-33-42
 checkpoint4: 1338
-checkpoint5: 0.1856712963
+checkpoint5: 4-27-22
 checkpoint6: 
 checkpoint7: 
 checkpoint8: 1153
-checkpoint9: 0.1401273148
+checkpoint9: 3-21-47
 checkpoint10: 
 checkpoint11: 
 checkpoint12: 
@@ -46,9 +46,9 @@ checkpoint13:
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 3035
-checkpoint17: 22.72430556
+checkpoint17: 23
 checkpoint18: 9-22-51
 checkpoint19: 0-24-46
 checkpoint20: 3
-finish: 9-09-30
+finish: 9-03-23
 --- 

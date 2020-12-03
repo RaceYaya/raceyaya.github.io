@@ -19,9 +19,9 @@ last_name: Nurhidayat
 gender: Male
 country: Indonesia
 checkpoint2: 3031
-checkpoint3: 15.12
+checkpoint3: 15
 checkpoint4: 6-59-53
 checkpoint5: 0-27-46
 checkpoint6: 2
-finish: 6-50-28
+finish: 6-45-54
 --- 

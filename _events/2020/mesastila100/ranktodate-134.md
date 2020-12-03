@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 18
-gender_rank: 11
+overall_rank: 13
+gender_rank: 10
 bib: 134
-first_name: Sweally 
+first_name: Sweally
 last_name: Wacono
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 3-50-18
-checkpoint4: 5-55-24
-checkpoint5: 4-56-52
-finish: 14-42-34
+checkpoint2: 3-50-18
+checkpoint3: 5-51-26
+checkpoint4: 4-56-52
+checkpoint5: 6-00-53
+finish: 20-39-29
 --- 

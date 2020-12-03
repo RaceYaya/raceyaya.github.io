@@ -11,15 +11,15 @@ checkpoint-name3: WEEK 1 TIME
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
 overall_rank: 40
-gender_rank: 14
+gender_rank: 13
 bib: 101
 first_name: Anastasia
 last_name: Budiasih
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-06-30
-checkpoint4: 10-55-04
-checkpoint5: 12-13-19
-finish: 4-14-53
+checkpoint2: 5-06-30
+checkpoint3: 10-47-47
+checkpoint4: 12-13-19
+checkpoint5: 12-44-16
+finish: 16-51-52
 --- 

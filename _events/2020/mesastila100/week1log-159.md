@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 59
 bib: 159
 first_name: Mo
@@ -48,5 +50,7 @@ checkpoint16: 359
 checkpoint17: 0-41-33
 checkpoint18: 1382
 checkpoint19: 25
-finish: 2-48-44
+checkpoint20: 2-48-44
+checkpoint21:   3 
+finish: 2-47-01
 --- 

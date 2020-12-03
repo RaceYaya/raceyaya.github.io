@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 26
-gender_rank: 18
+overall_rank: 22
+gender_rank: 15
 bib: 160
 first_name: Fandi
 last_name: Ho
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-05-57
-checkpoint4: 7-02-24
-checkpoint5: 6-03-49
-finish: 18-12-10
+checkpoint2: 5-05-57
+checkpoint3: 6-57-41
+checkpoint4: 6-03-49
+checkpoint5: 7-44-51
+finish: 1-52-18
 --- 

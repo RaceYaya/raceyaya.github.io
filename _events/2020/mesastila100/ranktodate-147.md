@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 41
-gender_rank: 27
+overall_rank: 33
+gender_rank: 25
 bib: 147
 first_name: Niko
 last_name: Kusuma
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-01-26
-checkpoint4: 12-30-40
-checkpoint5: 12-23-57
-finish: 28-56-03
+checkpoint2: 4-01-26
+checkpoint3: 12-22-18
+checkpoint4: 12-23-57
+checkpoint5: 9-29-31
+finish: 14-17-12
 --- 

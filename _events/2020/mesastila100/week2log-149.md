@@ -27,7 +27,7 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 49
 bib: 149
-first_name: Fran 
+first_name: Fran
 last_name: Yannu
 gender: Male
 country: Indonesia
@@ -44,11 +44,11 @@ checkpoint11:
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 2940
-checkpoint15: 0.4196990741
+checkpoint15: 10-04-22
 checkpoint16: 2940
-checkpoint17: 31.36
+checkpoint17: 31
 checkpoint18: 10-04-22
 checkpoint19: 0-19-16
 checkpoint20: 1
-finish: 10-09-06
+finish: 10-02-19
 --- 

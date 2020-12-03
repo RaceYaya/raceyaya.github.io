@@ -19,9 +19,9 @@ last_name: Lucas
 gender: Male
 country: Indonesia
 checkpoint2: 5418
-checkpoint3: 53.1
+checkpoint3: 53
 checkpoint4: 12-14-01
 checkpoint5: 0-13-49
 checkpoint6: 2
-finish: 6-41-25
+finish: 6-36-57
 --- 

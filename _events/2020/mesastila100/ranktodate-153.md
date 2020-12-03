@@ -11,15 +11,15 @@ checkpoint-name3: WEEK 1 TIME
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
 overall_rank: 17
-gender_rank: 10
+gender_rank: 11
 bib: 153
 first_name: Yulisto
 last_name: Widodo
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 3-02-36
-checkpoint4: 5-34-41
-checkpoint5: 5-32-15
-finish: 14-09-32
+checkpoint2: 3-02-36
+checkpoint3: 5-30-58
+checkpoint4: 5-32-15
+checkpoint5: 6-36-24
+finish: 20-42-13
 --- 

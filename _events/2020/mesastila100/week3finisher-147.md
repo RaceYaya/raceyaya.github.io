@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 43
+overall_rank: 44
 gender_rank: 29
 bib: 147
 first_name: Niko
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3154
 checkpoint3: 49.47
 checkpoint4: 12-26-05
-checkpoint5: 0.01047328534
-checkpoint6: 5
+checkpoint5: 5
+checkpoint6: 0-15-05
 finish: 12-23-57
 --- 

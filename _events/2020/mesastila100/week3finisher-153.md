@@ -14,14 +14,14 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 20
 gender_rank: 12
 bib: 153
-first_name: Yulisto 
+first_name: Yulisto
 last_name: Widodo
 gender: Male
 country: Indonesia
 checkpoint2: 3915
 checkpoint3: 27.25
 checkpoint4: 6-53-36
-checkpoint5: 0.01054026504
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-15-11
 finish: 5-32-15
 --- 

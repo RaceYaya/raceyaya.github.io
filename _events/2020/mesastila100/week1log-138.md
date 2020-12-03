@@ -24,10 +24,12 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 38
 bib: 138
-first_name: Ivan 
-last_name: Anditana 
+first_name: Ivan
+last_name: Anditana
 gender: Male
 country: Indonesia
 checkpoint2: 456
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1457
 checkpoint19: 28
-finish: 4-30-33
+checkpoint20: 4-30-33
+checkpoint21:   3 
+finish: 4-14-01
 --- 

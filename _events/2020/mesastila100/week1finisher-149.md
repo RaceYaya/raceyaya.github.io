@@ -11,10 +11,10 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 41
-gender_rank: 31
+overall_rank: 42
+gender_rank: 32
 bib: 149
-first_name: Fran 
+first_name: Fran
 last_name: Yannu
 gender: Male
 country: Indonesia

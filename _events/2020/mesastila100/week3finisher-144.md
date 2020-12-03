@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 29
+overall_rank: 28
 gender_rank: 10
 bib: 144
 first_name: Tjie
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3277
 checkpoint3: 28.1
 checkpoint4: 6-42-01
-checkpoint5: 0.00993516871
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-14-18
 finish: 6-25-49
 --- 

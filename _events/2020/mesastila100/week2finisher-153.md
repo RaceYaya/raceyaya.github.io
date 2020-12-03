@@ -19,9 +19,9 @@ last_name: Widodo
 gender: Male
 country: Indonesia
 checkpoint2: 3328
-checkpoint3: 32.58
+checkpoint3: 33
 checkpoint4: 6-15-55
 checkpoint5: 0-11-32
 checkpoint6: 2
-finish: 5-34-41
+finish: 5-30-58
 --- 

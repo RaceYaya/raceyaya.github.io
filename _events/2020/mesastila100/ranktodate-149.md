@@ -13,13 +13,13 @@ checkpoint-name5: WEEK 3 TIME
 overall_rank: 42
 gender_rank: 28
 bib: 149
-first_name: Fran 
+first_name: Fran
 last_name: Yannu
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-03-29
-checkpoint4: 10-09-06
-checkpoint5: 13-52-36
-finish: 29-05-11
+checkpoint2: 5-03-29
+checkpoint3: 10-02-19
+checkpoint4: 13-52-36
+checkpoint5: 16-22-17
+finish: 21-20-41
 --- 

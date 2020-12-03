@@ -11,17 +11,17 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 2
-gender_rank: 2
+overall_rank: 1
+gender_rank: 1
 bib: 146
 first_name: Sobiri
-last_name: Haerudin 
+last_name: Haerudin
 gender: Male
 country: Indonesia
 checkpoint2: 3141
 checkpoint3: 12.92
 checkpoint4: 2-41-42
-checkpoint5: 0.00869130547
-checkpoint6: 5
+checkpoint5: 5
+checkpoint6: 0-12-31
 finish: 2-41-54
 --- 

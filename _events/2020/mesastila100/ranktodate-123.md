@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 4
+overall_rank: 3
 gender_rank: 4
 bib: 123
 first_name: Bayu
 last_name: Ristanto
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 1-23-10
-checkpoint4: 2-59-34
-checkpoint5: 3-02-35
-finish: 7-25-19
+checkpoint2: 1-23-10
+checkpoint3: 2-57-34
+checkpoint4: 3-02-35
+checkpoint5: 3-42-18
+finish: 11-05-37
 --- 

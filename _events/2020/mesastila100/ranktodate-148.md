@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 39
-gender_rank: 26
+overall_rank: 36
+gender_rank: 23
 bib: 148
 first_name: Bambang Edy
 last_name: Suparyanto
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-47-36
-checkpoint4: 12-31-43
-checkpoint5: 10-55-06
-finish: 28-14-25
+checkpoint2: 4-47-36
+checkpoint3: 12-23-20
+checkpoint4: 10-55-06
+checkpoint5: 8-32-25
+finish: 12-38-27
 --- 

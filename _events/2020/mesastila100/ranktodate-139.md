@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 2
-gender_rank: 2
+overall_rank: 1
+gender_rank: 1
 bib: 139
 first_name: Mykhailo
 last_name: Pavliuk
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 1-23-07
-checkpoint4: 2-46-39
-checkpoint5: 2-42-03
-finish: 6-51-49
+checkpoint2: 1-23-07
+checkpoint3: 2-44-47
+checkpoint4: 2-42-03
+checkpoint5: 3-17-05
+finish: 10-07-02
 --- 

@@ -27,7 +27,7 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 34
 bib: 134
-first_name: Sweally 
+first_name: Sweally
 last_name: Wacono
 gender: Male
 country: Indonesia
@@ -36,7 +36,7 @@ checkpoint3: 3-23-02
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 1187
-checkpoint7: 0.0762037037
+checkpoint7: 1-49-44
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 
@@ -46,9 +46,9 @@ checkpoint13: 0-42-45
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 2964
-checkpoint17: 22.58
+checkpoint17: 23
 checkpoint18: 5-55-31
 checkpoint19: 0-15-45
 checkpoint20: 3
-finish: 5-55-24
+finish: 5-51-26
 --- 

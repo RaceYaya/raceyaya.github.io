@@ -11,15 +11,15 @@ checkpoint-name3: WEEK 1 TIME
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
 overall_rank: 25
-gender_rank: 17
+gender_rank: 16
 bib: 130
 first_name: Lukman
 last_name: Sugianto
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-51-10
-checkpoint4: 6-59-52
-checkpoint5: 6-08-08
-finish: 17-59-10
+checkpoint2: 4-51-10
+checkpoint3: 6-55-11
+checkpoint4: 6-08-08
+checkpoint5: 8-14-44
+finish: 2-09-13
 --- 

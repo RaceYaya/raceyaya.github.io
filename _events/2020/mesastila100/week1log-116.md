@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 16
 bib: 116
 first_name: Irwan
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1387
 checkpoint19: 12
-finish: 3-47-50
+checkpoint20: 3-47-50
+checkpoint21:   1 
+finish: 3-44-43
 --- 

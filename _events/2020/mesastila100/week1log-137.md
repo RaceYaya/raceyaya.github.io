@@ -24,9 +24,11 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 37
 bib: 137
-first_name: Vita 
+first_name: Vita
 last_name: Mahaswari
 gender: Female
 country: Indonesia
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1399
 checkpoint19: 10
-finish: 6-03-40
+checkpoint20: 6-03-40
+checkpoint21:   1 
+finish: 5-55-36
 --- 

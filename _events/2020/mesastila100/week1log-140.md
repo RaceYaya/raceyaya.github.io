@@ -24,9 +24,11 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 40
 bib: 140
-first_name: Rizki 
+first_name: Rizki
 last_name: Yogotama
 gender: Male
 country: Indonesia
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1629
 checkpoint19: 21
-finish: 5-59-45
+checkpoint20: 5-59-45
+checkpoint21:   2 
+finish: 5-02-07
 --- 

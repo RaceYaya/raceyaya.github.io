@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 45
-gender_rank: 34
+overall_rank: 46
+gender_rank: 35
 bib: 131
 first_name: Ferry
 last_name: Aprijanto

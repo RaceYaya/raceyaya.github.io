@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 20
 bib: 120
 first_name: Asri
@@ -48,5 +50,7 @@ checkpoint16: 1440
 checkpoint17: 7-20-18
 checkpoint18: 1440
 checkpoint19: 16
-finish: 7-20-18
+checkpoint20: 7-20-18
+checkpoint21:   1 
+finish: 6-58-17
 --- 

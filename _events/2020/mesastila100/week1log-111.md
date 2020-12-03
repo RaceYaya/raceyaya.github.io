@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 11
 bib: 111
 first_name: muhammad
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 217
 checkpoint19: 4
-finish: 0-37-41
+checkpoint20: 0-37-41
+checkpoint21: 
+finish: 
 --- 

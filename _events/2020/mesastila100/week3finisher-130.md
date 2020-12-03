@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 27
-gender_rank: 18
+overall_rank: 26
+gender_rank: 17
 bib: 130
 first_name: Lukman
 last_name: Sugianto
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3168
 checkpoint3: 19.02
 checkpoint4: 6-10-50
-checkpoint5: 0.01353959769
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-19-30
 finish: 6-08-08
 --- 

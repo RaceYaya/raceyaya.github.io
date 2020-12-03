@@ -11,15 +11,15 @@ checkpoint-name3: WEEK 1 TIME
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
 overall_rank: 9
-gender_rank: 7
+gender_rank: 5
 bib: 113
 first_name: imam
 last_name: murtaqi
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 1-57-55
-checkpoint4: 3-42-13
-checkpoint5: 4-15-38
-finish: 9-55-46
+checkpoint2: 1-58-11
+checkpoint3: 3-39-44
+checkpoint4: 4-15-38
+checkpoint5: 4-01-38
+finish: 13-55-11
 --- 

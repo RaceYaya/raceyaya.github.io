@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 25
-gender_rank: 16
+overall_rank: 24
+gender_rank: 15
 bib: 160
 first_name: Fandi
 last_name: Ho
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3215
 checkpoint3: 19.69
 checkpoint4: 6-11-55
-checkpoint5: 0.01311708801
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-18-53
 finish: 6-03-49
 --- 

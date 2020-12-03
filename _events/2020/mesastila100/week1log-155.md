@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 55
 bib: 155
 first_name: Petr
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1508
 checkpoint19: 19
-finish: 4-09-28
+checkpoint20: 4-09-28
+checkpoint21:   1 
+finish: 3-46-18
 --- 

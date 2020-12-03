@@ -2327,12 +2327,16 @@
   race-categories:
     - title: Rank to Date
       link: /mesastila100-2020/ranktodate
+    - title: Week 4 Finishers
+      link: /mesastila100-2020/week4finisher
     - title: Week 3 Finishers
       link: /mesastila100-2020/week3finisher
     - title: Week 2 Finishers
       link: /mesastila100-2020/week2finisher
     - title: Week 1 Finishers
       link: /mesastila100-2020/week1finisher
+    - title: Week 4 log
+      link: /mesastila100-2020/week4log
     - title: Week 3 log
       link: /mesastila100-2020/week3log
     - title: Week 2 log

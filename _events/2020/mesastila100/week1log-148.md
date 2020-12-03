@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 48
 bib: 148
 first_name: Bambang Edy
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1548
 checkpoint19: 23
-finish: 5-25-27
+checkpoint20: 5-25-27
+checkpoint21:   1 
+finish: 4-47-36
 --- 

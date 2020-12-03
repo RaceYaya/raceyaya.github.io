@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 11
+overall_rank: 8
 gender_rank: 3
 bib: 126
 first_name: Yuni Noor
 last_name: Hayati
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 2-09-18
-checkpoint4: 4-14-34
-checkpoint5: 4-35-05
-finish: 10-58-57
+checkpoint2: 2-09-18
+checkpoint3: 4-11-44
+checkpoint4: 4-35-05
+checkpoint5: 4-24-09
+finish: 15-20-16
 --- 

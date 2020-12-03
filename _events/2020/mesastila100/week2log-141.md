@@ -27,7 +27,7 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 41
 bib: 141
-first_name: Iwin 
+first_name: Iwin
 last_name: Harahap
 gender: Male
 country: Indonesia
@@ -46,7 +46,7 @@ checkpoint13: 3-40-30
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 2483
-checkpoint17: 47.41
+checkpoint17: 47
 checkpoint18: 10-03-33
 checkpoint19: 0-12-44
 checkpoint20: 5

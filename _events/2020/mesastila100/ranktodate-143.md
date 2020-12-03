@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 12
-gender_rank: 9
+overall_rank: 11
+gender_rank: 7
 bib: 143
 first_name: Ajakin
 last_name: Lari
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 2-09-31
-checkpoint4: 4-03-24
-checkpoint5: 5-02-38
-finish: 11-15-33
+checkpoint2: 2-09-31
+checkpoint3: 4-00-41
+checkpoint4: 5-02-38
+checkpoint5: 5-16-21
+finish: 16-29-11
 --- 

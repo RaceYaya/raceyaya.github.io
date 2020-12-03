@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 3
-gender_rank: 3
+overall_rank: 2
+gender_rank: 2
 bib: 146
 first_name: Sobiri
-last_name: Haerudin 
+last_name: Haerudin
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 1-31-21
-checkpoint4: 2-53-15
-checkpoint5: 2-41-54
-finish: 7-06-30
+checkpoint2: 1-31-21
+checkpoint3: 2-51-19
+checkpoint4: 2-41-54
+checkpoint5: 3-26-08
+finish: 10-30-42
 --- 

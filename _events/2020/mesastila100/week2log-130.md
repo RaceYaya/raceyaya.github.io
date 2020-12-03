@@ -32,7 +32,7 @@ last_name: Sugianto
 gender: Male
 country: Indonesia
 checkpoint2: 1238
-checkpoint3: 0.1410416667
+checkpoint3: 3-23-06
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 1134
@@ -44,11 +44,11 @@ checkpoint11: 0-41-06
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 500
-checkpoint15: 0.04777777778
+checkpoint15: 1-08-48
 checkpoint16: 2983
-checkpoint17: 21.62
+checkpoint17: 22
 checkpoint18: 7-02-42
 checkpoint19: 0-19-33
 checkpoint20: 4
-finish: 6-59-52
+finish: 6-55-11
 --- 

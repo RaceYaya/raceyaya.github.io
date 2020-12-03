@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 15
 bib: 115
 first_name: Novita
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1369
 checkpoint19: 4
-finish: 3-07-06
+checkpoint20: 3-07-06
+checkpoint21:   1 
+finish: 3-06-58
 --- 

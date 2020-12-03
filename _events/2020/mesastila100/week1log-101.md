@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 1
 bib: 101
 first_name: Anastasia
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1373
 checkpoint19: 18
-finish: 5-07-37
+checkpoint20: 5-07-37
+checkpoint21:   2 
+finish: 5-06-30
 --- 

@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 60
 bib: 160
 first_name: Fandi
@@ -48,5 +50,7 @@ checkpoint16: 228
 checkpoint17: 1-25-14
 checkpoint18: 1550
 checkpoint19: 27
-finish: 5-46-39
+checkpoint20: 5-46-39
+checkpoint21:   3 
+finish: 5-05-57
 --- 

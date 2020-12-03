@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 29
-gender_rank: 21
+overall_rank: 30
+gender_rank: 22
 bib: 158
 first_name: Bayu
 last_name: Handono

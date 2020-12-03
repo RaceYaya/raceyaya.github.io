@@ -27,7 +27,7 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 37
 bib: 137
-first_name: Vita 
+first_name: Vita
 last_name: Mahaswari
 gender: Female
 country: Indonesia
@@ -36,7 +36,7 @@ checkpoint3:
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 2098
-checkpoint7: 0.3671875
+checkpoint7: 8-48-45
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 
@@ -44,11 +44,11 @@ checkpoint11:
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 870
-checkpoint15: 0.1363888889
+checkpoint15: 3-16-24
 checkpoint16: 2968
-checkpoint17: 18.16
+checkpoint17: 18
 checkpoint18: 12-05-09
 checkpoint19: 0-39-56
 checkpoint20: 2
-finish: 12-03-56
+finish: 11-55-52
 --- 

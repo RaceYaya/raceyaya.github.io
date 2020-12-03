@@ -19,9 +19,9 @@ last_name: Patricia
 gender: Female
 country: Indonesia
 checkpoint2: 3330
-checkpoint3: 21.39
+checkpoint3: 21
 checkpoint4: 3-44-49
 checkpoint5: 0-10-31
 checkpoint6: 7
-finish: 3-20-02
+finish: 3-17-49
 --- 

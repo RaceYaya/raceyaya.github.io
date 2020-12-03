@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 33
-gender_rank: 11
+overall_rank: 31
+gender_rank: 10
 bib: 129
 first_name: Umi
 last_name: Rukofoh
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 3-22-08
-checkpoint4: 10-20-32
-checkpoint5: 9-00-39
-finish: 22-43-19
+checkpoint2: 3-22-08
+checkpoint3: 10-13-37
+checkpoint4: 9-00-39
+checkpoint5: 9-38-15
+finish: 8-14-39
 --- 

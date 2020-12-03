@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 15
-gender_rank: 6
+overall_rank: 12
+gender_rank: 4
 bib: 115
 first_name: Novita
 last_name: Wulandari
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 3-06-58
-checkpoint4: 4-39-44
-checkpoint5: 4-45-31
-finish: 12-32-13
+checkpoint2: 3-06-58
+checkpoint3: 4-36-37
+checkpoint4: 4-45-31
+checkpoint5: 5-27-54
+finish: 17-57-00
 --- 

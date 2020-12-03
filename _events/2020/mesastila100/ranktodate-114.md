@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 35
-gender_rank: 23
+overall_rank: 29
+gender_rank: 21
 bib: 114
 first_name: christian
 last_name: Tjiptohudijono
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-42-10
-checkpoint4: 10-25-52
-checkpoint5: 9-20-05
-finish: 24-28-07
+checkpoint2: 4-42-10
+checkpoint3: 10-18-54
+checkpoint4: 9-20-05
+checkpoint5: 6-46-49
+finish: 7-07-58
 --- 

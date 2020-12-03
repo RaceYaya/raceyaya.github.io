@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 29
-gender_rank: 21
+overall_rank: 21
+gender_rank: 14
 bib: 128
-first_name: Yohanes 
+first_name: Yohanes
 last_name: Ngatiman
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-21-25
-checkpoint4: 8-58-58
-checkpoint5: 6-47-21
-finish: 20-07-44
+checkpoint2: 4-21-25
+checkpoint3: 8-52-58
+checkpoint4: 6-47-21
+checkpoint5: 5-30-22
+finish: 1-32-06
 --- 

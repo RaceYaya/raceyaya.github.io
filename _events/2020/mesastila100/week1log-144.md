@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 44
 bib: 144
 first_name: Tjie
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1410
 checkpoint19: 10
-finish: 5-40-10
+checkpoint20: 5-40-10
+checkpoint21:   1 
+finish: 5-30-02
 --- 

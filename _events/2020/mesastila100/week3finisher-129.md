@@ -11,7 +11,7 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 34
+overall_rank: 33
 gender_rank: 11
 bib: 129
 first_name: Umi
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3371
 checkpoint3: 28.32
 checkpoint4: 9-39-30
-checkpoint5: 0.01421011849
-checkpoint6: 4
+checkpoint5: 4
+checkpoint6: 0-20-28
 finish: 9-00-39
 --- 

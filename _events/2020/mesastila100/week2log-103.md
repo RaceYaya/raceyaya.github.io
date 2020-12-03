@@ -40,15 +40,15 @@ checkpoint7:
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 1328
-checkpoint11: 0.07815972222
+checkpoint11: 1-52-33
 checkpoint12: 266
-checkpoint13: 0.01240740741
+checkpoint13: 0-17-52
 checkpoint14: 1481
 checkpoint15: 2-20-13
 checkpoint16: 3075
-checkpoint17: 19.18
+checkpoint17: 19
 checkpoint18: 4-30-38
 checkpoint19: 0-14-07
 checkpoint20: 3
-finish: 4-20-47
+finish: 4-17-52
 --- 

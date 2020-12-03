@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 10
+overall_rank: 16
 gender_rank: 8
 bib: 136
 first_name: Dani
 last_name: Chika
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 1-59-40
-checkpoint4: 3-48-34
-checkpoint5: 4-55-14
-finish: 10-43-28
+checkpoint2: 1-59-40
+checkpoint3: 3-46-02
+checkpoint4: 4-55-14
+checkpoint5: 7-01-33
+finish: 17-42-29
 --- 

@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 19
 bib: 119
 first_name: Shindy
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 87
 checkpoint19: 5
-finish: 0-30-48
+checkpoint20: 0-30-48
+checkpoint21: 
+finish: 
 --- 

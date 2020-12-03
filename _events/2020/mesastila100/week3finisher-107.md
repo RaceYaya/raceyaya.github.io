@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 33
-gender_rank: 23
+overall_rank: 32
+gender_rank: 22
 bib: 107
 first_name: Dendi
 last_name: Dwitiandi
@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3161
 checkpoint3: 34.2
 checkpoint4: 8-52-37
-checkpoint5: 0.01081499079
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-15-34
 finish: 8-49-55
 --- 

@@ -19,9 +19,9 @@ last_name: Handono
 gender: Male
 country: Indonesia
 checkpoint2: 3026
-checkpoint3: 37.34
+checkpoint3: 37
 checkpoint4: 8-20-45
 checkpoint5: 0-13-25
 checkpoint6: 4
-finish: 8-10-19
+finish: 8-04-52
 --- 

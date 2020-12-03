@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 2
 bib: 102
 first_name: Mario
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1432
 checkpoint19: 12
-finish: 1-56-44
+checkpoint20: 1-56-44
+checkpoint21:   3 
+finish: 1-51-31
 --- 

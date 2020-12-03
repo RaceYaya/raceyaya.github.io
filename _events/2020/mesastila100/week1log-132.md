@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 32
 bib: 132
 first_name: Singwanto
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 0
 checkpoint19: 0
-finish: 0-00-00
+checkpoint20: 0-00-00
+checkpoint21: 
+finish: 
 --- 

@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 30
-gender_rank: 22
+overall_rank: 39
+gender_rank: 20
 bib: 107
 first_name: Dendi
 last_name: Dwitiandi
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-02-18
-checkpoint4: 7-48-44
-checkpoint5: 8-49-55
-finish: 20-40-57
+checkpoint2: 4-02-18
+checkpoint3: 7-43-31
+checkpoint4: 8-49-55
+checkpoint5: 9-35-32
+finish: 6-11-16
 --- 

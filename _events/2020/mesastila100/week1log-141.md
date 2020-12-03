@@ -24,9 +24,11 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 41
 bib: 141
-first_name: Iwin 
+first_name: Iwin
 last_name: Harahap
 gender: Male
 country: Indonesia
@@ -48,5 +50,7 @@ checkpoint16: 714
 checkpoint17: 2-23-27
 checkpoint18: 1615
 checkpoint19: 25
-finish: 5-58-39
+checkpoint20: 5-58-39
+checkpoint21:   3 
+finish: 5-03-48
 --- 

@@ -19,9 +19,9 @@ last_name: Montung
 gender: Male
 country: Indonesia
 checkpoint2: 3177
-checkpoint3: 22.53
+checkpoint3: 23
 checkpoint4: 3-56-02
 checkpoint5: 0-10-29
 checkpoint6: 3
-finish: 3-40-08
+finish: 3-37-41
 --- 

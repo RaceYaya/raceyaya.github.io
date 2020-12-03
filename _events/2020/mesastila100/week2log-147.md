@@ -32,7 +32,7 @@ last_name: Kusuma
 gender: Male
 country: Indonesia
 checkpoint2: 1327
-checkpoint3: 0.3120601852
+checkpoint3: 7-29-22
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
@@ -40,15 +40,15 @@ checkpoint7:
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 1002
-checkpoint11: 0.137662037
+checkpoint11: 3-18-14
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 650
 checkpoint15: 1-47-07
 checkpoint16: 2979
-checkpoint17: 67.93
+checkpoint17: 68
 checkpoint18: 12-34-43
 checkpoint19: 0-11-07
 checkpoint20: 3
-finish: 12-30-40
+finish: 12-22-18
 --- 

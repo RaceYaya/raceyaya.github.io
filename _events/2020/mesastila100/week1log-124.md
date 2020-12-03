@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 24
 bib: 124
 first_name: freda
@@ -48,5 +50,7 @@ checkpoint16: 275
 checkpoint17: 0-14-43
 checkpoint18: 1414
 checkpoint19: 9
-finish: 1-19-50
+checkpoint20: 1-19-50
+checkpoint21:   3 
+finish: 1-17-14
 --- 

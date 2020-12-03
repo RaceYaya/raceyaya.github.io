@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 47
 bib: 147
 first_name: Niko
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1455
 checkpoint19: 29
-finish: 4-16-47
+checkpoint20: 4-16-47
+checkpoint21:   3 
+finish: 4-01-26
 --- 

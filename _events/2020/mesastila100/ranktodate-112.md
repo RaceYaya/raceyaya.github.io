@@ -17,9 +17,9 @@ first_name: Glennaldy
 last_name: Lucas
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 4-24-52
-checkpoint4: 6-41-25
-checkpoint5: 7-11-17
-finish: 18-17-34
+checkpoint2: 4-24-52
+checkpoint3: 6-36-57
+checkpoint4: 7-11-17
+checkpoint5: 9-53-02
+finish: 4-06-06
 --- 

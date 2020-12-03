@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 23
-gender_rank: 15
+overall_rank: 19
+gender_rank: 12
 bib: 156
 first_name: Taufiq
 last_name: NurHidayat
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-22-50
-checkpoint4: 6-50-28
-checkpoint5: 5-35-17
-finish: 17-48-35
+checkpoint2: 5-22-50
+checkpoint3: 6-45-54
+checkpoint4: 5-35-17
+checkpoint5: 5-22-21
+finish: 23-06-22
 --- 

@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 24
-gender_rank: 16
+overall_rank: 20
+gender_rank: 17
 bib: 158
 first_name: Bayu
 last_name: Handono
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 3-57-44
-checkpoint4: 8-10-19
-checkpoint5: 5-45-50
-finish: 17-53-53
+checkpoint2: 3-57-44
+checkpoint3: 8-04-52
+checkpoint4: 5-45-50
+checkpoint5: 8-24-11
+finish: 2-12-37
 --- 

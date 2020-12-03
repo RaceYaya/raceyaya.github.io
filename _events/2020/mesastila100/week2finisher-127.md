@@ -15,13 +15,13 @@ overall_rank: 27
 gender_rank: 19
 bib: 127
 first_name: Hammam
-last_name: Aulia 
+last_name: Aulia
 gender: Male
 country: Indonesia
 checkpoint2: 2970
-checkpoint3: 32.93
+checkpoint3: 33
 checkpoint4: 6-53-17
 checkpoint5: 0-12-33
 checkpoint6: 4
-finish: 6-52-19
+finish: 6-47-43
 --- 

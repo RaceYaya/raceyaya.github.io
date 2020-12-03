@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 56
 bib: 156
 first_name: Taufiq
@@ -48,5 +50,7 @@ checkpoint16: 277
 checkpoint17: 0-42-46
 checkpoint18: 1391
 checkpoint19: 16
-finish: 5-28-16
+checkpoint20: 5-28-16
+checkpoint21:   2 
+finish: 5-22-50
 --- 

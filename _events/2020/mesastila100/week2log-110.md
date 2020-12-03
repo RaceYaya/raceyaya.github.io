@@ -46,9 +46,9 @@ checkpoint13:
 checkpoint14: 1813
 checkpoint15: 14-55-03
 checkpoint16: 4401
-checkpoint17: 121.96
+checkpoint17: 122
 checkpoint18: 17-45-53
 checkpoint19: 0-20-33
 checkpoint20: 4
-finish: 16-07-06
+finish: 3-48-19
 --- 

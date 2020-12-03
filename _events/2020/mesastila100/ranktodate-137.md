@@ -10,16 +10,16 @@ checkpoint-name2: TOTAL GAIN
 checkpoint-name3: WEEK 1 TIME 
 checkpoint-name4: WEEK 2 TIME 
 checkpoint-name5: WEEK 3 TIME 
-overall_rank: 38
-gender_rank: 13
+overall_rank: 32
+gender_rank: 11
 bib: 137
-first_name: Vita 
+first_name: Vita
 last_name: Mahaswari
 gender: Female
 country: Indonesia
-checkpoint2: 
-checkpoint3: 5-55-36
-checkpoint4: 12-03-56
-checkpoint5: 9-33-48
-finish: 3-33-20
+checkpoint2: 5-55-36
+checkpoint3: 11-55-52
+checkpoint4: 9-33-48
+checkpoint5: 7-18-14
+finish: 10-43-30
 --- 

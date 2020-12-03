@@ -11,17 +11,17 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 44
+overall_rank: 45
 gender_rank: 30
 bib: 141
-first_name: Iwin 
+first_name: Iwin
 last_name: Harahap
 gender: Male
 country: Indonesia
 checkpoint2: 3565
 checkpoint3: 57.97
 checkpoint4: 14-08-00
-checkpoint5: 0.01015851111
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-14-38
 finish: 12-28-06
 --- 

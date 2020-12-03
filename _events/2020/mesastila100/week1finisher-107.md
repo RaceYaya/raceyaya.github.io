@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 31
-gender_rank: 23
+overall_rank: 32
+gender_rank: 24
 bib: 107
 first_name: Dendi
 last_name: Dwitiandi
@@ -22,6 +22,6 @@ checkpoint2: 1858
 checkpoint3:   35 
 checkpoint4: 5-29-05
 checkpoint5:   1 
-checkpoint6: 0-08-52
+checkpoint6: 0-09-23
 finish: 4-02-18
 --- 

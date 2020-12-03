@@ -27,28 +27,28 @@ checkpoint-name19: PACE
 checkpoint-name20: NUMBER OF RUN 
 overall_rank: 28
 bib: 128
-first_name: Yohanes 
+first_name: Yohanes
 last_name: Ngatiman
 gender: Male
 country: Indonesia
 checkpoint2: 721
-checkpoint3: 0.08077546296
+checkpoint3: 1-56-19
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 1972
-checkpoint7: 0.2652199074
+checkpoint7: 6-21-55
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 372
-checkpoint11: 0.04116898148
+checkpoint11: 0-59-17
 checkpoint12: 
 checkpoint13: 
 checkpoint14: 
 checkpoint15: 
 checkpoint16: 3065
-checkpoint17: 23.51
+checkpoint17: 24
 checkpoint18: 9-17-31
 checkpoint19: 0-23-43
 checkpoint20: 3
-finish: 8-58-58
+finish: 8-52-58
 --- 

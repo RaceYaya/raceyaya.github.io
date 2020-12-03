@@ -19,9 +19,9 @@ last_name: Rifda
 gender: Female
 country: Indonesia
 checkpoint2: 2938
-checkpoint3: 15.73
+checkpoint3: 16
 checkpoint4: 3-54-40
 checkpoint5: 0-14-55
 checkpoint6: 6
-finish: 3-56-40
+finish: 3-54-02
 --- 

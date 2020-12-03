@@ -24,20 +24,22 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 54
 bib: 154
 first_name: Rachmat
 last_name: Ferdie
 gender: Male
 country: Indonesia
-checkpoint2: 
-checkpoint3: 
+checkpoint2: 1805
+checkpoint3: 3-48-22
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 
 checkpoint7: 
-checkpoint8: 1496
-checkpoint9: 5-37-48
+checkpoint8: 
+checkpoint9: 
 checkpoint10: 
 checkpoint11: 
 checkpoint12: 
@@ -46,7 +48,9 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 1496
-checkpoint19: 13
-finish: 5-37-48
+checkpoint18: 1805
+checkpoint19: 19
+checkpoint20: 3-48-22
+checkpoint21:   1 
+finish: 2-53-05
 --- 

@@ -24,6 +24,8 @@ checkpoint-name16: Gain Day 8
 checkpoint-name17: Time Day 8 
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
+checkpoint-name20: TOTAL TIME 
+checkpoint-name21: NUMBER OF RUN 
 overall_rank: 6
 bib: 106
 first_name: Hidayat
@@ -48,5 +50,7 @@ checkpoint16:
 checkpoint17: 
 checkpoint18: 1748
 checkpoint19: 16
-finish: 8-33-53
+checkpoint20: 8-33-53
+checkpoint21:   1 
+finish: 6-42-10
 --- 
