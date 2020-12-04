@@ -9,7 +9,7 @@ event-date: 2020-12-04
 checkpoint-name2: LEG 1 
 checkpoint-name3: LEG 2 
 checkpoint-name4: LEG 3 
-checkpoint-name4: TOTAL 
+checkpoint-name5: TOTAL 
 overall_rank: 1
 gender_rank: 4
 category_rank: 1
