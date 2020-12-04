@@ -21,7 +21,7 @@ country: Indonesia
 checkpoint2: 3699
 checkpoint3: 24.63
 checkpoint4: 3-45-09
-checkpoint5: 0-09-13
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-09-13
 finish: 3-40-20
 --- 
