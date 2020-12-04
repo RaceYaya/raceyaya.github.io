@@ -19,7 +19,7 @@ last_name: Tjiptohudijono
 gender: Male
 country: Indonesia
 checkpoint2: 1400
-checkpoint3:   8 
+checkpoint3: 8
 checkpoint4: 4-48-46
 checkpoint5:   1 
 checkpoint6: 0-36-00

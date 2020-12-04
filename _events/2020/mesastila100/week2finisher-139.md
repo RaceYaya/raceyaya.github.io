@@ -19,9 +19,9 @@ last_name: Pavliuk
 gender: Male
 country: Indonesia
 checkpoint2: 3359
-checkpoint3: 22
+checkpoint3:   22 
 checkpoint4: 3-08-55
-checkpoint5: 0-08-45
-checkpoint6: 4
+checkpoint5: 4
+checkpoint6: 0-08-45
 finish: 2-44-47
 --- 

@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 29
-gender_rank: 19
+overall_rank: 30
+gender_rank: 20
 bib: 130
 first_name: Lukman
 last_name: Sugianto

@@ -19,7 +19,7 @@ last_name: Kusuma
 gender: Male
 country: Indonesia
 checkpoint2: 1455
-checkpoint3:   29 
+checkpoint3: 29
 checkpoint4: 4-16-47
 checkpoint5:   3 
 checkpoint6: 0-08-49

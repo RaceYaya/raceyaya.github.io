@@ -25,11 +25,11 @@ checkpoint-name17: Time Day 7a
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
 checkpoint-name20: TOTAL TIME 
-checkpoint-name21: PACE 
+checkpoint-name21: AVERAGE PACE 
 checkpoint-name22: NUMBER OF RUN 
 overall_rank: 37
 bib: 137
-first_name: Vita
+first_name: Vita 
 last_name: Mahaswari
 gender: Female
 country: Indonesia

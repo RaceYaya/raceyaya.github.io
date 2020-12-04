@@ -19,9 +19,9 @@ last_name: Kori Khaeranisa
 gender: Female
 country: Indonesia
 checkpoint2: 2973
-checkpoint3: 39
+checkpoint3:   39 
 checkpoint4: 8-39-18
-checkpoint5: 0-13-11
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-13-11
 finish: 8-31-47
 --- 

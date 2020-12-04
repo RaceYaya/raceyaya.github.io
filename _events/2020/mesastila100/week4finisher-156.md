@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 10
-gender_rank: 8
+overall_rank: 11
+gender_rank: 9
 bib: 156
 first_name: Taufiq
 last_name: NurHidayat

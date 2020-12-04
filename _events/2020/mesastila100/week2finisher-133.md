@@ -19,9 +19,9 @@ last_name: Herawati
 gender: Female
 country: Indonesia
 checkpoint2: 2998
-checkpoint3: 31
+checkpoint3:   31 
 checkpoint4: 5-47-18
-checkpoint5: 0-11-15
-checkpoint6: 5
+checkpoint5: 5
+checkpoint6: 0-11-15
 finish: 5-39-25
 --- 

@@ -19,9 +19,9 @@ last_name: Pradina
 gender: Female
 country: Indonesia
 checkpoint2: 3072
-checkpoint3: 20
+checkpoint3:   20 
 checkpoint4: 4-15-42
-checkpoint5: 0-12-50
-checkpoint6: 4
+checkpoint5: 4
+checkpoint6: 0-12-50
 finish: 4-03-53
 --- 

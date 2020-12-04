@@ -14,7 +14,7 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 36
 gender_rank: 12
 bib: 137
-first_name: Vita
+first_name: Vita 
 last_name: Mahaswari
 gender: Female
 country: Indonesia

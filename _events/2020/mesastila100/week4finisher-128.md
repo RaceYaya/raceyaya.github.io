@@ -11,10 +11,10 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 12
-gender_rank: 9
+overall_rank: 13
+gender_rank: 10
 bib: 128
-first_name: Yohanes
+first_name: Yohanes 
 last_name: Ngatiman
 gender: Male
 country: Indonesia

@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 46
-gender_rank: 32
+overall_rank: 47
+gender_rank: 33
 bib: 110
 first_name: sabar
 last_name: bawang

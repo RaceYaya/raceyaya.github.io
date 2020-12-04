@@ -14,12 +14,12 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 33
 gender_rank: 25
 bib: 138
-first_name: Ivan
-last_name: Anditana
+first_name: Ivan 
+last_name: Anditana 
 gender: Male
 country: Indonesia
 checkpoint2: 1457
-checkpoint3:   28 
+checkpoint3: 28
 checkpoint4: 4-30-33
 checkpoint5:   3 
 checkpoint6: 0-09-36

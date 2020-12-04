@@ -19,7 +19,7 @@ last_name: dadoh
 gender: Male
 country: Indonesia
 checkpoint2: 1387
-checkpoint3:   12 
+checkpoint3: 12
 checkpoint4: 3-47-50
 checkpoint5:   1 
 checkpoint6: 0-18-34

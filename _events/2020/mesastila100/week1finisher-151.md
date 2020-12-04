@@ -14,12 +14,12 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 9
 gender_rank: 7
 bib: 151
-first_name: Muhamad
+first_name: Muhamad 
 last_name: Muhlisin
 gender: Male
 country: Indonesia
 checkpoint2: 1622
-checkpoint3:   5 
+checkpoint3: 5
 checkpoint4: 2-16-03
 checkpoint5:   2 
 checkpoint6: 0-29-06

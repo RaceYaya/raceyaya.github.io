@@ -19,7 +19,7 @@ last_name: Rukofoh
 gender: Female
 country: Indonesia
 checkpoint2: 1980
-checkpoint3:   11 
+checkpoint3: 11
 checkpoint4: 4-52-34
 checkpoint5:   1 
 checkpoint6: 0-25-33

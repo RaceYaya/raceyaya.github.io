@@ -19,7 +19,7 @@ last_name: Falmonti
 gender: Male
 country: Indonesia
 checkpoint2: 1352
-checkpoint3:   27 
+checkpoint3: 27
 checkpoint4: 7-47-00
 checkpoint5:   2 
 checkpoint6: 0-17-04

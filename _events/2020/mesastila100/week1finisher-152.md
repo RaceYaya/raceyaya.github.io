@@ -19,7 +19,7 @@ last_name: Jasim
 gender: Female
 country: Indonesia
 checkpoint2: 1606
-checkpoint3:   26 
+checkpoint3: 26
 checkpoint4: 5-33-27
 checkpoint5:   2 
 checkpoint6: 0-13-02

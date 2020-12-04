@@ -25,7 +25,7 @@ checkpoint-name17: Time Day 7a
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
 checkpoint-name20: TOTAL TIME 
-checkpoint-name21: PACE 
+checkpoint-name21: AVERAGE PACE 
 checkpoint-name22: NUMBER OF RUN 
 overall_rank: 23
 bib: 123
@@ -36,7 +36,7 @@ country: Indonesia
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 659
-checkpoint5: 0-40-07
+checkpoint5: 0-38-07
 checkpoint6: 500
 checkpoint7: 0-32-06
 checkpoint8: 499
@@ -51,8 +51,8 @@ checkpoint16: 473
 checkpoint17: 0-29-37
 checkpoint18: 3699
 checkpoint19: 24.63
-checkpoint20: 3-47-09
+checkpoint20: 3-45-09
 checkpoint21: 0-09-13
 checkpoint22: 3
-finish: 3-42-18
+finish: 3-40-20
 --- 

@@ -25,7 +25,7 @@ checkpoint-name17: Time Day 7a
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
 checkpoint-name20: TOTAL TIME 
-checkpoint-name21: PACE 
+checkpoint-name21: AVERAGE PACE 
 checkpoint-name22: NUMBER OF RUN 
 overall_rank: 24
 bib: 124
@@ -48,11 +48,11 @@ checkpoint13: 1-17-52
 checkpoint14: 997
 checkpoint15: 1-03-42
 checkpoint16: 540
-checkpoint17: 0-19-16
+checkpoint17: 0-29-07
 checkpoint18: 3662
 checkpoint19: 19.82
-checkpoint20: 3-39-55
-checkpoint21: 0-11-06
+checkpoint20: 3-49-46
+checkpoint21: 0-11-36
 checkpoint22: 4
-finish: 3-37-24
+finish: 3-47-08
 --- 

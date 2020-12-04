@@ -25,7 +25,7 @@ checkpoint-name17: Time Day 7a
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
 checkpoint-name20: TOTAL TIME 
-checkpoint-name21: PACE 
+checkpoint-name21: AVERAGE PACE 
 checkpoint-name22: NUMBER OF RUN 
 overall_rank: 59
 bib: 159
@@ -33,12 +33,12 @@ first_name: Mo
 last_name: Ikhwan
 gender: Male
 country: Indonesia
-checkpoint2: 1249
+checkpoint2: 1349
 checkpoint3: 1-24-00
 checkpoint4: 
 checkpoint5: 
 checkpoint6: 1358
-checkpoint7: 1-31-26
+checkpoint7: 1-27-26
 checkpoint8: 
 checkpoint9: 
 checkpoint10: 926
@@ -49,10 +49,10 @@ checkpoint14:
 checkpoint15: 
 checkpoint16: 
 checkpoint17: 
-checkpoint18: 3533
+checkpoint18: 3633
 checkpoint19: 16.97
-checkpoint20: 3-54-50
-checkpoint21: 0-13-50
+checkpoint20: 3-50-50
+checkpoint21: 0-13-36
 checkpoint22: 4
-finish: 4-00-37
+finish: 3-50-00
 --- 

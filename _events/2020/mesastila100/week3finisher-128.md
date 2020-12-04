@@ -14,7 +14,7 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 29
 gender_rank: 19
 bib: 128
-first_name: Yohanes
+first_name: Yohanes 
 last_name: Ngatiman
 gender: Male
 country: Indonesia

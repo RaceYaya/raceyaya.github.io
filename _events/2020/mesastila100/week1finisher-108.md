@@ -19,7 +19,7 @@ last_name: Marsudiono
 gender: Male
 country: Indonesia
 checkpoint2: 1391
-checkpoint3:   17 
+checkpoint3: 17
 checkpoint4: 3-30-19
 checkpoint5:   2 
 checkpoint6: 0-12-19

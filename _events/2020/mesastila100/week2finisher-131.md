@@ -19,9 +19,9 @@ last_name: Aprijanto
 gender: Male
 country: Indonesia
 checkpoint2: 3032
-checkpoint3: 21
+checkpoint3:   21 
 checkpoint4: 6-38-16
-checkpoint5: 0-19-23
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-19-23
 finish: 6-24-52
 --- 

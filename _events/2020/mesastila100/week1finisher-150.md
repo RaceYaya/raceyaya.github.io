@@ -19,7 +19,7 @@ last_name: Junita
 gender: Female
 country: Indonesia
 checkpoint2: 1702
-checkpoint3:   26 
+checkpoint3: 26
 checkpoint4: 6-00-09
 checkpoint5:   3 
 checkpoint6: 0-13-53

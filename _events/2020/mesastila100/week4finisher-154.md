@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 6
-gender_rank: 6
+overall_rank: 7
+gender_rank: 7
 bib: 154
 first_name: Rachmat
 last_name: Ferdie

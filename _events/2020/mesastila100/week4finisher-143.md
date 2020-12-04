@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 9
-gender_rank: 7
+overall_rank: 10
+gender_rank: 8
 bib: 143
 first_name: Ajakin
 last_name: Lari

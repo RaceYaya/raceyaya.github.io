@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 4
-gender_rank: 4
+overall_rank: 3
+gender_rank: 3
 bib: 123
 first_name: Bayu
 last_name: Ristanto
@@ -20,8 +20,8 @@ gender: Male
 country: Indonesia
 checkpoint2: 3699
 checkpoint3: 24.63
-checkpoint4: 3-47-09
+checkpoint4: 3-45-09
 checkpoint5: 0-09-13
 checkpoint6: 3
-finish: 3-42-18
+finish: 3-40-20
 --- 

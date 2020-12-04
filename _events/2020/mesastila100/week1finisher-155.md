@@ -19,7 +19,7 @@ last_name: Hurtik
 gender: Male
 country: czech
 checkpoint2: 1508
-checkpoint3:   19 
+checkpoint3: 19
 checkpoint4: 4-09-28
 checkpoint5:   1 
 checkpoint6: 0-13-09

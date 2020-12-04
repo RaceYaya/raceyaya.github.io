@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 22
-gender_rank: 14
+overall_rank: 23
+gender_rank: 15
 bib: 122
 first_name: Kristian
 last_name: Natanael

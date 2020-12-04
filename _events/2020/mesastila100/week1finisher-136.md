@@ -19,7 +19,7 @@ last_name: Chika
 gender: Male
 country: Indonesia
 checkpoint2: 1439
-checkpoint3:   7 
+checkpoint3: 7
 checkpoint4: 2-05-53
 checkpoint5:   1 
 checkpoint6: 0-17-35

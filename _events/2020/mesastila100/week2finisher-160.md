@@ -19,9 +19,9 @@ last_name: Ho
 gender: Male
 country: Indonesia
 checkpoint2: 2944
-checkpoint3: 22
+checkpoint3:   22 
 checkpoint4: 6-59-41
-checkpoint5: 0-19-04
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-19-04
 finish: 6-57-41
 --- 

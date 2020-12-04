@@ -19,9 +19,9 @@ last_name: Ikhwan
 gender: Male
 country: Indonesia
 checkpoint2: 3010
-checkpoint3: 12
+checkpoint3:   12 
 checkpoint4: 3-13-16
-checkpoint5: 0-16-23
-checkpoint6: 5
+checkpoint5: 5
+checkpoint6: 0-16-23
 finish: 3-08-08
 --- 

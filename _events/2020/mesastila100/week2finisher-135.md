@@ -19,9 +19,9 @@ last_name: Agung
 gender: Male
 country: Indonesia
 checkpoint2: 3023
-checkpoint3: 19
+checkpoint3:   19 
 checkpoint4: 5-31-24
-checkpoint5: 0-17-19
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-17-19
 finish: 5-21-12
 --- 

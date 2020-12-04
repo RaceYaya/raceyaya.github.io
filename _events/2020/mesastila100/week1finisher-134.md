@@ -14,12 +14,12 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 29
 gender_rank: 21
 bib: 134
-first_name: Sweally
+first_name: Sweally 
 last_name: Wacono
 gender: Male
 country: Indonesia
 checkpoint2: 1924
-checkpoint3:   29 
+checkpoint3: 29
 checkpoint4: 5-23-54
 checkpoint5:   2 
 checkpoint6: 0-11-12

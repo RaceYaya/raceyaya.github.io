@@ -19,9 +19,9 @@ last_name: Suparyanto
 gender: Male
 country: Indonesia
 checkpoint2: 3032
-checkpoint3: 51
+checkpoint3:   51 
 checkpoint4: 12-49-13
-checkpoint5: 0-15-10
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-15-10
 finish: 12-23-20
 --- 

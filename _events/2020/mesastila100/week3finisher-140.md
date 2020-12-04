@@ -14,7 +14,7 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 42
 gender_rank: 28
 bib: 140
-first_name: Rizki
+first_name: Rizki 
 last_name: Yogotama
 gender: Male
 country: Indonesia

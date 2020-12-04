@@ -19,9 +19,9 @@ last_name: Natanael
 gender: Male
 country: Indonesia
 checkpoint2: 3011
-checkpoint3: 17
+checkpoint3:   17 
 checkpoint4: 2-52-31
-checkpoint5: 0-10-10
-checkpoint6: 5
+checkpoint5: 5
+checkpoint6: 0-10-10
 finish: 2-47-53
 --- 

@@ -19,7 +19,7 @@ last_name: bawang
 gender: Male
 country: Indonesia
 checkpoint2: 1713
-checkpoint3:   18 
+checkpoint3: 18
 checkpoint4: 9-48-53
 checkpoint5:   1 
 checkpoint6: 0-32-46

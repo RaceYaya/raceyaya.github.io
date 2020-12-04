@@ -19,7 +19,7 @@ last_name: Vertical
 gender: Male
 country: Indonesia
 checkpoint2: 1748
-checkpoint3:   16 
+checkpoint3: 16
 checkpoint4: 8-33-53
 checkpoint5:   1 
 checkpoint6: 0-31-14

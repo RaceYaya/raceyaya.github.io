@@ -19,9 +19,9 @@ last_name: Rukofoh
 gender: Female
 country: Indonesia
 checkpoint2: 3062
-checkpoint3: 36
+checkpoint3:   36 
 checkpoint4: 10-41-16
-checkpoint5: 0-18-00
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-18-00
 finish: 10-13-37
 --- 

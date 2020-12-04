@@ -25,11 +25,11 @@ checkpoint-name17: Time Day 7a
 checkpoint-name18: TOTAL GAIN 
 checkpoint-name19: TOTAL DISTANCE 
 checkpoint-name20: TOTAL TIME 
-checkpoint-name21: PACE 
+checkpoint-name21: AVERAGE PACE 
 checkpoint-name22: NUMBER OF RUN 
 overall_rank: 38
 bib: 138
-first_name: Ivan
+first_name: Ivan 
 last_name: Adinata
 gender: Male
 country: Indonesia

@@ -19,7 +19,7 @@ last_name: NurHidayat
 gender: Male
 country: Indonesia
 checkpoint2: 1391
-checkpoint3:   16 
+checkpoint3: 16
 checkpoint4: 5-28-16
 checkpoint5:   2 
 checkpoint6: 0-20-46

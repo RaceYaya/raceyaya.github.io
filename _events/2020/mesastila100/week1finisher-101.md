@@ -19,7 +19,7 @@ last_name: Budiasih
 gender: Female
 country: Indonesia
 checkpoint2: 1373
-checkpoint3:   18 
+checkpoint3: 18
 checkpoint4: 5-07-37
 checkpoint5:   2 
 checkpoint6: 0-17-24

@@ -19,9 +19,9 @@ last_name: Dwitiandi
 gender: Male
 country: Indonesia
 checkpoint2: 2933
-checkpoint3: 34
+checkpoint3:   34 
 checkpoint4: 7-43-59
-checkpoint5: 0-13-48
-checkpoint6: 2
+checkpoint5: 2
+checkpoint6: 0-13-48
 finish: 7-43-31
 --- 

@@ -19,7 +19,7 @@ last_name: murtaqi
 gender: Male
 country: Indonesia
 checkpoint2: 1395
-checkpoint3:   7 
+checkpoint3: 6.62
 checkpoint4: 2-00-31
 checkpoint5:   1 
 checkpoint6: 0-18-12

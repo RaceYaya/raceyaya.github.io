@@ -14,12 +14,12 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 43
 gender_rank: 33
 bib: 141
-first_name: Iwin
+first_name: Iwin 
 last_name: Harahap
 gender: Male
 country: Indonesia
 checkpoint2: 1615
-checkpoint3:   25 
+checkpoint3: 25
 checkpoint4: 5-58-39
 checkpoint5:   3 
 checkpoint6: 0-14-10

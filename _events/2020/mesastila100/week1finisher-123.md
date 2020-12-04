@@ -19,7 +19,7 @@ last_name: Ristanto
 gender: Male
 country: Indonesia
 checkpoint2: 1656
-checkpoint3:   9 
+checkpoint3: 9
 checkpoint4: 1-40-41
 checkpoint5:   3 
 checkpoint6: 0-11-50

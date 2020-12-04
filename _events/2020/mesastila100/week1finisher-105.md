@@ -19,7 +19,7 @@ last_name: Yudiansyah
 gender: Male
 country: Indonesia
 checkpoint2: 1528
-checkpoint3:   21 
+checkpoint3: 21
 checkpoint4: 6-46-38
 checkpoint5:   1 
 checkpoint6: 0-19-20

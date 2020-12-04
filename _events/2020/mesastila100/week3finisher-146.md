@@ -15,7 +15,7 @@ overall_rank: 1
 gender_rank: 1
 bib: 146
 first_name: Sobiri
-last_name: Haerudin
+last_name: Haerudin 
 gender: Male
 country: Indonesia
 checkpoint2: 3141

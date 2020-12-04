@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 40
-gender_rank: 27
+overall_rank: 41
+gender_rank: 28
 bib: 108
 first_name: Eko
 last_name: Marsudiono

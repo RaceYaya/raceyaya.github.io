@@ -19,7 +19,7 @@ last_name: Hayati
 gender: Female
 country: Indonesia
 checkpoint2: 1412
-checkpoint3:   6 
+checkpoint3: 6
 checkpoint4: 2-13-28
 checkpoint5:   1 
 checkpoint6: 0-20-53

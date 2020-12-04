@@ -19,7 +19,7 @@ last_name: .
 gender: Male
 country: Indonesia
 checkpoint2: 1451
-checkpoint3:   12 
+checkpoint3: 12
 checkpoint4: 2-12-13
 checkpoint5:   2 
 checkpoint6: 0-10-42

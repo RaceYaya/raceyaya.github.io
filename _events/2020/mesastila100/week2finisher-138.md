@@ -14,14 +14,14 @@ checkpoint-name6: AVERAGE PACE
 overall_rank: 31
 gender_rank: 23
 bib: 138
-first_name: Ivan
+first_name: Ivan 
 last_name: Adinata
 gender: Male
 country: Indonesia
 checkpoint2: 2941
-checkpoint3: 35
+checkpoint3:   35 
 checkpoint4: 7-59-42
-checkpoint5: 0-13-50
-checkpoint6: 3
+checkpoint5: 3
+checkpoint6: 0-13-50
 finish: 7-57-54
 --- 

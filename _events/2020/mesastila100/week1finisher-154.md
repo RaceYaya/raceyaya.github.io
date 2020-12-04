@@ -19,7 +19,7 @@ last_name: Ferdie
 gender: Male
 country: Indonesia
 checkpoint2: 1805
-checkpoint3:   19 
+checkpoint3: 19
 checkpoint4: 3-48-22
 checkpoint5:   1 
 checkpoint6: 0-11-51

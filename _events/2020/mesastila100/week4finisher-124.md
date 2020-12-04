@@ -11,8 +11,8 @@ checkpoint-name3: TOTAL DISTANCE
 checkpoint-name4: TOTAL TIME 
 checkpoint-name5: NUMBER OF RUN 
 checkpoint-name6: AVERAGE PACE 
-overall_rank: 3
-gender_rank: 3
+overall_rank: 4
+gender_rank: 4
 bib: 124
 first_name: freda
 last_name: adiwardana
@@ -20,8 +20,8 @@ gender: Male
 country: Indonesia
 checkpoint2: 3662
 checkpoint3: 19.82
-checkpoint4: 3-39-55
-checkpoint5: 0-11-06
+checkpoint4: 3-49-46
+checkpoint5: 0-11-36
 checkpoint6: 4
-finish: 3-37-24
+finish: 3-47-08
 --- 

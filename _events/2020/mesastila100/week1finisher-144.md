@@ -19,7 +19,7 @@ last_name: Lei
 gender: Female
 country: Indonesia
 checkpoint2: 1410
-checkpoint3:   10 
+checkpoint3: 10
 checkpoint4: 5-40-10
 checkpoint5:   1 
 checkpoint6: 0-32-58

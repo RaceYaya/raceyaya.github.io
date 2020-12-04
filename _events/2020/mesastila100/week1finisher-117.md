@@ -19,7 +19,7 @@ last_name: AUDI YAZID
 gender: Male
 country: Indonesia
 checkpoint2: 1461
-checkpoint3:   13 
+checkpoint3: 13
 checkpoint4: 2-57-03
 checkpoint5:   1 
 checkpoint6: 0-13-50
