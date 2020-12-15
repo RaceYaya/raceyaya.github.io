@@ -2401,6 +2401,25 @@
     - title: '2020 Duathlon Summary  Leg 1-3'
       link: /pdslanualrank-2020/annualrank
 
+- id: 106
+  title: POSF Conquer the Leaderboard
+  event-filter: 
+    - filter: virtualrun
+  city: Taguig City
+  country: Philippines 
+  address: Pretty Huge Obstacles, Taguig City, Philippines
+  event-date: 2020-12-12
+  month: December
+  year: 2020
+  event-organizer: 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1607997702/logo/2020/Conquer_the_leaderboard_bvkmom.jpg
+  timing-solution: Team Adrenaline
+  race-categories:
+    - title: 'Ninja leaderboard'
+      link: /posf2020/ninja
+    - title: 'PARA OCR'
+      link: /posf2020/ocr
+
 
 
 
