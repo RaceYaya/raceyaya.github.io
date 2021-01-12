@@ -2420,6 +2420,27 @@
     - title: 'PARA OCR'
       link: /posf2020/ocr
 
+- id: 107
+  title: Alicia Virtual Ultra
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address: 
+  event-date: 2020-12-23
+  month: December
+  year: 2020
+  event-organizer: Bohol Trail Adventure
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1610415351/logo/2021/Alicia_Ultra_Logo_transparent_f8rwad.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12K
+      link: /aliciavirtualultra2020/12K
+    - title: 25K
+      link: /aliciavirtualultra2020/25K
+    - title: 50K
+      link: /aliciavirtualultra2020/50K
+
 
 
 
