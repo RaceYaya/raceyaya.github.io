@@ -57,6 +57,7 @@
 - id: 3
   name: Select Year
   filter-list:
+    - filter: 2021
     - filter: 2020
     - filter: 2019
     - filter: 2018
