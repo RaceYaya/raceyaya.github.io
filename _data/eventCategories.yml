@@ -2441,6 +2441,27 @@
     - title: 50K
       link: /aliciavirtualultra2020/50K
 
+- id: 108
+  title: Climathon Virtual Marathon
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address: Anywhere
+  event-date: 2020-12-19
+  month: December
+  year: 2020
+  event-organizer: 'Climathon Paranaque/Evegrocer'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1610415350/logo/2021/climathon-virtual-marathon_zvzuyk.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10K
+      link: /climathon2020/10K
+    - title: 21K
+      link: /climathon2020/21K
+    - title: 42K
+      link: /climathon2020/42K
+
 
 
 
