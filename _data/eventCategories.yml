@@ -2462,6 +2462,22 @@
     - title: 42K
       link: /climathon2020/42K
 
+- id: 109
+  title: Run for Wawa
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address:
+  event-date: 2021-02-01
+  month: February
+  year: 2021
+  event-organizer: 'RaceYaya/UP Mountaineers'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/2021/i-ran-wawa-logo_syijlo.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5K
+      link: /runwawa2021/5K
 
 
 
