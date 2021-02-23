@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 3
 overall_rank: 3
 gender_rank: 3
-bib: 21
-first_name: sean
-last_name: andan
+bib: 22
+first_name: kyle
+last_name: antolin
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-21-41
+checkpoint2: 0-20-17
 checkpoint3: 
-finish: 0-21-41
+checkpoint4: 
+finish: 0-20-17
 --- 

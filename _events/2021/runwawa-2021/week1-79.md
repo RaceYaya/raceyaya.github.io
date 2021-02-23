@@ -5,14 +5,15 @@ category_km: week1
 event-title: Run for Wawa 
 event-location: Philippines 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/2021/i-ran-wawa-logo_syijlo.jpg 
-event-date: 2021-02-01 
-overall_rank: 32
-gender_rank: 18
-bib: 79
-first_name: Kat
-last_name: Patawaran
-gender: Female
+event-date: 2021-02-01
+runnercount: 79
+overall_rank: 999
+gender_rank: 999
+bib: 31
+first_name: Harold
+last_name: Ramirez
+gender: Male
 country: Philippines
 category: 5K
-finish: 0-35-41
+finish: 
 --- 

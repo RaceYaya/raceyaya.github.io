@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 73
 overall_rank: 73
-gender_rank: 38
-bib: 111
-first_name: Ria Luisa
-last_name: Concepcion-Nicolas
-gender: Female
+gender_rank: 35
+bib: 116
+first_name: Kevin
+last_name: O'B
+gender: Male
 country: Philippines
 category: Wk2
 checkpoint2: 
-checkpoint3: 1-12-35
-finish: 1-12-35
+checkpoint3: 0-48-09
+checkpoint4: 
+finish: 0-48-09
 --- 

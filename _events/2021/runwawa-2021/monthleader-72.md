@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 72
 overall_rank: 72
-gender_rank: 35
-bib: 72
-first_name: Ferdi
-last_name: Muro
+gender_rank: 34
+bib: 117
+first_name: Griffin
+last_name: O'B
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 1-10-31
-checkpoint3: 
-finish: 1-10-31
+category: Wk2
+checkpoint2: 
+checkpoint3: 0-48-09
+checkpoint4: 
+finish: 0-48-09
 --- 

@@ -5,14 +5,15 @@ category_km: week1
 event-title: Run for Wawa 
 event-location: Philippines 
 event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/2021/i-ran-wawa-logo_syijlo.jpg 
-event-date: 2021-02-01 
-overall_rank: 8
-gender_rank: 5
-bib: 81
-first_name: Edwin
-last_name: Fernandez
+event-date: 2021-02-01
+runnercount: 81
+overall_rank: 999
+gender_rank: 999
+bib: 36
+first_name: Marlon
+last_name: Marcelo
 gender: Male
-country: Philippines
+country: United States
 category: 5K
-finish: 0-25-43
+finish: 
 --- 

@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 37
 overall_rank: 37
 gender_rank: 19
-bib: 69
-first_name: Noreen
-last_name: Abias
+bib: 4
+first_name: Editha
+last_name: Godez
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-34-26
+checkpoint2: 0-33-25
 checkpoint3: 
-finish: 0-34-26
+checkpoint4: 
+finish: 0-33-25
 --- 

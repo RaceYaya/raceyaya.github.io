@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 11
 overall_rank: 11
 gender_rank: 7
-bib: 114
-first_name: John Gabriel
-last_name: Daos
+bib: 99
+first_name: Harold
+last_name: Mapua
 gender: Male
 country: Philippines
 category: Wk2
 checkpoint2: 
-checkpoint3: 0-26-24
-finish: 0-26-24
+checkpoint3: 0-26-18
+checkpoint4: 
+finish: 0-26-18
 --- 

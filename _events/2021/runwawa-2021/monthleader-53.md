@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 53
 overall_rank: 53
-gender_rank: 26
-bib: 39
-first_name: Owen
-last_name: dela Paz
-gender: Male
+gender_rank: 29
+bib: 38
+first_name: Ana
+last_name: Cabanban
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-42-19
+checkpoint2: 0-40-17
 checkpoint3: 
-finish: 0-42-19
+checkpoint4: 
+finish: 0-40-17
 --- 

@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 29
 overall_rank: 29
-gender_rank: 16
-bib: 12
-first_name: Patrick Hervic
-last_name: Aquino
+gender_rank: 15
+bib: 18
+first_name: Beef
+last_name: Co
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-32-15
+checkpoint2: 0-30-47
 checkpoint3: 
-finish: 0-32-15
+checkpoint4: 
+finish: 0-30-47
 --- 

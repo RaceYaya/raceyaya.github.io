@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 57
 overall_rank: 57
-gender_rank: 27
-bib: 73
-first_name: James
-last_name: Rosca
+gender_rank: 28
+bib: 131
+first_name: Jeff
+last_name: Diesta
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-43-00
+category: 
+checkpoint2: 
 checkpoint3: 
-finish: 0-43-00
+checkpoint4: 0-41-18
+finish: 0-41-18
 --- 

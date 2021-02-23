@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 14
 overall_rank: 14
-gender_rank: 7
-bib: 112
-first_name: Yola
-last_name: Martirez
+gender_rank: 6
+bib: 132
+first_name: Catherine
+last_name: Vinuya
 gender: Female
 country: Philippines
-category: Wk2
+category: 
 checkpoint2: 
-checkpoint3: 0-28-05
-finish: 0-28-05
+checkpoint3: 
+checkpoint4: 0-26-48
+finish: 0-26-48
 --- 

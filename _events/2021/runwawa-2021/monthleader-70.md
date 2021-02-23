@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 70
 overall_rank: 70
-gender_rank: 34
-bib: 3
-first_name: James
-last_name: Papa
+gender_rank: 33
+bib: 135
+first_name: Justin
+last_name: Calingasan
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 1-05-50
+category: 
+checkpoint2: 
 checkpoint3: 
-finish: 1-05-50
+checkpoint4: 0-47-42
+finish: 0-47-42
 --- 

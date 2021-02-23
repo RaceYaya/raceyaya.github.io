@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 45
 overall_rank: 45
-gender_rank: 24
-bib: 51
-first_name: Jenn
-last_name: Cayanan
+gender_rank: 23
+bib: 64
+first_name: Diwa
+last_name: Tiongson-Rodil
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-39-08
+checkpoint2: 0-35-19
 checkpoint3: 
-finish: 0-39-08
+checkpoint4: 0-34-43
+finish: 0-35-19
 --- 

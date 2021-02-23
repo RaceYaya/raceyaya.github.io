@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 26
 overall_rank: 26
-gender_rank: 14
-bib: 18
-first_name: Beef
-last_name: Co
-gender: Male
+gender_rank: 12
+bib: 58
+first_name: Chiara
+last_name: Tolentino
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-30-47
+checkpoint2: 0-30-09
 checkpoint3: 
-finish: 0-30-47
+checkpoint4: 
+finish: 0-30-09
 --- 

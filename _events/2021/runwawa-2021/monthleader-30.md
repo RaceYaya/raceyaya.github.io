@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 30
 overall_rank: 30
-gender_rank: 14
-bib: 41
-first_name: Ro
-last_name: Jervoso
-gender: Female
+gender_rank: 16
+bib: 14
+first_name: Anthony
+last_name: Cortez
+gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-32-15
-checkpoint3: 
-finish: 0-32-15
+checkpoint2: 0-30-59
+checkpoint3: 0-32-20
+checkpoint4: 0-34-22
+finish: 0-30-59
 --- 

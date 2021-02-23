@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 17
 overall_rank: 17
-gender_rank: 10
-bib: 119
-first_name: William
-last_name: Vicera
+gender_rank: 9
+bib: 108
+first_name: Irwin Sikatuna
+last_name: Gutierrez
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-28-47
-checkpoint3: 
-finish: 0-28-47
+category: Wk2
+checkpoint2: 0-30-13
+checkpoint3: 0-30-05
+checkpoint4: 0-27-44
+finish: 0-27-44
 --- 

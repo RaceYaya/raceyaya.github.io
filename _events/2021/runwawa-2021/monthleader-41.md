@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 41
 overall_rank: 41
-gender_rank: 22
-bib: 79
-first_name: Kat
-last_name: Patawaran
+gender_rank: 21
+bib: 69
+first_name: Noreen
+last_name: Abias
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-35-41
+checkpoint2: 0-34-26
 checkpoint3: 
-finish: 0-35-41
+checkpoint4: 
+finish: 0-34-26
 --- 

@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 46
 overall_rank: 46
-gender_rank: 25
-bib: 109
-first_name: Antoinette
-last_name: Anastacio
+gender_rank: 24
+bib: 79
+first_name: Kat
+last_name: Patawaran
 gender: Female
 country: Philippines
-category: Wk2
-checkpoint2: 
-checkpoint3: 0-40-00
-finish: 0-40-00
+category: Wk1
+checkpoint2: 0-35-41
+checkpoint3: 
+checkpoint4: 
+finish: 0-35-41
 --- 

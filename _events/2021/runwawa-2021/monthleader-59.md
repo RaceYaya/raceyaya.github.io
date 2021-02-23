@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 59
 overall_rank: 59
-gender_rank: 32
-bib: 61
-first_name: Christel
-last_name: Mendoza
-gender: Female
+gender_rank: 29
+bib: 63
+first_name: Nestor
+last_name: Ferrer Jr.
+gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-45-55
+checkpoint2: 0-42-14
 checkpoint3: 
-finish: 0-45-55
+checkpoint4: 
+finish: 0-42-14
 --- 

@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 38
 overall_rank: 38
 gender_rank: 19
-bib: 8
-first_name: Rhett
-last_name: Del Rosario
+bib: 115
+first_name: Kalayaan
+last_name: Magno
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-34-27
-checkpoint3: 
-finish: 0-34-27
+category: Wk2
+checkpoint2: 
+checkpoint3: 0-34-04
+checkpoint4: 
+finish: 0-34-04
 --- 

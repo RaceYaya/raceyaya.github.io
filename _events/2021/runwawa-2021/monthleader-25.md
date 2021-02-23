@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 25
 overall_rank: 25
-gender_rank: 12
-bib: 54
-first_name: Bea
-last_name: Azcuna
+gender_rank: 11
+bib: 53
+first_name: Melan
+last_name: Marquez
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-30-41
+checkpoint2: 0-30-06
 checkpoint3: 
-finish: 0-30-41
+checkpoint4: 
+finish: 0-30-06
 --- 

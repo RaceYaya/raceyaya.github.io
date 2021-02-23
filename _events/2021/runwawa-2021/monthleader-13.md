@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 13
 overall_rank: 13
-gender_rank: 6
-bib: 32
-first_name: Del
-last_name: Villanueva
-gender: Female
+gender_rank: 8
+bib: 114
+first_name: John Gabriel
+last_name: Daos
+gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-27-50
-checkpoint3: 
-finish: 0-27-50
+category: Wk2
+checkpoint2: 
+checkpoint3: 0-26-24
+checkpoint4: 
+finish: 0-26-24
 --- 

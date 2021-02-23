@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 27
 overall_rank: 27
-gender_rank: 15
-bib: 14
-first_name: Anthony
-last_name: Cortez
-gender: Male
+gender_rank: 13
+bib: 95
+first_name: Gabbey
+last_name: Rodil
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-30-59
-checkpoint3: 0-32-20
-finish: 0-30-59
+checkpoint2: 0-30-35
+checkpoint3: 
+checkpoint4: 
+finish: 0-30-35
 --- 

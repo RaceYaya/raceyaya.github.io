@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 12
 overall_rank: 12
 gender_rank: 5
-bib: 98
-first_name: Eunice
-last_name: Brit
+bib: 118
+first_name: Iya
+last_name: Gozum
 gender: Female
 country: Philippines
-category: Wk2
+category: 
 checkpoint2: 
-checkpoint3: 0-27-16
-finish: 0-27-16
+checkpoint3: 
+checkpoint4: 0-26-21
+finish: 0-26-21
 --- 

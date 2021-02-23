@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 67
 overall_rank: 67
-gender_rank: 36
-bib: 82
-first_name: Joanna
-last_name: Gari
+gender_rank: 35
+bib: 141
+first_name: Elaine
+last_name: Pore
 gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-52-50
+category: 
+checkpoint2: 
 checkpoint3: 
-finish: 0-52-50
+checkpoint4: 0-45-27
+finish: 0-45-27
 --- 

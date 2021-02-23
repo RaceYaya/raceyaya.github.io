@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 24
 overall_rank: 24
-gender_rank: 11
-bib: 95
-first_name: Gabbey
-last_name: Rodil
-gender: Female
+gender_rank: 14
+bib: 113
+first_name: Charlie
+last_name: Recto
+gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-30-35
-checkpoint3: 
-finish: 0-30-35
+category: Wk2
+checkpoint2: 
+checkpoint3: 0-30-01
+checkpoint4: 0-30-01
+finish: 0-30-01
 --- 

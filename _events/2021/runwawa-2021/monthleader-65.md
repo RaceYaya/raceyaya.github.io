@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 65
 overall_rank: 65
-gender_rank: 35
-bib: 85
-first_name: Cathy
-last_name: Donato
-gender: Female
+gender_rank: 32
+bib: 126
+first_name: Jose Mari
+last_name: Ramos
+gender: Male
 country: Philippines
-category: Wk2
+category: 
 checkpoint2: 
-checkpoint3: 0-50-32
-finish: 0-50-32
+checkpoint3: 
+checkpoint4: 0-45-00
+finish: 0-45-00
 --- 

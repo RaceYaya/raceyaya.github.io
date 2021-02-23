@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 47
 overall_rank: 47
-gender_rank: 26
-bib: 38
-first_name: Ana
-last_name: Cabanban
+gender_rank: 25
+bib: 143
+first_name: Lovely
+last_name: Camino
 gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-40-17
+category: 
+checkpoint2: 
 checkpoint3: 
-finish: 0-40-17
+checkpoint4: 0-37-05
+finish: 0-37-05
 --- 

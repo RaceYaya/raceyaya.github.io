@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 16
 overall_rank: 16
-gender_rank: 9
-bib: 33
-first_name: Jaybie
-last_name: de Guzman
-gender: Male
+gender_rank: 8
+bib: 98
+first_name: Eunice
+last_name: Brit
+gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-28-13
-checkpoint3: 
-finish: 0-28-13
+category: Wk2
+checkpoint2: 
+checkpoint3: 0-27-16
+checkpoint4: 
+finish: 0-27-16
 --- 

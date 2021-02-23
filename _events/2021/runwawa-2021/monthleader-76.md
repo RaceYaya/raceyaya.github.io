@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 76
 overall_rank: 76
 gender_rank: 37
-bib: 91
-first_name: Carey
-last_name: Pornillos
+bib: 71
+first_name: Running
+last_name: Adobo aka Rex
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 1-50-00
+checkpoint2: 0-50-41
 checkpoint3: 
-finish: 1-50-00
+checkpoint4: 
+finish: 0-50-41
 --- 

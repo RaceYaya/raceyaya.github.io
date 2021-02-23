@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 2
 overall_rank: 2
 gender_rank: 2
-bib: 22
-first_name: kyle
-last_name: antolin
+bib: 52
+first_name: Chris
+last_name: Zarate
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-20-17
-checkpoint3: 
-finish: 0-20-17
+checkpoint2: 0-19-41
+checkpoint3: 19-20.0
+checkpoint4: 0-19-59
+finish: 19-20.0
 --- 

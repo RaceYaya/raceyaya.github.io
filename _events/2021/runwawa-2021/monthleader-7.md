@@ -8,15 +8,18 @@ event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/20
 event-date: 2021-02-01 
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
+checkpoint-name4: Week 3 
+runnercount: 7
 overall_rank: 7
-gender_rank: 3
-bib: 65
-first_name: Jocel
-last_name: LaÃ±as - Pangan
+gender_rank: 2
+bib: 85
+first_name: Patricia Anne
+last_name: Castillo
 gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-24-48
-checkpoint3: 
-finish: 0-24-48
+category: Wk2
+checkpoint2: 0-24-43
+checkpoint3: 0-24-24
+checkpoint4: 0-24-19
+finish: 0-24-24
 --- 
