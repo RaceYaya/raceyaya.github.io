@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 69
 overall_rank: 69
-gender_rank: 37
-bib: 42
-first_name: Elainne
-last_name: Lopez
+gender_rank: 35
+bib_number: 51
+first_name: Jenn
+last_name: Cayanan
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-46-18
+checkpoint2: 0-39-08
 checkpoint3: 
 checkpoint4: 
-finish: 0-46-18
+checkpoint5: 
+finish: 0-39-08
 --- 

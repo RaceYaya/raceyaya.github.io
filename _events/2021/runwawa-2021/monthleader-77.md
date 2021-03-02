@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 77
 overall_rank: 77
-gender_rank: 40
-bib: 82
-first_name: Joanna
-last_name: Gari
-gender: Female
+gender_rank: 38
+bib_number: 188
+first_name: Aldrin
+last_name: Garcia
+gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-52-50
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-52-50
+checkpoint5: 0-41-59
+finish: 0-41-59
 --- 

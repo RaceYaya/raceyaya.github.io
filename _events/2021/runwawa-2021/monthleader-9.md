@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 9
 overall_rank: 9
-gender_rank: 4
-bib: 106
-first_name: Janelle
-last_name: Malaya
+gender_rank: 1
+bib_number: 112
+first_name: Yola
+last_name: Martirez
 gender: Female
 country: Philippines
 category: Wk2
 checkpoint2: 
-checkpoint3: 0-25-20
-checkpoint4: 
-finish: 0-25-20
+checkpoint3: 0-28-05
+checkpoint4: 0-26-53
+checkpoint5: 0-23-44
+finish: 0-23-44
 --- 

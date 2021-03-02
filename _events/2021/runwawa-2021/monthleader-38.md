@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 38
 overall_rank: 38
-gender_rank: 19
-bib: 115
-first_name: Kalayaan
-last_name: Magno
-gender: Male
+gender_rank: 15
+bib_number: 5
+first_name: Christine
+last_name: Ferrera
+gender: Female
 country: Philippines
-category: Wk2
-checkpoint2: 
-checkpoint3: 0-34-04
+category: Wk1
+checkpoint2: 0-31-12
+checkpoint3: 
 checkpoint4: 
-finish: 0-34-04
+checkpoint5: 
+finish: 0-31-12
 --- 

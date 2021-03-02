@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 87
 overall_rank: 87
 gender_rank: 44
-bib: 145
-first_name: Christel
-last_name: Manalo
+bib_number: 78
+first_name: Ma. Karen
+last_name: Alcantara
 gender: Female
 country: Philippines
-category: 
-checkpoint2: 
+category: Wk1
+checkpoint2: 0-45-19
 checkpoint3: 
-checkpoint4: 1-18-00
-finish: 1-18-00
+checkpoint4: 
+checkpoint5: 
+finish: 0-45-19
 --- 

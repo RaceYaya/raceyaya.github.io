@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 91
 overall_rank: 91
-gender_rank: 46
-bib: 92
-first_name: Paula
-last_name: Bernardo
-gender: Female
+gender_rank: 44
+bib_number: 135
+first_name: Justin
+last_name: Calingasan
+gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 4-12-00
+category: 
+checkpoint2: 
 checkpoint3: 
-checkpoint4: 
-finish: 4-12-00
+checkpoint4: 0-47-42
+checkpoint5: 
+finish: 0-47-42
 --- 

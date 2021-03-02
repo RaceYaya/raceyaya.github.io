@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 63
 overall_rank: 63
-gender_rank: 33
-bib: 43
-first_name: Lis
-last_name: Mallari
+gender_rank: 30
+bib_number: 197
+first_name: Bing
+last_name: E.
 gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-42-57
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-42-57
+checkpoint5: 0-36-18
+finish: 0-36-18
 --- 

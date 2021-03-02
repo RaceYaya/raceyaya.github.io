@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 18
 overall_rank: 18
-gender_rank: 9
-bib: 32
-first_name: Del
-last_name: Villanueva
+gender_rank: 7
+bib_number: 132
+first_name: Catherine
+last_name: Vinuya
 gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-27-50
+category: 
+checkpoint2: 
 checkpoint3: 
-checkpoint4: 
-finish: 0-27-50
+checkpoint4: 0-26-48
+checkpoint5: 0-27-55
+finish: 0-26-48
 --- 

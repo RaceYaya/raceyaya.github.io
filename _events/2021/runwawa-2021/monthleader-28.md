@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 28
 overall_rank: 28
-gender_rank: 14
-bib: 54
-first_name: Bea
-last_name: Azcuna
-gender: Female
+gender_rank: 19
+bib_number: 161
+first_name: Edgar John
+last_name: NaÃ±es
+gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-30-41
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-30-41
+checkpoint5: 0-28-49
+finish: 0-28-49
 --- 

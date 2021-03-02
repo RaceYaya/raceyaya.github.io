@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 67
 overall_rank: 67
-gender_rank: 35
-bib: 141
-first_name: Elaine
-last_name: Pore
+gender_rank: 33
+bib_number: 168
+first_name: Rachel
+last_name: Guerrero
 gender: Female
 country: Philippines
-category: 
+category: 5K
 checkpoint2: 
 checkpoint3: 
-checkpoint4: 0-45-27
-finish: 0-45-27
+checkpoint4: 
+checkpoint5: 0-38-03
+finish: 0-38-03
 --- 

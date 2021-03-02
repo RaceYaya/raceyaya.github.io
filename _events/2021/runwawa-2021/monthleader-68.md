@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 68
 overall_rank: 68
-gender_rank: 36
-bib: 61
-first_name: Christel
-last_name: Mendoza
+gender_rank: 34
+bib_number: 68
+first_name: April
+last_name: Peoro
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-45-55
+checkpoint2: 0-38-50
 checkpoint3: 
 checkpoint4: 
-finish: 0-45-55
+checkpoint5: 
+finish: 0-38-50
 --- 

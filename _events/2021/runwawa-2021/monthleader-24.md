@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 24
 overall_rank: 24
-gender_rank: 14
-bib: 113
-first_name: Charlie
-last_name: Recto
+gender_rank: 15
+bib_number: 33
+first_name: Jaybie
+last_name: de Guzman
 gender: Male
 country: Philippines
-category: Wk2
-checkpoint2: 
-checkpoint3: 0-30-01
-checkpoint4: 0-30-01
-finish: 0-30-01
+category: Wk1
+checkpoint2: 0-28-13
+checkpoint3: 
+checkpoint4: 0-28-13
+checkpoint5: 
+finish: 0-28-13
 --- 

@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 49
 overall_rank: 49
-gender_rank: 24
-bib: 107
-first_name: John Paul
-last_name: Pardo
+gender_rank: 26
+bib_number: 160
+first_name: Marc
+last_name: Camposagrado
 gender: Male
 country: Philippines
-category: Wk2
+category: 5K
 checkpoint2: 
-checkpoint3: 0-38-42
+checkpoint3: 
 checkpoint4: 
-finish: 0-38-42
+checkpoint5: 0-33-29
+finish: 0-33-29
 --- 

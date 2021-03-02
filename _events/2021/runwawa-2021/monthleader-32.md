@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 32
 overall_rank: 32
-gender_rank: 17
-bib: 12
-first_name: Patrick Hervic
-last_name: Aquino
-gender: Male
+gender_rank: 11
+bib_number: 53
+first_name: Melan
+last_name: Marquez
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-32-15
+checkpoint2: 0-30-06
 checkpoint3: 
 checkpoint4: 
-finish: 0-32-15
+checkpoint5: 
+finish: 0-30-06
 --- 

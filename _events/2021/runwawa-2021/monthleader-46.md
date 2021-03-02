@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 46
 overall_rank: 46
-gender_rank: 24
-bib: 79
-first_name: Kat
-last_name: Patawaran
+gender_rank: 21
+bib_number: 152
+first_name: hasmin
+last_name: caparuzo
 gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-35-41
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-35-41
+checkpoint5: 0-32-55
+finish: 0-32-55
 --- 

@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 84
 overall_rank: 84
 gender_rank: 42
-bib: 47
-first_name: Alona
-last_name: Dacanay
-gender: Female
+bib_number: 73
+first_name: James
+last_name: Rosca
+gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 1-06-41
+checkpoint2: 0-43-00
 checkpoint3: 
 checkpoint4: 
-finish: 1-06-41
+checkpoint5: 
+finish: 0-43-00
 --- 

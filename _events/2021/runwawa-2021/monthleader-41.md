@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 41
 overall_rank: 41
-gender_rank: 21
-bib: 69
-first_name: Noreen
-last_name: Abias
+gender_rank: 18
+bib_number: 41
+first_name: Ro
+last_name: Jervoso
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-34-26
+checkpoint2: 0-32-15
 checkpoint3: 
 checkpoint4: 
-finish: 0-34-26
+checkpoint5: 
+finish: 0-32-15
 --- 

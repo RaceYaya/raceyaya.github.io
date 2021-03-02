@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 6
 overall_rank: 6
-gender_rank: 1
-bib: 13
-first_name: Jocelyn
-last_name: Elijeran
-gender: Female
+gender_rank: 6
+bib_number: 21
+first_name: sean
+last_name: andan
+gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-24-04
+checkpoint2: 0-21-41
 checkpoint3: 
 checkpoint4: 
-finish: 0-24-04
+checkpoint5: 
+finish: 0-21-41
 --- 

@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 40
 overall_rank: 40
-gender_rank: 20
-bib: 34
-first_name: Patzxch
-last_name: Ferrera
+gender_rank: 17
+bib_number: 199
+first_name: Hazel
+last_name: Pespes
 gender: Female
 country: Philippines
-category: Wk2
+category: 5K
 checkpoint2: 
-checkpoint3: 0-34-21
+checkpoint3: 
 checkpoint4: 
-finish: 0-34-21
+checkpoint5: 0-31-55
+finish: 0-31-55
 --- 

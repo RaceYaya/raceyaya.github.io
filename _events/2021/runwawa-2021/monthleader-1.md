@@ -9,10 +9,11 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 1
 overall_rank: 1
 gender_rank: 1
-bib: 137
+bib_number: 137
 first_name: Jeffrey
 last_name: Reginio
 gender: Male
@@ -21,5 +22,6 @@ category:
 checkpoint2: 
 checkpoint3: 
 checkpoint4: 0-18-17
+checkpoint5: 
 finish: 0-18-17
 --- 

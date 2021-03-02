@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 88
 overall_rank: 88
 gender_rank: 45
-bib: 27
-first_name: Mitch
-last_name: Papa
+bib_number: 141
+first_name: Elaine
+last_name: Pore
 gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 1-25-43
+category: 
+checkpoint2: 
 checkpoint3: 
-checkpoint4: 
-finish: 1-25-43
+checkpoint4: 0-45-27
+checkpoint5: 
+finish: 0-45-27
 --- 

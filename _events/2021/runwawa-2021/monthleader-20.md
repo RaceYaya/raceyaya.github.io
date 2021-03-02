@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 20
 overall_rank: 20
-gender_rank: 11
-bib: 33
-first_name: Jaybie
-last_name: de Guzman
+gender_rank: 13
+bib_number: 108
+first_name: Irwin Sikatuna
+last_name: Gutierrez
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-28-13
-checkpoint3: 
-checkpoint4: 0-28-13
-finish: 0-28-13
+category: Wk2
+checkpoint2: 0-30-13
+checkpoint3: 0-30-05
+checkpoint4: 0-27-44
+checkpoint5: 0-27-10
+finish: 0-27-10
 --- 

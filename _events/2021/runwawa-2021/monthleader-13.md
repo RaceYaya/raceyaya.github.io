@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 13
 overall_rank: 13
-gender_rank: 8
-bib: 114
-first_name: John Gabriel
-last_name: Daos
-gender: Male
+gender_rank: 5
+bib_number: 106
+first_name: Janelle
+last_name: Malaya
+gender: Female
 country: Philippines
 category: Wk2
 checkpoint2: 
-checkpoint3: 0-26-24
+checkpoint3: 0-25-20
 checkpoint4: 
-finish: 0-26-24
+checkpoint5: 
+finish: 0-25-20
 --- 

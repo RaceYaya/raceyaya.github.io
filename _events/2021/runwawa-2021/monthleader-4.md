@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 4
 overall_rank: 4
 gender_rank: 4
-bib: 21
-first_name: sean
-last_name: andan
+bib_number: 52
+first_name: Chris
+last_name: Zarate
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-21-41
-checkpoint3: 
-checkpoint4: 
-finish: 0-21-41
+checkpoint2: 0-19-41
+checkpoint3: 0-19-20
+checkpoint4: 0-19-59
+checkpoint5: 0-19-46
+finish: 0-19-20
 --- 

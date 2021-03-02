@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 14
 overall_rank: 14
-gender_rank: 6
-bib: 132
-first_name: Catherine
-last_name: Vinuya
-gender: Female
+gender_rank: 9
+bib_number: 81
+first_name: Edwin
+last_name: Fernandez
+gender: Male
 country: Philippines
-category: 
-checkpoint2: 
+category: Wk1
+checkpoint2: 0-25-43
 checkpoint3: 
-checkpoint4: 0-26-48
-finish: 0-26-48
+checkpoint4: 
+checkpoint5: 
+finish: 0-25-43
 --- 

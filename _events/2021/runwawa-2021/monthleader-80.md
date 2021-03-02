@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 80
 overall_rank: 80
-gender_rank: 40
-bib: 35
-first_name: Jose Mari
-last_name: Daclan
+gender_rank: 41
+bib_number: 39
+first_name: Owen
+last_name: dela Paz
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 1-02-38
+checkpoint2: 0-42-19
 checkpoint3: 
 checkpoint4: 
-finish: 1-02-38
+checkpoint5: 
+finish: 0-42-19
 --- 

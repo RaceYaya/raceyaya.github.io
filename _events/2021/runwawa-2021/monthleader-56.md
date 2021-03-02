@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 56
 overall_rank: 56
-gender_rank: 27
-bib: 9
-first_name: John Paul
-last_name: Pardo
-gender: Male
+gender_rank: 26
+bib_number: 69
+first_name: Noreen
+last_name: Abias
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-40-45
+checkpoint2: 0-34-26
 checkpoint3: 
 checkpoint4: 
-finish: 0-40-45
+checkpoint5: 
+finish: 0-34-26
 --- 

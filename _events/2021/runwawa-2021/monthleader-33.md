@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 33
 overall_rank: 33
-gender_rank: 16
-bib: 41
-first_name: Ro
-last_name: Jervoso
+gender_rank: 12
+bib_number: 58
+first_name: Chiara
+last_name: Tolentino
 gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-32-15
+checkpoint2: 0-30-09
 checkpoint3: 
 checkpoint4: 
-finish: 0-32-15
+checkpoint5: 
+finish: 0-30-09
 --- 

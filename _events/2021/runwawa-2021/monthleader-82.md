@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 82
 overall_rank: 82
 gender_rank: 41
-bib: 3
-first_name: James
-last_name: Papa
-gender: Male
+bib_number: 77
+first_name: Gleeza
+last_name: Manulat
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 1-05-50
+checkpoint2: 0-42-31
 checkpoint3: 
 checkpoint4: 
-finish: 1-05-50
+checkpoint5: 
+finish: 0-42-31
 --- 

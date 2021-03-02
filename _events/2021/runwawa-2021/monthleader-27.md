@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 27
 overall_rank: 27
-gender_rank: 13
-bib: 95
-first_name: Gabbey
-last_name: Rodil
-gender: Female
+gender_rank: 18
+bib_number: 202
+first_name: Dionam
+last_name: Basco
+gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-30-35
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-30-35
+checkpoint5: 0-28-47
+finish: 0-28-47
 --- 

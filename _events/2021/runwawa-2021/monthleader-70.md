@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 70
 overall_rank: 70
-gender_rank: 33
-bib: 135
-first_name: Justin
-last_name: Calingasan
-gender: Male
+gender_rank: 36
+bib_number: 109
+first_name: Antoinette
+last_name: Anastacio
+gender: Female
 country: Philippines
-category: 
+category: Wk2
 checkpoint2: 
-checkpoint3: 
-checkpoint4: 0-47-42
-finish: 0-47-42
+checkpoint3: 0-40-00
+checkpoint4: 
+checkpoint5: 
+finish: 0-40-00
 --- 

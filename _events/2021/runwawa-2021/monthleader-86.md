@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 86
 overall_rank: 86
 gender_rank: 43
-bib: 111
-first_name: Ria Luisa
-last_name: Concepcion-Nicolas
-gender: Female
+bib_number: 126
+first_name: Jose Mari
+last_name: Ramos
+gender: Male
 country: Philippines
-category: Wk2
+category: 
 checkpoint2: 
-checkpoint3: 1-12-35
-checkpoint4: 
-finish: 1-12-35
+checkpoint3: 
+checkpoint4: 0-45-00
+checkpoint5: 
+finish: 0-45-00
 --- 

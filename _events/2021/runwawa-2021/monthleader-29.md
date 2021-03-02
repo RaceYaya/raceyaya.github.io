@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 29
 overall_rank: 29
-gender_rank: 15
-bib: 18
-first_name: Beef
-last_name: Co
+gender_rank: 20
+bib_number: 45
+first_name: Joshua
+last_name: Pangilinan
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-30-47
+checkpoint2: 0-29-05
 checkpoint3: 
 checkpoint4: 
-finish: 0-30-47
+checkpoint5: 
+finish: 0-29-05
 --- 

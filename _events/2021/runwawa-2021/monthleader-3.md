@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 3
 overall_rank: 3
 gender_rank: 3
-bib: 22
-first_name: kyle
-last_name: antolin
+bib_number: 180
+first_name: Kevin
+last_name: Tan
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-20-17
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-20-17
+checkpoint5: 0-19-17
+finish: 0-19-17
 --- 

@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 36
 overall_rank: 36
-gender_rank: 18
-bib: 62
-first_name: Ley
-last_name: Tenorio
-gender: Female
+gender_rank: 22
+bib_number: 18
+first_name: Beef
+last_name: Co
+gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-33-09
+checkpoint2: 0-30-47
 checkpoint3: 
 checkpoint4: 
-finish: 0-33-09
+checkpoint5: 
+finish: 0-30-47
 --- 

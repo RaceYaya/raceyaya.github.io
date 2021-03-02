@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 50
 overall_rank: 50
-gender_rank: 26
-bib: 68
-first_name: April
-last_name: Peoro
-gender: Female
+gender_rank: 27
+bib_number: 173
+first_name: Chips
+last_name: Dayrit
+gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-38-50
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-38-50
+checkpoint5: 0-33-30
+finish: 0-33-30
 --- 

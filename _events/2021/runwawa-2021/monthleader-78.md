@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 78
 overall_rank: 78
-gender_rank: 38
-bib: 67
-first_name: Joross
-last_name: de Vera
+gender_rank: 39
+bib_number: 198
+first_name: Juan Paolo
+last_name: Pandaraoan
 gender: Male
 country: Philippines
-category: Wk1
-checkpoint2: 0-58-54
+category: 5K
+checkpoint2: 
 checkpoint3: 
 checkpoint4: 
-finish: 0-58-54
+checkpoint5: 0-42-05
+finish: 0-42-05
 --- 

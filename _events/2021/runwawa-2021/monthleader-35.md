@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 35
 overall_rank: 35
-gender_rank: 18
-bib: 57
-first_name: Arnel
-last_name: Sanchez
-gender: Male
+gender_rank: 14
+bib_number: 54
+first_name: Bea
+last_name: Azcuna
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-32-29
+checkpoint2: 0-30-41
 checkpoint3: 
 checkpoint4: 
-finish: 0-32-29
+checkpoint5: 
+finish: 0-30-41
 --- 

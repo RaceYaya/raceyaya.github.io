@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 16
 overall_rank: 16
-gender_rank: 8
-bib: 98
-first_name: Eunice
-last_name: Brit
+gender_rank: 6
+bib_number: 118
+first_name: Iya
+last_name: Gozum
 gender: Female
 country: Philippines
-category: Wk2
+category: 
 checkpoint2: 
-checkpoint3: 0-27-16
-checkpoint4: 
-finish: 0-27-16
+checkpoint3: 
+checkpoint4: 0-26-21
+checkpoint5: 
+finish: 0-26-21
 --- 

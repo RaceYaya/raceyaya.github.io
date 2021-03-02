@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 7
 overall_rank: 7
-gender_rank: 2
-bib: 85
-first_name: Patricia Anne
-last_name: Castillo
-gender: Female
+gender_rank: 7
+bib_number: 11
+first_name: Thumbie
+last_name: Remigio
+gender: Male
 country: Philippines
-category: Wk2
-checkpoint2: 0-24-43
-checkpoint3: 0-24-24
-checkpoint4: 0-24-19
-finish: 0-24-24
+category: Wk1
+checkpoint2: 0-22-05
+checkpoint3: 
+checkpoint4: 
+checkpoint5: 
+finish: 0-22-05
 --- 

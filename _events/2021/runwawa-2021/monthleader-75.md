@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 75
 overall_rank: 75
-gender_rank: 39
-bib: 85
-first_name: Cathy
-last_name: Donato
-gender: Female
+gender_rank: 37
+bib_number: 131
+first_name: Jeff
+last_name: Diesta
+gender: Male
 country: Philippines
-category: Wk2
+category: 
 checkpoint2: 
-checkpoint3: 0-50-32
-checkpoint4: 
-finish: 0-50-32
+checkpoint3: 
+checkpoint4: 0-41-18
+checkpoint5: 
+finish: 0-41-18
 --- 

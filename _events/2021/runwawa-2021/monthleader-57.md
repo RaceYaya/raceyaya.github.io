@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 57
 overall_rank: 57
-gender_rank: 28
-bib: 131
-first_name: Jeff
-last_name: Diesta
+gender_rank: 31
+bib_number: 8
+first_name: Rhett
+last_name: Del Rosario
 gender: Male
 country: Philippines
-category: 
-checkpoint2: 
+category: Wk1
+checkpoint2: 0-34-27
 checkpoint3: 
-checkpoint4: 0-41-18
-finish: 0-41-18
+checkpoint4: 
+checkpoint5: 
+finish: 0-34-27
 --- 

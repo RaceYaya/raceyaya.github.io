@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 39
 overall_rank: 39
-gender_rank: 20
-bib: 154
-first_name: Johnny
-last_name: Trasadas
-gender: Male
+gender_rank: 16
+bib_number: 164
+first_name: Guillianne
+last_name: Plaza
+gender: Female
 country: Philippines
-category: 
+category: 5K
 checkpoint2: 
 checkpoint3: 
-checkpoint4: 0-34-08
-finish: 0-34-08
+checkpoint4: 
+checkpoint5: 0-31-45
+finish: 0-31-45
 --- 

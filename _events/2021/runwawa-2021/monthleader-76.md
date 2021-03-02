@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 76
 overall_rank: 76
-gender_rank: 37
-bib: 71
-first_name: Running
-last_name: Adobo aka Rex
-gender: Male
+gender_rank: 39
+bib_number: 44
+first_name: Mary Ann
+last_name: Del Rosario
+gender: Female
 country: Philippines
 category: Wk1
-checkpoint2: 0-50-41
+checkpoint2: 0-41-35
 checkpoint3: 
 checkpoint4: 
-finish: 0-50-41
+checkpoint5: 
+finish: 0-41-35
 --- 

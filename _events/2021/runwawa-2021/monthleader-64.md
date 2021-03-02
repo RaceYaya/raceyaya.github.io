@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 64
 overall_rank: 64
 gender_rank: 31
-bib: 73
-first_name: James
-last_name: Rosca
-gender: Male
+bib_number: 143
+first_name: Lovely
+last_name: Camino
+gender: Female
 country: Philippines
-category: Wk1
-checkpoint2: 0-43-00
+category: 
+checkpoint2: 
 checkpoint3: 
-checkpoint4: 
-finish: 0-43-00
+checkpoint4: 0-37-05
+checkpoint5: 
+finish: 0-37-05
 --- 

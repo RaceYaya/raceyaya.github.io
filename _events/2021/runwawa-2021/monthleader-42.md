@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 42
 overall_rank: 42
-gender_rank: 21
-bib: 8
-first_name: Rhett
-last_name: Del Rosario
+gender_rank: 24
+bib_number: 12
+first_name: Patrick Hervic
+last_name: Aquino
 gender: Male
 country: Philippines
 category: Wk1
-checkpoint2: 0-34-27
+checkpoint2: 0-32-15
 checkpoint3: 
 checkpoint4: 
-finish: 0-34-27
+checkpoint5: 
+finish: 0-32-15
 --- 

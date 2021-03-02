@@ -9,17 +9,19 @@ event-date: 2021-02-01
 checkpoint-name2: Week 1 
 checkpoint-name3: Week 2 
 checkpoint-name4: Week 3 
+checkpoint-name5: Week 4 
 runnercount: 19
 overall_rank: 19
-gender_rank: 10
-bib: 96
-first_name: Edmund
-last_name: Deles
+gender_rank: 12
+bib_number: 196
+first_name: Ariel Arthur
+last_name: Sagaoinit
 gender: Male
 country: Philippines
-category: Wk2
-checkpoint2: 0-51-48
-checkpoint3: 0-28-09
-checkpoint4: 0-43-34
-finish: 0-28-09
+category: 5K
+checkpoint2: 
+checkpoint3: 
+checkpoint4: 
+checkpoint5: 0-26-57
+finish: 0-26-57
 --- 
