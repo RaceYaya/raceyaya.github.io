@@ -2489,6 +2489,25 @@
     - title: Donors
       link: /runwawa2021/donors
 
+- id: 110
+  title: "NINJA BOX - POSF QUALIFIER"
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address: "PHO, Taguig City, Philippines"
+  event-date: 2021-02-27
+  month: February
+  year: 2021
+  event-organizer: 'Philippine Obstacle Sports Federation'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1614821630/logo/2021/NINJA_BOX_POSF_QUALIFIERS_rh9bqm.png
+  timing-solution: "Adrenaline Multisport/RaceYaya"
+  race-categories:
+    - title: Overall
+      link: /posf-2021/overall
+    - title: PARA
+      link: /posf-2021/para
+
 
 
 
