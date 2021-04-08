@@ -2525,6 +2525,23 @@
     - title: 600K
       link: /race-positive-change-2021/600K
 
+- id: 112
+  title: "Run for Positive Change"
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country:
+  address: "Virtual Run"
+  event-date: 2021-04-01
+  month: April
+  year: 2021
+  event-organizer: 'JCI Cauayan'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1617715679/logo/2021/run-for-positive-change_nnfcgq.jpg
+  timing-solution: "Raceyaya"
+  race-categories:
+    - title: '100K / 200K'
+      link: /run-positive-change-2021/200K
+
 
 
 
