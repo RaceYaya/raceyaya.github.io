@@ -2515,17 +2515,17 @@
   city:
   country:
   address: "Virtual Run"
-  event-date: 2021-04-15
+  event-date: 2021-04-01
   month: April
   year: 2021
   event-organizer: 'JCI Cauayan'
-  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1617715679/run-for-positive-change_nnfcgq.jpg
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1617868151/logo/2021/race-for-positive-change_rxrt7d.png
   timing-solution: "Raceyaya"
   race-categories:
-    - title: 200K
-      link: /race-positive-change-2021/200K
     - title: 600K
       link: /race-positive-change-2021/600K
+
+
 
 
 
