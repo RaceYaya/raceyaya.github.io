@@ -2542,6 +2542,23 @@
     - title: '100K / 200K'
       link: /run-positive-change-2021/200K
 
+- id: 113
+  title: "Just Move"
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country:
+  address: "Virtual Workout"
+  event-date: 2021-04-14
+  month: April
+  year: 2021
+  event-organizer: 'Raceyaya'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1618572770/logo/2021/just-move-banner_gd6fn7.png
+  timing-solution: "Raceyaya"
+  race-categories:
+    - title: 'Initial Results'
+      link: /just-move-2021/initial
+
 
 
 
