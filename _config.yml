@@ -44,7 +44,7 @@ exclude:
 
   - _events/2016
   - _events/2017
-  - _events/2018
+#   - _events/2018
   # - _events/2019
   # - _events/2020
 
