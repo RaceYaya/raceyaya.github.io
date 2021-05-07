@@ -42,13 +42,13 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-  - pages/2016
-  - pages/2017
-  - pages/2018
+  #- pages/2016
+  #- pages/2017
+  #- pages/2018
 
-  - _events/2016
-  - _events/2017
-  - _events/2018
+  #- _events/2016
+  #- _events/2017
+  #- _events/2018
   # - _events/2019
   # - _events/2020
 
