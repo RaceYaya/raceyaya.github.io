@@ -13,6 +13,7 @@ plugins:
   - jekyll-include-cache
 
 # Build settings
+incremental: true
 markdown: CommonMark
 commonmark:
   options: ["SMART", "FOOTNOTES"]
@@ -32,7 +33,7 @@ prose:
 
 exclude:
   - .sass-cache/
-  - .jekyll-cache/
+  - .jekyll-cache
   - gemfiles/
   - Gemfile
   - Gemfile.lock
@@ -42,13 +43,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-  - pages/2016
-  - pages/2017
-  - pages/2018
-
-  - _events/2016
-  - _events/2017
-  - _events/2018
   # - _events/2019
   # - _events/2020
 
